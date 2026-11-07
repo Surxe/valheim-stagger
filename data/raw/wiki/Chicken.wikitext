@@ -1,0 +1,46 @@
+{{infobox creature
+| title        = Chicken
+| image 0star  = Chicken.png
+| id           = Chicken
+| location     = 
+| type         = Passive
+| tameable     = Yes
+| health 0star = 10
+| damage 0star = 0
+| abilities    = 
+| immune       = spirit, Stagger
+| stagger      = 
+| faction      = Animal
+}}
+'''Chicken''' are passive creatures that can only appear when an [[Egg]] hatches. They are the infant stage of [[Hen]]s.
+
+==Description==
+Chicken are birds that will grow into a hen.
+
+==Obtaining==
+
+To obtain a chicken, an egg must be placed next to a fire or heat source for 30 minutes. The egg must register as "warm" when hovered over.
+
+Eggs can be purchased from [[Haldor]] for 1500 [[Coins]] after defeating [[Yagluth]]. Alternatively, two fed hens can produce an egg.
+
+Two eggs can sometimes also be found in [[Sealed Tower|Sealed Towers]].
+
+==Drops==
+{{CreatureDrops|stars=0}}
+
+== Notes ==
+* As chickens are tameable animals, they can be directly damaged by players only with a [[Butcher Knife]].
+** However, chickens spawned in via [[Console Commands]] are considered hostile, run away from players, ''can'' be damaged regularly by players, and ''cannot'' be damaged with a butcher knife.
+*** This is the same with other baby animals, such as [[Boar|Boars]] and [[Wolf|Wolves]].
+==See also ==
+*[[Food]]
+*[[Breeding]]
+==Gallery==
+<gallery captionalign="center">
+Chicken1.png|Chicken as seen in-game
+</gallery>
+
+{{Creatures}}
+[[ru:Цыпленок]]
+[[cs:Kuře]]
+[[de:Huhn]]

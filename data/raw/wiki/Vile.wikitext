@@ -1,0 +1,71 @@
+{{Infobox_creature
+| image 0star  = Vile.png
+| trophy       = Vile trophy
+| trophy description = That stare is still frightening...
+| trophy id    = TrophyBjornUndead
+| id           = Unbjorn
+| faction      = Plains
+| location     = [[Plains]]
+| health 0star = 1200
+| damage 0star = 
+* Bite: 20 Slash, 130 Pierce
+* Claws: 130 Slash, 40 Chop
+* Swipe: 120 Slash, 40 chop
+* Swipe combo: 60 Slash, 40 Chop
+* Slam: 150 Blunt, 40 Chop, 40 Pickaxe
+| abilities    = 
+* Bite (4 seconds)
+* Claws (4 seconds)
+* Swipe (4 seconds each for 2 variants)
+* Swipe combo (4 seconds)
+* Slam (12 seconds)
+| weak         = Fire, Spirit
+| resistant    = Frost, Blunt, Pierce, Slash
+| immune       = Poison|stagger=30%}}
+
+'''Viles''' are aggressive creatures found in [[Plains]] during the night. They are a stronger, undead variant of [[Bear]]s.
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Plains]] during the nighttime|limit=1|frequency=1|stars=No}}
+}}
+
+== Behavior ==
+Viles will [[Creature AI#When avoiding fire|avoid fire]], they will run away if they get within 3 meters of a fire source. They will still attack players holding a [[Torch]], but they will alter the attack direction at the last moment, making many attacks miss.
+
+Viles consume [[Blueberries]] on the ground, but they are not [[tameable]]. They do not attack [[Bear]]s despite being in two different enemy [[factions]].
+
+== Attacks and abilities ==
+The Vile shares all of its animations with the [[Bear]].
+
+=== Bite ===
+Lunges forward to bite the player (20 [[Damage types#Slash|Slash]] and 130 [[Damage types#Pierce|Pierce]] damage). This extends 4 meters in a 45-degree horizontal arc and can be used every 4 seconds when within 3 meters of a player.
+
+=== Claws ===
+Stands on their hind legs, bounces forward a little, and slams down to attack (130 [[Damage types#Slash|Slash]] and 40 Tier 0 [[Damage types#Chop|Chop]] damage). This attack has an arched hitbox 5.5 meters long and 45 degrees across horizontally. It can be used every 4 seconds when within 5 meters of a player.
+
+=== Swipe ===
+This attack has two variations, each with its own 4-second cooldown: a swipe with the left claw and a swipe with the right claw (120 [[Damage types#Slash|Slash]] and 40 Tier 0 [[Damage types#Chop|Chop]] damage). This attack extends 5.5 meters out in a 45-degree horizontal arc and can be used within 5 meters of a player.
+
+=== Swipe combo ===
+Chains both the left swipe and the right swipe together (60 [[Damage types#Slash|Slash]] and 40 Tier 0 [[Damage types#Chop|Chop]] damage each hit). This attack extends 5.5 meters out in a 45-degree horizontal arc and can be used within 5 meters of a player.
+
+=== Slam ===
+Looks very similar to the claw attack, but remains stationary instead of bouncing forward and puts slightly more emphasis on their paws instead of claws (150 [[Damage types#Blunt|Blunt]], 40 Tier 0 [[Damage types#Chop|Chop]] and 40 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). Unlike the claw attack, this attack hits in a circular area with a radius of 2.5 meters. This can be used every 12 seconds when within 5 meters of a player.
+
+==Gallery==
+<gallery>
+Vile 1star.png | 1-star Vile, only available by using [[developer console]].
+Vile 2star.png | 2-star Vile, only available by using developer console.
+</gallery>
+
+==Note==
+* [[Bear]]s and Viles regenerate slightly faster than most creatures, recovering full health over 50 minutes instead of 60.
+
+{{CreaturesNav}}
+
+[[ru:Гнилолап]]
+[[cs:Děs]]

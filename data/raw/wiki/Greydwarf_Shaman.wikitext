@@ -1,0 +1,80 @@
+{{infobox creature
+| image 0star   = Greydwarf Shaman.png
+| image 1star   = Greydwarf Shaman 1star.png
+| image 2star   = Greydwarf Shaman 2star.png
+| trophy        = Greydwarf Shaman trophy
+| trophy description =。It may try to come back so be sure to prune any new shoots...
+| trophy id     = TrophyGreydwarfShaman
+| id            = Greydwarf_Shaman
+| location      = 
+[[Black Forest]]
+| health 0star  = 60
+| damage 0star  = 
+* Magic attack: 30 Poison
+* Attack: 14 Slash
+* Heal: 20 Health over 4 seconds
+| health 1star  = 120
+| damage 1star  = 
+* Magic attack: 45 Poison
+* Attack: 21 Slash
+* Heal: 20 Health over 4 seconds
+| health 2star  = 180
+| damage 2star  = 
+* Magic attack: 60 Poison
+* Attack: 28 Slash
+* Heal: 20 Health over 4 seconds
+| abilities     =
+* Magic attack (8 seconds)
+* Attack (2 seconds)
+* Heal (10 seconds)
+| veryweak      = Fire
+| weak          = 
+| resistant     = Poison
+| veryresistant = 
+| immune        = Spirit
+| neutral       = 
+|stagger=33%|faction=Forest}}
+
+'''Greydwarf shamans''' are aggressive [[creatures]] found in [[Black Forest]]s. They are mossy tree-like beings that act primarily as healers in patrols while also possessing the ability to cast a ranged poison attack. 
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Black Forest]] during the nighttime, despawn at dawn|limit=2|frequency=5}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Meadows]] during the nighttime after defeating [[The Elder]], despawn at dawn|limit=1|stars=No}}
+{{spawn row|type=1 [[Spawn points|spawn point]] near small ruins in [[Black Forest]]|frequency=0}}
+{{spawn row|type=Rarely from [[Greydwarf Nest]]s in [[Black Forest]]|limit=3|frequency=12 seconds}}
+{{spawn row|type=During "The forest is moving..." [[Events|event]] before defeating [[The Elder]]|limit=1|frequency=6|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Greydwarf shamans|Aggressive creature strategies#Greydwarf shaman}}
+
+=== Magic attack ===
+<ref>The property file for Magic attack is named <u>Greydwarf_shaman_attack</u> and the regular attack file is shared with the standard greydwarf labelled <u>Greydwarf_attack</u>. For clarity, the animation name for the shaman's unique Attack is used instead.</ref> Creates a 7-meter 35-degree conical blast that inflicts [[Poison]] (30 [[Damage types#Poison|Poison]] damage). This ability can be used every 8 seconds within 2–5 meters of a player, making it possible to disable the attack by standing close. This attack cannot be blocked.
+
+=== Attack ===
+Swings their hand sideways in a 1.7-meter 90-degree horizontal arc to scratch the player (14 [[Damage types#Blunt|Slash]] damage). This attack can be used every 2 seconds when within 1.2 meters of a player.
+
+=== Heal ===
+Lifts both hands up to create a healing mist that heals allies for a total of 20 health, ticking every 0.5 seconds in a 4.32-meter radius around the shaman. However, the effect only lasts for 3.5 seconds, meaning that 17.5 health is healed instead of the full 20.
+
+== Gallery ==
+<gallery widths="185">
+File:Greydwarf Shaman 1star.png|<center>1-star Greydwarf shaman</center>
+File:Greydwarf Shaman 2star.png|<center>2-star Greydwarf shaman</center>
+File:2 Star Greydwarf Shaman.jpg|<center>2-Star Greydwarf shaman using its poison attack</center>
+</gallery>
+
+== Notes ==
+* Whereas ordinary Greydwarf shamans have brown bark flecked with green, One-star Greydwarf shamans have green bark flecked with teal, and Two-stars have blue bark flecked with teal.
+
+{{Creatures}}
+
+[[fr:Chaman Naingris]]
+[[cs:Šaman šedý trpaslík]]
+[[ru:Грейдворф-шаман]]
+[[uk:Сіролюдський шаман]]
+[[de:Grauzwergen Schamane]]

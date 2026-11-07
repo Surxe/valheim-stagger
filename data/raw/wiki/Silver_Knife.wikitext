@@ -1,0 +1,93 @@
+{{infobox weapon
+| title          = Silver Knife
+| image          = Silver Knife.png
+| description    = A savage piece of pain.
+| id             = KnifeSilver
+| type           = Knife
+| source         = [[Forge]]
+| crafting level = 3
+| repair level   = 3
+| pierce         = 25
+| slash          = 25
+| spirit         = 12
+| materials 1 = 
+* [[Wood]] x2
+* [[Silver]] x10
+* [[Leather Scraps]] x3
+* [[Iron]] x2
+| materials 2 = 
+* [[Wood]] x1
+* [[Silver]] x5
+* [[Leather Scraps]] x1
+* [[Iron]] x1
+| materials 3 = 
+* [[Wood]] x2
+* [[Silver]] x10
+* [[Leather Scraps]] x2
+* [[Iron]] x2
+| materials 4 = 
+* [[Wood]] x4
+* [[Silver]] x20
+* [[Leather Scraps]] x4
+* [[Iron]] x4
+| idol           = * [[Silver Battle Idol]]
+| stamina = 10}}
+
+'''Silver Knife''' is the fourth [[Knives|knife]].
+
+* The primary attack is a fast 3-slash combo with 2x damage on the last swing.
+* Its secondary attack is a leaping stab with 3x damage.
+* It deals 6x damage against [[Creature senses|unalerted]] enemies.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|25
+|26
+|27
+|28
+|
+|-
+!Slash
+|25
+|26
+|27
+|28
+|
+|-
+!Spirit
+|12
+|12
+|12
+|12
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|2 [[Wood]]<br />10 [[Silver]]<br />3 [[Leather Scraps]]<br/>2 [[Iron]]
+|1 [[Wood]]<br />5 [[Silver]]<br />1 [[Leather Scraps]]<br/> 1 [[Iron]]
+|2 [[Wood]]<br />10 [[Silver]]<br />2 [[Leather Scraps]]<br/>2 [[Iron]]
+|4 [[Wood]]<br />20 [[Silver]]<br />4 [[Leather Scraps]]<br/>4 [[Iron]]
+|9 [[Wood]]<br />45 [[Silver]]<br />10 [[Leather Scraps]]<br />9 [[Iron]]
+{{Upgrade station row|Forge|4|start=3|addcol=1}}
+|}
+
+* Silver Knife can also be upgraded at the [[Forge of Potential]] with a [[Silver Battle Idol]].
+
+{{Weapons}}
+
+[[Fr:Couteau_en_argent]]
+[[ru:Серебряный нож]]

@@ -1,0 +1,104 @@
+{{infobox creature
+| image 0star       = Yagluth.png
+| description 0star = Long ages past, he wore a crown, beneath a blood-red sky. Now naught is left of all he was, but his spirit cannot die.
+| trophy            = Yagluth trophy
+| trophy description = The crownless head of a dead king.
+| trophy id         = TrophyGoblinKing
+| id                = GoblinKing
+| type              = Boss
+| summon            = [[Fuling Totem]] x5
+| tameable          = No
+| location          = [[Plains]]
+| health 0star      = 10,000
+| damage 0star      = 
+* Beam: 40 Fire 20 Lightning, 50 Chop, 50 Pickaxe
+* Meteors: 40 Blunt, 120 Fire, 50 Chop, 50 Pickaxe
+* Nova: 65 Fire, 65 Lightning, 100 Chop, 100 Pickaxe + 100 Fire
+| abilities         = 
+* Beam (15 seconds)
+* Meteors (25 seconds)
+* Nova (20 seconds)
+| veryweak          = 
+| weak              = 
+| resistant         = Fire
+| veryresistant     = Pierce
+| immune            = Poison, Stagger
+| neutral           = 
+|faction=Boss
+}}
+'''Yagluth''' is the fifth [[Creatures#Bosses|boss]]. He appears as an ancient [[Fuling]] spirit inhabiting a now decomposed skeletal body comprised of a head, two arms and a torso. The crown resting upon his skull implies he was once or still is a ruler of some sort.
+
+== Summoning ==
+[[File:YagluthAltar.png|left|thumb|200x200px|Yagluth's Forsaken Altar.]]
+Yagluth's [[Forsaken Altars|Forsaken Altar]] is located in the [[Plains]]. His location can be found when visiting [[Stonehenge]] structures, where a [[Runestone#Vegvisir|Vegvisir]] will reveal his nearest summoning location on the map.
+
+He is summoned by placing five {{Item Link|Fuling Totem}}s in his Forsaken Altar in the Plains. Like all [[Creatures#Bosses|bosses]], Yagluth can be summoned as many times as desired, provided the required materials are met.
+
+Yagluth's [[Runestone#Vegvisir|Vegvisir]] has a very small chance of spawning, making it very hard to find. Oftentimes, it is easier to directly find the [[Forsaken Altars|Forsaken Altar]] than the Vegvisir.
+
+== Attacks and abilities ==
+{{For|strategies for defeating Yagluth|Boss strategies#Yagluth}}
+Yagluth has an environment aura that forces darkness and removes raining, which means [[Wet Effect|Wet]] from rain cannot be used as Fire resistance.
+
+=== Beam ===
+Yagluth is able to breathe fire in a roughly 40-meter straight line every 15 seconds, slowly rotating to aim at the player if they are moving. This breath is made up of 20 individual projectiles, each dealing 40 [[Damage types#Fire|Fire]], 20 [[Damage types#Lightning|Lightning]], 50 Tier 1 [[Damage types#Chop|Chop]] and 50 Tier 1 [[Damage types#Pickaxe|Pickaxe]] damage<ref  group="Note">In the game files, Yagluth is listed as doing Tier 2 and Tier 3 (Beam) damage. For unknown reasons he does not actually behave like this in-game.</ref> and inflicting the [[Burning]] and [[Lightning (effect)|Lightning]] statuses. Each projectile travels at 40 meters per second and can travel for 3 seconds before disappearing. This ability can be used when a player is within 10–40 meters of Yagluth and does not have any spread: meaning he is perfectly accurate.
+
+=== Meteors ===
+Every 25 seconds, Yagluth can raise his left fist which glows red. A few seconds later, a volley of 10 burning stones will fall from above and create 5-meter radius explosions wherever they land. Anyone hit is inflicted with [[Burning]] and takes 40 [[Damage types#Blunt|Blunt]], 120 [[Damage types#Fire|Fire]], 50 Tier 1 [[Damage types#Chop|Chop]] and 50 Tier 1 [[Damage types#Pickaxe|Pickaxe]] damage. The meteors fall from the sky 30 meters behind Yagluth and 50 meters off of the ground in a 15-meter radius sphere. They fall at an initial velocity of 30 meters per second and can travel for up to 8 seconds before despawning. This attack can be used when a player is within 30 meters of Yagluth.
+
+=== Nova ===
+Yagluth raises his right fist which glows blue before slamming the ground, creating a 10-meter radius spherical explosion beginning at the center of his fist and slowly expanding out to the full radius. Anyone standing within the explosion will be inflicted with the [[Burning]] and [[Lightning (effect)|Lightning]] status and take 65 [[Damage types#Fire|Fire]], 65 [[Damage types#Lightning|Lightning]], 100 Tier 2 [[Damage types#Chop|Chop]] and 100 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage. Blue fire will remain in the area for a short time, dealing 100 Fire damage over time. The initial explosion is both dodgeable and blockable, but the lingering fire is not blockable. This ability has a 20-second cooldown and can only be used when a player is within 10 meters of Yagluth.
+
+=== Notes ===
+<references group="Note"/>
+
+== Aftermath ==
+=== Drops ===
+{{CreatureDrops|stars=0}}
+
+=== Forsaken power ===
+Mounting Yagluth’s trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:
+
+* Damage modifier: [[Resistance|Resistant]] vs Lightning
+* Farming: +25
+* Damage dealt increase: Blunt, Slash, Pierce, Chop, Pickaxe, Fire, Frost, Lightning, Poison, Spirit: +10%
+
+See [[Forsaken_power#Yagluth_Power|Yagluth's power]] for more details.
+
+=== Events ===
+Defeating Yagluth affects the following [[events]] for that world:
+
+* Disables: "The horde is attacking."
+* Enables "What's up Gjall?!"
+* Enables "They sought you out."
+
+=== Creature spawning ===
+Defeating Yagluth unlocks [[Fuling]]s to spawn at night in the [[Meadows]], [[Black Forest]], and [[Mountain]]. They can only have 0 stars.
+
+=== Traders ===
+Defeating Yagluth unlocks [[Egg]]s for sale from [[Haldor]] for 1500 [[Coins]]. It also unlocks the [[Grasslands Herbalist Harvest]] from [[The Bog Witch]] for 160 [[Coins]].
+
+== Gallery ==
+<gallery widths="185">
+File:YagluthAltar.png
+File:Yagluth Boss.png
+File:Vegvisir Yagluth.png
+File:Yagluth trophy on the hook.png
+</gallery>
+
+== Notes ==
+* At the time of release, Yagluth was the last boss to defeat.
+** His drop was called "Yagluth Thing," and its description said it was a placeholder for his actual drop. The Mistlands update added the [[Torn Spirit]], which is used to craft the [[Wisp Fountain]].
+* After Yagluth spawns in, he breaks through the ground slowly. The player can attack him before he actually begins moving or attacking, racking up some free damage before the boss fight actually begins.
+* In the in-game trophies menu, there is another description of Yagluth, "Sometimes, the eyes still move and the lips mutter silently..."
+* Yagluth's crown is made of [[Black Metal Sword|Black metal swords.]]
+
+== Achievements ==
+{{Achievement|Boss5Yagluth}}
+
+{{Creatures}}
+
+[[de:Yagluth]]
+[[ru:Яглут]]
+[[cs:Yagluth]]
+[[uk:Яґлут]]

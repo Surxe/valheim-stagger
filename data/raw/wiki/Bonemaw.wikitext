@@ -1,0 +1,56 @@
+{{Infobox creature
+| title        = Bonemaw Serpent
+| image 0star  = Bonemaw.png
+| trophy       = Bonemaw trophy
+| trophy description = A skull made up of dense bone, as dangerous as it is protective.
+| trophy id    = TrophyBonemawSerpent
+| id           = BonemawSerpent
+| faction      = Demon
+| location     = [[Ashlands]]
+| health 0star = 1100
+| damage 0star =
+* Spit: 40 Blunt, 20 Fire, 20 Poison
+* Bite: 140 Slash
+| abilities    =
+* Spit (20 seconds, 3x)
+* Bite (10 seconds)
+| weak         = Frost
+| resistant    = Poison
+|immune=Fire, Spirit, Stagger}}
+'''Bonemaw''' are aggressive creatures found in the boiling waters surrounding the [[Ashlands]] landmass. They pose a significant danger when sailing to the biome.
+
+==Drops==
+The Bonemaw will drop [[Bonemaw Meat]] and [[Bonemaw Tooth|Bonemaw teeth]] at the site of its death, floating on the surface of the water. The trophy, however, sinks.
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{Spawn table|
+{{spawn row|type=[[Ashlands]] Ocean|limit=1|frequency=2|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Bonemaw|Aggressive creature strategies#Bonemaw Serpent}}
+
+=== Spit ===
+Dives slightly before swooping up out of the water to launch a barrage of three fireballs at the player which inflict the [[Burning]] and [[Poison]] statuses (40 [[Damage types#Blunt|Blunt]], 20 [[Damage types#Fire|Fire]] and 20 [[Damage types#Poison|Poison]] damage for each hit). The fireballs travel at 20 meters per second and can travel for 10 seconds before disappearing, and has a spread of 10–20 degrees. This ability can be used every 20 seconds when within 10–30 meters of a player.
+
+=== Bite ===
+Bonemaws will draw their head back before lunging forward to bite the player (140 [[Damage types#Slash|Slash]] damage). This attack can be used every 10 seconds when within 3 meters of a player; even when a player is within attacking range, Bonemaws will continue moving toward them to stay as close as possible. It extends 3 meters out and hits in an 80-degree horizontal arc.
+
+== See also ==
+* [[Serpent]]
+
+==Trivia==
+* There is an asset ''BonemawSerpentScale'' in the game that can only be spawned in with the [[Developer console]]. It serves no purpose and is likely nothing more than a scrapped resource.
+
+== Gallery ==
+<gallery>
+File:SerpantSwim.jpg|An underwater view of the Bonemaw Serpent swimming
+File:BoneMawSerpentEmerging.jpg|An underwater view of the Bonemaw Serpent emerging
+File:Concept Bonemaw Serpet.png|Old Concept of Bonemaw Serpent
+File:Bonemaw development.png|An Early Version of the Bonemaw Serpent
+</gallery>
+
+{{Creatures}}
+
+[[ru:Костепасть]]

@@ -1,0 +1,94 @@
+{{infobox weapon
+| title          = Silver Sword
+| image          = Silver Sword.png
+| description    = Purest of metals, nothing unclean can abide its touch.
+| id             = SwordSilver
+| type           = Sword
+| source         = [[Forge]]
+| weight         = 1.0
+| crafting level = 3
+| repair level   = 3
+| slash          = 75
+| spirit         = 30
+| materials 1 = 
+* [[Wood]] x2
+* [[Silver]] x40
+* [[Leather Scraps]] x3
+* [[Iron]] x5
+| materials 2 = 
+* [[Wood]] x1
+* [[Silver]] x20
+* [[Leather Scraps]] x1
+* [[Iron]] x3
+| materials 3 = 
+* [[Wood]] x2
+* [[Silver]] x40
+* [[Leather Scraps]] x2
+* [[Iron]] x6
+| materials 4 = 
+* [[Wood]] x4
+* [[Silver]] x80
+* [[Leather Scraps]] x4
+* [[Iron]] x12
+| idol           = * [[Silver Battle Idol]]
+| spirit per level = 5
+| stamina = 12
+| block armor = 30}}
+
+'''Silver Sword''' is the third [[Swords|sword]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|75
+|81
+|87
+|93
+|
+|-
+!Spirit
+|30
+|35
+|40
+|45
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|2 [[Wood]]<br>40 [[Silver]]<br>3 [[Leather Scraps]]<br>5 [[Iron]]
+|1 [[Wood]]<br>20 [[Silver]]<br>1 [[Leather Scraps]]<br>3 [[Iron]]
+|2 [[Wood]]<br>40 [[Silver]]<br>2 [[Leather Scraps]]<br>6 [[Iron]]
+|4 [[Wood]]<br>80 [[Silver]]<br>4 [[Leather Scraps]]<br>12 [[Iron]]
+|9 [[Wood]]<br>180 [[Silver]]<br>10 [[Leather Scraps]]<br>26 [[Iron]]
+{{Upgrade station row|Forge|4|start=3|addcol=1}}
+|}
+
+* Silver Sword can also be upgraded at the [[Forge of Potential]] with a [[Silver Battle Idol]].
+
+== Notes ==
+* The [[Damage#Spirit|Spirit damage]] on the weapon only affects [[Factions|undead]] and demon enemies. This makes higher physical damage dealing swords such as the [[Black Metal Sword]] better for general use.
+* Spirit damage is not instant damage, but a ticking (and stacking) debuff like fire.
+* Silver sword has currently the highest Spirit damage of any weapon in the game. 
+
+{{Weapons}}
+
+[[Fr:Épée_en_argent]]
+[[cs:Stříbrný meč]]
+[[ru:Серебряный меч]]
+[[de:Silberschwert]]

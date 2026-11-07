@@ -1,0 +1,93 @@
+{{infobox weapon
+| title          = Slayer
+| image          = Slayer.png
+| description    = This mighty blade thirsts for the blood of foes.
+| id             = THSwordSlayer 
+| type           = Sword 2h
+| source         = [[Black Forge]]
+| crafting level = 3
+| repair level   = 3
+| slash          = 170
+| materials 1 = 
+* [[Flametal]] x30
+* [[Asksvin Hide]] x5
+* [[Morgen Sinew]] x3
+| materials 2 = 
+* [[Flametal]] x15
+* [[Asksvin Hide]] x5
+* [[Morgen Sinew]] x3
+| materials 3 = 
+* [[Flametal]] x30
+* [[Asksvin Hide]] x10
+* [[Morgen Sinew]] x6
+| materials 4 = 
+* [[Flametal]] x60
+* [[Asksvin Hide]] x20
+* [[Morgen Sinew]] x12
+| idol           = * [[Flametal Battle Idol]]
+| slash per level = 6
+| stamina        = 20
+| weight         = 4
+| durability     = 300
+| durability per level = 50
+| knockback      = 55
+| backstab       = 3x
+| block armor    = 64
+| block armor per level = 0
+| block force    = 50
+| block force per level = 10
+| wielding       = Two-handed
+| parry bonus    = 2
+| movement speed = -5%
+}}
+
+'''Slayer''' is the second two-handed [[Swords|sword]].
+
+* The primary attack is a wide 3-hit attack combo with double damage on the last hit.
+* Its slower secondary attack is a thrust that deals 3x damage.
+
+== Upgrade Information ==
+Like most Ashlands-tier weapons, the Slayer can be upgraded to one of the following three variants using gemstones:
+
+* {{Item link|Brutal Slayer}} ([[Bloodstone]])
+* {{Item link|Scourging Slayer}} ([[Iolite]])
+* {{Item link|Primal Slayer}} ([[Jade]])
+
+An upgraded Slayer will '''NOT''' keep its upgrade level when it is modified using gemstones.
+
+{| class="wikitable"
+!Quality 
+!1
+!2
+!3
+!4
+|-
+!Slash
+|170
+|176 
+|182
+|188
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting 
+|30 [[Flametal]]<br>3 [[Morgen Sinew]]<br>5 [[Asksvin Hide]]
+|15 [[Flametal]]<br>3 [[Morgen Sinew]]<br>5 [[Asksvin Hide]]
+|30 [[Flametal]]<br>6 [[Morgen Sinew]]<br>10 [[Asksvin Hide]] 
+|60 [[Flametal]]<br>12 [[Morgen Sinew]]<br>20 [[Asksvin Hide]]
+{{Upgrade station row|Black forge|4|start=3}}
+|}
+
+* Slayer can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+== Notes ==
+* The primary attacks are fairly vertical and wide reaching, with the third attack in the combo being more narrow in the horizontal plane.
+* The secondary attack is a long reaching thrust that is capable of outreaching most enemies.
+
+{{Weapons}}
+
+[[ru:Убийца]]

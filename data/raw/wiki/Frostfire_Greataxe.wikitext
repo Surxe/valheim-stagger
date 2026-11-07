@@ -1,0 +1,102 @@
+{{Infobox weapon
+| description = Strike your foes with a frozen inferno!
+| type = axe 2h
+| id = BattleaxeGold_FrostFire
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| slash             = 154
+| slash per level = 10
+| fire = 12
+| fire per level = 3
+| frost = 88
+| frost per level = 3
+| chop = 40
+| chop per level = 2.5
+| knockback         = 70
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Greataxe]] x1
+* [[Frostfire Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Frostfire Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Frostfire Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Frostfire Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 22
+| stamina secondary = 11
+| block armor       = 76
+| movement speed    = -20%
+| weight=2.5
+| special = 
+}}
+
+'''Frostfire Greataxe''' is a version of [[Nord Greataxe]] upgraded with a [[Frostfire Essence]]. It loses a small amount of [[Slash|slash damage]] in exchange for a larger amount of [[fire]] and [[Frost|frost damage]].
+
+* Its primary attack is a 3-hit combo (wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x [[staggering]] and no multitarget penalty.
+* The faster secondary attack deals 0.5x damage and 4x staggering.
+
+An upgraded Nord Greataxe will '''NOT''' keep its upgrade level when it is crafted into Frostfire Greataxe.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|154
+|164
+|174
+|184
+|
+|-
+!Fire
+|12
+|15
+|18
+|21
+|
+|-
+!Frost
+|88
+|91
+|94
+|97
+|
+|-
+!Chop
+|40
+|42.5
+|45
+|47.5
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Greataxe}} x1<br> {{item link|Frostfire Essence}} x1
+| [[Bloodgold]] x10<br> [[Frostfire Essence]] x1
+| [[Bloodgold]] x20<br> [[Frostfire Essence]] x2
+| [[Bloodgold]] x40<br> [[Frostfire Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Greataxe]] x1<br>[[Frostfire Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Frostfire Greataxe can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

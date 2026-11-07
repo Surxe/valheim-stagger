@@ -1,0 +1,107 @@
+{{infobox creature
+| image 0star       = Eikthyr.png
+| description 0star = His antlers are branches of iron, they crack the rocks and bring down mountains. His hooves are the sound of thunder. His voice a howling gale.
+| trophy            = Eikthyr trophy
+| trophy description = This severed head oozes power. Offer it to the Sacrificial Stones.
+| trophy id         = TrophyEikthyr
+| id                = Eikthyr
+| type              = Boss
+| summon            = [[Deer Trophy]] x2
+| behavior          = Aggressive
+| tameable          = No
+| location          = 
+* [[Meadows]]
+| drops             = 
+* [[Eikthyr Trophy]]
+* [[Hard Antler]] x3
+* [[Eikthyr Power]]
+| health 0star      = 500
+| damage 0star      = 
+* Antler: 20 Pierce, 1000 Chop, 1000 Pickaxe
+* Charge: 15 Lightning
+* Stomp: 15 Lightning
+| abilities         = 
+* Antler (5 seconds)
+* Charge (25 seconds)
+* Stomp (40 seconds)
+| veryweak          = 
+| weak              = 
+| resistant         = 
+| veryresistant     = 
+| immune            = Stagger
+| neutral           = Spirit
+| aggressive        = 
+|faction=Boss}}
+'''Eikthyr''' is the first [[Creatures#Bosses|boss]]. He appears as an abnormally large stag with iron chains wrapped around his electrified red antlers.
+
+== Summoning ==
+[[File:EikthyrAltar.png|left|thumb|Eikthyr's Forsaken Altar.|200x200px|alt=]]
+Eikthyr's [[Forsaken Altars|Forsaken Altar]] is located in the [[Meadows]]. To the left of his [[Sacrificial Stones|Sacrificial Stone]] is a small glowing [[Runestone]] called a [[Runestone#Vegvisir|Vegvisir]]; interacting with it will add his closest summoning location on the map.
+
+He is summoned by placing two {{Item Link|Deer Trophy}} in his Forsaken altar in the Meadows. Like all bosses, Eikthyr can be summoned as many times as desired, provided the required materials are met.
+
+== Attacks and abilities ==
+{{For|strategies for defeating Eikthyr|Boss strategies#Eikthyr}}
+Eikthyr has three types of attacks in addition to an environmental aura that forces darkness and removes raining.
+
+=== Antler ===
+A swiping melee attack with his antlers (20 [[Damage types#Pierce|Pierce]], 1000 Tier 0 [[Damage types#Chop|Chop]] and 1000 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This attack features a 5-second cooldown and can be used when a player is within 4 meters. It has a range of 4.5 meters and hits in a horizontal arc spanning 25 degrees.
+
+=== Charge ===
+A ranged beam attack that fans out horizontally 45 degrees and extends 20 meters out (15 [[Damage types#Lightning|Lightning]] damage). On contact, the beam will inflict the [[Lightning (effect)|Lightning]] status. This has a 25-second cooldown and Eikthyr can attempt to use this ability when a player is within 15 meters.
+
+=== Stomp ===
+A 10-meter radius area-of-effect attack that expands outward from the center and inflicts the [[Lightning (effect)|Lightning]] status (15 [[Damage types#Lightning|Lightning]] damage). This attack has a 40-second cooldown. He can use this ability when a player is within 6 meters.
+
+== Aftermath ==
+Defeating Eikthyr allows the player to craft the first pickaxe to begin mining ore to create metal tools, weapons, and armor. 
+
+=== Drops ===
+{{CreatureDrops|stars=0}}
+
+=== Forsaken power ===
+Mounting Eikthyr’s trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:
+
+* Run stamina usage: -60%
+* Jump stamina usage: -60%
+* Swim stamina usage: -60%
+
+=== Events ===
+Defeating Eikthyr affects the following [[events]] for that world:
+
+* Disables: "Eikthyr rallies the creatures of the forest."
+* Enables: "The forest is moving..." (if [[The Elder]] hasn't been defeated)
+
+=== Creature spawning ===
+Defeating Eikthyr unlocks [[Greydwarf]]s to spawn in the Meadows at night. They can only have 0 stars.
+
+== Gallery ==
+<gallery position="center" captionalign="center" widths="185" orientation="square">
+Eikthyr Trophy Ground.png|Eikthyr Trophy
+Eikthyr head.png
+Eikthyr02.jpg
+Valheim-Eikthyr-Screenshot.jpg
+File:EikthyrAltar.png
+</gallery>
+
+== Notes ==
+* Eikthyr is likely a reference to [[wikipedia:Eikþyrnir|Eikþyrnir]], a stag which stands upon Valhalla in Norse mythology.
+* When Eikthyr's trophy is mounted on an item mount, he will sometimes say, "So you were my death? You look so small and soft... Tell Odin he may have broken this form but the wilderness will never submit to his rules..."
+* Eikthyr is sometimes known as "deer" in the game files.
+* In the in-game trophies menu, there is another description of Eikthyr, "Once the king of the forest, the size of the antlers are truly impressive."
+* Eikthyr is susceptible to [[spirit]] damage, but there are no early game weapons with spirit damage to make use of this weakness. By the time that weapons with spirit damage are available, the player should not have any difficulty fighting Eikthyr anyway.
+* There is reference to a "Horned One" on one of the [[Runestone]]s that can be found in the [[Meadows]], which can be assumed to be Eikthyr:
+<blockquote>''Hold, traveller, and bear witness to my warning. We are many who have come before you, carried here by Odin's will to do his work. The path ahead is hard and the dangers great. If you hold your life dear, keep to these meadows and make your dwelling away from the trees. Fear the Horned One and spare his kin.''</blockquote>
+
+== Achievements ==
+{{Achievement|Boss1Eikthyr}}
+{{Achievement|SoloBoss}}
+{{Achievement|MultiplayerBoss}}
+
+{{Creatures}}
+
+[[ru:Эйктюр]]
+[[fr:Eikthyr]]
+[[cs:Eikthyr]]
+[[uk:Ейктюр]]
+[[de:Eikthyr]]

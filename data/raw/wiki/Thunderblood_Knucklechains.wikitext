@@ -1,0 +1,84 @@
+{{Infobox weapon
+| description = A fury comes over you as you fight with these weapons, your blood roaring like thunder in your ears... It seems appropriate.
+| type = fists
+| id = FistGold_BloodLightning
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| blunt             = 122
+| slash per level = 8
+| lightning = 45
+| lightning per level = 5
+| knockback         = 20
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Knucklechains]] x1
+* [[Thunderblood Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Thunderblood Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Thunderblood Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Thunderblood Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 14
+| stamina secondary = 20
+| block armor       = 
+| movement speed    = 
+| weight=2.0
+| special = 
+}}
+
+'''Thunderblood Knucklechains''' are a version of [[Nord Knucklechains]] upgraded with [[Thunderblood Essence]]. They gain extra [[blunt]] and [[Lightning|lightning damage]], a 25% chance per hit to trigger [[Chain lightning]] and a 0.2% damage increase for every 1 point of [[health]] the player is missing.
+
+* The primary attack is a 2-hit combo with 2x damage at the second hit.
+* The secondary attack is a kick which does additional knockback and 6x [[staggering]].
+* They deal 6x damage against [[Creature senses|unalerted]] enemies.
+
+Upgraded Nord Knucklechains will '''NOT''' keep their upgrade level when they are crafted into Thunderblood Knucklechains.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|122
+|130
+|138
+|146
+|
+|-
+!Lightning
+|45
+|50
+|55
+|60
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Knucklechains}} x1<br> {{item link|Thunderblood Essence}} x1
+| [[Bloodgold]] x10<br> [[Thunderblood Essence]] x1
+| [[Bloodgold]] x20<br> [[Thunderblood Essence]] x2
+| [[Bloodgold]] x40<br> [[Thunderblood Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Knucklechains]] x1<br>[[Thunderblood Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Thunderblood Knucklechains can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

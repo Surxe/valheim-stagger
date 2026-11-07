@@ -1,0 +1,38 @@
+{{infobox creature
+| title         =Tiny Pulp
+| image 0star   =Tiny Pulp.png
+| image 1star   =
+| image 2star   =
+| trophy        =
+| id            =BlobMorkMini
+| faction       = Deep North
+| location      = [[Mörkhalla]]
+| health 0star  = 50
+| damage 0star  =
+| health 1star  =
+| damage 1star  =
+| health 2star  =
+| damage 2star  =
+| abilities     =
+| veryweak      =
+| weak          =Blunt, Frost, Lightning
+| resistant     =Slash, Pierce, Fire
+| veryresistant =
+| immune        =Poison, Stagger
+| stagger       =
+}}
+
+'''Tiny Pulp''' is a passive creature found in [[Mörkhalla]] in the [[Deep North]].
+
+They have no attacks.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{Spawn table|
+{{spawn row|type=Spawned from [[Shapeless Pulp]] death|limit=1|frequency=0|stars=No}}
+}}
+
+
+{{CreaturesNav}}

@@ -1,0 +1,91 @@
+{{infobox weapon
+| title            = Porcupine
+| image            = Porcupine.png
+| description      = A deadly weapon, bristling with fiendish spikes.
+| id               = MaceNeedle
+| type             = Club 1h
+| source           = [[Forge]]
+| durability       = 150
+| crafting level   = 4
+| repair level     = 4
+| blunt            = 50
+| pierce           = 45
+| knockback        = 100
+| pierce per level = 6
+| blunt per level  = 0
+| materials 1 = 
+* [[Finewood]] x5
+* [[Iron]] x20
+* [[Needle]] x5
+* [[Linen Thread]] x10
+| materials 2 = 
+* [[Iron]] x2
+* [[Needle]] x2
+| materials 3 = 
+* [[Iron]] x4
+* [[Needle]] x4
+| materials 4 = 
+* [[Iron]] x8
+* [[Needle]] x8
+| idol           = * [[Black Metal Battle Idol]]
+| stamina = 14
+| block armor = 39}}
+
+'''Porcupine''' is the fifth one-handed [[Clubs|club]].
+
+* Its primary attack is a 3-hit attack combo with double damage on the last hit.
+* The slower secondary attack deals 2.5x damage and 2x staggering.
+
+Its combination of [[blunt]] and [[Pierce|pierce damage]] makes it struggle to take advantage of weaknesses, as most things that are weak to blunt resist pierce, and vice versa; however, this also gives the Porcupine consistent damage output against most enemies because they will be neutral to both or take more from one and less from the other. 
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|50
+|50
+|50
+|50
+|
+|-
+!Pierce
+|45
+|51
+|57
+|63
+|
+|-
+!Durability
+|150
+|200
+|250
+|300
+|
+|-
+!Crafting
+|5 [[Finewood]]<br>20 [[Iron]]<br>5 [[Needle]]<br>10 [[Linen Thread]]
+|2 [[Iron]]<br>2 [[Needle]]
+|4 [[Iron]]<br>4 [[Needle]]
+|8 [[Iron]]<br>8 [[Needle]]
+|5 [[Finewood]]<br>34 [[Iron]]<br>19 [[Needle]]<br>10 [[Linen Thread]]
+{{Upgrade station row|Forge|4|start=4|addcol=1}}
+|}
+
+* Porcupine can also be upgraded at the [[Forge of Potential]] with a [[Black Metal Battle Idol]].
+
+== Notes ==
+* It has a slight glowing effect, and will emit a small amount of light even when holstered.
+* It is the only Black metal tier weapon that does not require [[Black Metal]] to craft, so it can be acquired without needing to transfer or process the [[Black Metal Scrap]].
+
+{{Weapons}}
+
+[[Fr:Porc-épic]]
+[[cs:Pichlavý palcát]]
+[[ru:Дикобраз]]
+[[de:Stachelschwein]]

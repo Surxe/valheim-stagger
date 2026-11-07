@@ -1,0 +1,116 @@
+{{infobox creature
+| title             = The Queen
+| image 0star       = The Queen.png
+| trophy            = The Queen trophy
+| trophy description = She has seen enough.
+| trophy id         = TrophySeekerQueen
+| id                = SeekerQueen
+| description 0star = Born in armour, mother of many, Queen without crown, ruler beneath. <!--This is pulled from the Sacrificial Stones but with added commas-->
+| type              = Boss
+| faction           = Boss
+| location          = [[Mistlands]]
+| health 0star      = 12,500
+| damage 0star      = 
+* Rush: 100 Slash, 300 Chop, 300 Pickaxe
+* Bite: 140 Pierce, 100 Poison, 300 Chop, 300 Pickaxe
+* Spit: 40 Blunt, 40 Poison, 50 Chop, 50 Pickaxe
+* Slap: 130 Slash, 300 Chop, 300 Pickaxe
+* Pierce AoE: 150 Pierce, 300 Chop, 300 Pickaxe
+| abilities         = 
+* Teleport (60 seconds, 90% HP)
+* Rush (25 seconds, 60% HP)
+* Bite (10 seconds, 70% HP)
+* Call (60 seconds, 99% HP)
+* Spit (20 seconds, 80% HP)
+* Slap (4 seconds)
+* Pierce AOE (4 seconds)
+| veryweak          = 
+| weak              = 
+| resistant         = Pierce
+| veryresistant     = 
+| immune            = Spirit 
+}}
+
+'''The Queen''' is the sixth [[Creatures#Bosses|boss]]. She is a monstrous [[Seeker]] Matriarch, and her appearance differs substantially from other Seekers. Her body is larva-like (similar to Seeker Broods), her four "arms" are all located nearer to the head, and she has a distinctive mouth lined with small, sharp teeth. Some features she shares with other Seekers are a set of large mandibles like the [[Seeker Soldier]], antennae like regular Seekers, and thin, wispy hair like both Seeker types.
+
+== Summoning ==
+[[File:Infested Citadel.png|thumb|The entrance to The Queen's Lair, the Infested Citadel]]
+The Queen's [[Forsaken Altars|Forsaken Altar]] rests in the [[Mistlands]]. Unlike all previous bosses, she must be fought in a dungeon, the [[Infested Citadel]], and her first fight requires no sacrifice. The nearest Infested Citadel can be located by [[Runestone#Vegvisir|Vegvisirs]] found in [[Infested Mine|Infested Mines]], but entry requires a [[Sealbreaker]], which can be constructed from [[Sealbreaker Fragment|fragments]] also found in the mines.
+
+The Queen will spawn on the lower floor of the citadel and will wander around until aggroed. After her initial defeat, 3 [[Seeker Soldier Trophy|Seeker soldier trophies]] may be offered on the hive seat at the top of the citadel to summon her again.
+
+== Attacks and abilities ==
+{{For|strategies for defeating the Queen|Boss strategies#The Queen}}
+
+=== Teleport ===
+Below 90% health and up to every 60 seconds, The Queen can burrow herself into the ground and emerge somewhere else within 200 meters. This ability is restricted to the [[Infested Citadel]] and to when a player is within 400 meters.
+
+=== Rush ===
+Below 60% health and within 5–25 meters of a player, The Queen can crawl in 16.24-meter line slashing her arms in an 8-meter 120-degree horizontal arc in front of her (100 [[Damage types#Slash|Slash]], 300 Tier 3 [[Damage types#Chop|Chop]] and 300 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). This attack has a cooldown of 25 seconds.
+
+=== Bite ===
+Below 70% health and within 10 meters of a player, The Queen can lunge forward and bite to inflict the [[Poison]] status (140 [[Damage types#Pierce|Pierce]], 100 [[Damage types#Poison|Poison]], 300 Tier 3 [[Damage types#Chop|Chop]] and 300 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). This reaches 10 meters from her center in a 25-degree horizontal arc.
+
+=== Call ===
+The Queen will stop and roar, which triggers holes within a 30-meter radius to spawn [[Seeker|Seekers]] and [[Seeker Brood|Seeker broods]]. Each hole is either a brood spawner or a regular Seeker spawner. The brood spawners have a 100% chance of hatching into Seeker broods, while the Seeker spawners have a 33% chance of hatching into Seekers and a 67% chance of hatching into Seeker Broods. A maximum of four Seeker broods and two Seekers can active from within a 50-meter radius of each hole - if this cap is reached the holes will not spawn any creatures. This ability is restricted to the [[Infested Citadel]] and she can still attempt to use it regardless of spawn caps. This ability has a 60-second cooldown, can be used when a player is within 25 meters, and is accessible while The Queen is below 99% health.
+
+=== Spit ===
+The Queen shoots 20 projectiles at the player which inflict the [[Poison]] and [[Slimed Effect|Slimed]] status (40 [[Damage types#Blunt|Blunt]], 40 [[Damage types#Poison|Poison]], 50 Tier 3 [[Damage types#Chop|Chop]] and 50 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). Each projectile travels at 15 meters per second with a spread of 1–5 degrees. They can travel for 4 seconds before disappearing. When these projectiles make contact with the player or terrain, they explode and have a 30% chance each of spawning a [[Seeker Brood]]. A maximum of 30 Seeker broods can be active at once within the [[Infested Citadel]] (although the orange eggs scattered throughout the arena will not stop hatching after reaching the spawn cap). She can use this ability every 20 seconds when within 5–25 meters of a player and while below 80% health.
+
+=== Slap ===
+Within 9 meters of a player, The Queen swings one of her arms in front of her (130 [[Damage types#Slash|Slash]], 300 Tier 3 [[Damage types#Chop|Chop]] and 300 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). This hits in a 10-meter 145-degree horizontal arc in front of her. This attack can be used every 4 seconds.
+
+=== Pierce AoE ===
+The Queen stabs the ground nearby with all four arms dealing damage in a 4.5-meter radius circle around herself (150 [[Damage types#Pierce|Pierce]], 300 Tier 3 [[Damage types#Chop|Chop]] and 300 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). She can use this attack every 4 seconds when a player is within 4 meters. 
+
+== Aftermath ==
+=== Drops ===
+{{CreatureDrops|stars=0}}
+
+=== Forsaken power ===
+Mounting The Queen’s trophy upon her respective stone will allow you to claim her Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:
+
+* Eitr regen: +100%
+* Damage modifier: [[Resistance|Resistant]] vs [[Damage#Poison|Poison]]
+* Sneak stamina usage: -100%
+
+=== Creature spawning ===
+Defeating The Queen unlocks [[Seeker]] to spawn at night in the [[Meadows]], [[Black Forest]], [[Swamp]], [[Mountain]] and [[Plains]], as well as unlocks [[Seeker Brood]] and [[Tick]] at night in [[Mistlands]]. Only [[Tick]]s can spawn with multiple stars.
+
+* Prior to [[Ashlands]] update, [[Tick]] and [[Seeker Brood]] could spawn in Meadows, Black Forest, Mountain and Plains, so this is currently unknown as bug or unannounced fix.
+
+=== Events ===
+Defeating The Queen affects the following [[events]] for that world:
+* Disables: "They sought you out."
+* Disables: "What's up, Gjall?!"
+* Enables: "The undead army marches"
+* Enables: "The dead have been summoned"
+
+=== Traders ===
+Defeating The Queen unlocks the [[Herbs of the Hidden Hills]] from [[The Bog Witch]] for 180 [[Coins]] and [[Inventory#Expansions|Deeper Pockets]] from [[Haldor]] for 2000 Coins.
+
+== Notes ==
+* The entrance to the arena is completely safe from The Queen's attacks, enabling players to duck inside and heal. Note that the spawned Seekers and Broods will follow the player in, but no more will spawn until the player leaves and re-aggros The Queen. On occasion, The Queen's backend may stick through the wall into the entrance, enabling free hits. Upon leaving the entrance after some time, The Queen will always do a roar animation, allowing for a quick hit or two.
+* The Queen's health does not reset when players exit the citadel either voluntarily or through death, or when exiting the game. Instead, her health slowly replenishes over time, identical to other bosses or creatures. 
+* The Slimed status effect is exclusive to The Queen's spit attack.
+* The Queen can easily be defeated by luring her to the entrance, then using the [[Demolisher]] to deal AOE damage. The Queen cannot hit you, and will die quickly. (Disabled in the latest patch: if the Queen can't reach the player character, she loses aggro and walks away. The luring mechanic can still be used in battle – shooting from a bow or an arbalest or throwing a spear at a wall lures her. Additionally, when her health bar disappears, the Queen can't aggro on the player character for about 20 seconds, so you can even attack her with a melee weapon.)
+
+== Gallery ==
+<gallery>
+File:Thequeensaltar.png
+File:Valheim Queen.png|The Queen In-game
+</gallery>
+
+== Trivia ==
+* The on-screen message that appears when The Queen spawns, "The Queen wants it all" is a reference to the 1989 song "I Want It All" by British rock band Queen.
+* The on-screen message that appears when The Queen is defeated, "Long live the Queen." 
+* The Queen's unique drop was called "Queen drop" and was a placeholder before the Ashlands update. It is now properly implemented as [[Majestic Carapace]].
+
+== Achievements ==
+{{Achievement|Boss6Queen}}
+
+{{Creatures}}
+
+[[ru:Королева]]
+[[cs:Královna]]
+[[uk:Королева]]

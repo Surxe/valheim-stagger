@@ -1,0 +1,94 @@
+{{Infobox weapon
+| description = A slight risk of frostbite is inevitable.
+| type = fists
+| id = FistGold_FrostFire
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| blunt             = 80
+| slash per level = 8
+| fire = 12
+| fire per level = 3
+| frost = 88
+| frost per level = 3
+| knockback         = 20
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Knucklechains]] x1
+* [[Frostfire Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Frostfire Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Frostfire Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Frostfire Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 14
+| stamina secondary = 20
+| block armor       = 
+| movement speed    = 
+| weight=2.0
+| special = 
+}}
+
+'''Frostfire Knucklechains''' are a version of [[Nord Knucklechains]] upgraded with [[Frostfire Essence]]. They lose a small amount of [[Blunt|blunt damage]] in exchange for a larger amount of [[fire]] and [[Frost|frost damage]].
+
+* The primary attack is a 2-hit combo with 2x damage at the second hit.
+* The secondary attack is a kick which does additional knockback and 6x [[staggering]].
+* They deal 6x damage against [[Creature senses|unalerted]] enemies.
+
+Upgraded Nord Knucklechains will '''NOT''' keep their upgrade level when they are crafted into Frostfire Knucklechains.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|80
+|88
+|96
+|102
+|
+|-
+!Fire
+|12
+|15
+|18
+|21
+|
+|-
+!Frost
+|88
+|91
+|94
+|97
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Knucklechains}} x1<br> {{item link|Frostfire Essence}} x1
+| [[Bloodgold]] x10<br> [[Frostfire Essence]] x1
+| [[Bloodgold]] x20<br> [[Frostfire Essence]] x2
+| [[Bloodgold]] x40<br> [[Frostfire Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Knucklechains]] x1<br>[[Frostfire Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Frostfire Knucklechains can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

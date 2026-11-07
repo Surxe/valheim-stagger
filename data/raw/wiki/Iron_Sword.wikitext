@@ -1,0 +1,83 @@
+{{infobox weapon
+| title          = Iron Sword
+| image          = Iron sword.png
+| description    = The straight line between life and death runs along the edge of this blade.
+
+| id             = SwordIron
+| type           = Sword
+| source         = [[Forge]]
+
+| crafting level = 2
+| repair level   = 2
+| slash          = 55
+| materials 1    = 
+* [[Wood]] x2
+* [[Iron]] x20
+* [[Leather Scraps]] x3
+| materials 2    = 
+* [[Wood]] x1
+* [[Iron]] x10
+* [[Leather Scraps]] x2
+| materials 3    = 
+* [[Wood]] x2
+* [[Iron]] x20
+* [[Leather Scraps]] x4
+| materials 4    = 
+* [[Wood]] x4
+* [[Iron]] x40
+* [[Leather Scraps]] x8
+| idol           = * [[Iron Battle Idol]]
+| stamina        = 10
+| block armor    = 21}}
+
+'''Iron Sword''' is the second [[Swords|sword]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|55
+|61
+|67
+|73
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|2 [[Wood]]<br />20 [[Iron]]<br />3 [[Leather Scraps]]
+|1 [[Wood]]<br />10 [[Iron]]<br />2 [[Leather Scraps]]
+|2 [[Wood]]<br />20 [[Iron]]<br />4 [[Leather Scraps]]
+|4 [[Wood]]<br />40 [[Iron]]<br />8 [[Leather Scraps]]
+|9 [[Wood]]<br />90 [[Iron]]<br />17 [[Leather Scraps]]
+{{Upgrade station row|Forge|4|start=2|addcol=1}}
+|}
+
+* Iron Sword can also be upgraded at the [[Forge of Potential]] with an [[Iron Battle Idol]].
+
+== Gallery ==
+<gallery widths="185">
+Iron sword old.png|Iron Sword in an old version
+File:Level 1 iron sword.jpg|Warrior holding Level 1 Iron Sword.
+</gallery>
+
+{{Weapons}}
+
+[[Fr:Épée_en_fer]]
+[[cs:Železný meč]]
+[[ru:Железный меч]]
+[[de:Eisenschwert]]

@@ -1,0 +1,92 @@
+{{Infobox creature
+| title         = Morgen
+| image 0star   = Morgen.png
+| image 1star   = Morgen.png
+| image 2star   = Morgen.png
+| trophy        = Morgen trophy
+| trophy description = The waking nightmare has met its end.
+| trophy id     = TrophyMorgen
+| id            = Morgen
+| location      = [[Ashlands]]
+| health 0star  = 1600
+| damage 0star  =
+* Bite: 160 Pierce, 100 Chop, 100 Pickaxe
+* Roll R: 50 Blunt, 100 Chop, 100 Pickaxe
+* Roll L: 50 Blunt, 100 Chop, 100 Pickaxe
+* Swipe: 160 Pierce, 100 Chop, 100 Pickaxe
+* Body slam: 160 Blunt
+| health 1star  = 3200
+| damage 1star  =
+* Bite: 240 Pierce, 150 Chop, 150 Pickaxe
+* Roll R: 75 Blunt, 150 Chop, 150 Pickaxe
+* Roll L: 75 Blunt, 150 Chop, 150 Pickaxe
+* Swipe: 240 Pierce, 150 Chop, 150 Pickaxe
+* Body slam: 240 Blunt
+| health 2star  = 4800
+| damage 2star  =
+* Bite: 320 Pierce, 200 Chop, 200 Pickaxe
+* Roll R: 100 Blunt, 200 Chop, 200 Pickaxe
+* Roll L: 100 Blunt, 200 Chop, 200 Pickaxe
+* Swipe: 320 Pierce, 200 Chop, 200 Pickaxe
+* Body slam: 320 Blunt
+| abilities     =
+* Bite (4 seconds)
+* Roll R (20 seconds)
+* Roll L (12 seconds)
+* Swipe (4 seconds each for 4 variants)
+* Body slam (12 seconds)
+| weak          = Lightning
+| resistant     = Blunt, Slash, Pierce, Fire
+| neutral       = 
+| stagger       = 30%
+| faction       = Demon}}
+'''Morgens''' are agile, aggressive foes found in the [[Ashlands]]. They rise from the ground after breaking out of their disguise, similar to [[Abomination]]s. 
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=In the middle of [[Ashlands]], both day and night|limit=1|frequency=Very Rare|stars=No}}
+{{spawn row|type=Burrowing in the middle of some [[Ashlands ruins]]|limit=1|frequency=One time|stars=Yes}}
+{{spawn row|type=Inside [[Putrid Hole]]s|limit=1|frequency=One time}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Morgens|Aggressive creature strategies#Morgen}}
+All Morgen attacks do friendly fire damage to [[Factions|allied creatures]]. Many of their attacks feature large movements — these movements shift the attack's hitbox with the user, extending their range. The impact of its jump attacks cause an area of effect hitbox which can be parried, with sufficient parry defense it will cancel the following dash. 
+
+=== Bite ===
+Jumps forward and bites down on the player (160 [[Damage types#Pierce|Pierce]], 100 Tier 3 [[Damage types#Chop|Chop]] and 100 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). This attack creates a horizontal 4-meter 45-degree hitbox. It can be used every 4 seconds within 7 meters of a player.
+
+=== Roll (right) ===
+Morgens jump up and roll to their right upon landing (50 [[Damage types#Blunt|Blunt]], 100 Tier 3 [[Damage types#Chop|Chop]] and 100 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). This attack hits in a 3-meter circular area around the user and can be used every 20 seconds<ref group="Note" name=":0">It is unknown why the left roll has a shorter cooldown than the right roll.</ref> within 12 meters of a player.
+
+=== Roll (left) ===
+Morgens jump up and roll to their left upon landing (50 [[Damage types#Blunt|Blunt]], 100 Tier 3 [[Damage types#Chop|Chop]] and 100 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). This attack hits in a 3-meter circular area around the user and can be used every 12 seconds<ref group="Note" name=":0" /> within 12 meters of a player.
+
+=== Swipe ===
+This attack has four variations that each have their own 4-second cooldown: a right swipe, a left swipe, a right swipe followed by a left swipe, and a left swipe followed by a right swipe (160 [[Damage types#Blunt|Blunt]], 100 Tier 3 [[Damage types#Chop|Chop]] and 100 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). These attacks can be used within 5 meters of a player, hitting in a 6-meter 60-degree horizontal arc.
+
+=== Body slam ===
+Stands upright and lift both arms up before slamming into the ground (160 [[Damage types#Blunt|Blunt]] damage). Morgens can attempt to use this attack every 12 seconds when within 5–12 meters of a player. It hits in a vertical arc 4 meters long, spanning 45 degrees.<ref group="Note">Due to a missing transition in the animator controller, this attack cannot actually be used, but Morgens will attempt to do so regardless. This causes them to pause briefly as if they are about to attack, but nothing will happen.</ref>
+
+=== Notes ===
+<references group="Note"/>
+
+== Notes ==
+* There is no difference in appearance between the 0-star, 1-star and 2-star Morgen.
+
+== Tips ==
+* Ever since the rework of the [[Forsaken power|Forsaken Powers]], it is ill-advised to engage a 2-star Morgen, even with [[Flametal Armor|maxed armor]], maxed health, and a [[Flametal Shield|good shield]], as its attacks will override a block, unless the player has a very high [[Blocking (skill)|blocking]] [[Skills|skill]]. Parries are effective, but the damage from taking a hit, even with such drastic damage reduction, can nearly two-shot a player. 
+
+== Gallery ==
+<gallery>
+File:Morgen early stage.png|Morgen Early stage development
+File:Morgen development.png
+File:1 star Morgen in mid of Ashlands ruins.png|1-star Morgen in mid of Ashlands Ruins
+</gallery> 
+
+{{Creatures}}
+
+[[uk:Морґен]]
+[[ru:Морген]]

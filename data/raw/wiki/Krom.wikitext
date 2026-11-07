@@ -1,0 +1,88 @@
+{{infobox weapon
+| title          = Krom
+| image          = Krom.png
+| description    = As deadly as it is shiny, and it's very shiny.
+| id             = THSwordKrom
+| type           = Sword 2h
+| source         = [[Black Forge]]
+| crafting level = 1
+| repair level   = 1
+| slash          = 150
+| materials 1 = 
+* [[Iron]] x30
+* [[Bronze]] x20
+* [[Scale Hide]] x5
+| materials 2 = 
+* [[Iron]] x15
+* [[Bronze]] x10
+* [[Scale Hide]] x5
+| materials 3 = 
+* [[Iron]] x30
+* [[Bronze]] x20
+* [[Scale Hide]] x10
+| materials 4 = 
+* [[Iron]] x60
+* [[Bronze]] x40
+* [[Scale Hide]] x20
+| idol           = * [[Black Marble Battle Idol]]
+| stamina = 20
+| block armor = 52
+| knockback = 55
+}}
+
+'''Krom''' is the first two-handed [[Swords|sword]]. 
+
+* The primary attack is a wide 3-hit attack combo with double damage on the last hit.
+* Its slower secondary attack is a thrust that deals 3x damage.
+
+The Krom is capable of dispelling the [[Mist]] of [[Mistlands]] in a 9-meter radius.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|150
+|156
+|162
+|168
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|30 [[Iron]]<br />20 [[Bronze]]<br />5 [[Scale Hide]]
+|15 [[Iron]]<br />10 [[Bronze]]<br />5 [[Scale Hide]]
+|30 [[Iron]]<br />20 [[Bronze]]<br />10 [[Scale Hide]]
+|60 [[Iron]]<br />40 [[Bronze]]<br />20 [[Scale Hide]]
+|135 [[Iron]]<br />90 [[Bronze]]<br />40 [[Scale Hide]]
+{{Upgrade station row|Black forge|4}}
+|}
+
+* Krom can also be upgraded at the [[Forge of Potential]] with a [[Black Marble Battle Idol]].
+
+== Notes ==
+* The primary attacks are fairly vertical and wide reaching, with the third attack in the combo being more narrow in the horizontal plane.
+* The secondary attack is a long reaching thrust that is capable of outreaching most enemies.
+* [[Brenna]], found in the Smouldering Tomb dungeon, is equipped with a fiery version of Krom with a fiery explosion instead of the thrust.
+* The sword is named after Crom - chief god of Cimmerians from the Conan the Barbarian book series by Robert E. Howard.
+
+== Gallery ==
+<gallery>
+Zrzut ekranu (3685).png|Krom|
+</gallery>
+
+{{Weapons}}
+
+[[ru:Кром]]
+[[cs:Krom]]

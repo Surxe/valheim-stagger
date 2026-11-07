@@ -1,0 +1,118 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+|title = Nord Atgeir
+|image = Nord Atgeir.png
+|description = The edge of this weapon is as deadly as it is shiny.
+|type = Polearm
+|id = AtgeirGold
+| source = [[Frost Foundry]]
+| weight = 2.5
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| pierce             = 182
+| pierce per level = 10
+|materials 1=
+* [[Cast Nord Atgeir]] x1
+* [[Liquid Frost]] x5
+|materials 2=
+* [[Bloodgold]] x10
+* [[Timberwood]] x5
+|materials 3=
+* [[Bloodgold]] x20
+* [[Timberwood]] x10
+|materials 4=
+* [[Bloodgold]] x40
+* [[Timberwood]] x20
+| idol           = * [[Bronze Battle Idol]]
+| stamina           = 20
+| stamina secondary = 40
+| block armor       = 88
+| movement speed    = -5%
+|
+}}
+|Cast|
+{{Infobox item
+|title = Cast: Nord Atgeir
+|image = Cast Nord Atgeir.png
+|description = This weapon needs to be hardened with frost.
+|id = AtgeirGoldUncooked
+|type = Cast
+| source = [[Black Forge]] level 4
+|materials=
+* [[Bloodgold]] x20
+* [[Mould Nord Atgeir]] x1
+* [[Timberwood]] x10
+| weight      = 2.5
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+|title = Mould: Nord Atgeir
+|image = Mould Nord Atgeir.png
+|description = Filled with the right material, this mould will create a most formidable weapon.
+|id = MoldAtgeir
+|type = Mould
+| weight      = 1.0
+| stack       = 10
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Mörkhalla]]
+| usage       = Crafting
+}}
+}}
+
+'''Nord Atgeir''' is a [[Deep North]]-tier [[Polearms]].
+
+* Its primary attack is a 3-stab combo with 2x damage on the last hit.
+* The secondary attack is an AOE swing with a 3-meter radius that deals 1x damage and 6x stagger with no damage penalty against multiple targets.
+
+It cannot be crafted directly, instead the player must craft the corresponding [[Cast Nord Atgeir]] and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Atgeir''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrading ==
+Like most Deep North-tier weapons, the Nord Atgeir can be upgraded to one of the following two variants using essences:
+
+* {{Item link|Frostfire Atgeir}} (with a [[Frostfire Essence]])
+* {{Item link|Thunderblood Atgeir}} (with a [[Thunderblood Essence]])
+
+An upgraded Nord Atgeir will '''NOT''' keep its upgrade level when it is modified using essences.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|182
+|192
+|202
+|212
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br> [[Mould Nord Atgeir]] x1<br> [[Timberwood]] x10<br> [[Liquid Frost]] x5
+| [[Bloodgold]] x10<br> [[Timberwood]] x5
+| [[Bloodgold]] x20<br> [[Timberwood]] x10
+| [[Bloodgold]] x40<br> [[Timberwood]] x20
+| [[Bloodgold]] x90<br> [[Mould Nord Atgeir]] x1<br>[[Timberwood]] x45<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Atgeir can also be upgraded at the [[Forge of Potential]] with a [[Bronze Battle Idol]].
+
+{{WeaponsNav}}

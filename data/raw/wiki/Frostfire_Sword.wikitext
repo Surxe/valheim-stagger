@@ -1,0 +1,95 @@
+{{Infobox weapon
+| title = Frostfire Sword
+| image = Frostfire Sword.png
+| description = Flames dance along this blade, but are they hot or cold?
+| type = Sword
+| id = SwordGold_FrostFire
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| slash             = 138
+| slash per level = 10
+| fire = 12
+| fire per level = 3
+| frost = 88
+| frost per level = 3
+| knockback         = 
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Sword]] x1
+* [[Frostfire Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Frostfire Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Frostfire Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Frostfire Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 66
+| movement speed    = -5%
+| weight=0.8
+| special = 
+}}
+
+'''Frostfire Sword''' is a version of [[Nord Sword]] upgraded with a [[Frostfire Essence]]. It loses a small amount of [[Slash|slash damage]] in exchange for a larger amount of [[fire]] and [[Frost|frost damage]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+An upgraded Nord Sword will '''NOT''' keep its upgrade level when it is crafted into Frostfire Sword.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|138
+|148
+|158
+|168
+|
+|-
+!Fire
+|12
+|15
+|18
+|21
+|
+|-
+!Frost
+|88
+|91
+|94
+|97
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Sword}} x1<br> {{item link|Frostfire Essence}} x1
+| [[Bloodgold]] x10<br> [[Frostfire Essence]] x1
+| [[Bloodgold]] x20<br> [[Frostfire Essence]] x2
+| [[Bloodgold]] x40<br> [[Frostfire Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Sword]] x1<br>[[Frostfire Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Frostfire Sword can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

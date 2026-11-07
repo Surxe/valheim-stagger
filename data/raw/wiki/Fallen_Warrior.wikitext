@@ -1,0 +1,84 @@
+{{Infobox creature
+| title=Fallen Warrior
+| image 0star = Fallen Warrior.png
+| id=FallenWarrior
+| faction       = Undead
+| location      = [[Memorial Site]]
+| drops         = 
+| health 0star  = 750
+| damage 0star  =
+* Bronze Armor Warrior:
+** Bronze Axe: 75 Slash, 45 Pierce, 40 Chop
+* Fenris Knifer:
+** Skoll and Hati: 45 Slash, 45 Pierce
+* Lightning Mage:
+** Dundr: 20 Blunt, 20 Lightning (x12)
+* Two-Handed Axe:
+** Crystal Battleaxe: 130 Slash, 50 Chop, 30 Spirit
+* Sword 'n Board:
+** Black Metal Sword: 95 Slash
+* Archer with Knife:
+** Draugr Fang: 70 Pierce, 5 Poison
+** Silver Knife: 65 Slash, 65 Pierce
+* Fire Mage (also has a knife):
+** Staff of Embers: 120 Blunt, 120 Fire
+** Silver Knife: 65 Slash, 65 Pierce
+| health 1star  =
+| damage 1star  =
+| health 2star  =
+| damage 2star  =
+| abilities     =
+* Bronze Axe (1.5 seconds)
+* Skoll and Hati (0.5 seconds)
+* Dundr (5 seconds)
+* Crystal Battleaxe (2 seconds)
+* Black Metal Sword (2 seconds)
+* Draugr Fang (3 seconds)
+* Silver Knife (1.5 seconds)
+* Staff of Embers (2 seconds)
+| veryweak      =
+| weak          = Spirit
+| resistant     = Blunt, Slash, Pierce, Fire
+| veryresistant =
+| immune        = Poison
+| stagger       = 40%
+}}
+'''Fallen Warriors''' are aggressive [[creatures]] found in the [[Deep North]].
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+The Essence drop chances are independent, it's possible for a single warrior to drop both at the same time, or none.
+
+==Spawning==
+* Summoned at a [[Memorial Site]]s in exchange for {{Item link|Memorial Coal|3}}.
+
+==Variant==
+Fallen Warriors have seven variants, each with different armor and weapons.
+{|class="wikitable"
+! Class !! Weapon
+|-
+| Bronze Armor Warrior
+| Axe: 75 [[Slash]], 45 [[Pierce]], 40 [[Chop]]
+|-
+|Fenris Knifer
+| Dual knife: 45 Slash, 45 Pierce
+|-
+|Lightning Mage
+| Dundr: 20 [[Blunt]], 20 [[Lightning]] x12
+|-
+|Two-Handed Axe
+| BattleAxe: 130 Slash, 50 Chop
+|-
+|Sword 'n Board
+| Sword: 95 Slash
+|-
+|Archer with Knife
+| Bow: 70 Pierce <br>Knife: 65 Slash, 65 Pierce
+|-
+|Fire Mage (also has a knife)
+| Fire Staff: 120 Blunt, 120 [[Fire]]<br>Knife: 65 Slash, 65 Pierce
+|}
+Each warrior has a randomly generated name.
+
+{{CreaturesNav}}
+[[ru:Павший воин]]

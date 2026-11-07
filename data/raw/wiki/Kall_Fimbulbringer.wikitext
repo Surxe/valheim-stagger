@@ -1,0 +1,131 @@
+{{infobox creature
+| title         =Kall Fimbulbringer
+| image 0star   =
+{{InfoboxGallery|Kall Fimbulbringer.png|Phase 1
+Kall Fimbulbringer phase 2.png|Phase 2
+Kall Fimbulbringer phase 3.png|Phase 3}}
+| type          = Boss
+| faction       = Boss
+| location      = [[Deep North]]
+| summon        = [[Malicious Blood]] x3
+| drops         =[[Sacrificial Blood]]<br>[[Crown Jewel]]
+| trophy        =Kall Fimbulbringer trophy
+| id            =FrozenKing<br>FrozenKing_p2<br>FrozenKing_p3
+| health 0star  = 10000 +&nbsp;7000* +&nbsp;30000
+| damage 0star  =
+'''Phase 1'''
+* Chain Slam (left and right, single and double): 160 Blunt, 300 Chop, 300 Pickaxe
+* Chain Whirl: 150 Blunt, 20 Frost, 300 Chop, 300 Pickaxe
+* Chain Rush: 125 Blunt, 125 Pierce, 300 Chop, 300 Pickaxe
+* Double Sweep: 150 Blunt, 200 Chop, 200 Pickaxe
+'''Phase 2'''
+* No attacks
+'''Phase 3'''
+* Chain Slam (left and right, double): 120 Blunt, 50 Fire, 50 Frost, 300 Chop, 300 Pickaxe
+* Chain Whirl: 120 Blunt, 50 Fire, 50 Frost, 300 Chop, 300 Pickaxe
+* Punch: 150 Blunt, 300 Chop, 300 Pickaxe
+* Chain Flurry: 250 Blunt, 200 Chop, 200 Pickaxe
+* Double Sweep: 150 Blunt, 200 Chop, 200 Pickaxe
+* Spike Rain: 100 Blunt, 100 Frost (x22), 100 Chop, 100 Pickaxe
+| abilities     =
+'''Phase 1'''
+* Chain Slam, single (3 seconds each for 2 variants, 50–100% HP)
+* Chain Slam, double left (3 seconds, 0–75% HP)
+* Chain Slam, double right (3 seconds, 0–50% HP)
+* Chain Whirl (10 seconds)
+* Chain Rush (10 seconds)
+* Double Sweep (3 seconds)
+'''Phase 3'''
+* Chain Slam, double (3 seconds each for 2 variants)
+* Chain Whirl (20 seconds, 75–100% HP)
+* Punch (8 seconds)
+* Chain Flurry (3 seconds, 0–50% HP)
+* Double Sweep (3 seconds)
+* Spike Rain (25 seconds, 0–35% HP)
+* Tendril spawn (45 seconds)
+| veryweak      =
+| weak          =
+| resistant     =Pierce, Fire, Frost, Lightning
+| veryresistant =
+| immune        =Spirit, Stagger (phase 2: all damage types)
+| stagger       =
+}}
+
+'''Kall Fimbulbringer''' is the eighth and final [[boss]].
+
+== Summoning ==
+Kall Fimbulbringer is imprisoned in [[The Prison]], reached through the [[Aesir Passage]]. The door to the passage is opened by offering three [[Malicious Blood]] at the Strange Bowl outside the passage. After offering the blood, the door to The Prison will open and the player can enter. Kall is chained when the player first arrives, and only starts to attack after the player causes him damage. This gives some time to prepare before the fight starts.
+To re-summon, three more blood should be offered at the bowl inside the prison. Offering the blood outside the prison will destroy the blood but Kall will not appear inside.
+
+== Attacks and abilities ==
+{{For|strategies for defeating Kall Fimbulbringer|Boss strategies#Kall Fimbulbringer}}
+
+The encounter has three phases, each with its own health pool: 10,000 health in phase 1, 7,000 in phase 2 and 30,000 in phase 3, for a total of 47,000. When phase 1 dies, phase 2 takes its place, and phase 3 replaces phase 2 in the same way. Kall Fimbulbringer can't be staggered in any phase.
+
+When he first notices a player, the message "His hatred corrupts all!" is shown to all players. When phase 3 is defeated, the message "Peace settles over the world" is shown.
+
+===Phase 1===
+Kall Fimbulbringer attacks the player directly. In this phase it is resistant to [[Damage types#Pierce|Pierce]], [[Damage types#Fire|Fire]], [[Damage types#Frost|Frost]] and [[Damage types#Lightning|Lightning]] damage and immune to [[Damage types#Spirit|Spirit]] damage.
+* '''Chain Slam''': 160 [[Damage types#Blunt|Blunt]], 300 [[Damage types#Chop|Chop]] and 300 [[Damage types#Pickaxe|Pickaxe]] damage. There are left and right variants, each as a single and a double slam, all with the same damage. Each variant can be used every three seconds within 12 meters. The single slams are only used at 50% health or more, the double left slam only at 75% health or less, and the double right slam only at 50% health or less.
+* '''Chain Whirl''': an area attack dealing 150 Blunt, 20 Frost, 300 Chop and 300 Pickaxe damage. It can be used every 10 seconds within 8 meters.
+* '''Chain Rush''': 125 Blunt, 125 Pierce, 300 Chop and 300 Pickaxe damage. It can be used every 10 seconds within 1–12 meters.
+* '''Double Sweep''': 150 Blunt, 200 Chop and 200 Pickaxe damage. It can be used every three seconds within 2–12 meters.
+
+===Phase 2===
+Kall Fimbulbringer hides inside an invincible block of ice. In this phase it is immune to all damage types that players deal.
+
+During this phase, spirits of the previous [[Boss]]es, called aspects, are summoned. They have most of the abilities of the original bosses, although not all of them.
+The first aspect is the Aspect of the Lightning Stag ([[Eikthyr]]) alone. When it is defeated, the Aspect of the Living Forest ([[The Elder]]) and the Aspect of the Writhing Dead ([[Bonemass]]) appear together. Each of these two is followed by another aspect when defeated: the Living Forest by the Aspect of the Dragon Mother ([[Moder]]) and then the Aspect of the Crawling Matriarch ([[The Queen]]), and the Writhing Dead by the Aspect of the Twisted Soul ([[Yagluth]]) and then the Aspect of the Emerald Flame ([[Fader]]).
+
+{| class="wikitable"
+! Aspect !! Boss !! Health !! Appears after
+|-
+| Aspect of the Lightning Stag || [[Eikthyr]] || 3,000 || Phase 1 is defeated
+|-
+| Aspect of the Living Forest || [[The Elder]] || 1,600 || Lightning Stag
+|-
+| Aspect of the Writhing Dead || [[Bonemass]] || 1,600 || Lightning Stag
+|-
+| Aspect of the Dragon Mother || [[Moder]] || 1,500 || Living Forest
+|-
+| Aspect of the Twisted Soul || [[Yagluth]] || 1,700 || Writhing Dead
+|-
+| Aspect of the Crawling Matriarch || [[The Queen]] || 1,700 || Dragon Mother
+|-
+| Aspect of the Emerald Flame || [[Fader]] || 1,700 || Twisted Soul
+|}
+
+Kall Fimbulbringer's phase 2 health only goes down when an aspect dies. Each aspect releases an explosion on death that deals 1,000 damage to him. With one player and default world settings, the seven explosions add up to the full 7,000 health, so the phase ends when all aspects have been defeated.
+
+===Phase 3===
+Kall Fimbulbringer attacks the player directly, with more powerful attacks than phase 1. In addition, he can summon Tendrils every 45 seconds when a player is within 30 meters. Tendrils have 80 health and disappear after 9–12 seconds. They don't move, and they shoot lightning bolts, the same projectile [[Hexen]] use, dealing 55 Blunt, 20 Chop and 20 Pickaxe damage every five seconds at targets within 40 meters. Tendrils are weak to Fire, resistant to Frost and immune to [[Damage types#Poison|Poison]].
+
+Its resistances are the same as in phase 1.
+* '''Chain Slam''': 120 Blunt, 50 Fire, 50 Frost, 300 Chop and 300 Pickaxe damage. There are left and right double-slam variants with the same damage, each usable every three seconds within 1–12 meters.
+* '''Chain Whirl''': an area attack dealing 120 Blunt, 50 Fire, 50 Frost, 300 Chop and 300 Pickaxe damage. It is only used at 75% health or more, every 20 seconds within 8 meters.
+* '''Punch''': an area attack dealing 150 Blunt, 300 Chop and 300 Pickaxe damage. It can be used every eight seconds within 8 meters.
+* '''Chain Flurry''': 250 Blunt, 200 Chop and 200 Pickaxe damage. It is only used at 50% health or less, every three seconds within 2–12 meters.
+* '''Double Sweep''': 150 Blunt, 200 Chop and 200 Pickaxe damage. It can be used every three seconds within 2–12 meters.
+* '''Spike Rain''': 100 Blunt, 100 Frost (x22), 100 Chop and 100 Pickaxe damage. It is only used at 35% health or less, every 25 seconds within 20 meters.
+* '''Tendril spawn''': summons Tendrils.
+
+== Aftermath ==
+=== Drops ===
+{{CreatureDrops|stars=0}}
+=== World keys ===
+Defeating phase 1 sets the world key <code>defeated_frozenking</code>. Defeating phase 3 sets <code>defeated_frozenking_p3</code>.
+=== Traders ===
+Defeating Kall Fimbulbringer unlocks [[Seasoning of the Gourd]] from [[The Bog Witch]], five for 220 [[Coins]].
+
+== Achievements ==
+{{Achievement|Boss8FrozenKing}}
+{{Achievement|AllBosses}}
+{{Achievement|AllBossesNormal}}
+{{Achievement|AllBossesHard}}
+{{Achievement|KillAllCreatures}}
+{{Achievement|KillAllCreaturesHard}}
+{{Achievement|KingsQueens}}
+{{Achievement|ChildOfOdin}}
+
+{{CreaturesNav}}
+[[ru:Келл Вестник Зимы]]

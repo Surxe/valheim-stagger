@@ -1,0 +1,78 @@
+'''{{PAGENAME}}''' is a [[Weapons|weapon]] class.
+
+Spears have a fast attack with short range and low stamina cost.
+
+The secondary attack throws the spear, which can be retrieved by the player.
+
+{{See also|Spears (Skill)}}
+
+== List of spears ==
+{| class="wikitable sortable"
+!<onlyinclude>Name!! Icon!! data-sort-type="number" |Damage
+!Stamina
+(primary)
+!Stamina
+(secondary)
+|-
+|[[Flint Spear]]||[[File:Flint spear.png]]||Pierce: 20/38
+|6
+|8
+|-
+|[[Bronze Spear]]||[[File:Bronze spear.png]]||Pierce: 35/53
+|8
+|10
+|-
+|[[Ancient Bark Spear]]||[[File:Ancient Bark Spear.png]]||Pierce: 55/73
+|10
+|12
+|-
+|[[Fang Spear]]||[[File:Fang spear.png]]||Pierce: 75/93
+|12
+|14
+|-
+|[[Carapace Spear]]||[[File:Carapace spear.png|frameless]]||Pierce: 115/133
+|16
+|18
+|-
+|[[Splitnir]]||[[File:Splitnir.png|frameless]]||Pierce: 135/153
+|16
+|18
+|-
+|[[Nord Spear]]||[[File:Nord Spear.png|frameless]]||Pierce: 170/200
+|16
+|18</onlyinclude>
+|-
+|}
+
+== Properties ==
+{| class="wikitable"
+|-
+! Attack type 
+!Stamina!! Range !! Attack speed
+!Damage 
+![[Stagger|Staggering]]
+!Knockback !! Notes
+|-
+| Spears (primary) 
+|1x|| 1.9m || 0.68s
+|1x
+|1x
+|20
+| Player moves forward 0.33m. 40 degree arc. No 3-hit combo.
+|-
+| Spears (secondary) 
+|1x + 2|| Thrown || 1.04s (includes picking up)
+|1.5x
+|1x
+|1.5x|| Throws the spear. Can be picked up afterward. Floats on water.
+|}
+
+==Gallery==
+<gallery>
+Spears Hitbox.jpg | Spears hitboxes
+</gallery>
+
+[[Category:Weapons]]
+[[Category:Spears]]
+{{WeaponsNav}}
+[[ru:Копья]]

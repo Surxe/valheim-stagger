@@ -1,0 +1,73 @@
+{{infobox creature
+| image 0star   = Neck.png
+| image 1star   = Neck 1star.png
+| image 2star   = Neck 2star.png
+| trophy        = Neck trophy
+| trophy description = The beady eyes and razorsharp teeth belies the ostensibly calm nature of this small lizard.
+| trophy id     = TrophyNeck
+| id            = Neck
+| location      = [[Meadows]]
+| health 0star  = 5
+| damage 0star  = Bite: 6 Slash
+| health 1star  = 10
+| damage 1star  = Bite: 9 Slash
+| health 2star  = 15
+| damage 2star  = Bite: 12 Slash
+| abilities     =Bite (4s) 
+| veryweak      = 
+| weak          = Fire
+| resistant     = Poison
+| veryresistant = 
+| immune        = Spirit
+| stagger       = 50%
+|faction=Forest}}
+
+'''Necks''' are aggressive [[creatures]] found in [[Meadows]] near water. They are amphibious in nature with four eyes and lily pads protruding out of their bodies. 
+
+==Drops==
+{{CreatureDrops}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] near water in [[Meadows]]|limit=6|stars=After 800 meters from the world center}}
+{{spawn row|type=[[Spawn zones|Anywhere]] below 10 meter altitude in [[Meadows]] when raining|limit=8|frequency=5|stars=After 800 meters from the world center}}
+{{spawn row|type=During "Eikthyr rallies the creatures of the forest" [[Events|event]] before defeating [[Eikthyr]]|limit=2|frequency=6|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Meadows#Alternative biomes|Smalltree Meadows]] near water|limit=6|frequency=3|stars=Yes}}
+{{spawn row|type=[[Spawn zones]] in [[Meadows#Alternative biomes|Smalltree Meadows]] when raining|limit=8|frequency=0.5|stars=Yes}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Necks|Aggressive creature strategies#Neck}}
+
+=== Bite ===
+Bites down on the player with a horizontally-arched attack hitbox 1.7 meters long and 90 degrees across (6 [[Damage types#Blunt|Slash]] damage). This attack can be used every 4 seconds when within 1.2 meters of a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+One star neck.png|A 1-star Neck has light blue skin.
+2 Star Neck.png|A 2-star Neck.
+2starandnormalneck.png|A 2-star and a normal Neck.
+</gallery>
+
+== Notes ==
+* Though the Runestone's information about them described Necks as lizard-like creatures, they also resembled frogs due to the presence of lily pads on their bodies and their proclivity for hanging around marshy pond areas. The latter alludes to their mythological counterpart's nature as humanoid, shapeshifting water spirits.
+*Necks are typically found near shorelines. Especially during rainy weather, necks may be present further inland. 
+*They seem to be capable of eating planted crops, such as onions. Beware when growing things where necks can spawn!
+
+== Lore ==
+{{Quote|Blue-eyed shufflers in muck, the neck are small lizards native to Valheim. Surly and mean-spirited, they will attack on sight and must be destroyed like vermin. They stay near water because the creatures of the land loathe and abhor them. 
+Yet no creature is all bad. Their tails are delicious.|[[Runestone]]}}
+
+The runestone's hostility toward Necks is racially motivated. It does not object to any individual Neck; it condemns the species as a whole, saying that Necks "must be destroyed like vermin" and that "the creatures of the land loathe and abhor them".<ref>In-game text, Meadows runestone (<code>$lore_meadows_random07</code>).</ref>
+
+== References ==
+<references />
+
+{{Creatures}}
+
+[[fr:Nixe]]
+[[cs:Neck]]
+[[ru:Никс]]
+[[uk:Водяник]]
+[[de:Nixe]]
+[[pt-br:Lagarto]]

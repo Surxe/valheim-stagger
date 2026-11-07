@@ -1,0 +1,89 @@
+{{Infobox_weapon
+| title             = Vilebone Maulclaws
+| image             = Vilebone Maulclaws.png
+| description       = These claws will rend flesh and bone alike.
+| id                = FistBjornUndeadClaw
+| type              = fists
+| source            = [[Forge]]
+| crafting level    = 4
+| repair level      = 4
+| slash             = 20
+| pierce            = 60
+| materials 1 = 
+* [[Bear Hide]] x2
+* [[Vile Ribcage]] x2
+* [[Black Metal]] x2
+* [[Linen Thread]] x4
+| materials 2 = 
+* [[Bear Hide]] x1
+* [[Vile Ribcage]] x1
+* [[Black Metal]] x1
+* [[Linen Thread]] x2
+| materials 3 = 
+* [[Bear Hide]] x2
+* [[Vile Ribcage]] x2
+* [[Black Metal]] x2
+* [[Linen Thread]] x4
+| materials 4 = 
+* [[Bear Hide]] x3
+* [[Vile Ribcage]] x3
+* [[Black Metal]] x3
+* [[Linen Thread]] x6
+| idol           = * [[Black Metal Battle Idol]]
+| stamina = 12}}
+
+'''Vilebone Maulclaws''' are the third [[Fists|fist weapon]] crafted from materials found in the [[Plains]].
+
+* The primary attack is a 2-hit combo with 2x damage at the second hit.
+* The secondary attack is a kick which does additional knockback and 6x [[staggering]].
+* They deal 6x damage against [[Creature senses|unalerted]] enemies.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|20
+|24
+|28
+|32
+|
+|-
+!Pierce
+|60
+|60
+|60
+|60
+|
+|-
+!Durability
+|300
+|350
+|400
+|450
+|
+|-
+!Crafting
+|2 [[Bear Hide]]<br>2 [[Vile Ribcage]]<br>2 [[Black Metal]]<br>4 [[Linen Thread]]
+|1 [[Bear Hide]]<br>1 [[Vile Ribcage]]<br>1 [[Black Metal]]<br>2 [[Linen Thread]]
+|2 [[Bear Hide]]<br>2 [[Vile Ribcage]]<br>2 [[Black Metal]]<br>4 [[Linen Thread]]
+|3 [[Bear Hide]]<br>3 [[Vile Ribcage]]<br>3 [[Black Metal]]<br>6 [[Linen Thread]]
+|8 [[Bear Hide]]<br>8 [[Vile Ribcage]]<br>8 [[Black Metal]]<br>16 [[Linen Thread]]
+{{Upgrade station row|Forge|4|start=3|addcol=1}}
+|}
+
+* Vilebone Maulclaws can also be upgraded at the [[Forge of Potential]] with a [[Black Metal Battle Idol]].
+
+== Trivia ==
+* The secondary attack is enough to stagger most creatures 
+* Vilebone Maulclaws like other fist weapons are the most durable of any weapon in the game by having durability value of 450 at max level.
+
+{{WeaponsNav}}
+
+[[ru:Гнилокостные когти]]
+[[Category:Unarmed]]

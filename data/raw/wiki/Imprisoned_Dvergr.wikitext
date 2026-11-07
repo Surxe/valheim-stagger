@@ -1,0 +1,84 @@
+{{Infobox creature
+| title=Imprisoned Dvergr
+| image 0star = Imprisoned Dvergr.png
+| id=DvergerDeepNorth
+| faction       = Dvergr
+| location      = [[Mörkhalla]]
+| trophy = Dvergr Trophy
+| trophy id = TrophyDvergr
+| trophy description = It's frankly a little troubling that you would consider hanging these on your wall...
+| drops         = [[Coins]]<br>[[Grimvarn]]<br>[[Solryth]]<br>[[Veydris]]<br>[[Draumyx]]<br>[[Dvergr Trophy]]
+| health 0star  = 1500
+| damage 0star  =
+* Shoot: 250 Pierce
+* Melee: 140 Blunt
+| health 1star  = 3000
+| damage 1star  =
+* Shoot: 375 Pierce
+* Melee: 210 Blunt
+| health 2star  = 4500
+| damage 2star  =
+* Shoot: 500 Pierce
+* Melee: 280 Blunt
+| abilities     =
+* Shoot (6 seconds)
+* Melee (4 seconds)
+| veryweak      =
+| weak          =
+| resistant     =
+| veryresistant =
+| immune        = Spirit
+| stagger       = 30%
+}}
+'''Imprisoned Dvergr''' are neutral [[Deep North]] creatures found in [[Mörkhalla]].
+
+Like other [[Dvergr Rogue|Dvergr]], they don't attack players on their own. When a player damages one, it and all other neutral creatures within 20 meters, including other Dvergr, become hostile. They are enemies of the [[Factions|Deep North faction]], which includes [[Krigen]] and [[Hexen]], and the two sides fight each other.
+
+== Drops ==
+{{drop table|
+{{drop row|item=Coins|0star=10-19|1star=20-38|2star=40-76}}
+{{drop row|item=Dvergr Trophy|0star=5%|1star=5%|2star=5%}}
+{{drop row|item=Grimvarn|0star=10%|1star=2 (20%)|2star=4 (40%)}}
+{{drop row|item=Solryth|0star=10%|1star=2 (20%)|2star=4 (40%)}}
+{{drop row|item=Veydris|0star=10%|1star=2 (20%)|2star=4 (40%)}}
+{{drop row|item=Draumyx|0star=10%|1star=2 (20%)|2star=4 (40%)}}
+|stars=2}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=Spawn point in [[Mörkhalla]]|frequency=0|stars=Yes}}
+}}
+
+==Attacks and abilities==
+Imprisoned Dvergr have similar attack patterns as regular [[Dvergr Rogue]] and [[Ashlands Dvergr]] but their health and damage are superior.
+
+* '''Shoot''': a projectile from their [[Arbalest]] dealing 250 [[Damage types#Pierce|Pierce]] damage. The bolt travels at 40 meters per second. This attack can be used every six seconds when within 1–15 meters of a target.
+* '''Melee''': 140 [[Damage types#Blunt|Blunt]] damage in a 2.5-meter, 90-degree arc. This attack can be used every four seconds when within 0.5–2.5 meters of a target.
+
+==Quotes==
+{{Collapsible|Show quotes|Expand/Retract|
+Greet
+* Who goes there?
+* Hey! You there!
+* Help me get out of here!
+* A hand, perhaps?
+* Over here!
+* I'll help you if you help me.
+Goodbye
+* Don't worry about me, I'll be fine without you.
+* I suppose I'll find my own way out.
+* Slay all the giantkind you can!
+* Until we meet again, then.
+* What are you looking at?
+* I'm so far from home...
+* Are you leaving?
+Aggravated
+* You really shouldn't have done that!
+* I'll get you for that!
+* You're going down!
+* I'll feed you to a bloody Asksvin!
+* Oh you little–}}
+
+{{CreaturesNav}}
+{{WeaponsNav}}
+[[ru:Плененный дверг]]

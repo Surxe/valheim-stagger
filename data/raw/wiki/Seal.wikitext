@@ -1,0 +1,71 @@
+{{InfoboxTabber
+|Seal|
+{{infobox creature
+| title         =Seal
+| image 0star   =Seal.png
+| image 1star   =Seal 1star.png
+| image 2star   =Seal 2star.png
+| trophy        =Seal Trophy
+| trophy description =This animal never did any harm, yet it met an untimely end.
+| trophy id     =TrophySeal
+| id            =Seal
+| faction       =Deep North
+| location      =[[Deep North]]
+| tameable      =No
+| health 0star  = 400
+| damage 0star  = 
+| health 1star  = 800
+| damage 1star  =
+| health 2star  = 1200
+| damage 2star  =
+| abilities     =
+| veryweak      =
+| weak          =Fire
+| resistant     =
+| veryresistant =
+| immune        =Spirit, Stagger
+| stagger       =
+}}
+|Baby|
+{{infobox creature
+| title         =Baby Seal
+| image 0star   =Baby Seal.png
+| trophy        =
+| id            =Seal_Pup
+| faction       =Deep North
+| location      =[[Deep North]]
+| health 0star  = 200
+| abilities     = Look cute
+| veryweak      =
+| weak          =
+| resistant     =
+| veryresistant =
+| immune        =Spirit, Stagger
+| stagger       =
+}}
+}}
+'''Seals''' are passive creatures found on the shores and [[Abandoned Village|Abandoned Villages]] of the [[Deep North]]. They come in 0, 1 and 2-star variants.
+
+'''Baby Seals''' are seal pups. They spawn on the same shorelines as adult seals, in groups of one to three, and never have stars.
+
+Neither Seals nor Baby Seals have any attacks.
+
+== Drops ==
+=== Seal ===
+{{CreatureDrops|stars=2}}
+
+=== Baby Seal ===
+{{CreatureDrops|id=Seal_Pup|stars=0}}
+
+== Spawning ==
+=== Seal ===
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Deep North]] at altitudes -2 to 5 (shorelines), in groups of one to two|limit=5|stars=Yes}}
+}}
+
+=== Baby Seal ===
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Deep North]] at altitudes -2 to 5 (shorelines), in groups of one to three|limit=3|stars=No}}
+}}
+
+{{CreaturesNav}}

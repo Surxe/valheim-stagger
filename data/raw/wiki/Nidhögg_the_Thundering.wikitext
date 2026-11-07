@@ -1,0 +1,79 @@
+{{Infobox weapon
+| title             = Nidhögg the Thundering
+| image             = Nidhögg the Thundering.png
+| description       = The power of lightning dances along the blade of this sword, a promise of the pain to come.
+| id                = SwordNiedhoggLightning
+| type              = Sword
+| source            = [[Black Forge]]
+| durability        = 300
+| crafting level    = 4
+| repair level      = 4
+| slash             = 135
+| lightning         = 10
+| knockback         = 40
+| materials 1 = 
+*[[Nidhögg]] x1
+*[[Flametal]] x6 
+*[[Iolite]] x1
+| materials 2 = 
+*[[Flametal]] x6 
+*[[Iolite]] x1
+| materials 3 = 
+*[[Flametal]] x12
+*[[Iolite]] x2
+| materials 4 = 
+*[[Flametal]] x24
+*[[Iolite]] x4
+| idol              = * [[Flametal Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 57
+| movement speed    = -5%
+}}
+
+'''Nidhögg the Thundering''' is the upgraded form of [[Nidhögg]] using the [[Iolite]]. Like all upgraded-weapons that use [[Iolite]], they gain 10 [[Lightning|lightning damage]] and their hit effect has a 25% chance to apply [[Chain Lightning]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+An upgraded Nidhögg will '''NOT''' keep its upgrade level when it is crafted into Nidhögg the Thundering.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|135
+|141
+|147
+|153
+|-
+!Lightning
+|10
+|10
+|10
+|10
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|1 [[Nidhögg]]<br>6 [[Flametal]]<br>1 [[Iolite]]
+|6 [[Flametal]]<br>1 [[Iolite]]
+|12 [[Flametal]]<br>2 [[Iolite]]
+|24 [[Flametal]]<br>4 [[Iolite]]
+{{Upgrade station row|Black forge|4|start=4}}
+|}
+
+* Nidhögg the Thundering can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+{{Weapons}}
+
+[[ru:Громовой нидхёгг]]

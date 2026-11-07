@@ -1,0 +1,93 @@
+{{Infobox weapon
+| description = Dipped in frozen flames, this spear spells certain doom.
+| type = Spear
+| id = SpearGold_FrostFire
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| pierce             = 148
+| pierce per level = 10
+| fire = 12
+| fire per level = 3
+| frost = 88
+| frost per level = 3
+| knockback         = 20
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Spear]] x1
+* [[Frostfire Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Frostfire Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Frostfire Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Frostfire Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 16
+| stamina secondary = 18
+| block armor       = 66
+| movement speed    = 
+| weight=1.5
+| special = 
+}}
+
+'''Frostfire Spear''' is a version of [[Nord Spear]] upgraded with a [[Frostfire Essence]]. It loses a small amount of [[Pierce|pierce damage]] in exchange for a larger amount of [[fire]] and [[Frost|frost damage]].
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+An upgraded Nord Spear will '''NOT''' keep its upgrade level when it is crafted into Frostfire Spear.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|148
+|158
+|168
+|178
+|
+|-
+!Fire
+|12
+|15
+|18
+|21
+|
+|-
+!Frost
+|88
+|91
+|94
+|97
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Spear}} x1<br> {{item link|Frostfire Essence}} x1
+| [[Bloodgold]] x10<br> [[Frostfire Essence]] x1
+| [[Bloodgold]] x20<br> [[Frostfire Essence]] x2
+| [[Bloodgold]] x40<br> [[Frostfire Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Spear]] x1<br>[[Frostfire Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Frostfire Spear can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Valheim Stagger Matrix</title>
+<style>
+:root {
+  --bg: #f6f5f2; --panel: #ffffff; --ink: #1d1d1b; --muted: #6b6a66; --line: #e2e0da;
+  --accent: #8a5a2b;
+  --s1: #1f7a4d; --s1-ink: #fff;    /* one swing */
+  --s2: #5fae7e; --s2-ink: #0d2a1a; /* 2 swings */
+  --s3: #b9dcc4; --s3-ink: #12301f; /* 3-4 */
+  --s5: #f1e3b0; --s5-ink: #3d3110; /* 5+ */
+  --never: #ece9e3; --never-ink: #9a968d;
+  --immune: #dcd9d2;
+  --hatch: rgba(0,0,0,.18);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161614; --panel: #1f1e1c; --ink: #ecebe6; --muted: #9c9a93; --line: #34322e;
+    --accent: #d9a066;
+    --s1: #2f9e66; --s1-ink: #fff; --s2: #2b6e48; --s2-ink: #e6f5ec; --s3: #23452f; --s3-ink: #cfe8d8;
+    --s5: #514620; --s5-ink: #f4e7b8; --never: #262522; --never-ink: #6d6a63; --immune: #2c2b28; --hatch: rgba(255,255,255,.22);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161614; --panel: #1f1e1c; --ink: #ecebe6; --muted: #9c9a93; --line: #34322e;
+  --accent: #d9a066;
+  --s1: #2f9e66; --s1-ink: #fff; --s2: #2b6e48; --s2-ink: #e6f5ec; --s3: #23452f; --s3-ink: #cfe8d8;
+  --s5: #514620; --s5-ink: #f4e7b8; --never: #262522; --never-ink: #6d6a63; --immune: #2c2b28; --hatch: rgba(255,255,255,.22);
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--bg); color: var(--ink);
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+header { padding: 20px 16px 8px; max-width: 1400px; margin: 0 auto; }
+h1 { font-size: 20px; margin: 0 0 4px; letter-spacing: .01em; }
+.sub { color: var(--muted); margin: 0; }
+main { max-width: 1400px; margin: 0 auto; padding: 0 16px 40px; }
+.controls { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: end; background: var(--panel);
+  border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin: 12px 0; }
+.ctl { display: flex; flex-direction: column; gap: 4px; }
+.ctl > span { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+select, input[type=number] { font: inherit; color: var(--ink); background: var(--bg); border: 1px solid var(--line);
+  border-radius: 6px; padding: 5px 8px; }
+input[type=range] { width: 140px; accent-color: var(--accent); }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.seg button { font: inherit; border: 0; background: var(--bg); color: var(--ink); padding: 5px 10px; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed=true] { background: var(--accent); color: var(--bg); }
+.summary { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px;
+  margin-bottom: 12px; display: flex; flex-wrap: wrap; gap: 6px 22px; }
+.summary b { font-variant-numeric: tabular-nums; }
+.wrap { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
+table { border-collapse: separate; border-spacing: 0; width: 100%; font-variant-numeric: tabular-nums; }
+th, td { padding: 4px 6px; text-align: center; white-space: nowrap; }
+thead th { position: sticky; top: 0; background: var(--panel); z-index: 2; font-weight: 600;
+  border-bottom: 1px solid var(--line); font-size: 12px; }
+thead tr:first-child th { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+th.row { text-align: left; font-weight: 500; position: sticky; left: 0; background: var(--panel); z-index: 1;
+  border-right: 1px solid var(--line); }
+th.row small { color: var(--muted); font-weight: 400; margin-left: 6px; }
+tr.group th { text-align: left; background: var(--bg); color: var(--accent); font-size: 12px;
+  text-transform: uppercase; letter-spacing: .06em; padding-top: 10px; position: static; }
+td.c { min-width: 38px; border-radius: 4px; border: 2px solid var(--panel); font-weight: 600; cursor: default; }
+td.sep, th.sep { border-left: 2px solid var(--line); }
+.k1 { background: var(--s1); color: var(--s1-ink); }
+.k2 { background: var(--s2); color: var(--s2-ink); }
+.k3 { background: var(--s3); color: var(--s3-ink); }
+.k5 { background: var(--s5); color: var(--s5-ink); }
+.kn { background: var(--never); color: var(--never-ink); font-weight: 400; }
+.ki { background: var(--immune); color: var(--never-ink); font-weight: 400; }
+.dead { background-image: repeating-linear-gradient(135deg, transparent 0 5px, var(--hatch) 5px 7px); }
+.na { color: var(--line); }
+.legend { display: flex; flex-wrap: wrap; gap: 10px 16px; margin: 10px 2px; color: var(--muted); font-size: 12px; align-items: center; }
+.legend i { display: inline-block; width: 22px; height: 16px; border-radius: 3px; vertical-align: middle; margin-right: 5px; font-style: normal; text-align: center; font-size: 11px; line-height: 16px; font-weight: 600; }
+details { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; margin-top: 14px; }
+details summary { cursor: pointer; font-weight: 600; }
+details li { margin: 3px 0; }
+code { font-size: 12px; background: var(--bg); padding: 1px 4px; border-radius: 4px; }
+#tip { position: fixed; pointer-events: none; z-index: 10; background: var(--ink); color: var(--bg);
+  padding: 7px 9px; border-radius: 6px; font-size: 12px; line-height: 1.4; max-width: 300px; display: none; }
+.warn { color: var(--accent); }
+@media (max-width: 640px) { input[type=range] { width: 100px; } h1 { font-size: 18px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Valheim Stagger Matrix</h1>
+  <p class="sub">Swings of continuous attacking needed to stagger, with stagger decay simulated. Data is from the Valheim wiki and unverified against game files.</p>
+</header>
+<main>
+  <div class="controls">
+    <div class="ctl"><span>View</span>
+      <div class="seg" id="view"><button data-v="creature">By creature</button><button data-v="weapon">By weapon</button></div></div>
+    <div class="ctl" id="pickCreature"><span>Creature</span><select id="creature"></select></div>
+    <div class="ctl" id="pickWeapon"><span>Weapon</span><select id="weapon"></select></div>
+    <div class="ctl" id="pickStars"><span>Creature stars</span>
+      <div class="seg" id="stars"><button data-v="0">0&#9733;</button><button data-v="1">1&#9733;</button><button data-v="2">2&#9733;</button></div></div>
+    <div class="ctl" id="pickQuality"><span>Weapon quality</span>
+      <div class="seg" id="quality"><button data-v="1">1</button><button data-v="2">2</button><button data-v="3">3</button><button data-v="4">4</button></div></div>
+    <div class="ctl"><span>Skill <b id="skillv"></b></span><input type="range" id="skill" min="0" max="100" step="1"></div>
+    <div class="ctl"><span>Damage roll</span>
+      <div class="seg" id="roll"><button data-v="min">Low</button><button data-v="avg">Avg</button><button data-v="max">High</button></div></div>
+    <div class="ctl"><span>Players</span><input type="number" id="players" min="1" max="10" step="1" style="width:64px"></div>
+    <div class="ctl"><span>World level</span><input type="number" id="wl" min="0" max="10" step="1" style="width:64px"></div>
+  </div>
+  <div class="summary" id="summary"></div>
+  <div class="legend">
+    <span><i class="k1">1</i>one swing</span><span><i class="k2">2</i>2 swings</span><span><i class="k3">3</i>3&ndash;4</span>
+    <span><i class="k5">7</i>5+</span><span><i class="kn">&ndash;</i>never (decay wins)</span><span><i class="ki">&empty;</i>immune / no stagger damage</span>
+    <span><i class="k3 dead">3</i>dies before or on the staggering hit</span>
+  </div>
+  <div class="wrap"><table id="grid"></table></div>
+  <details>
+    <summary>How this is calculated</summary>
+    <ul>
+      <li><b>Stagger limit</b> = max health &times; the creature's stagger factor. Max health = base &times; (stars + 1), so a 2&#9733; enemy needs <b>3&times;</b> the stagger of a 0&#9733; one.</li>
+      <li><b>Each hit adds</b> (blunt + slash + pierce + lightning) after the attack's damage multiplier (combo finisher 2&times;, secondaries), the random skill roll, the creature's resistances, world-level armor and multiplayer scaling, then &times; the attack's stagger multiplier.</li>
+      <li><b>Decay</b>: the meter drains by limit / 5 every second (full meter empties in 5&nbsp;s). Attacks repeat their combo with the wiki-measured swing timings, nonstop, starting from an empty meter. "Never" means the meter plateaus below the limit or is still short after 60&nbsp;s.</li>
+      <li><b>Skill roll</b>: damage &times; a random factor in [lerp(0.4, 1, skill/100) &plusmn; 0.15], clamped to 0&ndash;1. "Low" is the guaranteed case (0.85 at skill 100).</li>
+      <li><b>Not modeled</b>: sneak-attack bonus, weak points, multi-target penalties, status effects (e.g. Fader's power), parries (instant stagger), the double damage while already staggered, hits that miss.</li>
+      <li>Formulas come from the decompiled game code (<code>Character.AddStaggerDamage</code>, <code>UpdateStagger</code>, <code>ApplyDamage</code>). The per-creature and per-weapon numbers are from the wiki and still need verification against game data.</li>
+    </ul>
+  </details>
+  <p class="sub" id="meta" style="margin-top:10px;font-size:12px"></p>
+</main>
+<div id="tip"></div>
+<script>
+/*__STAGGER_JS__*/
+</script>
+<script>
+(function () {
+  "use strict";
+  const DATA = /*__DATA__*/null;
+  const W = DATA.weapons, C = DATA.creatures;
+  const ATTACKS = ["primary", "secondary"];
+  const BIOME_ORDER = ["Meadows", "Black Forest", "Swamp", "Mountains", "Plains", "Mistlands", "Ashlands", "Deep North", "Ocean", null];
+  const CLASS_ORDER = ["Swords", "Axes", "Clubs", "Spears", "Polearms", "Knives", "Fists"];
+  const $ = (id) => document.getElementById(id);
+
+  const store = {
+    get(k, d) { try { const v = localStorage.getItem("vstagger." + k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set(k, v) { try { localStorage.setItem("vstagger." + k, JSON.stringify(v)); } catch (e) {} },
+  };
+  const def = DATA.defaults || {};
+  const state = {
+    view: store.get("view", "creature"),
+    creature: store.get("creature", "troll"),
+    weapon: store.get("weapon", "iron-sledge"),
+    stars: store.get("stars", 0),
+    quality: store.get("quality", 4),
+    skill: store.get("skill", def.skill ?? 100),
+    roll: store.get("roll", def.roll ?? "min"),
+    players: store.get("players", def.players ?? 1),
+    wl: store.get("wl", def.world_level ?? 0),
+  };
+  const cond = () => ({ skill: state.skill, roll: state.roll, players: state.players, world_level: state.wl });
+
+  function byKey(arr, key, order) {
+    const groups = new Map();
+    for (const o of order) groups.set(o, []);
+    for (const x of arr) { if (!groups.has(x[key])) groups.set(x[key], []); groups.get(x[key]).push(x); }
+    return [...groups].filter(([, v]) => v.length);
+  }
+
+  function fillSelect(sel, items, groupKey, order, labelFn) {
+    sel.innerHTML = "";
+    for (const [g, list] of byKey(items, groupKey, order)) {
+      const og = document.createElement("optgroup");
+      og.label = g || "Other";
+      for (const x of list) { const o = document.createElement("option"); o.value = x.id; o.textContent = labelFn(x); og.appendChild(o); }
+      sel.appendChild(og);
+    }
+  }
+
+  function seg(id, key, parse) {
+    const el = $(id);
+    el.addEventListener("click", (e) => {
+      const b = e.target.closest("button"); if (!b) return;
+      state[key] = parse(b.dataset.v); store.set(key, state[key]); render();
+    });
+  }
+  function syncSeg(id, val) { for (const b of $(id).querySelectorAll("button")) b.setAttribute("aria-pressed", String(b.dataset.v === String(val))); }
+
+  function cellClass(r) {
+    if (!r) return "na";
+    if (r.immune || r.no_damage) return "ki";
+    if (!r.staggered) return "kn";
+    const k = r.swings === 1 ? "k1" : r.swings === 2 ? "k2" : r.swings <= 4 ? "k3" : "k5";
+    return k + (r.dies_first ? " dead" : "");
+  }
+  function cellText(r) {
+    if (!r) return "";
+    if (r.immune || r.no_damage) return "∅";
+    if (!r.staggered) return "–";
+    return String(r.swings);
+  }
+  function tipText(r, w, q, a, c, s) {
+    if (!r) return "";
+    const lines = [`<b>${w.name}</b> q${q} ${a} vs <b>${c.name}</b> ${s}★`];
+    lines.push(`Stagger limit ${r.threshold.toFixed(1)} · decays ${(r.threshold / 5).toFixed(1)}/s`);
+    if (r.immune) { lines.push("Immune to stagger"); return lines.join("<br>"); }
+    const atk = w.attacks[a];
+    lines.push(`Per swing: ${r.swing_stagger.map((x) => x.toFixed(1)).join(" → ")} (×${atk.stagger} stagger, ${atk.label})`);
+    if (r.no_damage) lines.push("Deals no physical/lightning damage to this creature");
+    else if (r.staggered) {
+      lines.push(r.swings === 1 ? "Staggers in one swing" : `Staggers on swing ${r.swings} (hit ${r.hits}) after ${r.time_s.toFixed(2)} s`);
+      if (r.dies_first) lines.push(`<span class="warn">Dies first: ${r.damage_before_stagger.toFixed(0)} dmg ≥ ${r.health.toFixed(0)} hp</span>`);
+    } else lines.push(r.plateaued ? `Never: meter plateaus at ${(r.peak_fraction * 100).toFixed(0)}%` : `Too slow: ${(r.peak_fraction * 100).toFixed(0)}% after 60 s`);
+    if (atk.confidence === "inferred") lines.push('<span class="warn">Attack data inferred, not measured</span>');
+    return lines.join("<br>");
+  }
+
+  let tips = [];
+  function td(r, tip, extra) {
+    const i = tips.push(tip) - 1;
+    return `<td class="c ${cellClass(r)}${extra || ""}" data-t="${i}">${cellText(r)}</td>`;
+  }
+
+  function renderByCreature() {
+    const c = C.find((x) => x.id === state.creature) || C[0];
+    const s = state.stars, cd = cond();
+    const maxQ = 4;
+    let h = "<thead><tr><th class='row'></th>";
+    for (const a of ATTACKS) h += `<th colspan="${maxQ}" class="sep">${a}</th>`;
+    h += "</tr><tr><th class='row'>Weapon · quality →</th>";
+    for (const a of ATTACKS) for (let q = 1; q <= maxQ; q++) h += `<th${q === 1 ? " class='sep'" : ""}>${q}</th>`;
+    h += "</tr></thead><tbody>";
+    let any = 0, one = 0;
+    for (const [cls, list] of byKey(W, "class", CLASS_ORDER)) {
+      h += `<tr class="group"><th colspan="${1 + maxQ * 2}">${cls}</th></tr>`;
+      for (const w of list) {
+        h += `<tr><th class="row">${w.name}<small>${dmgLabel(w)}</small></th>`;
+        for (const a of ATTACKS) for (let q = 1; q <= maxQ; q++) {
+          const r = Stagger.evaluate(w, q, a, c, s, cd);
+          if (r && r.staggered) { any++; if (r.swings === 1) one++; }
+          h += td(r, r ? tipText(r, w, q, a, c, s) : "", q === 1 ? " sep" : "");
+        }
+        h += "</tr>";
+      }
+    }
+    $("grid").innerHTML = h + "</tbody>";
+    const thr = Stagger.threshold(c, s, cd);
+    $("summary").innerHTML = [
+      `<span><b>${c.name}</b> ${s}★ · ${c.biome || "Other"}</span>`,
+      `<span>Health <b>${Stagger.creatureHealth(c, s, cd).toFixed(0)}</b></span>`,
+      c.stagger_factor ? `<span>Stagger limit <b>${(c.stagger_factor * 100).toFixed(0)}%</b> = <b>${thr.toFixed(1)}</b>, decays <b>${(thr / 5).toFixed(1)}/s</b></span>` : "<span><b>Immune to stagger</b></span>",
+      `<span>Resists: ${modsLabel(c)}</span>`,
+      `<span>Skill factor <b>×${Stagger.skillFactor(cd).toFixed(2)}</b></span>`,
+      `<span><b>${any}</b> weapon/attack/quality combos stagger, <b>${one}</b> in one swing</span>`,
+      ...(c.warnings || []).map((x) => `<span class="warn">${x}</span>`),
+    ].join("");
+  }
+
+  function renderByWeapon() {
+    const w = W.find((x) => x.id === state.weapon) || W[0];
+    const q = Math.min(state.quality, w.max_quality), cd = cond();
+    const atks = ATTACKS.filter((a) => w.attacks[a]);
+    let h = "<thead><tr><th class='row'></th>";
+    for (const a of atks) h += `<th colspan="3" class="sep">${a} (${w.attacks[a].label}, ×${w.attacks[a].stagger})</th>`;
+    h += "</tr><tr><th class='row'>Creature · stars →</th>";
+    for (const a of atks) for (let s = 0; s <= 2; s++) h += `<th${s === 0 ? " class='sep'" : ""}>${s}★</th>`;
+    h += "</tr></thead><tbody>";
+    for (const [biome, list] of byKey(C, "biome", BIOME_ORDER)) {
+      h += `<tr class="group"><th colspan="${1 + atks.length * 3}">${biome || "Other"}</th></tr>`;
+      for (const c of list) {
+        const lim = c.stagger_factor ? `${(c.stagger_factor * 100).toFixed(0)}% · ${c.base_health}hp` : "immune";
+        h += `<tr><th class="row">${c.name}<small>${lim}</small></th>`;
+        for (const a of atks) for (let s = 0; s <= 2; s++) {
+          const r = Stagger.evaluate(w, q, a, c, s, cd);
+          h += td(r, tipText(r, w, q, a, c, s), s === 0 ? " sep" : "");
+        }
+        h += "</tr>";
+      }
+    }
+    $("grid").innerHTML = h + "</tbody>";
+    const atkInfo = atks.map((a) => {
+      const at = w.attacks[a];
+      const t = at.swings.reduce((x, y) => x + y.duration_s, 0);
+      return `<span>${a}: ${at.swings.map((sw) => sw.damage.map((d) => d + "×").join("+")).join(", ")} dmg, ×${at.stagger} stagger, ${t.toFixed(2)} s/cycle${at.confidence === "inferred" ? ' <span class="warn">(inferred)</span>' : ""}</span>`;
+    });
+    $("summary").innerHTML = [
+      `<span><b>${w.name}</b> q${q}/${w.max_quality} · ${w.class}${w.subgroup ? " · " + w.subgroup : ""}</span>`,
+      `<span>Damage: <b>${dmgLabel(w, q)}</b></span>`,
+      ...atkInfo,
+      `<span>Skill factor <b>×${Stagger.skillFactor(cd).toFixed(2)}</b></span>`,
+      ...(w.warnings || []).map((x) => `<span class="warn">${x}</span>`),
+    ].join("");
+  }
+
+  function dmgLabel(w, q) {
+    const d = w.damage_by_quality[(q || 1) - 1];
+    return Object.entries(d).map(([k, v]) => `${k} ${v}`).join(", ");
+  }
+  function modsLabel(c) {
+    const m = Object.entries(c.damage_modifiers || {}).filter(([k]) => ["blunt", "slash", "pierce", "lightning"].includes(k));
+    return m.length ? m.map(([k, v]) => `${k} <b>${v.replace("_", " ")}</b>`).join(", ") : "none (physical)";
+  }
+
+  function render() {
+    tips = [];
+    syncSeg("view", state.view); syncSeg("stars", state.stars); syncSeg("quality", state.quality); syncSeg("roll", state.roll);
+    const byC = state.view === "creature";
+    $("pickCreature").hidden = !byC; $("pickStars").hidden = !byC;
+    $("pickWeapon").hidden = byC; $("pickQuality").hidden = byC;
+    $("creature").value = state.creature; $("weapon").value = state.weapon;
+    $("skill").value = state.skill; $("skillv").textContent = state.skill;
+    $("players").value = state.players; $("wl").value = state.wl;
+    byC ? renderByCreature() : renderByWeapon();
+  }
+
+  fillSelect($("creature"), C, "biome", BIOME_ORDER, (c) => c.name + (c.stagger_factor ? "" : " (immune)"));
+  fillSelect($("weapon"), W, "class", CLASS_ORDER, (w) => w.name);
+  seg("view", "view", String); seg("stars", "stars", Number); seg("quality", "quality", Number); seg("roll", "roll", String);
+  $("creature").addEventListener("change", (e) => { state.creature = e.target.value; store.set("creature", state.creature); render(); });
+  $("weapon").addEventListener("change", (e) => { state.weapon = e.target.value; store.set("weapon", state.weapon); render(); });
+  $("skill").addEventListener("input", (e) => { state.skill = Number(e.target.value); store.set("skill", state.skill); render(); });
+  $("players").addEventListener("change", (e) => { state.players = Math.max(1, Number(e.target.value) || 1); store.set("players", state.players); render(); });
+  $("wl").addEventListener("change", (e) => { state.wl = Math.max(0, Number(e.target.value) || 0); store.set("wl", state.wl); render(); });
+
+  const tip = $("tip");
+  $("grid").addEventListener("mousemove", (e) => {
+    const cell = e.target.closest("td[data-t]");
+    if (!cell || !tips[cell.dataset.t]) { tip.style.display = "none"; return; }
+    tip.innerHTML = tips[cell.dataset.t];
+    tip.style.display = "block";
+    const x = Math.min(e.clientX + 14, window.innerWidth - tip.offsetWidth - 8);
+    const y = e.clientY + 16 + tip.offsetHeight > window.innerHeight ? e.clientY - tip.offsetHeight - 10 : e.clientY + 16;
+    tip.style.left = x + "px"; tip.style.top = y + "px";
+  });
+  $("grid").addEventListener("mouseleave", () => { tip.style.display = "none"; });
+
+  $("meta").textContent = `Generated ${DATA.meta.generated_at} · wiki snapshot ${DATA.meta.wiki_fetched_at} · valheim.weirdgloop.org (CC BY-SA)`;
+  render();
+})();
+</script>
+</body>
+</html>

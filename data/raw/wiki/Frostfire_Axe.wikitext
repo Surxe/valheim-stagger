@@ -1,0 +1,102 @@
+{{Infobox weapon
+| title = Frostfire Axe
+| image = Frostfire Axe.png
+| description = Burn it all to the ground, or freeze it in an eternal moment of destruction...
+| type = Axe 1h
+| id = AxeGold_FrostFire
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| slash             = 144
+| slash per level = 10
+| fire = 12
+| fire per level = 3
+| frost = 88
+| frost per level = 3
+| chop = 90
+| chop per level = 3
+| knockback         = 60
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Axe]] x1
+* [[Frostfire Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Frostfire Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Frostfire Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Frostfire Essence]] x4
+| idol           = * [[Black Metal Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 66
+|
+}}
+
+'''Frostfire Axe''' is a version of [[Nord Axe]] upgraded with a [[Frostfire Essence]]. It loses a small amount of [[Slash|slash damage]] in exchange for a larger amount of [[fire]] and [[Frost|frost damage]].
+
+* Its primary attack is a 3-hit combo with double damage on the last hit.
+* The secondary attack is a slow but powerful overhead swing, ''perfect'' for removing tree stumps that are too low to hit with a normal swing.
+
+An upgraded Nord Axe will '''NOT''' keep its upgrade level when it is crafted into Frostfire Axe.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|144
+|154
+|164
+|174
+|
+|-
+!Fire
+|12
+|15
+|18
+|21
+|
+|-
+!Frost
+|88
+|91
+|94
+|97
+|
+|-
+!Chop
+|90
+|93
+|96
+|99
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Axe}} x1<br> {{item link|Frostfire Essence}} x1
+| [[Bloodgold]] x10<br> [[Frostfire Essence]] x1
+| [[Bloodgold]] x20<br> [[Frostfire Essence]] x2
+| [[Bloodgold]] x40<br> [[Frostfire Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Axe]] x1<br>[[Frostfire Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Frostfire Axe can also be upgraded at the [[Forge of Potential]] with a [[Black Metal Battle Idol]].
+
+{{WeaponsNav}}

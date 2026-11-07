@@ -1,0 +1,112 @@
+{{infobox weapon
+| title          = Mistwalker
+| image          = Mistwalker.png
+| description    = The faint glow seems to slice through the mist.
+| id             = SwordMistwalker
+| type           = Sword
+| source         = [[Black Forge]]
+| crafting level = 1
+| repair level   = 1
+| light source   = Bluish-White
+| slash          = 75
+| frost          = 40
+| spirit         = 0
+| materials 1 = 
+* [[Finewood]] x3 
+* [[Iron]] x15
+* [[Refined Eitr]] x10
+* [[Wisp]] x3
+| materials 2 = 
+* [[Iron]] x10
+* [[Refined Eitr]] x5
+* [[Wisp]] x1
+| materials 3 = 
+* [[Iron]] x20
+* [[Refined Eitr]] x10
+* [[Wisp]] x2
+| materials 4 = 
+* [[Iron]] x40
+* [[Refined Eitr]] x20
+* [[Wisp]] x4
+| idol           = * [[Black Marble Battle Idol]]
+| stamina = 16
+| block armor = 48
+| slash per level = 0
+| frost per level = 6
+| spirit per level = 5
+| block force = 20
+| parry bonus = 2
+}}
+
+'''Mistwalker''' is the fifth [[Swords|sword]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+The Mistwalker is capable of dispelling the [[Mist]] of [[Mistlands]] in a 9-meter radius.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!5
+!Total
+|-
+!Slash
+|75
+|75
+|75
+|75
+|75
+|
+|-
+!Frost
+|40
+|46
+|52
+|58
+|64
+|
+|-
+!Spirit
+|
+|5
+|10
+|15
+|20
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|450
+|
+|-
+!Crafting
+|3 [[Finewood]]<br>15 [[Iron]]<br>10 [[Refined Eitr]]<br>3 [[Wisp]]
+|10 [[Iron]]<br>5 [[Refined Eitr]]<br>1 [[Wisp]]
+|20 [[Iron]]<br>10 [[Refined Eitr]]<br>2 [[Wisp]]
+|40 [[Iron]]<br>20 [[Refined Eitr]]<br>4 [[Wisp]]
+|1 [[Black Marble Battle Idol]]
+|3 [[Finewood]]<br>85 [[Iron]]<br>45 [[Refined Eitr]]<br>10 [[Wisp]]
+{{Upgrade station row|Black forge|4|addcol=1}}
+|}
+
+* Mistwalker can also be upgraded at the [[Forge of Potential]] with a [[Black Marble Battle Idol]].
+
+== Notes ==
+* The blade of the Mistwalker is constantly enshrouded in mist and also glows faintly bluish-white at all times. It is a bit dimmer than most proper light sources, but can provide some light in the dark.
+** The glow effect also makes players slightly easier to detect while [[Sneak_(Skill)|sneaking]], increasing the visibility of its holder by approximately 20%.
+* Before [[1.0]], the Mistwalker was the only weapon to have mist repulsion at a 5 meter range. Other recipes have not been updated and Mistwalker remains the only weapon which requires Wisp to be crafted.
+
+{{Weapons}}
+
+[[cs:Mlhošlap]]
+[[ru:Странник туманов]]
+[[de:Nebelbrecher]]
+[[fr:Marchebrume]]

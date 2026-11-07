@@ -1,0 +1,64 @@
+{{infobox creature
+| image 0star  = Drake.png
+| trophy       = Drake trophy
+| trophy description = Still cold to the touch.
+| trophy id    = TrophyHatchling
+| id           = Hatchling
+| location     = [[Mountain]]
+| health 0star = 100
+| damage 0star = Spit cold: 90 Frost
+| abilities    = Spit cold (6s)
+| veryweak      = 
+| weak          = Fire
+| resistant     = 
+| veryresistant = 
+| immune        = Frost, Spirit, Stagger
+| neutral      = 
+|faction=Mountain}}
+
+'''Drakes''' are aggressive [[creatures]] found in the [[Mountain|Mountains]]. They are slender, legless frost dragons with ice-blue scales and four horns. Drakes are the male offspring of their mother, [[Moder]].
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=Up to 3 [[spawn points]] in [[Drake Nest]] (100 meter altitude)|frequency=0|stars=No}}
+{{spawn row|type=[[Spawn zones|Middle]] of the tall [[Mountain]]s (100 meter altitude)|limit=2|stars=No}}
+{{spawn row|type=During "A cold wind blows from the mountains" [[Events|event]] before defeating [[Moder]]|limit=3|stars=No|frequency=6}}
+{{spawn row|type=[[Spawn zones]] in [[Mountain#Alternative biomes|Drake Mountain]]|limit=4|frequency=8|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Drakes|Aggressive creature strategies#Drake}}
+
+=== Spit cold ===
+Fires three balls of ice at the player, inflicting the [[Frost (effect)|Frost]] effect (90 [[Damage types#Frost|Frost]] damage each). Each projectile travels at 15 meters per second for up to 10 seconds before despawning and has a spread of 10–20 degrees. This attack can be used within 5–15 meters of the player and has a 6-second cooldown.
+
+== Gallery ==
+<gallery captionalign="center">
+Two drakes vs 2 Vikings Valheim.jpg|Two Drakes attacking two Vikings as seen in Valheim PC Gamingshow 2020 Reveal Trailer<ref>[https://youtube.com/watch?v=oNx-9YsOpBo Valheim PC Gamingshow 2020 Reveal Trailer]</ref>
+A group of drakes around a ruined structure in Mountain Valheim.jpg|A group of Drakes around a ruined structure in Mountain as seen in the game's Microsoft Store and Xbox Announcement Trailer<ref>[[https://www.youtube.com/watch?v=vPEGKJlE9LE Valheim – Microsoft Store and Xbox Announcement Trailer]]</ref>
+Drake4.jpg|A Drake's frost ball attack
+</gallery>
+
+==Notes==
+*Originally introduced as a "Dragon Hatchling",<ref>[https://archive.md/s5GAU#selection-745.0-750.0 https://archive.md/s5GAU#selection-755.70-755.86]</ref> they were renamed to "Drakes" before release.<ref>https://archive.md/s5GAU#selection-477.0-477.36</ref> Drakes are still referred to in game files as a "Hatchling".
+*Drakes have a maximum chase distance of 200 meters from their spawn position. After that, they will drop aggro more easily.
+*Players are likely to find Drakes close to a [[Dragon Egg]] protecting it.
+*The drops from Drakes are unusually valuable. Their [[Freeze Gland]]s, glowing blue objects dropped on death, are necessary for all frost-based weapons and foods, and their trophy is used to make the helmet for [[Wolf Armor]].
+*Appearance-wise, they greatly resemble an [[wikipedia:Amphiptere|Amphiptere]], a winged, legless type of dragon, in stark contrast to Moder who resembles a huge wyvern.
+*Drakes may be weak to fire, however, because of the massive damage difference between [[Fire Arrow]]s and [[Obsidian Arrow]]s, Obsidian are stronger (Fire totaling 44 and Obsidian totaling 52)
+**This does not make their fire weakness useless, as Fire arrows make a good replacement if you do not have Obsidian arrows yet or just to save materials.
+
+== Lore ==
+{{Quote|Let you who read me be aware of the Frost wyrms, one of the most ancient kins sprung from Ymir's body.
+The most common form of the wyrm are the Drakes, the small males that cares for the offspring. Most often they can be seen poised by rocky nests guarding the eggs. In contrast, the females are much larger and a rare sight to behold, but once angered they provide a vicious foe.|[[Runestone]]}}
+
+==References==
+<references />
+{{Creatures}}
+
+[[fr:Drac]]
+[[ru:Дракон]]
+[[cs:Drak]]

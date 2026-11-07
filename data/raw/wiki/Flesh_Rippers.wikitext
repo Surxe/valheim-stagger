@@ -1,0 +1,78 @@
+{{Infobox_weapon
+| title             = Flesh Rippers
+| image             = Flesh Rippers.png
+| description       = If claws work for wolves, why not for a viking?
+| id                = FistFenrirClaw
+| type              = fists
+| source            = [[Forge]]
+| crafting level    = 3
+| repair level      = 3
+| slash             = 60
+| materials 1 = 
+* [[Fenris Hair]] x10
+* [[Fenris Claw]] x6
+* [[Silver]] x10
+| materials 2 = 
+* [[Fenris Hair]] x1
+* [[Fenris Claw]] x1
+* [[Silver]] x1
+| materials 3 = 
+* [[Fenris Hair]] x2
+* [[Fenris Claw]] x2
+* [[Silver]] x2
+| materials 4 = 
+* [[Fenris Hair]] x3
+* [[Fenris Claw]] x3
+* [[Silver]] x3
+| idol           = * [[Silver Battle Idol]]
+| stamina = 10}}
+
+'''Flesh Rippers''' are a weapon crafted from materials found in the [[Mountain]]s. This is one of the 5 [[Fists|fist weapons]] in the game other than [[Bare Fists]].
+
+* The primary attack is a 2-hit combo with 2x damage at the second hit.
+* The secondary attack is a kick which does additional knockback and 6x [[staggering]].
+* They deal 6x damage against [[Creature senses|unalerted]] enemies.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|60
+|64
+|68
+|72
+|
+|-
+!Durability
+|300
+|350
+|400
+|450
+|
+|-
+!Crafting
+|10 [[Fenris Hair]]<br>6 [[Fenris Claw]]<br>10 [[Silver]]
+|1 [[Fenris Hair]]<br>1 [[Fenris Claw]]<br>1 [[Silver]]
+|2 [[Fenris Hair]]<br>2 [[Fenris Claw]]<br>2 [[Silver]]
+|4 [[Fenris Hair]]<br>4 [[Fenris Claw]]<br>4 [[Silver]]
+|17 [[Fenris Hair]]<br>13 [[Fenris Claw]]<br>17 [[Silver]]
+{{Upgrade station row|Forge|4|start=3|addcol=1}}
+|}
+
+* Flesh Rippers can also be upgraded at the [[Forge of Potential]] with a [[Silver Battle Idol]].
+
+== Notes ==
+* The secondary attack is enough to stagger most creatures.
+* Flesh Rippers like other fist weapons are the most durable of any weapon in the game by having durability value of 450 at max level.
+
+{{Weapons}}
+
+[[Category:Unarmed]]
+
+[[ru:Потрошители плоти]]

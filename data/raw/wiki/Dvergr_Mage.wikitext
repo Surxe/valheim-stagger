@@ -1,0 +1,192 @@
+{{infobox creature
+| image 0star  = {{InfoboxGallery|
+Dvergr Mage fire.png|Fire
+Dvergr Mage ice.png|Ice
+Dvergr Mage support.png|Support
+}}
+| image 1star  = {{InfoboxGallery|
+Dvergr Mage fire 1star.png|Fire
+Dvergr Mage ice 1star.png|Ice
+Dvergr Mage support 1star.png|Support
+}}
+| image 2star  = {{InfoboxGallery|
+Dvergr Mage fire 2star.png|Fire
+Dvergr Mage ice 2star.png|Ice
+Dvergr Mage support 2star.png|Support
+}}
+| trophy       = Dvergr trophy
+| trophy description = It's frankly a little troubling that you would consider hanging these on your wall...
+| trophy id    = TrophyDvergr
+| id           = DvergerMage <small>(unified)</small>
+*DvergerMageFire
+*DvergerMageIce
+*DvergerMageSupport
+| location     = [[Mistlands]]
+| drops        = 
+[[Coins]]<br/>[[Black Marble]]<br/>[[Soft Tissue]]<br/>[[Dvergr Trophy]]
+| health 0star = 350
+| damage 0star =
+* <nowiki>Fire</nowiki> mage:
+** Melee: 70 Blunt
+** <nowiki>Fireball</nowiki>: 130 Fire + 100 Fire
+** Clusterbomb: 100 Fire + 100 Fire
+* Ice mage:
+** Melee: 70 Blunt
+** Icebolt: 200 Frost
+** Nova: 150 Frost
+| health 1star = 700
+| damage 1star =
+* Fire mage:
+** Melee: 105 Blunt
+** Fireball: 195 Fire + 100 Fire
+** Clusterbomb: 150 Fire + 100 Fire
+* Ice mage:
+** Melee: 105 Blunt
+** Icebolt: 300 Frost
+** Nova: 150 Frost
+| health 2star = 1050
+| damage 2star =
+* Fire mage:
+** Melee: 140 Blunt
+** Fireball: 260 Fire + 100 Fire
+** Clusterbomb: 200 Fire + 100 Fire
+* Ice mage:
+** Melee: 140 Blunt
+** Icebolt: 400 Frost
+** Nova: 150 Frost
+| abilities    = 
+*Fire mage:
+**Melee (4 seconds)
+**Fireball (6 seconds)
+**Clusterbomb (35 seconds)
+*Ice mage:
+**Melee (4 seconds)
+**Icebolt (6 seconds)
+**Nova (7 seconds)
+*Support mage:
+**[[Dvergr power|Buff]] (45 seconds)
+** [[Dvergr heal|Heal]] (10 seconds)
+**[[Mistile]] (35 seconds)
+| veryweak      = 
+| weak          = 
+| resistant     = Fire, Frost
+| veryresistant = 
+| immune        = Spirit
+| stagger       = 30%
+| faction       = Dvergr
+}}
+'''Dvergr Mages''' are neutral [[creatures]] found in the [[Mistlands]] around [[Dvergr (race)|Dvergr]] settlements. They resemble short, blue humanoids with light blue eyes and silver hair, and they carry [[Magic]] staves. There are three different types of Dvergr Mage, which can be differentiated by the color of their staff and robe. Unlike [[Dvergr Rogue]]s, mages are exclusively found around Dvergr settlements and other structures (almost always in groups with other Dvergr) and do not respawn.
+
+Once provoked by a player (by damaging them, other nearby Dvergr, or any part of a nearby structure that is protected by a Dvergr [[Ward]]), they will become hostile and attack.
+
+Dvergr are naturally hostile to other aggressive creatures in the Mistlands and will attack them on sight. Clearing at least one Dvergr settlement is typically necessary to progress in the Mistlands, because the [[Dvergr Component Crate]] contains the [[Dvergr Extractor]], an essential component in the [[Sap Extractor]]. This can be circumvented by ramming the relevant crate with a cart, using [[Refined Eitr]] to destroy it, or hoping that aggressive mobs in the area destroy it.
+
+== Drops ==
+{{CreatureDrops|id=DvergerMageFire}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=Common [[Spawn points|spawn point]] in Dvergr forts and structures|frequency=0}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Dvergr|Aggressive creature strategies#Dvergr}}Due to range requirements, many attacks from every variant of mages are possible to disable by standing directly against the caster. Both the fire mages and the ice mage share a melee attack.
+
+==== Melee ====
+Pokes the player with the hilt of their staff (70 [[Damage types#Blunt|Blunt]] damage). This is accessible every 4 seconds when within 0.5-2.5 meters of a player. Despite being a straight thrust, this attack hits a horizontal arc 2.5 meters long and 90 degrees across.
+
+===Fire mages===
+Fire mages wear a red robe lined with gold and carry a pronged, fiery-red staff. They have two unique attacks:
+
+==== Fireball ====
+Brings their staff around and then sweeps down to launch a single fireball that inflicts the [[Burning]] status (130 [[Damage types#Fire|Fire]] damage). The fireball travels at 15 meters per second for up to 10 seconds before despawning. It is generated with a spread of 1–10 degrees. This attack can be used every 6 seconds when within a 1–15 meters of a player. If it hits the ground instead of a player, it creates a 6-meter radius circular blast that expands outward (100 [[Damage types#Fire|Fire]] damage).
+
+==== Clusterbomb ====
+Waves their staff for a few seconds before raising it up higher to launch a shower of nine fireballs in various directions that inflict the [[Burning]] status (100 [[Damage types#Fire|Fire]] damage each). Each fireball travels at 11 meters per second for up to 10 seconds before despawning. They originate from a point 2.5 meters off the ground and have a spread of 40–50 degrees. This attack can be used every 35 seconds when within 5–30 meters of a player. On impact with the ground, these fireballs create 3-meter radius circular fields of fire (100 [[Damage types#Fire|Fire]] damage).
+
+===Ice mages===
+Ice mages wear a blue robe lined with silver and carry a staff tipped with a glowing blue ice shard. They have two unique attacks:
+
+==== Icebolt ====
+Stabs forward with their staff to launch three balls of ice at the player which inflict the [[Frost]] status (200 [[Damage types#Frost|Frost]] damage). Each ball of ice travels at 15 meters per second for up to 4 seconds before despawning and has a spread of 8–15 degrees. This attack can be used every 6 seconds when within 1–15 meters of a player.
+
+==== Nova ====
+Slams their staff down to create an outward expanding circle with a radius of 5 meters, which inflicts the [[Frost]] status (150 [[Damage types#Frost|Frost]] damage). This attack can be used every 7 seconds when within 0–7 meters of a player.
+
+===Support mages===
+Support mages wear a yellow-and-brown robe lined with gold and carry a staff tipped with a [[Dvergr Lantern]]. They have three unique abilities:
+
+==== Buff ====
+Lifts their staff up before slamming it into the ground to apply the [[Dvergr power]] status to themselves and allies within 8 meters for 20 seconds (+20% to all [[Skills]]). This ability can be used every 45 seconds when within 1–15 meters of an ally. 
+
+==== Heal ====
+Draws a half-circle on the ground before lifting their staff in the air to apply the [[Dvergr heal]] status to themselves and allies within 4.32 meters for 4 seconds (400 health ticking every 0.5 seconds). This ability can be used every 10 seconds when within 1–15 meters of an ally. 
+
+==== Mistile ====
+Smashes the ground with their staff to create 1–3 [[Mistile|Mistiles]] within a 3-meter radius around the caster; a max of nine can be active at once. These orbs have 1 health and track the player to deal damage on impact (150 [[Damage types#Blunt|Blunt]] damage). These can be summoned every 35 seconds when within 1–15 meters from a player. The Mistiles themselves deal damage in a 1.5 meter sphere when within 1 meter of the player.
+
+==Quotes==
+{{Collapsible|Show quotes|Expand/Retract|
+Greet
+* You're taller than I remember.
+* So you're the one who's been causing such a ruckus.
+* Hi there.
+* Is that a human?
+* Hello. You've travelled a long way.
+Goodbye
+* Farewell.
+* Always watch out for the Gjall.
+* Goodbye for now.
+* Maybe we'll meet again, maybe not.
+* Safe journey to you.
+Talk
+* I hope this mine isn't as infested as the last.
+* I wonder if we can bring this shipment home soon.
+* Do you ever wonder what happened to Haldor?
+* Those Seekers are not to be messed with...
+* La-di-di, la-di-da...
+* I remember yet, the giants of yore...
+* We built these mines, you know? And now look at us...
+* These pests have spread further than I feared. At this rate, all our old mines will be overtaken.
+* It must be strange, being human. Imagine having to crawl through small spaces!
+* Is it true that there's no magic in Midgard?
+Private area alarm
+* Hey! Be careful with that.
+* Cut that out!
+* None of that, stop it!
+* We're only good hosts as long as you're a good guest.
+* You're close to overstaying your welcome, Norseman.
+* Stop that!
+* If you do that again, you won't like what happens.
+* You're on thin ice.
+Aggravated
+* I'll show you what magic can do!
+* Damn you to Hel!
+* You really shouldn't have done that!
+* Dvergr, to me!
+* The boiled pork has been fried now, alright!
+* I'll teach you not to mess with us!
+* I'll send you to where the pipe bends!
+* Human scum!
+* To Nidhögg with you!
+* Oden can't help you now!
+* We warned you!
+Talk in faction base
+* I hope this mine isn't as infested as the last.
+* I wonder if we can bring this shipment home soon.
+* We built these mines, you know? And now look at us...
+* Do you ever wonder what happened to Haldor?
+* Sometimes I wonder if the eitr is worth all of this.
+* I look forward to seeing what the fire will show me next.
+* Now where did I put that bottle...?
+* I swear we had a spare Extractor here somewhere...
+* Just a bit more of this mining, and then we can take it back to Myrkheim.
+* It's damp as a troll's armpit here, but at least it's not as painfully hot as the south.}}
+
+== Gallery ==
+<gallery captionalign="center">
+File:1-star mage.png|1-star mage
+</gallery>
+
+{{Creatures}}
+[[ru:Дверг-маг]]
+[[cs:Dvergský Mág]]

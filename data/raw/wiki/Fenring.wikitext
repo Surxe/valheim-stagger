@@ -1,0 +1,60 @@
+{{infobox creature
+| image 0star  = Fenring.png
+| trophy       = Fenring trophy
+| trophy description = Half-way between wolf and man, its face frozen in a snarl of pain.
+| trophy id    = TrophyFenring
+| id           = Fenring
+| location     = [[Mountain]]
+| health 0star = 300
+| damage 0star = 
+* Claw: 85 Slash
+* Jump: 95 Slash
+| abilities    = 
+* Claw (3 seconds)
+* Jump (8 seconds)
+| veryweak      = 
+| weak          = Fire
+| resistant     = Poison
+| veryresistant = 
+| neutral      = 
+|stagger=50%|faction=Mountain}}
+
+'''Fenrings''' are aggressive [[creatures]] found in the [[Mountain|Mountains]] during the night. Their appearance is distinctly werewolf-like, standing on two legs with a black fur coat. Unlike their [[Frost Caves|Frost cave]] [[Ulv|counterparts]], Fenrings only walk on their hind-legs.
+
+== Drops==
+{{CreatureDrops|stars=0}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mountain]]s during the nighttime, despawn at dawn|limit=2|frequency=3|stars=No}}
+}} 
+
+== Attacks and abilities ==
+{{For|strategies for defeating Fenrings|Aggressive creature strategies#Fenring}}
+
+=== Claw ===
+Swings their claw in a 3-meter 90-degree horizontal arc to scratch the player (85 [[Damage types#Slash|Slash]] damage). This attack has a 3-second cooldown and can be used within 2.5 meters of the player. This also has a second variation where, despite the attack name, Fenrings lunge forward and bite the player; besides the animation, it's completely identical<ref>Aside from visuals, the animations also have very minor differences in their properties. The claw swing animation is 1.37 seconds long and hits after 0.65 seconds, while the bite animation is 1.53 seconds long and hits after 0.71 seconds. This is a hitbox time differential of 0.06 seconds; for reference, the parry window is 0.25 seconds.</ref> to the other variant and both share a single cooldown.
+
+=== Jump ===
+Pounces on the player and swings in with both claws (95 [[Damage types#Slash|Slash]] damage). This hits in a 3-meter 90-degree horizontal arc. This attack can be used every 8 seconds when within 5–9 meters of a player, meaning it's disabled while standing close to Fenrings.
+
+== Gallery ==
+<gallery>
+Fenring sight.jpg
+Fenring03.png
+</gallery>
+
+==Notes==
+*The name "Fenring" is derived from [[wikipedia:Fenrir|Fenrir]], the same way [[Surtling|Surtlings]] derive from Surt. Fenrir (sometimes spelled Fenris or Fenrisulfr, "the Fenrir/Fenris-wolf") is a giant Wolf from Norse and Germanic mythology who will swallow the god Odin during Ragnarökr. He is the son of Loki.
+
+== Lore ==
+{{Quote|Watch for him in moonlight
+Haunter of the night.
+Soft of foot
+Sharp of tooth
+Slow to stalk
+Quick to bite.|[[Runestone]]}}
+
+{{Creatures}}
+[[ru:Фенринг]]
+[[fr:Fenring]]

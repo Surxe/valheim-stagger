@@ -1,0 +1,82 @@
+{{infobox weapon
+| title          = Black Metal Knife
+| image          = Black Metal Knife.png
+| description    = A darkling blade. Strong and sharp.
+| id             = KnifeBlackMetal
+| type           = Knife
+| source         = [[Forge]]
+| crafting level = 4
+| repair level   = 4
+| pierce         = 34
+| slash          = 34
+| materials 1 = 
+* [[Finewood]] x4
+* [[Black Metal]] x10
+* [[Linen Thread]] x5
+| materials 2 = 
+* [[Black Metal]] x4
+* [[Linen Thread]] x5
+| materials 3 = 
+* [[Black Metal]] x8
+* [[Linen Thread]] x10
+| materials 4 = 
+* [[Black Metal]] x16
+* [[Linen Thread]] x20
+| idol           = * [[Black Metal Battle Idol]]
+| stamina = 12}}
+
+'''Black Metal Knife''' is the fifth [[Knives|knife]].
+
+* The primary attack is a fast 3-slash combo with 2x damage on the last swing.
+* Its secondary attack is a leaping stab with 3x damage.
+* It deals 6x damage against [[Creature senses|unalerted]] enemies.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|34
+|35
+|36
+|37
+|
+|-
+!Slash
+|34
+|35
+|36
+|37
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|4 [[Finewood]]<br>10 [[Black Metal]]<br>5 [[Linen Thread]]
+|4 [[Black Metal]]<br>5 [[Linen Thread]]
+|8 [[Black Metal]]<br>10 [[Linen Thread]]
+|16 [[Black Metal]]<br>20 [[Linen Thread]]
+|4 [[Finewood]]<br>38 [[Black Metal]]<br>40 [[Linen Thread]]
+{{Upgrade station row|Forge|4|start=4|addcol=1}}
+|}
+
+* Black Metal Knife can also be upgraded at the [[Forge of Potential]] with a [[Black Metal Battle Idol]].
+
+== Notes ==
+* The secondary attack can be extraordinarily powerful if the player is sneaky and attacks a creature while it is unalerted.
+
+{{Weapons}}
+
+[[Fr:Couteau_en_sombracier]]
+[[cs:Nůž z černého kovu]]
+[[ru:Нож из черного металла]]

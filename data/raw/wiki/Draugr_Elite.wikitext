@@ -1,0 +1,60 @@
+{{infobox creature
+| image 0star   = Draugr Elite.png
+| image 1star   = Draugr Elite 1star.png
+| image 2star   = Draugr Elite 2star.png
+| trophy        = Draugr Elite trophy
+| trophy description = The dead stare of the glowing red eyes sends a shiver through your bones.
+| trophy id     = TrophyDraugrElite
+| id            = Draugr_Elite
+| location      = [[Swamp]]
+| health 0star  = 200
+| damage 0star  = Sword: 58 Slash 
+| health 1star  = 400
+| damage 1star  = Sword: 87 Slash
+| health 2star  = 600
+| damage 2star  = Sword: 116 Slash
+| abilities     = Sword (4s)
+| veryweak      = 
+| weak          = 
+| resistant     = Fire
+| veryresistant = 
+| immune        = Poison
+| neutral       = 
+|stagger        = 50%
+|faction=Undead}}
+'''Draugr Elite''' are aggressive [[creatures]] found in the [[Swamp|Swamps]].  They are ancient undead Vikings that have since become bloated in appearance. They are stronger than normal [[Draugr]], but always appear equipped with a melee weapon. They have glowing purple eyes and are relatively rare compared to their weaker counterparts.
+
+== Drops ==
+{{CreatureDrops}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Swamp]]s during the night time, despawn at dawn|limit=1|frequency=2|stars=No}}
+{{spawn row|type=Rare [[spawn points|spawn point]] near [[Inverted Tower]] structures|frequency=0}}
+{{spawn row|type=Rarely from [[Body Pile]]s in [[Swamp]]s, [[Sunken Crypts]] or [[Mountain]] towers|limit=2|frequency=Every 6 seconds}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Draugr elite|Aggressive creature strategies#Draugr elite}}
+
+=== Sword ===
+Does a horizontal slash that extends 2.2 meters and arcs 90 degrees (58 [[Damage types#Slash|Slash]] damage). This attack has a 4-second cooldown and can be used within 1.6 meters of a player.
+
+== Gallery ==
+<gallery>
+File:Draugr Elite in-game.png|0-star Draugr Elite
+File:Draugr Elite 2star in-game.png|2-star Draugr Elite
+</gallery>
+
+== Notes ==
+*[https://en.wikipedia.org/wiki/Draugr Draugr] or Draug - "the undead of [[Valheim (world)|Valheim]]", also called ''aptrganga'' or ''aptrgangr'' in the Norse literature. Draugr live in their graves, often guarding treasure buried with them in their burial mound.
+*From a [[Runestone]]: "Long ages ago, the world of Valheim was home to a race of proud and noble people. They built great towers that touched the clouds and delved deep into the earth for precious metals. But their pride was their undoing. They challenged the very gods and went to war against the Aesir and Vanir, destroying themselves completely. Great Odin leveled their cities and Loki consumed their mines in fire. Mighty Thor broke down their towers and Freya sowed their fields with salt tears.   Now they are sunk many hundred of years deep. No song sing of their stories, and the earth has claimed their cities. But pride cannot be killed entirely and the warriors who fought in that final battle will not surrender until their bodies are dust and the dust long gone. They return as Draugr, unholy walkers in ancient armour, creatures of rust and despair.   Break them, bury them, let them know they are dead."
+
+*
+{{Creatures}}
+
+[[fr:Élite Draugr]]
+[[cs:Elitní Draugr]]
+[[ru:Элитный драугр]]
+[[uk:Добірний драуґр]]
+[[de:Elite Draugr]]

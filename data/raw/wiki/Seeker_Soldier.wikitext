@@ -1,0 +1,75 @@
+{{infobox creature
+| image 0star  = Seeker Soldier.png
+| image 1star  = Seeker Soldier 1star.png
+| image 2star  = Seeker Soldier 2star.png
+| trophy       = Seeker soldier trophy
+| trophy description = The head of a fallen champion.
+| trophy id    = TrophySeekerBrute
+| id           = SeekerBrute
+| behavior     = Aggressive
+| tameable     = No
+| location     = Mistlands
+| health 0star = 1500
+| damage 0star = * Ram: 100 Blunt, 100 Chop, 100 Pickaxe
+* Bite: 100 Slash
+* Ground slam: 120 Blunt, 100 Chop, 100 Pickaxe
+| health 1star = 3000
+| damage 1star = * Ram: 150 Blunt, 150 Chop, 150 Pickaxe
+* Bite: 150 Slash
+* Ground slam: 180 Blunt, 150 Chop, 150 Pickaxe
+| health 2star = 4500
+| damage 2star = * Ram: 200 Blunt, 200 Chop, 200 Pickaxe
+* Bite: 200 Slash
+* Ground slam: 240 Blunt, 200 Chop, 200 Pickaxe
+| abilities    = * Ram (8s)
+* Bite (8 seconds)
+* Ground slam (12 seconds)
+| resistant    = Blunt, Pierce, Slash
+| immune       = Spirit
+| faction      = Mistlands
+| stagger      = 30%
+| weak point   = Abdomen
+| wp weak      = Blunt, Pierce, Slash, Fire, Frost, Lightning
+| wp immune    = Spirit
+}}
+'''Seeker Soldiers''' are aggressive [[creatures]] found in the [[Mistlands]] and in [[Infested Mine]]s.
+
+Seekers soldiers are large, highly durable insect-like creatures with traits similar to beetles, ants, and bees. While ordinary [[Seeker|Seekers]] resemble ants, Soldiers bear a resemblance to stag beetles, with powerful mandibles and a rounded, armored carapace. Unlike ordinary Seekers, Soldiers do not have wings.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mistlands]]|limit=1|frequency=1}}
+{{spawn row|type=[[Spawn points]] near some [[Mistlands]] structures|limit=-|frequency=0}}
+{{spawn row|type=[[Spawn points]] in [[Infested Mine]]s|limit=-|frequency=1}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Seeker soldiers|Aggressive creature strategies#Seeker soldier}}
+
+=== Ram ===
+Brings one claw forward, followed by the other, before slamming forward with their head (100 [[Damage types#Blunt|Blunt]], Tier 4 100 [[Damage types#Chop|Chop]] and 100 Tier 4 [[Damage types#Pickaxe|Pickaxe]] damage). This has an 8-second cooldown and can be used with 4 meters of a player. It hits in a 4-meter 45-degree horizontal arc.
+
+=== Bite ===
+Leans back before sweeping downward to clamp the player with their pincers (100 [[Damage types#Pierce|Slash]] damage). This creates a 4-meter 45-degree horizontal arc and can be used every 8 seconds when within 4 meters of a player.
+
+=== Ground slam ===
+Brings one arm up and slams it down, followed by the same motion with the other arm (120 [[Damage types#Blunt|Blunt]], Tier 4 100 [[Damage types#Chop|Chop]] and 100 Tier 4 [[Damage types#Pickaxe|Pickaxe]] damage for each hit). This hits in a 4-meter radius circle around each claw and can be used every 12 seconds when within 5 meters of a player.
+
+== Notes ==
+Seeker Soldiers are capable of breaking various resources that would otherwise require a [[Black Metal]] tool for the player to break, including black marble deposits, Yggdrasil shoots, and [[Ancient Sword]] and [[Ancient Armor]]. Both their tackle and slam attacks have this property, but not their bite attack. This means that it is theoretically possible for the player to obtain large quantities of both [[Black Marble]] and [[Yggdrasil Wood]] without Black Metal, and it is possible to get much larger quantities of [[Scrap Iron]] outside [[Sunken Crypts]] than with other methods.
+
+This ability to smash rocks should be remembered when fighting Seeker Soldiers. If a player is sniping them from the top of a rock, the Seeker Soldier will often simply demolish the rock.
+
+== Gallery ==
+<gallery captionalign="center">
+Seeker soldier 1.png|Screenshot
+</gallery>
+
+{{Creatures}}
+
+[[ru:Искатель-солдат]]
+[[cs:Voják Hledačů]]
+__NOTOC__

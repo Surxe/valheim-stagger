@@ -1,0 +1,80 @@
+{{infobox creature
+| image 0star   = Stone Golem.png
+| trophy        = Stone Golem trophy
+| trophy description = This crystalline rock formation would make for an impressive floor decoration.
+| trophy id     = TrophySGolem
+| id            = StoneGolem
+| location      = [[Mountain]]
+| health 0star  = 800
+| damage 0star  = 
+*Sledge
+**Ground slam: 110 Blunt, 100 Chop, 100 Pickaxe
+**Double smash: 110 Blunt, 100 Chop, 100 Pickaxe
+*Spike
+**Spike: 110 Pierce, 100 Chop, 100 Pickaxe
+**Spike sweep: 110 Blunt, 100 Chop, 100 Pickaxe
+| abilities     = 
+*Sledge
+**Ground slam (8 seconds)
+**Double smash (15 seconds)
+*Spike
+**Spike (8 seconds)
+**Spike sweep (15 seconds)
+| veryweak      = Pickaxe
+| weak          = 
+| resistant     = Pierce, Slash
+| veryresistant = 
+| immune        = Fire, Frost, Poison, Spirit
+| neutral       = 
+| aggressive    = 
+|stagger=33%|faction=Forest}}
+'''Stone Golems''' are [[Creatures#Aggressive_Creatures|aggressive creatures]] found in the [[Mountain|Mountains]]. They are snow-covered stone humanoids with silver veins visible on their bodies. When disturbed, they awake from their slumber, attacking both the players and other creatures.
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=Rare [[Spawn points|spawn point]] in front of [[Abandoned Cabin]]s (100 meter altitude)|frequency=0|stars=No}}
+{{spawn row|type=[[Spawn zones|Middle]] of the tall [[Mountain]]s (120 meter altitude)|limit=1|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Mountain#Alternative biomes|Fortress Mountain]]|limit=1|frequency=8|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Stone Golems|Aggressive creature strategies#Stone golem}}
+Stone Golems come in two variants: half of them are equipped with sledges, while the other half have spikes.
+
+Sledge Golems have two attacks.
+
+=== Ground slam ===
+Raises one sledge arm up, before slamming it down into the ground (110 [[Damage types#Blunt|Blunt]], 100 Tier 0 [[Damage types#Chop|Chop]] and 100 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). The attack extends 8 meters outward in a 70-degree vertical arc. It has an 8-second cooldown.
+
+=== Double smash ===
+Raises both sledge arms up, holds for a moment, and slams them both into the ground (110 [[Damage types#Blunt|Blunt]], 100 Tier 0 [[Damage types#Chop|Chop]] and 100 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). The attack extends 8.66 meters outward in a 70-degree vertical arc. It has a 15-second cooldown.
+
+Spiked Golems have two attacks.
+
+=== Spike ===
+Leans back before thrusting at the player in a 7-meter-long attack with no arc (110 [[Damage types#Pierce|Pierce]], 100 Tier 0 [[Damage types#Chop|Chop]] and 100 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This attack can be used every 8 seconds when within 6 meters of a player.
+
+=== Spike sweep ===
+Draws its spike back before slashing it in a 7.71-meter 104.24-degree horizontal arc (110 [[Damage types#Blunt|Blunt]], 100 Tier 0 [[Damage types#Chop|Chop]] and 100 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This can be used every 15 seconds when within 6 meters of a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+Stone golem inactive.png|Inactive stone golem
+</gallery>
+
+== Notes ==
+* Stone Golems are unable to climb sheer cliffs or follow narrow paths. Therefore, cutting a switchback trail up the mountainside is an effective defense against them while also allowing you access to the mountaintop.
+* Stone Golems when they awake from their slumber will cause nearby players' screens to shake
+* Stone Golems cannot destroy [[Obsidian Deposit]]s and [[Silver Vein]]s in their mountain biomes.
+* Despite the biome they spawn at, Stone Golems belong to the [[Factions|Forest faction]], making them hostile to all enemies that spawn in Mountains except the [[Moder|Boss]]. 
+
+== Trivia ==
+* Stone Golems have an unused attack labelled "Sonic boom" where they draw back both arms before lunging forward to attack. It is unknown whether this would have been added to sledge Golems, spiked Golems, or possibly both.
+
+{{Creatures}}
+
+[[fr:Golem de pierre]]
+[[ru:Каменный голем]]

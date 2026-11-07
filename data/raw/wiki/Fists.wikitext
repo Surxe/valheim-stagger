@@ -1,0 +1,82 @@
+'''Fists''' is a [[Weapons|weapon]] class.
+
+== Description ==
+When a player attacks without a weapon, tool equipped, or use a dedicated Fist weapon such as the [[Flesh Rippers]], they do a Fist strike. The primary attack is a punch, and the secondary attack is a kick that does additional knockback with 6x staggering. The punch has a 2-hit combo where the second punch (left hand) does double damage.
+
+Bare fists can be useful against the weakest of enemies; especially when the player wants to avoid the cost of weapon durability. It also costs less stamina than most weapons.
+
+{{See also|Fists (Skill)}}
+
+== List of Fists ==
+{| class="wikitable sortable"
+!<onlyinclude>Name
+!Icon
+!Damage
+!Knockback
+!Stamina
+|-
+| [[Bare Fists]]
+|[[File:Fists.png|50px|link=Bare fists]]
+|Blunt: 5
+|5
+|4
+|-
+| [[Paws of the Bear]]
+|[[File:Paws of the Bear.png|50x50px|link=Paws of the Bear]]
+|Slash: 25/37
+|10
+|6
+|-
+| [[Flesh Rippers]]
+|[[File:Flesh Rippers.png|50px|link=Flesh Rippers]]
+|Slash: 60/72
+|20
+|10
+|-
+| [[Vilebone Maulclaws]]
+|[[File:Vilebone Maulclaws.png|50x50px|link=Vilebone Maulclaws]]
+|Pierce: 60
+Slash: 20/32
+|10
+|12
+|-
+| [[Nord Knucklechains]]
+| [[File:Nord_Knucklechains.png|50x50px|link=Nord Knucklechains]]
+|Blunt: 114
+|10
+|14
+|-</onlyinclude>
+|}
+
+== Properties ==
+{| class="wikitable"
+|-
+! Attack type !! Stamina !! Range !! Attack speed
+!Damage 
+![[Stagger|Staggering]]
+!Knockback !! Notes
+|-
+| Fist (primary) || 1x || 2m || 1.48s (0.76 + 0.72)
+|1x + 2x
+|1x
+|20
+|
+|-
+| Kick (secondary) || 2x || 2m || 1.48s
+|1x
+|6x
+|80
+|
+|}
+
+== Notes ==
+* The Fists combat skill was previously named Unarmed prior to the Frost Caves update. 
+
+== Gallery ==
+<gallery>
+Fists Hitbox.jpg | Fists hitboxes
+</gallery>
+
+[[Category:Weapons]]
+[[Category:Unarmed]]
+{{WeaponsNav}}

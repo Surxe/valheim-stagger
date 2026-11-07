@@ -1,0 +1,85 @@
+{{Infobox weapon
+| title = Thunderblood Atgeir
+| image = Thunderblood Atgeir.png
+| description = The heavens shall sound their praise as you make your enemies bleed.
+| type = Polearm
+| id = AtgeirGold_BloodLightning
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| pierce            = 192
+| pierce per level = 10
+| lightning = 45
+| lightning per level = 5
+| knockback         = 
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Atgeir]] x1
+* [[Thunderblood Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Thunderblood Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Thunderblood Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Thunderblood Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 20
+| stamina secondary = 40
+| block armor       = 88
+| movement speed    = -5%
+| weight=2.5
+| special = 
+}}
+
+'''Thunderblood Atgeir''' is a version of [[Nord Atgeir]] upgraded with a [[Thunderblood Essence]]. It gains extra [[pierce]] and [[Lightning|lightning damage]], a 25% chance per hit to trigger [[Chain lightning]] and a 0.2% damage increase for every 1 point of [[health]] the player is missing.
+
+* Its primary attack is a 3-stab combo with 2x damage on the last hit.
+* The secondary attack is an AOE swing with a 3-meter radius that deals 1x damage and 6x stagger with no damage penalty against multiple targets.
+
+An upgraded Nord Atgeir will '''NOT''' keep its upgrade level when it is crafted into Thunderblood Atgeir.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|192
+|202
+|212
+|222
+|
+|-
+!Lightning
+|45
+|50
+|55
+|60
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Atgeir}} x1<br> {{item link|Thunderblood Essence}} x1
+| [[Bloodgold]] x10<br> [[Thunderblood Essence]] x1
+| [[Bloodgold]] x20<br> [[Thunderblood Essence]] x2
+| [[Bloodgold]] x40<br> [[Thunderblood Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Atgeir]] x1<br>[[Thunderblood Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Thunderblood Atgeir can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

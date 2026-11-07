@@ -1,0 +1,75 @@
+{{Infobox weapon
+| title             = Nidhögg
+| image             = Nidhögg.png
+| description       = Named after the evil dragon that dwells by the roots of the world tree, this sword heralds doom for those who cross its path.
+| id                = SwordNiedhogg
+| type              = Sword
+| source            = Black forge
+| durability        = 300
+| crafting level    = 3
+| repair level      = 3
+| slash             = 135
+| knockback         = 40
+| materials 1 = 
+* [[Charred Bone]] x3
+* [[Flametal]] x12 
+* [[Asksvin Hide]] x2
+| materials 2 = 
+* [[Flametal]] x10
+* [[Asksvin Hide]] x2
+| materials 3 = 
+* [[Flametal]] x20
+* [[Asksvin Hide]] x4
+| materials 4 = 
+* [[Flametal]] x40
+* [[Asksvin Hide]] x8
+| idol              = * [[Flametal Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 57
+| movement speed    = -5%
+}}
+
+'''Nidhögg''' is the sixth one-handed [[Swords|sword]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+== Upgrade information ==
+Like most Ashlands-tier weapons, the Nidhögg can be upgraded to one of the following three variants using gemstones:
+
+* {{Item link|Nidhögg the Bleeding}} ([[Bloodstone]])
+* {{Item link|Nidhögg the Thundering}} ([[Iolite]])
+* {{Item link|Nidhögg the Primal}} ([[Jade]])
+
+An upgraded Nidhögg will '''NOT''' keep its upgrade level when it is modified using gemstones.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|135
+|141
+|147
+|153
+|
+|-
+!Durability
+|300
+|350
+|400
+|450
+|
+{{WeaponCrafting}}
+|}
+
+* Nidhögg can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+{{Weapons}}
+
+[[ru:Нидхёгг]]

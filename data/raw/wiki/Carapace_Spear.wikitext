@@ -1,0 +1,78 @@
+{{infobox weapon
+| title          = Carapace Spear
+| image          = Carapace Spear.png
+| description    = Sharpened to jagged perfection, this spear is sure to be deadly.
+| id             = SpearCarapace
+| type           = Spear
+| source         = [[Black Forge]]
+| weight         = 1.5
+| durability     = 250
+| crafting level = 1
+| repair level   = 1
+| pierce         = 115
+| materials 1 = 
+* [[Yggdrasil Wood]] x10
+* [[Carapace]] x4
+* [[Mandible]] x2
+| materials 2 = 
+* [[Yggdrasil Wood]] x5
+* [[Carapace]] x4
+* [[Mandible]] x1
+| materials 3 = 
+* [[Yggdrasil Wood]] x10
+* [[Carapace]] x8
+* [[Mandible]] x2
+| materials 4 = 
+* [[Yggdrasil Wood]] x20
+* [[Carapace]] x16
+* [[Mandible]] x4
+| idol           = * [[Black Marble Battle Idol]]
+| stamina = 16
+| block armor = 48
+| stamina secondary = 18}}
+'''Carapace Spear''' is the fifth [[Spears|spear]].
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+The Carapace Spear is capable of dispelling the [[Mist]] of [[Mistlands]] in a 9-meter radius.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Pierce
+|115
+|121
+|127
+|133
+|-
+!Durability
+|250
+|300
+|350
+|400
+|-
+!Crafting
+|10 [[Yggdrasil Wood]]<br>4 [[Carapace]]<br>2 [[Mandible]]
+|5 [[Yggdrasil Wood]]<br>4 [[Carapace]]<br>1 [[Mandible]]
+|10 [[Yggdrasil Wood]]<br>8 [[Carapace]]<br>2 [[Mandible]]
+|20 [[Yggdrasil Wood]]<br>16 [[Carapace]]<br>4 [[Mandible]]
+{{Upgrade station row|Black forge|4}}
+|}
+
+* Carapace Spear can also be upgraded at the [[Forge of Potential]] with a [[Black Marble Battle Idol]].
+
+== Notes ==
+* Like all spears, the Carapace spear floats if dropped or thrown into water.
+
+{{Weapons}}
+
+[[ru:Панцирное копье]]
+[[cs:Kopí z krunýře]]
+[[de:Chitin-Speer]]
+[[fr:Lance en carapace]]

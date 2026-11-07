@@ -1,0 +1,117 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+| title = Nord Spear
+| image = Nord Spear.png
+| description = A golden opportunity to strike.
+| type = Spear
+| id = SpearGold
+| source         = [[Frost Foundry]]
+| durability = 400
+| crafting level = 4
+| repair level   = 4
+| pierce         = 170|pierce per level = 10
+| knockback      = 20
+| materials 1 = 
+* [[Cast Nord Spear]] x1
+* [[Liquid Frost]] x5
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Timberwood]] x5
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Timberwood]] x10
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Timberwood]] x20
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 16
+| stamina secondary = 18
+| block armor       = 66
+| movement speed    = -5%
+}}
+|Cast|
+{{Infobox item
+| title = Cast: Nord Spear
+| image = Cast Nord Spear.png
+| description = This weapon needs to be hardened with frost.
+| id = SpearGoldUncooked
+| type = Cast
+| source = [[Black Forge]] level 4
+| materials = 
+* [[Bloodgold]] x20
+* [[Mould Nord Spear]] x1
+* [[Timberwood]] x10
+| weight      = 1.5
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+| title = Mould: Nord Spear
+| image = Mould Nord Spear.png
+| description = Filled with the right material, this mould will create a most formidable weapon.
+| id = MoldSpear
+| type = Mould
+| weight      = 1.0
+| stack       = 10
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Abandoned Deep North Village]]<br>[[Mörkhalla]]
+| usage       = Crafting
+}}
+}}
+
+'''Nord Spear''' is the seventh, [[Deep North]]-tier [[Spears|spear]].
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+It cannot be crafted directly, instead the player must craft the corresponding [[Cast Nord Spear]] and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Spear''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* From [[Loot chest#Granary Barrel|Granary Barrel]]s in [[Abandoned Village]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrade information ==
+Like most Deep North-tier weapons, the Nord Spear can be upgraded to one of the following two variants using essences:
+
+* {{Item link|Frostfire Spear}} (with a [[Frostfire Essence]])
+* {{Item link|Thunderblood Spear}} (with a [[Thunderblood Essence]])
+
+An upgraded Nord Spear will '''NOT''' keep its upgrade level when it is modified using essences.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|170
+|180
+|190
+|200
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br> [[Mould Nord Spear]] x1<br> [[Timberwood]] x10<br> [[Liquid Frost]] x5
+| [[Bloodgold]] x10<br> [[Timberwood]] x5
+| [[Bloodgold]] x20<br> [[Timberwood]] x10
+| [[Bloodgold]] x40<br> [[Timberwood]] x20
+| [[Bloodgold]] x90<br> [[Mould Nord Spear]] x1<br>[[Timberwood]] x45<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Spear can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

@@ -1,0 +1,63 @@
+{{infobox creature
+| image 0star   = Fuling Shaman.png
+| trophy        = Fuling shaman trophy
+| trophy description = Even killing it couldn't wipe the knowing smile from its crooked lips...
+| trophy id     = TrophyGoblinShaman
+| id            = GoblinShaman
+| location      = [[Plains]]
+| health 0star  = 100
+| damage 0star  = 
+* Protect: 100 Shield
+* Poke: 100 Blunt
+* <nowiki>Fireball</nowiki>: 20 Blunt, 100 Fire
+| abilities     = 
+* Protect (40 seconds)
+* Poke (2 seconds)
+* Fireball (3 seconds)
+| veryweak      = 
+| weak          = 
+| resistant     = 
+| veryresistant = 
+| immune        = Spirit
+| neutral       = 
+| stagger       = 30%
+|faction=Plains}}
+'''Fuling shamans''' are aggressive [[creatures]] found in [[Plains]] occupying [[Fuling Village]]s. They are ritualistic, goblin-like beings that appear to possess their own tribalistic culture. It is implied through [[Runestone|runestones]] and [[Fuling Totem|totems]] that they worship [[Yagluth]], a long dead king.
+
+== Drops ==
+{{CreatureDrops}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=Uncommon [[Spawn points|spawn point]] in [[Fuling Village]]s|frequency=0|stars=No}}
+{{spawn row|type=During "The horde is attacking" [[Events|event]]|limit=1|frequency=6|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Fuling shamans|Aggressive creature strategies#Fuling shaman}}
+
+=== Protect ===
+Casts a protective barrier over all allies within a 6-meter radius, negating up to 100 damage before breaking or lasting for up to 40 seconds. This ability has a 40-second cooldown and can be used within 60 meters of a player.
+
+=== Poke ===
+Jabs the player with their feather staff, reaching out 2 meters and creating a 40-degree horizontal arc (100 [[Damage types#Blunt|Blunt]] damage). This ability has a 2-second cooldown and can be used within 1.5 meters of a player.
+
+=== Fireball ===
+Shoots a fireball at the player, which applies the [[Burning]] status (20 [[Damage types#Blunt|Blunt]] and 100 [[Damage types#Fire|Fire]] damage). The projectile travels at 15 meters per second for up to 4 seconds before despawning and has a spread of 4–20 degrees. This attack has a 3-second cooldown and can be used when within 0–20 meters of a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+Fulingshaman.jpg
+Fulingshaman2.jpg
+Fulingcamp2.jpg
+FulingShaman.jpg
+Fuling_Shaman_in-game.png
+</gallery>
+
+==Notes==
+
+*In ancient Norse societies, shamanism was associated with [[wikipedia:Seiðr|Seiðr]], a form of magic related to the telling and shaping of the future.
+{{Creatures}}
+[[de:Fuling Schamane]]
+[[fr:Chaman Gobelin]]
+[[ru:Фулинг-шаман]]

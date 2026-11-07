@@ -1,0 +1,83 @@
+{{infobox weapon
+| title             = Storm Star
+| image             = Storm Star.png
+| description       = Particularly effective on cloudy mornings.
+| id                = MaceEldnerLightning
+| type              = Club 1h
+| source            = [[Black Forge]]
+| durability        = 300
+| crafting level    = 4
+| repair level      = 4
+| blunt             = 135
+| blunt per level   = 6
+| lightning         = 10
+| knockback         = 100
+| materials 1 = 
+* [[Flametal Mace]] x1
+* [[Flametal]] x8
+* [[Iolite]] x1
+| materials 2 = 
+* [[Flametal]] x8
+* [[Iolite]] x1
+| materials 3 = 
+* [[Flametal]] x16
+* [[Iolite]] x2
+| materials 4 = 
+* [[Flametal]] x32
+* [[Iolite]] x4
+| idol             = * [[Flametal Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 57
+| movement speed    = -5%
+}}
+
+'''Storm Star''' is the upgraded form of [[Flametal Mace]] using the [[Iolite]]. Like all upgraded-weapons that use [[Iolite]], they gain 10 [[Lightning|lightning damage]] and their hit effect has a 25% chance to apply [[Chain Lightning]].
+
+* Its primary attack is a 3-hit attack combo with double damage on the last hit.
+* The slower secondary attack deals 2.5x damage and 2x staggering.
+
+An upgraded Flametal Mace will '''NOT''' keep its upgrade level when it is crafted into Storm Star.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Blunt
+|135
+|141
+|147
+|153
+|-
+!Lightning
+|10
+|10
+|10
+|10
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|1 [[Flametal Mace]]<br>8 [[Flametal]]<br>1 [[Iolite]]
+|8 [[Flametal]]<br>1 [[Iolite]]
+|16 [[Flametal]]<br>2 [[Iolite]]
+|32 [[Flametal]]<br>4 [[Iolite]]
+{{Upgrade station row|Black forge|4|start=4}}
+|}
+
+* Storm Star can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+{{WeaponsNav}}
+
+[[ru:Штормовая звезда]]
+[[de:Sturmstern]]
+[[fr:Étoile des tempêtes]]
+[[cs:Bouřlivá hvězda]]

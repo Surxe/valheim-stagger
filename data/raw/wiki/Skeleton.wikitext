@@ -1,0 +1,151 @@
+{{infobox creature
+| image 0star  = Skeleton.png
+| image 1star  = Skeleton 1star.png
+| image 2star  = Skeleton 2star.png
+| trophy       = Skeleton trophy
+| trophy description = The expressionless grin of this skull reminds you of the inevitability of death.
+| trophy id    = TrophySkeleton
+| id           = Skeleton_Meadows<br>Skeleton<br>Skeleton_Swamps<br>Skeleton_Mountains
+| location     = 
+[[Meadows]], [[Black Forest]], [[Swamp]], [[Mountain]], [[Deep North]]
+| drops        = 
+[[Bone Fragments]]<br/>[[Skeleton Trophy]]
+| health 0star = Meadows: 30<br>Black Forest: 40<br>Swamp: 60<br>Mountain: 75<br>Deep North: 100
+| damage 0star = 
+* Meadows:
+** Sword: 15 Slash
+** Bow: 15 Pierce
+* Black Forest:
+** Sword: 25 Slash
+** Bow: 20 Pierce
+* Swamp:
+** Sword: 48 Slash, 10 Chop
+** Bow: 55 Pierce
+* Mountain:
+** Sword: 60 Slash, 15 Chop
+** Bow: 60 Pierce
+* Deep North:
+** Mace: 80 Blunt, 15 Pure, 10 Frost
+| health 1star = Meadows: 60<br>Black Forest: 80<br>Swamp: 120<br>Mountain: 150<br>Deep North: 200
+| damage 1star = 
+* Meadows:
+** Sword: 22.5 Slash
+** Bow: 22.5 Pierce
+* Black Forest:
+** Sword: 37.5 Slash
+** Bow: 30 Pierce
+* Swamp:
+** Sword: 72 Slash, 15 Chop
+** Bow: 82.5 Pierce
+* Mountain:
+** Sword: 90 Slash, 22.5 Chop
+** Bow: 90 Pierce
+* Deep North:
+** Mace: 120 Blunt, 22.5 Pure, 15 Frost
+| health 2star = Meadows: 90<br>Black Forest: 120<br>Swamp: 180<br>Mountain: 225<br>Deep North: 300
+| damage 2star = 
+* Meadows:
+** Sword: 30 Slash
+** Bow: 30 Pierce
+* Black Forest:
+** Sword: 50 Slash
+** Bow: 40 Pierce
+* Swamp:
+** Sword: 96 Slash, 20 Chop
+** Bow: 110 Pierce
+* Mountain:
+** Sword: 120 Slash, 30 Chop
+** Bow: 120 Pierce
+* Deep North:
+** Mace: 160 Blunt, 30 Pure, 20 Frost
+| abilities    = 
+* Sword (3 seconds)
+* Bow (4 seconds)
+* Mace (3 seconds)
+| veryweak      = 
+| weak          = Blunt, Fire
+| resistant     = Pierce, Frost
+| veryresistant = 
+| immune        = Poison
+| neutral      = 
+|stagger=50%|faction=Undead}}
+'''Skeletons''' are aggressive [[creatures]] found in [[Meadows]], [[Black Forest]], [[Swamp]], [[Mountain]], [[Deep North]].
+
+Skeletons have different health, damage and color depending on their biome.
+
+Skeletons appear 80% of the time as melee variants and 20% of the time as ranged variants.
+
+Melee have a 25% chance to equip a [[Wood Shield]] and a 25% chance for a [[Bronze Buckler]]. Shields are purely cosmetic and don't drop on death.
+
+== Drops ==
+{{CreatureDrops}}
+===Deep North===
+{{CreatureDrops|name=Skeleton (Deep North)}}
+
+==Spawning==
+===Meadows Variant===
+{{spawn table|
+{{spawn row|type=Possible [[Spawn points|spawn point]] at [[Viking Graveyard]]s in [[Meadows]] during the night|frequency=0}}
+{{spawn row|type=Possible [[Spawn points|spawn point]] at [[Dolmen]]s in [[Meadows]] during the night|frequency=0}}
+{{spawn row|type=During "She's hot on your tail" [[Events|event]] after defeating [[Brenna]] |limit=4|frequency=6|stars=Yes}}
+}}
+===Black Forest Variant===
+{{spawn table|
+{{spawn row|type=Common [[spawn points|spawn point]] in [[Burial Chambers]]|frequency=0}}
+{{spawn row|type=Multiple [[spawn points]] near [[Ruined tower|Ruined towers]] and houses in [[Black Forest]]s and [[Mountain]]s|frequency=0}}
+{{spawn row|type=From [[Evil Bone Pile|Evil bone piles]] in [[Burial Chambers]]|limit=2|frequency=Every 6 seconds}}
+{{spawn row|type=[[Spawn zones|Anywhere]] during the night after defeating [[Bonemass]], despawn at dawn|limit=3|stars=No}}
+{{spawn row|type=During "She's hot on your tail" [[Events|event]] after defeating [[Brenna]] |limit=4|frequency=6|stars=Yes}}
+{{spawn row|type=During "A foul smell from the swamp" [[Events|event]] before defeating [[Bonemass]]|limit=6|frequency=6|stars=No}}
+{{spawn row|type=During "Skeleton surprise" [[Events|event]] after defeating [[Bonemass]]|limit=20|frequency=6|stars=No}}
+}}
+
+===Swamp Variant===
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Swamp]]s|limit=4}}
+{{spawn row|type=From [[Evil Bone Pile|Evil bone piles]] in [[Swamp]]s|limit=2|frequency=Every 6 seconds}}
+{{spawn row|type=Spawned by [[Bonemass]] (4 per ability)|limit=8|frequency=-|stars=No}}
+}}
+
+===Mountain Variant===
+{{spawn table|
+{{spawn row|type=From [[Evil Bone Pile|Evil bone piles]] [[Mountain Tower]]|limit=2|frequency=Every 6 seconds}}}}
+
+===Deep North Variant===
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Deep North]]s|limit=3}}
+{{spawn row|type=[[Spawn zones]] in [[Meadows#Alternative biomes|Menhir]] (Meadows) at night, after defeating [[Bonemass]]|limit=3|frequency=20|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Plains#Alternative biomes|Menhir]] (Plains) at night, after defeating [[Bonemass]]|limit=3|frequency=20|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Mountain#Alternative biomes|Fortress Mountain]]|limit=10|frequency=20|stars=No}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Skeletons|Aggressive creature strategies#Skeletons}}
+
+=== Sword ===
+Does a horizontal slash that extends 1.8 meters and arcs 90 degrees. This attack has a 3-second cooldown and can be used within 1.6 meters of a player.
+
+=== Bow ===
+Nocks an arrow and shoots the player. The arrow travels at 30 meters per second for up to 4 seconds before despawning and has a spread of 2–20 degrees. This attack has a 4-second cooldown and can be used within 20 meters of a player.
+
+== Gallery ==
+<gallery>
+Skeleton (Meadows).png | Skeleton from Meadows
+Skeleton (Swamp).png | Skeleton from Swamp
+Skeleton (Mountains).png | Skeleton from Mountains
+Skeleton (Deep North).png | Skeleton from Deep North
+File:SkeletonWalkingSnow.png|Skeleton walking through snow in the Mountains.
+File:SkeletonSnowFortress.png|Up close of a Skeleton in front of a ruined structure.
+File:1_star_skeleton_holding_a_bow.png|1 star Skeleton holding a bow.
+</gallery>
+
+== Notes ==
+
+* Skeletons cannot swim or drown, and will instead walk on the seafloor.
+* All Skeletons from the "She's hot on your tail" event are 1 star.
+{{Creatures}}
+
+[[uk:Скелет]]
+[[fr:Squelette]]
+[[cs:Kostlivec]]
+[[ru:Скелет]]
+[[de:Skelett]]

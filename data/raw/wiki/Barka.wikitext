@@ -1,0 +1,68 @@
+{{infobox creature
+| title         = Barka
+| image 0star   = Barka.png
+| trophy        = Barka Trophy
+| trophy description = The frozen head of a once-living tree.
+| trophy id = TrophyBarka
+| id            = Barka
+| faction       = Deep North
+| location      = [[Deep North]]
+| tameable      = No
+| health 0star  = 2200
+| damage 0star  =
+* Heavy swing: 160 Blunt, 100 Frost, 60 Chop, 30 Pickaxe
+* Slam drive: 180 Blunt, 100 Frost, 50 Chop, 25 Pickaxe
+* Whip flurry: 100 Blunt, 100 Frost, 25 Chop, 10 Pickaxe
+* Whip slam: 100 Blunt, 100 Pierce, 40 Frost, 50 Chop, 30 Pickaxe
+* Back slam: 190 Blunt, 80 Frost, 40 Chop
+| abilities     =
+* Heavy swing (7 seconds)
+* Slam drive (7 seconds)
+* Whip flurry (7 seconds)
+* Whip slam (7 seconds)
+* Back slam (3 seconds)
+| veryweak      =
+| weak          = Fire
+| resistant     = Blunt, Slash, Pierce, Frost, Lightning
+| neutral       = Chop
+| veryresistant =
+| immune        = Poison, Spirit
+| stagger       = 30%
+}}
+
+The '''Barka''' is a hostile creature found in the [[Deep North]]. It resembles a frozen [[The Elder]].
+
+It is resistant to most physical damage types, but neutral to [[Chop]].
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Deep North]], during the day and night, alone|limit=1|stars=No|frequency=2}}
+}}
+
+Barkas spawn dormant. They wake up when a player comes within 20m, or when a player's noise within 50m reaches them.
+
+== Attacks and abilities ==
+All of the Barka's attacks deal Tier 3 [[Damage types#Chop|Chop]] and [[Damage types#Pickaxe|Pickaxe]] damage, and also hit [[Factions|allied creatures]].
+
+=== Heavy swing ===
+Deals 160 [[Damage types#Blunt|Blunt]], 100 [[Damage types#Frost|Frost]], 60 Chop and 30 Pickaxe damage in an 8-meter, 90-degree horizontal arc. It can be used every 7 seconds when within 3-9 meters of a target.
+
+=== Slam drive ===
+Deals 180 Blunt, 100 Frost, 50 Chop and 25 Pickaxe damage in a 9-meter, 50-degree vertical arc, with twice the knockback of its other attacks. It can be used every 7 seconds when within 10-20 meters of a target.
+
+=== Whip flurry ===
+Deals 100 Blunt, 100 Frost, 25 Chop and 10 Pickaxe damage in a 10-meter, 160-degree horizontal arc. It can be used every 7 seconds when within 1-10 meters of a target.
+
+=== Whip slam ===
+Deals 100 Blunt, 100 [[Damage types#Pierce|Pierce]], 40 Frost, 50 Chop and 30 Pickaxe damage in a 9-meter, 50-degree vertical arc. It can be used every 7 seconds when within 4-12 meters of a target.
+
+=== Back slam ===
+Deals 190 Blunt, 80 Frost and 40 Chop damage. It is set up for targets behind the Barka, within 3-12 meters, and has a 3-second cooldown.
+
+== Lore ==
+{{Quote|Beware of false trees! Chiming icicles and creaking branches might not just be moving in the wind...|Runestone}}{{CreaturesNav}}
+
+[[ru:Барка]]

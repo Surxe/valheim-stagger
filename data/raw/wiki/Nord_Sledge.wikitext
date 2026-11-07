@@ -1,0 +1,118 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+| title = Nord Sledge
+| image = Nord Sledge.png
+| description = With this weapon, your blows will be heavy as that of a troll.
+| type = Club 2h
+| id = SledgeGold
+| source = [[Frost Foundry]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| blunt             = 225
+| blunt per level = 10
+| knockback         = 210
+| staggering=2
+| materials 1 = 
+* [[Cast Nord Sledge]] x1
+* [[Liquid Frost]] x5
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Timberwood]] x5
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Timberwood]] x10
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Timberwood]] x20
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 28
+| stamina secondary = 
+| block armor       = 52
+| movement speed    = -20%
+}}
+|Cast|
+{{Infobox item
+| title = Cast: Nord Sledge
+| image = Cast Nord Sledge.png
+| description = This weapon needs to be hardened with frost.
+| id = SledgeGoldUncooked
+| type = Cast
+| source = [[Black Forge]] level 4
+| materials = 
+* [[Bloodgold]] x20
+* [[Mould Nord Sledge]] x1
+* [[Timberwood]] x10
+| weight      = 4.0
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+| title = Mould: Nord Sledge
+| image = Mould Nord Sledge.png
+| description = Filled with the right material, this mould will create a most formidable weapon.
+| id = MoldMace2H
+| type = Mould
+| weight      = 1.0
+| stack       = 10
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Abandoned Deep North Village]]<br>[[Mörkhalla]]
+| usage       = Crafting
+}}
+}}
+
+'''Nord Sledge''' is the fourth, [[Deep North]]-tier two-handed [[Clubs|club]].
+
+* The primary attack slams the ground ''(after a lengthy swing delay)'', dealing damage, 2x the damage as staggering and knocking back everything in a spherical area of effect with a radius of 4 meters.
+* It has no secondary attack.
+
+It cannot be crafted directly, instead the player must craft the corresponding [[Cast Nord Sledge]] and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Sledge''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrade information ==
+Like most Deep North-tier weapons, the Nord Sledge can be upgraded to one of the following two variants using essences:
+
+* {{Item link|Frostfire Sledge}} (with a [[Frostfire Essence]])
+* {{Item link|Thunderblood Sledge}} (with a [[Thunderblood Essence]])
+
+An upgraded Nord Sledge will '''NOT''' keep its upgrade level when it is modified using essences.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|225
+|235
+|245
+|255
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br> [[Mould Nord Sledge]] x1<br> [[Timberwood]] x10<br> [[Liquid Frost]] x5
+| [[Bloodgold]] x10<br> [[Timberwood]] x5
+| [[Bloodgold]] x20<br> [[Timberwood]] x10
+| [[Bloodgold]] x40<br> [[Timberwood]] x20
+| [[Bloodgold]] x90<br> [[Mould Nord Sledge]] x1<br>[[Timberwood]] x45<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Sledge can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

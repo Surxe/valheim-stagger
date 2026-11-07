@@ -1,0 +1,80 @@
+{{infobox weapon
+| title          = Black Metal Sword
+| image          = Black Metal Sword.png
+| description    = A thing of death and beauty. It catches the light with a greenish glow.
+| id             = SwordBlackmetal
+| type           = Sword
+| source         = [[Forge]]
+| crafting level = 4
+| repair level   = 4
+| slash          = 95
+| materials 1 = 
+* [[Finewood]] x2 
+* [[Black Metal]] x20
+* [[Linen Thread]] x5
+| materials 2 = 
+* [[Black Metal]] x10
+* [[Linen Thread]] x5
+| materials 3 = 
+* [[Black Metal]] x20
+* [[Linen Thread]] x10
+| materials 4 = 
+* [[Black Metal]] x40
+* [[Linen Thread]] x20
+| idol           = * [[Black Metal Battle Idol]]
+| stamina = 14
+| block armor = 39}}
+
+'''Black Metal Sword''' is the fourth [[Swords|sword]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|95
+|101
+|107
+|113
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|2 [[Finewood]]<br>20 [[Black Metal]]<br>5 [[Linen Thread]]
+|10 [[Black Metal]]<br>5 [[Linen Thread]]
+|20 [[Black Metal]]<br>10 [[Linen Thread]]
+|40 [[Black Metal]]<br>20 [[Linen Thread]]
+|2 [[Finewood]]<br>90 [[Black Metal]]<br>40 [[Linen Thread]]
+{{Upgrade station row|Forge|4|start=4|addcol=1}}
+|}
+
+* Black Metal Sword can also be upgraded at the [[Forge of Potential]] with a [[Black Metal Battle Idol]].
+
+== Gallery ==
+<gallery>
+File:Blacksword.png
+</gallery>
+
+== Notes ==
+* The [[Silver Sword]] is a better weapon against undead enemies like [[Skeleton]]s and [[Draugr]] thanks to its extra [[Spirit]] damage.
+
+{{Weapons}}
+
+[[Fr:Épée_en_sombracier]]
+[[ru:Меч из черного металла]]
+[[de:Schwarzmetall-Schwert]]
+[[cs:Meč z černokovu]]

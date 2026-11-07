@@ -1,0 +1,77 @@
+{{infobox creature
+| title         = Abomination
+| image 0star   = Abomination.png 
+| trophy        = Abomination trophy
+| trophy description = It's been dead so long that it started living again.
+| trophy id     = TrophyAbomination
+| id            = Abomination
+| faction       = Undead
+| location      = [[Swamp]]
+| health 0star  = 800
+| damage 0star  = 
+* Swing: 60 Blunt, 100 Chop, 60 Pickaxe
+* Slam: 80 Blunt, 100 Chop, 60 Pickaxe
+* Ground slam: 80 Blunt, 100 Chop, 60 Pickaxe
+| abilities     = 
+* Swing (7 seconds)
+* Slam (8 seconds)
+* Ground slam (6 seconds)
+| veryweak      = 
+| weak          = Fire
+| resistant     = Blunt
+| veryresistant = Pierce
+| immune        = Frost, Poison, Spirit
+| neutral       = Lightning, Slash
+| stagger       = 33%
+}}
+
+'''Abominations''' are aggressive [[creatures]] found in the [[Swamp]]s. They are large tree-like entities comprised of multiple branches and four sturdy roots, which it uses as legs to move around.
+
+Due to its weakness to fire damage, killing it with [[Fire Arrow]]s is a valid option. [[Damage#Slash|Slashing damage]] (Axes, Swords, Knives) takes it down quite rapidly. With a [[Banded Shield]] or better, its attacks can be parried, and the creature defeated surprisingly easily.
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Swamp]]|limit=1|frequency=2|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Swamp#Alternative biomes|Bog Swamp]]|limit=3|frequency=167|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Swamp#Alternative biomes|Abomination Swamp]]|limit=3|frequency=167|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Abominations|Aggressive creature strategies#Abomination}}
+
+=== Swing === 
+<ref name=":0">The files for the Abomination's attack properties are only numbered Attack 1-3, but the animations are given names. For clarity, the animation names are used.</ref> Swings their right branch at the player in an 11-meter long 45-degree horizontal arc (60 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 60 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage). This has a 7-second cooldown and is restricted to when the player is within 2.5–6 meters, meaning it is possible to disable this attack by standing against the center of the Abomination.
+
+=== Slam ===
+<ref name=":0" /> Raises their left branch high before pounding it against the ground (80 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 60 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage). The impact hits in a 4.3-meter radius circle around the branch. It has an 8-second cooldown and can be used within 3–5 meters of a player, meaning it is possible to disable this attack by standing against the center of the Abomination.
+
+=== Ground slam ===
+<ref name=":0" /> Lifts themselves up slightly, before slamming their entire body in the ground (80 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 60 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage). This attack hits in a 5.4-meter radius circle around their center. This has a 6-second cooldown and can be used within 0–3 meters of a player.
+
+== Gallery ==
+<gallery>
+File:Abomination 0star.PNG
+File:Firearrowabomination.jpg|Abomination destroyed by fire arrows.
+File:Idle Abomination.png|Idle Abomination (before aggro)
+</gallery>
+
+== Notes ==
+* The idle form of the Abomination looks a lot like a tree stump. They tend to spawn in open water areas, sometimes among reeds. They also give off the Swamp's typical green gas effect, which is a big giveaway.
+* Due to the limited number of locations that match the spawn criteria, they can often appear to spawn in similar locations each time. They will not respawn in a zone during the cooldown period of 4000 seconds or around 66 minutes.
+* Abominations are quite perceptive, but their activation range is greater than their detection range.
+* If they are killed in deep water, the Guck will sink and possibly be lost, but the root, and the trophy if one is dropped, floats.
+* The [[Root (item)|Root]] item drop opens access to the [[Root Set]], which requires 66 Root in total to craft and fully upgrade. Thus requiring 14 Abomination kills in all, from the fixed 5 Root per drop.
+* Despite appearances, Abominations are not considered trees by the Elder power.
+* As Abominations are weak to fire, players can lure them over [[Fire geysers]] for a speedy kill. Fire stacks up to a point, so keeping them over the flame by kiting them will keep adding fire stacks.
+* To sneak up on them and get the backstab bonus, look closely at the idle form. You'll notice it has a slant to it. The taller side of it is the direction the Abomination is facing, so sneak up on the lower side. Though they will pop up with the same radius regardless of where you are facing, they won't see you unless they turn around. Do note that entering deep enough water stops the player from sneaking.
+
+{{Creatures}}
+
+[[ru:Мерзость]]
+[[cs:Ohavnost]]
+[[uk:Гидь]]
+[[de:Monstrosität]]
+[[fr:Abomination]]

@@ -1,0 +1,101 @@
+{{infobox weapon
+| title          = Crystal Battleaxe
+| image          = Crystal Battleaxe.png
+| description    = It's see-through and tears through.
+| id             = BattleaxeCrystal
+| type           = Axe 2h
+| source         = [[Forge]]
+| light source   = Bluish-White
+| durability     = 200
+| crafting level = 3
+| repair level   = 3
+| slash          = 90
+| knockback      = 70
+| materials 1 = 
+* [[Ancient Bark]] x40
+* [[Silver]] x30
+* [[Crystal]] x10
+| materials 2 =
+* [[Ancient Bark]] x5
+* [[Silver]] x15
+| materials 3 = 
+* [[Ancient Bark]] x10
+* [[Silver]] x30
+| materials 4 = 
+* [[Ancient Bark]] x20
+* [[Silver]] x60
+| idol           = * [[Silver Battle Idol]]
+| chop = 50
+| spirit = 30
+| block armor = 40
+| stamina = 18}}
+
+'''Crystal Battleaxe''' is the second two-handed [[axe]].
+
+* Its primary attack is a 3-hit combo (wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x [[staggering]] and no multitarget penalty.
+* The faster secondary attack deals 0.5x damage and 4x staggering.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|90
+|96
+|102
+|108
+|-
+!Spirit
+|30
+|30
+|30
+|30
+|-
+!Chop (trees)
+|50
+|52.5
+|55
+|57.5
+|-
+!Durability
+|200
+|250
+|300
+|350
+|-
+!Crafting
+|40 [[Ancient Bark]]<br>30 [[Silver]]<br>10 [[Crystal]]
+|5 [[Ancient Bark]]<br>15 [[Silver]]
+|10 [[Ancient Bark]]<br>30 [[Silver]]
+|20 [[Ancient Bark]]<br>60 [[Silver]]
+{{Upgrade station row|Forge|4|start=3}}
+|}
+
+* Crystal Battleaxe can also be upgraded at the [[Forge of Potential]] with a [[Silver Battle Idol]].
+
+== Notes ==
+* The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.
+* General combo starter is the secondary into the primary.
+* The glow effect of the axe makes the wielder slightly easier to detect while sneaking.
+
+== Gallery ==
+<gallery widths="185">
+Screenshot 33.png
+[[File:892970_38.jpg|400px]]
+</gallery>
+
+{{ToolsNav}}
+{{WeaponsNav}}
+
+[[Category:Weapons]]
+[[Category:Axes]]
+[[Category:Forge recipes]]
+
+[[ru:Кристальный боевой топор]]
+[[cs:Křišťálová bitevní sekera]]
+[[fr:Hache de combat en cristal]]
+[[de:Kristallkampfaxt]]

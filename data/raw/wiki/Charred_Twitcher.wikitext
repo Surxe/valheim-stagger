@@ -1,0 +1,69 @@
+{{Infobox creature
+| image 0star   = Charred Twitcher.png
+| image 1star   = Charred Twitcher 1star.png
+| image 2star   = Charred Twitcher 2star.png
+| id            = Charred_Twitcher
+| faction       = Demon
+| location      = [[Ashlands]]
+| health 0star  = 220
+| damage 0star  =
+* Scratch: 100 Slash
+* Throw: 75 Pierce
+
+| health 1star  = 440
+| damage 1star  =
+* Scratch: 150 Slash
+* Throw: 112.5 Pierce
+
+| health 2star  = 660
+| damage 2star  =
+* Scratch: 200 Slash
+* Throw: 150 Pierce
+
+| abilities     =
+* Scratch (3 seconds each for 2 variants)
+* Throw (6 seconds)
+| weak          = Spirit
+| resistant     = Pierce
+| veryresistant = Fire
+|immune=Poison|stagger=50%}}
+'''Charred Twitchers''' are hostile enemies found in the [[Ashlands]]. These guys are always twitching, as their name suggests. 
+
+There is an alternate summoned version, with only 50 health, invoked by [[Charred Warlock|Warlocks]], see [[Summoned Twitcher]].
+
+== Drops ==
+{{CreatureDrops}}
+Notably, Charred Twitchers have no trophy.
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Ashlands]] during the daytime|limit=4|frequency=4|stars=Yes}}
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Ashlands]] during the nighttime, despawn at dawn|limit=5|frequency=4|stars=Yes}}
+{{spawn row|type=Randomly from [[Monument of Torment]] when a player is nearby|limit=none|frequency=4|stars=Yes}}
+{{spawn row|type=Randomly from [[Monument of Torment (Elite)]] when a player is nearby|limit=none|frequency=4|stars=Yes (2 stars only)}}
+{{spawn row|type=During "The undead army marches." [[Events|event]] before defeating [[Fader]]|limit=3|frequency=6|stars=No}}
+{{spawn row|type=During "The dead have been summoned." [[Events|event]] (summoned by [[Monument of Torment]]) before defeating [[Fader]]|limit=none|frequency=6|stars=Yes}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Charred Twitcher|Aggressive creature strategies#Charred Twitcher}}
+
+=== Scratch ===
+Swipes at the player with one of its claws (100 [[Damage types#Slash|Slash]] damage). This attack has two variations, each with its own 3-second cooldown: one with the left claw and one with the right. Both variations swing in a 3-meter 115-degree horizontal arc and can be used when within 1.6 meters of a player.
+
+=== Throw ===
+Picks up a stone from the ground and lobs it at the player (75 [[Damage types#Pierce|Pierce]] damage). The stone travels at a random velocity between 50–60 meters per second, with a spread of 4–20 degrees. It can travel for up to 4 seconds before despawning. This attack can be used every 6 seconds when between 6–40 meters of a player.
+
+== Gallery ==
+<gallery>
+File:Twitcher development.png
+</gallery>
+
+== Lore ==
+{{Quote|But for those who are burned by a drake's fire, the blessing is a curse. They are killed and quickened at the same time, caught forever between death and life. Such are the unfortunate souls who wander this ruined land, with flames for flesh and agony in every moment. They cannot be destroyed, only pitied.|Runestone}}{{Creatures}}
+
+[[ru:Обугленный дергун]]
+[[uk:Обвуглений хитайлик]]
+[[cs:Sežehnutý trhavec]]
+[[de:Verkohlter Zuckender]]
+[[fr:Forcené calciné]]

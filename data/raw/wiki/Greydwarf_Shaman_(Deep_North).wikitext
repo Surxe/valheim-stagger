@@ -1,0 +1,57 @@
+{{infobox creature
+| title         = Greydwarf Shaman
+| image 0star   = Greydwarf Shaman (Deep North).png
+| image 1star   =
+| image 2star   =
+| trophy        = Greydwarf Shaman Trophy
+| trophy description = It may try to come back so be sure to prune any new shoots...
+| trophy id     = TrophyGreydwarfShaman
+| id            = Greydwarf_Shaman_Frozen
+| faction       = Deep North
+| location      = [[Deep North]]
+| tameable      = No
+| health 0star  = 120
+| damage 0star  =
+* Magic attack: 180 Poison
+* Attack: 20 Blunt, 60 Slash, 16 Frost
+| health 1star  = 240
+| damage 1star  =
+* Magic attack: 270 Poison
+* Attack: 30 Blunt, 90 Slash, 24 Frost
+| health 2star  = 360
+| damage 2star  =
+* Magic attack: 360 Poison
+* Attack: 40 Blunt, 120 Slash, 32 Frost
+| abilities     =
+* Magic attack (8 seconds)
+* Attack (2 seconds)
+* Heal (10 seconds)
+| veryweak      = Fire
+| weak          =
+| resistant     = Poison
+| veryresistant =
+| immune        = Spirit
+| stagger       = 33%
+}}
+
+The '''Greydwarf Shaman''' of the [[Deep North]] is a hostile creature, a Deep North variant of the [[Greydwarf Shaman]].
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Deep North]] above altitude 10, during the day and night, in groups of two to four|limit=1|stars=Yes}}
+}}
+
+== Attacks and abilities ==
+=== Magic attack ===
+Creates a 7-meter, 35-degree conical blast that deals 180 [[Damage types#Poison|Poison]] damage. This attack cannot be blocked. It can be used every 8 seconds when within 2–5 meters of a target.
+
+=== Attack ===
+Deals 20 [[Damage types#Blunt|Blunt]], 60 [[Damage types#Slash|Slash]] and 16 [[Damage types#Frost|Frost]] damage in a 1.7-meter, 90-degree horizontal arc. It can be used every 2 seconds when within 1.2 meters of a target.
+
+=== Heal ===
+Creates an area 4.32 meters in radius that applies a healing effect to the shaman and its allies. It deals no damage. The shaman uses it every 10 seconds when a hurt ally is within 4 meters.
+
+{{CreaturesNav}}

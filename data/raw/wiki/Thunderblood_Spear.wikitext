@@ -1,0 +1,83 @@
+{{Infobox weapon
+| description = May it strike like lightning, quick and fierce.
+| type = Spear
+| id = SpearGold_BloodLightning
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| pierce             = 180
+| pierce per level = 10
+| lightning = 45
+| lightning per level = 5
+| knockback         = 20
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Spear]] x1
+* [[Thunderblood Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Thunderblood Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Thunderblood Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Thunderblood Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 16
+| stamina secondary = 18
+| block armor       = 66
+| movement speed    = 
+| weight=1.5
+| special = 
+}}
+
+'''Thunderblood Spear''' is a version of [[Nord Spear]] upgraded with a [[Thunderblood Essence]]. It gains extra [[pierce]] and [[Lightning|lightning damage]], a 25% chance per hit to trigger [[Chain lightning]] and a 0.2% damage increase for every 1 point of [[health]] the player is missing.
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+An upgraded Nord Spear will '''NOT''' keep its upgrade level when it is crafted into Thunderblood Spear.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|180
+|190
+|200
+|210
+|
+|-
+!Lightning
+|45
+|50
+|55
+|60
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Spear}} x1<br> {{item link|Thunderblood Essence}} x1
+| [[Bloodgold]] x10<br> [[Thunderblood Essence]] x1
+| [[Bloodgold]] x20<br> [[Thunderblood Essence]] x2
+| [[Bloodgold]] x40<br> [[Thunderblood Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Spear]] x1<br>[[Thunderblood Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Thunderblood Spear can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

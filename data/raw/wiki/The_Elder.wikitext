@@ -1,0 +1,111 @@
+{{infobox creature
+| title             = The Elder
+| image 0star       = The Elder.png
+| description 0star = First of the Forest, King-in-the-Wood, Lord over those who dwell at his feet. His roots will grow where cities once stood, their blood his wine, their flesh his meat.
+| trophy            = The Elder trophy
+| trophy description = This severed head oozes power. Offer it to the Sacrificial Stones.
+| trophy id         = TrophyTheElder
+| id                = gd_king
+| type              = Boss
+| summon            = [[Ancient Seed]] x3
+| behavior          = Aggressive
+| tameable          = No
+| location          = 
+* [[Black Forest]]
+| health 0star      = 2500
+| damage 0star      = 
+* Shoot: 35 Pierce, 20 Chop, 20 Pickaxe
+* Stomp: 60 Blunt, 1000 Chop, 1000 Pickaxe
+| abilities         = 
+* Root Spawn (25 seconds)
+* Shoot (6 seconds)
+* Stomp (5 seconds)
+| veryweak          = Fire
+| weak              = 
+| resistant         = 
+| veryresistant     = 
+| immune            = Poison, Spirit, Stagger
+| neutral           = 
+| aggressive        = 
+|faction=Boss}}
+'''The Elder''' is the second [[Creatures#Bosses|boss]]. He appears as a towering humanoid tree-like entity with multiple thin branches sprouting out of his slender, bark-covered body.
+
+== Summoning ==
+[[File:TheElderAltar.png|left|thumb|200x200px|The Elder's Forsaken Altar.]]
+The Elder's [[Forsaken Altars|Forsaken Altar]] is located in [[Black Forest|Black Forests]]. His location can be revealed when visiting [[Burial Chambers]] and sometimes ruined structures around Black Forests, where a [[Runestone|Vegvisir]] will reveal his nearest summoning location on the map. 
+
+He is summoned by placing three {{Item Link|Ancient Seed}}s in his Forsaken altar in Black Forests. Like all bosses, the Elder can be summoned as many times as desired, provided the required materials are met. 
+
+== Attacks and abilities ==
+{{For|strategies for defeating the Elder|Boss strategies#The Elder}}
+The Elder has an environment aura that removes darkness and raining.
+
+=== Root Spawn ===
+The Elder will raise an arm in the air to summon 15 hostile [[Root (creature)|Roots]] within a 15-meter radius circle around the player. Roots can attack players in melee range but are otherwise immobile and will despawn after 18–20 seconds or when The Elder is defeated. Although not typically possible in regular gameplay, a maximum of 30 Roots can be active at once. This ability has a 25-second cooldown and can be used while within 30 meters of a player.
+
+=== Shoot ===
+A ranged volley of 25 vines directed at a target player (35 [[Damage types#Pierce|Pierce]], 20 Tier 0 [[Damage types#Chop|Chop]] and 20 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage per hit). This attack has a 6-second cooldown and can be used when a player is 15–50 meters away. He attempts to track players while aiming. Each vine has an initial velocity of 30 meters per second and a spread of 10–20 degrees. They can travel for up to 6 seconds before disappearing.
+
+=== Stomp ===
+A close-range stomp over a large area (60 [[Damage types#Blunt|Blunt]], 1000 Tier 0 [[Damage types#Chop|Chop]] and 1000 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). It hits in a circle 5 meters in radius from the impact point. This attack can be used when within 3 meters of a player and is accessible every 5 seconds.
+
+== Aftermath ==
+Defeating the Elder allows the player to unlock and enter swamp crypts (which are the primary source of [[Scrap Iron]] in the game) with the [[Swamp Key]].
+
+=== Drops ===
+{{CreatureDrops|stars=0}}
+
+=== Forsaken power ===
+Mounting The Elder’s trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:
+
+* Health regen: +30%
+* Chop damage: +60%
+* Pickaxe damage: +60%
+
+=== Events ===
+Defeating The Elder affects the following [[events]] for that world:
+
+* Disables: "The forest is moving..."
+* Enables: "A foul smell from the swamp..." (if [[Bonemass]] has not been defeated)
+* Enables: "The ground is shaking." (if a [[Troll]] has died in the world)
+
+=== Creature spawning ===
+Defeating The Elder unlocks several creatures to spawn at '''night''' in unusual biomes. They can only have 0 stars:
+
+* [[Greydwarf Brute]] in Meadows.
+* [[Greydwarf Shaman]] in Meadows.
+* [[Draugr]] while it is "Misty" in Meadows, Black Forest, Mountain, Plains.
+* [[Odin]] in Meadows, Black Forest, Plains.
+
+=== Traders ===
+Defeating The Elder unlocks the [[Thunder Stone]] and [[Ymir Flesh]] for sale from [[Haldor]]. It also unlocks the [[Woodland Herb Blend]] from [[The Bog Witch]] for 120 [[Coins]].
+
+== Gallery ==
+<gallery>
+File:Elder and friends.jpg
+File:TheElderAltar.png
+</gallery>
+
+== Notes ==
+* The altar provides a few hints on what items are used to summon him. First, the altar reads "Burn their young" referring to [[Ancient Seed]]s. In addition, the top of the columns are topped by statues that look similar to Ancient Seeds in shape.
+* Because of The Elder's location in the [[Black Forest]], additional enemies such as [[Troll]]s or [[Greydwarf]]s may join the battle and increase the difficulty significantly, especially at night. 
+* The Elder's high-damage ranged attack can be effective in quickly gathering resources such as [[Wood]], [[Corewood]], [[Stone]], and [[Copper Ore]], without the use of tools.
+* In the in-game trophies menu, there is another description of The Elder, "Even in death, it seems to grin with secret knowledge."
+* When The Elder's trophy is mounted on an item mount, he will sometimes say: "Little thing of blood and bone, I should have snapped you like a twig! Now I wither and die, let the great tree have me..."
+The many names of The Elder:
+* In the game files, The Elder is also known as "gd_king" as well as "theelder". Likely to be interpreted as "Greydwarf King".
+* Warnings inscribed in a few of the [[Runestone|runestones]] found in the [[Black Forest]] refer to The Elder as "the One Who Walks" once, and "the Old One" twice:
+<blockquote>''Beneath the ground, the roots of the forest twine together on a great loom. Pluck one thread and the whole weave will move. Chop down one tree and all the wood will know. Make yourself known to the One Who Walks, and he will seek you out.''</blockquote>
+<blockquote>''Beware the Old One. The ravens say that in ages past he was a shoot of great Yggdrasil itself and a force of wisdom in the days when men and trees were friends. Now he scorns the axe and sets himself against the works of the Gods themselves. Odin banished him here for his pride but his roots are deep.''</blockquote>
+<blockquote>''Seven were the creatures banished to this world by mighty Odin in the first days of his kingship. Seven gods and monsters too proud to bear his yoke. I have heard the tread of the Old Ones in the forest and have crouched in the shadow of the Mountain Mother when she flies. Of the others I know little. I will add to this stone when I have seen more.''</blockquote>
+
+== Achievements ==
+{{Achievement|Boss2Elder}}
+
+{{Creatures}}
+
+[[fr:L'Aîné]]
+[[cs:Prastarý]]
+[[ru:Древний]]
+[[uk:Прадавній]]
+[[de:Der Uralte]]

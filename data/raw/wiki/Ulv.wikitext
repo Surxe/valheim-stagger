@@ -1,0 +1,53 @@
+{{Infobox_creature
+| title         = Ulv
+| image 0star   = Ulv.png
+| image 1star   = Ulv.png
+| trophy        = Ulv trophy
+| trophy description = A rugged tail from a not so good boy
+| trophy id     = TrophyUlv
+| id            = Ulv
+| location      = [[Mountain]]
+| health 0star  = 50
+| damage 0star  = * Bite: 80 Slash
+* Slash: 70 Slash
+| health 1star  = 100
+| damage 1star  = * Bite: 120 Slash
+* Slash: 105 Slash
+| abilities     = * Bite (5s)
+* Slash (9 seconds)
+| veryweak      = 
+| weak          = Poison
+| resistant     = 
+| veryresistant = Fire
+| neutral       = 
+| stagger       = 50%
+| faction       = Mountain}}
+'''Ulve''' are aggressive [[creatures]] found in [[Mountain|Mountains]] inside [[Frost Caves]]. Their appearance is distinctly werewolf-like, however unlike [[Fenring|Fenrings]], they trot on all-fours.
+
+=== Drops ===
+{{CreatureDrops|stars=1}}
+
+=== Spawning ===
+{{Spawn table|{{spawn row|type=Common [[spawn points|spawn point]] in [[Frost Caves]].|frequency=0|stars=No}}
+{{spawn row|type=Common [[spawn points|spawn point]] in [[Howling Cavern]].|frequency=0|stars=Yes (Only 1-Star)}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Ulv|Aggressive creature strategies#Ulv}}
+
+=== Bite ===
+Crouches down before swinging up to bite the player (80 [[Damage types#Slash|Slash]] damage). This extends 2.2 meters in a 25-degree horizontal arc and can be used every 5 seconds when within 1.5 meters of a player.
+
+=== Slash ===
+Steps back before lifting both paws to slash downward (70 [[Damage types#Slash|Slash]] damage). It has a vertical hitbox that hits 2.5 meters out and spans 60 degrees. This has a 9-second cooldown and can be used within 3 meters of a player.
+
+== Gallery ==
+<br />
+== Notes ==
+
+* Ulv is from Old Norse ''ulfr.'' The word is still used in both Norway and Denmark but became taboo in Sweden and replaced with ''varg''.<br />
+
+{{Creatures}}
+
+[[de:Ulv]]
+[[ru:Ульв]]
+[[cs:Ulv]]

@@ -1,0 +1,83 @@
+{{infobox weapon
+| title          = Splitnir
+| image          = Splitnir.png
+| description    = Split your enemies' hearts in two.
+| id             = SpearSplitner
+| type           = Spear
+| source         = [[Black Forge]]
+| crafting level = 3
+| repair level   = 3
+| pierce         = 135
+| knockback      = 20
+| materials 1 = 
+* [[Ashwood]] x10
+* [[Flametal]] x6
+* [[Asksvin Hide]] x2
+* [[Bonemaw Tooth]] x3
+| materials 2 = 
+* [[Ashwood]] x5
+* [[Flametal]] x6
+* [[Asksvin Hide]] x1
+* [[Bonemaw Tooth]] x3
+| materials 3 = 
+* [[Ashwood]] x10
+* [[Flametal]] x12
+* [[Asksvin Hide]] x2
+* [[Bonemaw Tooth]] x6
+| materials 4 = 
+* [[Ashwood]] x20
+* [[Flametal]] x24
+* [[Asksvin Hide]] x4
+* [[Bonemaw Tooth]] x12
+| idol           = * [[Black Marble Battle Idol]]
+| stamina = 16
+| stamina secondary = 18
+| block armor = 57
+|movement speed = -5%}}
+
+'''Splitnir''' is the sixth [[Spears|spear]].
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+== Upgrade information ==
+Like most Ashlands-tier weapons, the Splitnir can be upgraded to one of the following three variants using gemstones:
+
+* {{Item link|Splitnir the Bleeding}} ([[Bloodstone]])
+* {{Item link|Splitnir the Storming}} ([[Iolite]])
+* {{Item link|Splitnir the Primal}} ([[Jade]])
+
+An upgraded Splitnir will '''NOT''' keep its upgrade level when it is modified using gemstones.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Pierce
+|135
+|141
+|147
+|153
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|10 [[Ashwood]]<br>6 [[Flametal]]<br>2 [[Asksvin Hide]]<br>3 [[Bonemaw Tooth]]
+|5 [[Ashwood]]<br>6 [[Flametal]]<br>1 [[Asksvin Hide]]<br>3 [[Bonemaw Tooth]]
+|10 [[Ashwood]]<br>12 [[Flametal]]<br>2 [[Asksvin Hide]]<br>6 [[Bonemaw Tooth]]
+|20 [[Ashwood]]<br>24 [[Flametal]]<br>4 [[Asksvin Hide]]<br>12 [[Bonemaw Tooth]]
+{{Upgrade station row|Black forge|4|start=3}}
+|}
+
+* Splitnir can also be upgraded at the [[Forge of Potential]] with a [[Black Marble Battle Idol]].
+
+{{WeaponsNav}}
+
+[[ru:Расколнир]]

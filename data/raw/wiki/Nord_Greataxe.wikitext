@@ -1,0 +1,125 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+| title = Nord Greataxe
+| image = Nord Greataxe.png
+| description = A mighty axe fit for a mighty warrior.
+| type = Axe 2h
+| id = BattleaxeGold
+| source = [[Frost Foundry]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| slash             = 188
+| chop = 40
+| chop per level = 2.5
+| tool tier = 6
+| slash per level = 10
+| knockback         = 
+| materials 1 = 
+* [[Cast Nord Greataxe]] x1
+* [[Liquid Frost]] x5
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Timberwood]] x5
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Timberwood]] x10
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Timberwood]] x20
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 22
+| stamina secondary = 11
+| block armor       = 76
+| movement speed    = -20%
+}}
+|Cast|
+{{Infobox item
+| title = Cast: Nord Greataxe
+| image = Cast Nord Greataxe.png
+| description = This weapon needs to be hardened with frost.
+| id = BattleaxeGoldUncooked
+| type = Cast
+| source = [[Black Forge]] level 4
+| materials = 
+* [[Bloodgold]] x20
+* [[Mould Nord Greataxe]] x1
+* [[Timberwood]] x10
+| weight      = 2.5
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+| title = Mould: Nord Greataxe
+| image = Mould Nord Greataxe.png
+| description = Filled with the right material, this mould will create a most formidable weapon.
+| id = MoldAxe2H
+| type = Mould
+| weight      = 1.0
+| stack       = 10
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Mörkhalla]]
+| usage       = Crafting
+}}
+}}
+
+'''Nord Greataxe''' is the fifth, [[Deep North]]-tier two-handed [[axe]].
+
+* Its primary attack is a 3-hit combo (wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x [[staggering]] and no multitarget penalty.
+* The faster secondary attack deals 0.5x damage and 4x staggering.
+
+It cannot be crafted directly, instead the player must craft the corresponding [[Cast Nord Greataxe]] and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Greataxe''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrade information ==
+Like most Deep North-tier weapons, the Nord Greataxe can be upgraded to one of the following two variants using essences:
+
+* {{Item link|Frostfire Greataxe}} (with a [[Frostfire Essence]])
+* {{Item link|Thunderblood Greataxe}} (with a [[Thunderblood Essence]])
+
+An upgraded Nord Greataxe will '''NOT''' keep its upgrade level when it is modified using essences.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|188
+|198
+|208
+|218
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br> [[Mould Nord Greataxe]] x1<br> [[Timberwood]] x10<br> [[Liquid Frost]] x5
+| [[Bloodgold]] x10<br> [[Timberwood]] x5
+| [[Bloodgold]] x20<br> [[Timberwood]] x10
+| [[Bloodgold]] x40<br> [[Timberwood]] x20
+| [[Bloodgold]] x90<br> [[Mould Nord Greataxe]] x1<br>[[Timberwood]] x45<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Greataxe can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+== Notes ==
+* The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.
+* General combo starter is the secondary into the primary.
+
+{{ToolsNav}}
+{{WeaponsNav}}

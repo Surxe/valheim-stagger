@@ -1,0 +1,55 @@
+{{Infobox creature
+| title         = Volture
+| image 0star   = Volture.png
+| trophy        = Volture trophy
+| trophy description = It's like a vulture, but it thrives in volcanic climates.
+| trophy id     = TrophyVolture
+| id            = Volture
+| location      = [[Ashlands]]
+| health 0star  = 200
+| damage 0star  = Talons: 110 Slash
+| abilities     = Talons (2s)
+| veryweak      =
+| weak          = Frost
+| resistant     =
+| veryresistant =
+| immune        = Poison
+| neutral       =
+| stagger       = 50%
+| faction       = Demon}}
+'''Voltures''' are aggressive enemies found in the [[Ashlands]]. [[Volture Nest|Volture nests]] will spawn [[Volture|Voltures]] one time. Voltures can also be found flying above the water along the Ashlands coast.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Ashlands]] at very low altitudes (e.g. at sea)|limit=3|frequency=4|stars=No}}
+{{spawn row|type=1-4 [[spawn points]] near [[Volture Nest]]s|frequency=0|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Voltures|Aggressive creature strategies#Volture}}
+
+Voltures will attempt to get behind the player and attack with their talons. If the player turns toward the Volture to attack it, it will attempt to fly up in the air can get behind the player again. Additionally, Voltures are among the fastest enemies in the game and can outrun a player in light armor with the full effect of [[Wind Run]], making them especially dangerous to players with very low health.
+
+Voltures deal little damage and do not have very much health, but their speed and tendency to get behind the player can make them a nuisance (and a threat in larger numbers). Care should be taken when fighting other enemies when nearby Voltures, since the latter can potentially get behind the player and block them in.
+
+=== Talons ===
+Draws back before lunging forward to scratch the player with both claws (110 [[Damage types#Slash|Slash]] damage). This attack hits in a 1.5-meter 60.99-degree horizontal arc. It can be used every 2 seconds within 1.5 meters of a player.
+
+== Trivia ==
+* The name "Volture" is a portmanteau of "'''vol'''cano" and "vul'''ture'''".
+* They are one of the few enemies that are afraid of fire, together with [[Boar|Boars]], [[Neck|Necks]], [[Greyling|Greylings]], [[Greydwarf|Greydwarfs]], [[Bear|Bears]] and [[Vile|Viles]].
+
+== Gallery ==
+<gallery>
+File:Early footage volture.png|Early Volture
+</gallery>
+
+== Note ==
+
+* Voltures take damage from boiling water around Ashlands despite being native there.
+{{Creatures}}
+
+[[ru:Стервулканник]]

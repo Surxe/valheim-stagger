@@ -1,0 +1,89 @@
+{{infobox weapon
+| title          = Fang Spear
+| image          = Fang Spear.png
+| description    = Even in death, the wolf's tooth aches for flesh.
+| id             = SpearWolfFang
+| type           = Spear
+| source         = Forge
+| crafting level = 3
+| repair level   = 3
+| pierce         = 75
+| materials 1 = 
+* [[Ancient Bark]] x10
+* [[Wolf Fang]] x4
+* [[Leather Scraps]] x2
+* [[Silver]] x2
+| materials 2 = 
+* [[Ancient Bark]] x5
+* [[Wolf Fang]] x2
+* [[Leather Scraps]] x1
+* [[Silver]] x1
+| materials 3 = 
+* [[Ancient Bark]] x10
+* [[Wolf Fang]] x4
+* [[Leather Scraps]] x2
+* [[Silver]] x2
+| materials 4 = 
+* [[Ancient Bark]] x20
+* [[Wolf Fang]] x8
+* [[Leather Scraps]] x4
+* [[Silver]] x4
+| idol           = * [[Silver Battle Idol]]
+| stamina = 12
+| block armor = 30
+| stamina secondary = 14}}
+
+'''Fang Spear''' is the fourth [[Spears|spear]].
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!All
+|-
+!Pierce
+|75
+|81
+|87
+|93
+|N/A
+|-
+!Durability
+|100
+|150
+|200
+|250
+|N/A
+|-
+!Crafting
+|10 [[Ancient Bark]]<br />4 [[Wolf Fang]]<br />2 [[Leather Scraps]]<br />2 [[Silver]]
+|5 [[Ancient Bark]]<br />2 [[Wolf Fang]]<br />1 [[Leather Scraps]]<br />1 [[Silver]]
+|10 [[Ancient Bark]]<br />4 [[Wolf Fang]]<br />2 [[Leather Scraps]]<br />2 [[Silver]]
+|20 [[Ancient Bark]]<br />8 [[Wolf Fang]]<br />4 [[Leather Scraps]]<br />4 [[Silver]]
+|45 [[Ancient Bark]]<br />18 [[Wolf Fang]]<br />9 [[Leather Scraps]]<br />9 [[Silver]]
+{{Upgrade station row|Forge|4|start=3|addcol=1}}
+|}
+
+* Fang Spear can also be upgraded at the [[Forge of Potential]] with a [[Silver Battle Idol]].
+
+== Notes ==
+* Like all spears, the Fang Spear floats if dropped or thrown into water.
+* Crafting and upgrading requires less [[Silver]] than other silver-tier weapons.
+
+<!-- Add back in when there are images 
+== Gallery ==
+<gallery>
+</gallery>
+-->
+
+{{Weapons}}
+
+[[Fr:Lance_en_crocs]]
+[[cs:Kopí z tesáku]]
+[[ru:Копье с волчьим клыком]]

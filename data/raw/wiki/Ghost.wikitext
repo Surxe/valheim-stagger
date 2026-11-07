@@ -1,0 +1,52 @@
+{{infobox creature
+| title         = Ghost
+| image 0star   = Ghost.png
+| trophy        = Ghost trophy
+| trophy description = Does it still whisper about unfinished business?
+| trophy id     = TrophyGhost
+| id            = Ghost
+| location      = [[Black Forest]]
+| health 0star  = 60
+| damage 0star  = Attack: 25 Slash
+| abilities     = Attack (2s)
+| veryweak      = 
+| weak          = Spirit
+| resistant     = Blunt, Slash, Pierce
+| veryresistant = 
+| immune        = Poison
+| neutral       = 
+|stagger=50%|faction=Undead}}
+'''Ghosts''' are aggressive [[creatures]] found in [[Black Forest]]s within [[Burial Chambers]], and as part of "You feel a chill down your spine..." raid [[events|event]].
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+=== Spawning ===
+{{spawn table|
+{{spawn row|type=Uncommon [[spawn points|spawn point]] in [[Burial Chambers]]|frequency=0|stars=No}}
+{{spawn row|type=During "You feel a chill down your spine..." [[events|event]] after defeating [[Bonemass]]|limit=3|frequency=5|stars=No}}
+{{spawn row|type=Uncommon [[spawn points|spawn point]] in [[Smouldering Tomb]]|frequency=0|stars=Yes (only 1-star)}}
+}}
+== Attacks and abilities ==
+{{For|strategies for defeating Ghosts|Aggressive creature strategies#Ghost}}
+
+=== Attack ===
+Swings their hand sideways in a 1.7-meter 90-degree horizontal arc to scratch the player (25 [[Damage types#Slash|Slash]] damage). This attack can be used every 2 seconds when within 1.2 meters of a player.
+
+== Gallery ==
+<gallery>
+File:Ghost 0star.png|Ghost appearance before the Call to Arms update.
+File:Ghost silhouette bright.png|A brightened image of an idle Ghost in the Burial Chambers.
+File:Ghost burial stuck.png|A Ghost stuck in a narrow passage in the Burial Chambers.
+File:GhostValheim1.png
+</gallery>
+
+== Notes ==
+* Like Leviathans, they do not respawn, making them a finite creature when raids are disabled.
+
+{{Creatures}}
+[[fr:Fantôme]]
+[[cs:Duch]]
+[[ru:Дух]]
+[[uk:Привид]]
+[[de:Geist]]

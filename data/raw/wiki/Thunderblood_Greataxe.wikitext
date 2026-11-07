@@ -1,0 +1,99 @@
+{{Infobox weapon
+| description = As you cleave your foes in two, their blood shall sing like a thunderstorm.
+| type = axe 2h
+| id = BattleaxeGold_BloodLightning
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| slash             = 198
+| slash per level = 10
+| lightning = 45
+| lightning per level = 5
+| chop = 40
+| chop per level = 2.5
+| knockback         = 70
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Greataxe]] x1
+* [[Thunderblood Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Thunderblood Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Thunderblood Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Thunderblood Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 22
+| stamina secondary = 11
+| block armor       = 76
+| movement speed    = -20%
+| weight=2.5
+| special = 
+}}
+
+'''Thunderblood Greataxe''' is a version of [[Nord Greataxe]] upgraded with a [[Thunderblood Essence]]. It gains extra [[slash]] and [[Lightning|lightning damage]], a 25% chance per hit to trigger [[Chain lightning]] and a 0.2% damage increase for every 1 point of [[health]] the player is missing.
+
+* Its primary attack is a 3-hit combo (wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x [[staggering]] and no multitarget penalty.
+* The faster secondary attack deals 0.5x damage and 4x staggering.
+
+An upgraded Nord Greataxe will '''NOT''' keep its upgrade level when it is crafted into Thunderblood Greataxe.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|198
+|208
+|218
+|228
+|
+|-
+!Lightning
+|45
+|50
+|55
+|60
+|
+|-
+!Frost
+|88
+|91
+|94
+|97
+|
+|-
+!Chop
+|40
+|42.5
+|45
+|47.5
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Greataxe}} x1<br> {{item link|Thunderblood Essence}} x1
+| [[Bloodgold]] x10<br> [[Thunderblood Essence]] x1
+| [[Bloodgold]] x20<br> [[Thunderblood Essence]] x2
+| [[Bloodgold]] x40<br> [[Thunderblood Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Greataxe]] x1<br>[[Thunderblood Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Thunderblood Greataxe can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

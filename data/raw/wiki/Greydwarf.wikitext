@@ -1,0 +1,82 @@
+{{infobox creature
+| title         = Greydwarf
+| image 0star   = Greydwarf.png
+| image 1star   = Greydwarf 1star.png
+| image 2star   = Greydwarf 2star.png
+| trophy        = Greydwarf trophy
+| trophy description = The mossy, severed head of a Greydwarf.
+| trophy id     = TrophyGreydwarf
+| id            = Greydwarf
+| location      = 
+[[Black Forest]]
+| health 0star  = 40
+| damage 0star  = * Attack: 14 Slash
+* Throw: 10 Blunt
+| health 1star  = 80
+| damage 1star  = * Attack: 21 Slash
+* Throw: 15 Blunt
+| health 2star  = 120
+| damage 2star  = * Attack: 28 Slash
+* Throw: 20 Blunt
+| abilities     = * Attack (2s)
+* Throw (8 seconds)
+| veryweak      = Fire
+| weak          = 
+| resistant     = Poison
+| veryresistant = 
+| immune        = Spirit
+| neutral       = 
+|stagger=30%|faction=Forest}}
+
+'''Greydwarfs''' are aggressive [[creatures]] found in [[Black Forest]]s. They are mossy tree-like beings and are twice as strong as their [[Greyling]] counterparts.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Black Forest]] during the daytime|limit=3}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Black Forest]] during the nighttime, despawn at dawn|limit=6|frequency=5}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in forests of [[Meadows]] during the nighttime after defeating [[Eikthyr]], despawn at dawn|limit=1|stars=No}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in clearings  of [[Meadows]] during the nighttime after defeating [[Eikthyr]], despawn at dawn|limit=2|stars=No}}
+{{spawn row|type=Multiple [[spawn points]] near abandoned structures in [[Black Forest]]|frequency=0}}
+{{spawn row|type=From [[Greydwarf Nest]]s in [[Black Forest]]|limit=3|frequency=12 seconds}}
+{{spawn row|type=During "The forest is moving..." [[Events|event]] before defeating [[The Elder]]|limit=6|frequency=6|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Greydwarfs|Aggressive creature strategies#Greydwarf}}
+=== Attack ===
+Swings their hand sideways in a 1.7-meter 90-degree horizontal arc to scratch the player (14 [[Damage types#Slash|Slash]] damage). This attack can be used every 2 seconds when within 1.2 meters of a player.
+
+=== Throw ===
+Winds their arm back before swinging forward to throw a rock (10 [[Damage types#Blunt|Blunt]] damage). The rock travels at 12 meters per second for up to 4 seconds before despawning and has a spread of 5 degrees. This attack can be used every 8 seconds when within 5–15 meters of a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+File:Valheim Greydwarf-1 ver0-79-10.jpg
+File:One-star greydwarf.png|A One-Star Greydwarf. Note the red bark.
+File:Two-star greydwarf.png|A Two-Star Greydwarf. Note the blue bark and accents.
+File:2Star Greydwarf.png|2 star Greydwarf
+</gallery>
+
+== Notes ==
+* The word Greydwarf is derived from Astrid Lindgren's tale Ronja the Robber's daughter (Ronja Rövardotter).  Originally named Grådvärgar, which is literally translated to Greydwarves. They are short creatures with grey fur who will attack a person when they sense the victim's fear. If you are emotionally aggressive then they will leave you be.
+
+== Lore ==
+{{Quote|Let all who read me beware of the Greydwarfs, the skulkers in darkness, the soulless ones. They are born from rot and rainfall, they spring like mushrooms from the smoking soil. There is nothing on their tongues or behind their eyes, those who fear nothing should still fear them.
+When the soul of a murderer or a great sinner rots under the ground, it makes a hollow cyst which draws rock and wood and moss to it. It gathers up the peat into flesh, braids reeds into bone and takes rags for skin.
+It should not walk but when the night comes it walks. Should you who read this see one with a sword to your hand, lance it and let it out. Or put it to the torch, for it fears the flame.|[[Runestone]]}}
+The runestones' portrayal of the Greydwarfs is racially motivated: they stereotype the entire race as "the skulkers in darkness, the soulless ones", with "nothing on their tongues or behind their eyes",<ref>In-game text, Greydwarf runestone (<code>$lore_greydwarfs</code>).</ref> and one urges travelers not to pity them: "Raised by the Old Man of the Forest from seeds of sin, the greydwarfs clothe themselves in the human forms they once knew, but there is no longer any warmth in their hearts. They live now only to serve the Elder and to protect the wood. Do not let pity for them stay your hand."<ref>In-game text, Black Forest runestone (<code>$lore_blackforest_random09</code>).</ref>
+
+== References ==
+<references />
+
+{{Creatures}}
+
+[[ru:Грейдворф]]
+[[fr:Naingris]]
+[[cs:Šedý trpaslík]]
+[[uk:Сіролюд]]
+[[de:Grauzwerg]]
+__NOTOC__

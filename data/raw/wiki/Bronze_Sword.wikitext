@@ -1,0 +1,66 @@
+{{infobox weapon
+| image          = Bronze sword.png
+| description    = Blood-drinker. A thirsty friend.
+| id             = SwordBronze
+| type           = Sword
+| source         = [[Forge]]
+| crafting level = 1
+| repair level   = 1
+| slash          = 35
+|materials 1=* [[Wood]] x2
+* [[Bronze]] x8
+* [[Leather Scraps]] x2|materials 2=* [[Wood]] x1
+* [[Bronze]] x4
+* [[Leather Scraps]] x1|materials 3=* [[Wood]] x2
+* [[Bronze]] x8
+* [[Leather Scraps]] x2|materials 4=* [[Wood]] x4
+* [[Bronze]] x16
+* [[Leather Scraps]] x4
+| idol           = * [[Bronze Battle Idol]]
+| stamina = 8
+| block armor = 12}}
+
+'''Bronze Sword''' is the first [[Swords|sword]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|35
+|41
+|47
+|53
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|2 [[Wood]]<br>8 [[Bronze]]<br>2 [[Leather Scraps]]
+|1 [[Wood]]<br>4 [[Bronze]]<br>1 [[Leather Scraps]]
+|2 [[Wood]]<br>8 [[Bronze]]<br>2 [[Leather Scraps]]
+|4 [[Wood]]<br>16 [[Bronze]]<br>4 [[Leather Scraps]]
+|9 [[Wood]]<br>36 [[Bronze]]<br>9 [[Leather Scraps]]
+{{Upgrade station row|Forge|4|start=1}}
+|}
+
+* Bronze Sword can also be upgraded at the [[Forge of Potential]] with a [[Bronze Battle Idol]].
+
+{{Weapons}}
+
+[[Fr:Épée_en_bronze]]
+[[cs:Bronzový meč]]
+[[ru:Бронзовый меч]]

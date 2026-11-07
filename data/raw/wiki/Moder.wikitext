@@ -1,0 +1,111 @@
+{{infobox creature
+| image 0star       = Moder.png
+| description 0star = Black wings across the moon and sun, down from the mountain our mother comes. Her weeping tears will fall like rain, her voice will call us home again.
+| trophy            = Moder trophy
+| trophy description = The head of a dragon, majestic even in the rigor of death. Offer it to the Sacrificial Stones.
+| trophy id         = TrophyDragonQueen
+| id                = Dragon
+| type              = Boss
+| summon            = [[Dragon Egg]] x3
+| behavior          = Aggressive
+| tameable          = No
+| location          = 
+* [[Mountain]]
+| health 0star      = 7500 
+| damage 0star      = 
+* Bite: 120 Pierce, 1000 Chop, 1000 Pickaxe
+* Claw: 110 Slash, 1000 Chop, 1000 Pickaxe
+* Spit shotgun: 30 Pierce, 200 Frost, 200 Chop, 200 Pickaxe
+* Cold breath: 200 Frost, 200 Chop, 200 Pickaxe
+| abilities         = 
+* Bite (30 seconds)
+* Claw (30 seconds per claw)
+* Spit shotgun (8 seconds)
+* Cold breath (8 seconds) 
+| veryweak          = 
+| weak              = Fire
+| resistant         =
+| veryresistant     = 
+| immune            = Frost, Spirit, Stagger
+| neutral           = Blunt, Slash, Pierce, Poison 
+| aggressive        = 
+|faction=Boss}}
+'''Moder''' is the fourth [[Creatures#Bosses|boss]]. She appears as a massive frost dragon with black scales, a white fur mane and tattered wings. According to numerous [[Runestone]]s, she is the mother of all [[Drake]]s. 
+
+== Summoning ==
+[[File:ModerAltar.png|left|thumb|200x200px|Moder's Forsaken Altar.]]
+Moder's [[Forsaken Altars|Forsaken Altar]] is located in the [[Mountain|Mountains]]. Her location can be found when visiting specific ruined structures, typically at the top, where a [[Runestone#Vegvisir|Vegvisir]] will reveal her nearest summoning location on the map.
+
+She is summoned by placing three {{Item Link|Dragon Egg}}s in her Forsaken Altar in the Mountains. Like all bosses, Moder can be summoned as many times as desired, provided the required materials are met. 
+
+Considering the extensive weight of dragon eggs (200), purchasing and wearing a [[Megingjord]] from [[Haldor]] will help, as it increases one's carry weight by 150. <!--Add troll endurance mead here.-->
+
+== Attacks and abilities ==
+{{For|strategies for defeating Moder|Boss strategies#Moder}}
+Moder has the ability to fly but will also choose to land, alternating between the two. She is accompanied by an environmental aura that forces [[Freezing Effect]] even in other biomes.
+
+=== Bite ===
+While grounded, she can bite to deal 120 [[Damage types#Pierce|Pierce]], 1000 Tier 3 [[Damage types#Chop|Chop]] and 1000 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage. This attack has a 30-second cooldown and can only be used when a player is within 7 meters. This hits in an 8-meter 20-degree horizontal arc.
+
+=== Claw ===
+While grounded, Moder can perform a swipe attack with either claw which deals 110 [[Damage types#Slash|Slash]], 1000 Tier 3 [[Damage types#Chop|Chop]] and 1000 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage. This ability is on a 30-second cooldown for each claw, and she must be within 10 meters of a player to use it. The claws hit in a horizontal arc 12 meters in length and 50 degrees in angle.
+
+=== Ice Barrage ===
+When airborne, every 8 seconds she can fire a barrage of 16 icicles - each projectile travels at 25 meters per second and spreads within 13–20 degrees from the center of her aim dealing 30 [[Damage types#Pierce|Pierce]], 200 [[Damage types#Frost|Frost]], 200 Tier 3 [[Damage types#Chop|Chop]] and 200 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage. Upon impact with the ground, a crystal forms about as tall as the player and will fall apart 30 seconds later. Each crystal has 10 health and can be destroyed. This attack can be used when a player is within 5–25 meters.
+
+=== Cold breath ===
+While grounded, she can let forth an icy beam in a 30-meter line which arcs very slightly by 10 degrees. It deals up to 200 [[Damage types#Frost|Frost]], 200 Tier 3 [[Damage types#Chop|Chop]] and 200 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage and can be used every 8 seconds. She attempts to track the player while using this attack. This ability can be used when a player is within 5–20 meters; this distance is measured from the center of her hitbox, which happens to be roughly 5 meters from her head making it difficult - but still possible - to disable the attack by standing close.
+
+== Aftermath == <!--Take inspiration from the other boss pages, what major things change after the fight?-->
+=== Drops ===
+{{CreatureDrops|stars=0}}
+
+=== Forsaken power ===
+Mounting Moder’s trophy upon her respective stone will allow the player to claim her Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:
+
+* Max carry weight: +300
+* Always tailwind while sailing
+* Damage modifier: [[Resistance|Resistant]] vs Frost
+* Movement Speed: +10%
+
+See [[Forsaken power#Moder Power|Moder's power]] for more details.
+
+=== Events ===
+Defeating Moder affects the following [[events]] for that world:
+
+* Disables: "A cold wind blows from the mountains."
+* Enables: "The horde is attacking!" (if [[Yagluth]] has not been defeated)
+
+=== Traders ===
+Defeating Moder unlocks the [[Scythe Handle]], [[Toadstool]], [[Fragrant Bundle]] and the [[Mountain Peak Pepper Powder]] from [[The Bog Witch]]. Along with [[Wider Pockets]] from [[Haldor]].
+
+== Gallery ==
+<gallery widths="261">
+Moder.png
+ModerTakingFlight.jpg
+20210224202752 1.jpg|Moder sitting upon the Altar
+Moders Stone.jpg|Moder's [[Forsaken Altars|Forsaken Altar]]
+Moder's Altar.jpg
+20210224202845 1.jpg
+20210224203143 1.jpg
+20210224203137 1.jpg
+</gallery>
+
+== Notes ==
+* Moder is a [https://en.wikipedia.org/wiki/Dragon dragon] having the typical appearance of a [https://en.wikipedia.org/wiki/Wyvern Wyvern], this is apparent due to both the eggs being dragon eggs, and her tears being dragon tears.
+* Once summoned, Moder's aura will pause or stop ongoing snowstorms.
+* In the in-game trophies menu, there is another description of Moder, "Scored with ancient scars, this head was the last sight of countless warriors."
+* "Moder" translates to "Mother" in Nordic languages.
+* "Móðr" translates to "anger, grief" in Old Norse.
+* Moder shares a name with the jötunn daughter of Loki in Adam Nevill's 2011 British novel ''The Ritual'' and its 2017 film adaptation of the same name.
+* In the game files, "Moder" is known as "dragonqueen".
+
+== Achievements ==
+{{Achievement|Boss4Moder}}
+
+{{Creatures}}
+
+[[de:Drachenmutter]]
+[[ru:Матерь]]
+[[cs:Moder]]
+[[uk:Мати]]

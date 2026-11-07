@@ -1,0 +1,114 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+| title = Nord Mace
+| image = Nord Mace.png
+| description = Hit hard and fast, and leave your foe no time to recover.
+| type = Club 1h
+| id = MaceGold
+| source = [[Frost Foundry]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| blunt             = 170
+| blunt per level = 10
+| knockback         = 90
+| materials 1 = 
+* [[Cast Nord Mace]] x1
+* [[Liquid Frost]] x5
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Timberwood]] x5
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Timberwood]] x10
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Timberwood]] x20
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 66
+}}
+|Cast|
+{{Infobox item
+| title = Cast: Nord Mace
+| image = Cast Nord Mace.png
+| description = This weapon needs to be hardened with frost.
+| id = MaceGoldUncooked
+| type = Cast
+| source = [[Black Forge]] level 4
+| materials = 
+| weight      = 2.0
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+| title = Mould: Nord Mace
+| image = Mould Nord Mace.png
+| description = Filled with the right material, this mould will create a most formidable weapon.
+| id = MoldMace
+| type = Mould
+| weight      = 1.0
+| stack       = 10
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Abandoned Deep North Village]]<br>[[Mörkhalla]]
+| usage       = Crafting
+}}
+}}
+
+'''Nord Mace''' is the seventh, [[Deep North]]-tier one-handed [[Clubs|club]].
+
+* Its primary attack is a 3-hit attack combo with double damage on the last hit.
+* The slower secondary attack deals 2.5x damage and 2x staggering.
+
+It cannot be crafted directly, instead the player must craft the corresponding [[Cast Nord Mace]] and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Mace''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* From [[Loot chest#Granary Barrel|Granary Barrel]]s in [[Abandoned Village]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrade information ==
+Like most Deep North-tier weapons, the Nord Mace can be upgraded to one of the following two variants using essences:
+
+* {{Item link|Frostfire Mace}} (with a [[Frostfire Essence]])
+* {{Item link|Thunderblood Mace}} (with a [[Thunderblood Essence]])
+
+An upgraded Nord Mace will '''NOT''' keep its upgrade level when it is modified using essences.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|170
+|180
+|190
+|200
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br> [[Mould Nord Mace]] x1<br> [[Timberwood]] x10<br> [[Liquid Frost]] x5
+| [[Bloodgold]] x10<br> [[Timberwood]] x5
+| [[Bloodgold]] x20<br> [[Timberwood]] x10
+| [[Bloodgold]] x40<br> [[Timberwood]] x20
+| [[Bloodgold]] x90<br> [[Mould Nord Mace]] x1<br>[[Timberwood]] x45<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Mace can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

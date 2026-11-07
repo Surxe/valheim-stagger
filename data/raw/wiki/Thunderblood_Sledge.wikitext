@@ -1,0 +1,83 @@
+{{Infobox weapon
+| description = As this weapon strikes true, the blow shall echo throughout the world...
+| type = Club 2h
+| id = SledgeGold_BloodLightning
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| blunt             = 235
+| blunt per level = 10
+| lightning = 45
+| lightning per level = 5
+| knockback         = 210
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Sledge]] x1
+* [[Thunderblood Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Thunderblood Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Thunderblood Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Thunderblood Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 28
+| stamina secondary = 
+| block armor       = 52
+| movement speed    = -20%
+| weight=4.0
+| special = 
+}}
+
+'''Thunderblood Sledge''' is a version of [[Nord Sledge]] upgraded with a [[Thunderblood Essence]]. It gains extra [[blunt]] and [[Lightning|lightning damage]], a 25% chance per hit to trigger [[Chain lightning]] and a 0.2% damage increase for every 1 point of [[health]] the player is missing.
+
+* The primary attack slams the ground ''(after a lengthy swing delay)'', dealing damage, 2x the damage as staggering and knocking back everything in a spherical area of effect with a radius of 4 meters.
+* It has no secondary attack.
+
+An upgraded Nord Sledge will '''NOT''' keep its upgrade level when it is crafted into Thunderblood Sledge.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|235
+|245
+|255
+|265
+|
+|-
+!Lightning
+|45
+|50
+|55
+|60
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Sledge}} x1<br> {{item link|Thunderblood Essence}} x1
+| [[Bloodgold]] x10<br> [[Thunderblood Essence]] x1
+| [[Bloodgold]] x20<br> [[Thunderblood Essence]] x2
+| [[Bloodgold]] x40<br> [[Thunderblood Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Sledge]] x1<br>[[Thunderblood Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Thunderblood Sledge can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

@@ -1,0 +1,128 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+| title = Nord Dagger
+| image = Nord Dagger.png
+| description = A flash of gold is the last thing your foes will ever see.
+| type = Knife
+| id = KnifeGold
+| source = [[Frost Foundry]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| slash             = 75
+| slash per level = 5
+| pierce             = 75
+| pierce per level = 5
+| tool tier = 4
+| knockback         = 
+| materials 1 = 
+* [[Cast Nord Dagger]] x1
+* [[Liquid Frost]] x5
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Timberwood]] x5
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Timberwood]] x10
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Timberwood]] x20
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 14
+| stamina secondary = 42
+| block armor       = 
+| movement speed    = 0%
+}}
+|Cast|
+{{Infobox item
+| title = Cast: Nord Dagger
+| image = Cast Nord Dagger.png
+| description = This weapon needs to be hardened with frost.
+| id = KnifeGoldUncooked
+| type = Cast
+| source = [[Black Forge]] level 4
+| materials = 
+* [[Bloodgold]] x20
+* [[Mould Nord Dagger]] x1
+* [[Timberwood]] x10
+| weight      = 0.3
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+| title = Mould: Nord Dagger
+| image = Mould Nord Dagger.png
+| description = Filled with the right material, this mould will create a most formidable weapon.
+| id = MoldKnife
+| type = Mould
+| weight      = 1.0
+| stack       = 10
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Mörkhalla]]
+| usage       = Crafting
+}}
+}}
+
+'''Nord Dagger''' is the seventh, [[Deep North]]-tier one-handed [[Knives|knife]].
+
+* The primary attack is a fast 3-slash combo with 2x damage on the last swing.
+* Its secondary attack is a leaping stab with 3x damage.
+* It deals 6x damage against [[Creature senses|unalerted]] enemies.
+
+It cannot be crafted directly, instead the player must craft the corresponding [[Cast Nord Dagger]] and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Dagger''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrade information ==
+Like most Deep North-tier weapons, the Nord Dagger can be upgraded to one of the following two variants using essences:
+
+* {{Item link|Frostfire Dagger}} (with a [[Frostfire Essence]])
+* {{Item link|Thunderblood Dagger}} (with a [[Thunderblood Essence]])
+
+An upgraded Nord Dagger will '''NOT''' keep its upgrade level when it is modified using essences.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|75
+|80
+|85
+|90
+|
+|-
+!Pierce
+|75
+|80
+|85
+|90
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br> [[Mould Nord Dagger]] x1<br> [[Timberwood]] x10<br> [[Liquid Frost]] x5
+| [[Bloodgold]] x10<br> [[Timberwood]] x5
+| [[Bloodgold]] x20<br> [[Timberwood]] x10
+| [[Bloodgold]] x40<br> [[Timberwood]] x20
+| [[Bloodgold]] x90<br> [[Mould Nord Dagger]] x1<br>[[Timberwood]] x45<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Dagger can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

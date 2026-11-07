@@ -1,0 +1,52 @@
+{{infobox creature
+| image 0star  = Seeker Brood.png
+| trophy       =
+| id           = SeekerBrood
+| behavior     = Aggressive/Passive
+| tameable     = No
+| location     = Mistlands
+| health 0star = 20
+| damage 0star = Attack: 60 Pierce
+| abilities    = Attack (3s)
+
+| resistant    = Blunt, Pierce, Slash
+| immune       = Spirit
+
+|faction=Mistlands|stagger=30%
+}}
+'''{{PAGENAME}}s''' are aggressive [[creatures]] found within [[Infested Mine]]s in the [[Mistlands]].
+
+Seekers are large insect-like creatures with traits similar to beetles, ants, and bees. Seeker broods resemble a miniature version of the ordinary [[Seeker]]s, though with a softer yellow carapace. As they are only found within well-protected Seeker nests within Infested Mines, they appear to be Seeker young and not a separate caste.
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Mistlands]] at night after defeating [[The Queen]], despawn at dawn|limit=5|frequency=1|stars=No}}
+{{spawn row|type=75% chance when destroying Seeker eggs found in [[Infested Mines]]|limit=-|frequency=0|stars=No}}
+{{spawn row|type=During "They sought you out." [[Events|event]] before defeating [[The Queen]]|limit=8|frequency=6|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Mistlands#Alternative biomes|BroodSwarm Mistlands]] at night|limit=100|frequency=125|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Seekers Broods|Aggressive creature strategies#Seeker brood}}
+
+=== Attack ===
+Leans back before sweeping downward to clamp the player with their pincers (60 [[Damage types#Pierce|Pierce]] damage). This creates a 1.7-meter 45-degree horizontal arc and can be used every 3 seconds when within 1.5 meters of a player.
+
+== Trivia ==
+* For Seeker eggs, the 50% chance is checked separately for stepping and destroying, This results in 75% spawn chance when trying to step on them first.
+* Real-life insects like ants and bees emerge from their pupal stage as fully grown adults.
+* Seeker hives produce Royal Jelly, which in real life is produced by worker bees and fed to larvae, particularly to produce new queens. Because of this, it can be presumed that the Royal Jelly that Broods drop was eaten by them, not produced by them.
+
+== Gallery ==
+<gallery>
+File:Seeker Brood at night in Mistlands.png|As of Ashlands update, Seeker Broods now spawn at night in Mistlands
+</gallery>
+
+{{Creatures}}
+
+[[ru:Выводок искателя]]
+[[cs:Potomstvo Hledačů]]
+[[fr:Fouineur]]

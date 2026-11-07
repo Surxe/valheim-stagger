@@ -1,0 +1,74 @@
+{{Infobox_creature
+|title=Bear
+|image 0star=Bear.png
+|image 1star=Bear 1star.png
+|image 2star=Bear 2star.png
+|trophy=Bear trophy
+|trophy description=That stare is still frightening...
+|trophy id=TrophyBjorn
+|id=Bjorn
+|faction=Forest
+|location=[[Black Forest]]
+| health 0star  = 500
+| damage 0star  = 
+* Bite: 55 Pierce
+* Claws: 50 Slash, 40 Chop
+* Swipe: 25 Slash, 40 Chop
+* Slam: 50 Blunt, 40 Chop, 40 Pickaxe
+|health 1star=1000|damage 1star=* Bite: 82.5 Pierce
+* Claws: 75 Slash, 60 Chop
+* Swipe: 37.5 Slash, 60 Chop
+* Slam: 75 Blunt, 60 Chop, 60 Pickaxe|health 2star=1500|damage 2star=* Bite: 110 Pierce
+* Claws: 100 Slash, 80 Chop
+* Swipe: 50 Slash, 80 Chop
+* Slam: 100 Blunt, 80 Chop, 80 Pickaxe| abilities     = 
+* Bite (4 seconds)
+* Claws (4 seconds)
+* Swipe (4 seconds each for 3 variants)
+* Slam (12 seconds)
+|weak=Fire
+|resistant=Frost, Blunt, Pierce
+|immune=Spirit
+|stagger=30%}}
+'''Bears''' are aggressive creatures found in the [[Black Forest]]. They are bulky, furry beasts with large claws and teeth. 
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Black Forest]]s|limit=1|frequency=2|stars=Yes (max 1 star during daytime)}}
+{{spawn row|type=Inside [[Bear Cave]]|frequency=0|stars=No}}
+}}
+
+== Behavior ==
+Bears will [[Creature AI#When avoiding fire|avoid fire]] and run away if they come within 3 meters of a fire source.
+
+Bears can still attack from outside the fire's range but will alter their direction of attack at the last moment, which gives them a chance to miss. To avoid all attacks, the player must run close to the Bear to keep it within the fire's range.
+
+For a [[Torch]], the radius is computed from the fire itself, not from the player's center. Therefore,  it is most effective for the player to face the Bear.
+
+Bears consume [[Blueberries]] on the ground, but they are not [[tameable]]. They do not attack [[Vile]]s despite being in two enemy [[factions]].
+
+== Attacks and abilities ==
+
+=== Bite ===
+Lunges forward to bite the player (55 [[Damage types#Pierce|Pierce]] damage). This extends 4 meters in a 45-degree horizontal arc and can be used every 4 seconds when within 3 meters of a player.
+
+=== Claws ===
+Stands on their hind legs, bounces forward a little, and slams down to attack (50 [[Damage types#Slash|Slash]] and 40 Tier 0 [[Damage types#Chop|Chop]] damage). This attack has an arched hitbox 5.5 meters long and 45 degrees across horizontally. It can be used every 4 seconds when within 5 meters of a player.
+
+=== Swipe ===
+This attack has three variations, each with its own 4-second cooldown: a swipe with the left claw, a swipe with the right claw, and both swipes chained together (25 [[Damage types#Slash|Slash]] and 40 Tier 0 [[Damage types#Chop|Chop]] damage each hit). This attack extends 5.5 meters out in a 45-degree horizontal arc and can be used within 5 meters of a player.
+
+=== Slam ===
+Looks very similar to the claw attack, but remains stationary instead of bouncing forward and puts slightly more emphasis on their paws instead of claws (50 [[Damage types#Blunt|Blunt]], 40 Tier 0 [[Damage types#Chop|Chop]] and 40 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). Unlike the claw attack, this attack hits in a circular area with a radius of 2.5 meters. This can be used every 12 seconds when within 5 meters of a player.
+
+==Note==
+* All Bear's attacks have [[Damage#Terrain_damage|tool tier]] 0, which mean they can not be used to harvest resources that require equipment.
+* Bears and [[Vile|Viles]] regenerate slightly faster than most creatures, recovering full health over 50 minutes instead of 60.
+
+{{CreaturesNav}}
+
+[[ru:Медведь]]
+[[cs:Medvěd]]

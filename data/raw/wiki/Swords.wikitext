@@ -1,0 +1,113 @@
+'''{{PAGENAME}}''' are a [[Weapons|weapon]] class.
+
+Swords have low knockback and low stamina cost for good damage. Sword damage is not reduced when several enemies or objects are hit by a single attack, unlike most other weapons.
+
+{{See also|Swords (Skill)}}
+
+== List of swords ==
+
+{| class="wikitable"
+! <onlyinclude>Name
+! Icon
+! Damage
+! Stamina (primary)
+! Stamina (secondary)
+|-
+! colspan="5" | One-handed
+|-
+|[[Bronze Sword]]||[[File:Bronze sword.png]]
+|Slash: 35/53
+|8||16
+|-
+|[[Iron Sword]]||[[File:Iron sword.png]]
+|Slash: 55/73
+|10||20
+|-
+|[[Silver Sword]]||[[File:Silver sword.png]]
+|Slash: 75/93<br/>Spirit: 30/45
+|12||24
+|-
+|[[Black Metal Sword]]||[[File:Black metal sword.png]]
+|Slash: 95/113
+|14||28
+|-
+|[[Mistwalker]]||[[File:Mistwalker.png|frameless]]
+|Slash: 75/75<br/>Frost: 40/58<br/>Spirit: 0/15
+|16||32
+|-
+|[[Nidhögg]]||[[File:Nidhögg.png|frameless]]
+|Slash: 135/153
+|16||28
+|-
+|[[Dyrnwyn]]||[[File:Dyrnwyn.png|frameless]]
+|Slash: 145/163<br/>Fire: 10
+|16||28
+|-
+|[[Nord Sword]]||[[File:Nord Sword.png|64px]]
+|Slash: 170/190
+|16||28
+|-
+! colspan="5" | Two-handed
+|-
+|[[Krom]]||[[File:Krom.png|frameless]]
+|Slash: 150/168
+|20||40
+|-
+|[[Slayer]]||[[File:Slayer.png|frameless|]]
+|Slash: 170/188
+|20||40
+|-
+|[[Nord Greatsword]]||[[File:Nord Greatsword.png|frameless|]]
+|Slash: 210/240
+|20||40</onlyinclude>
+|}
+
+== Properties ==
+{| class="wikitable"
+|-
+! Attack type !! Stamina !! Range !! Attack speed
+!Damage 
+![[Stagger|Staggering]]
+!Knockback !! Notes
+|-
+| Swords (primary) || 1x || 2.4m || 2.46s (0.86 + 0.70 + 0.90)
+|1x + 1x + 2x
+|1x
+|40
+|Player moves forward 0.66m with each swing. 90 degree arc. No [[Damage mechanics#Multitarget penalty|multitarget penalty]].
+|-
+| Swords (secondary) || 2x || 2.7m || 1.84s
+|3x
+|1x
+|40
+|Player moves forward 0.33m. 10 degree arc.
+|-
+|Two-handed Swords (primary)
+|1x
+|2.6m
+|3.44s (0.96 + 0.82 + 1.66)
+|1x + 1x + 2x
+|1x
+|55
+|90 degree arc. No multitarget penalty.
+|-
+|Two-handed Swords (secondary)
+|2x
+|3m
+|2.16s
+|3x
+|1x
+|55
+|30 degree arc.
+|}
+
+==Gallery==
+<gallery>
+Swords Hitbox.jpg | One-handed swords hitboxes
+</gallery>
+
+[[Category:Weapons]]
+[[Category:Swords]]
+
+{{WeaponsNav}}
+[[ru:Мечи]]

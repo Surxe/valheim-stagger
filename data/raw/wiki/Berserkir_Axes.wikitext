@@ -1,0 +1,89 @@
+{{infobox weapon
+| image           = Berserkir Axes.png
+| description     = Let your rage take over and face the slaughter.
+| id              = AxeBerzerkr
+| type            = axe dw
+| source          = [[Black Forge]]
+| crafting level  = 3
+| repair level    = 3
+| slash           = 140
+| chop            = 80
+| materials 1 = 
+* [[Charred Bone]] x15
+* [[Flametal]] x24
+* [[Asksvin Hide]] x3
+| materials 2 = 
+* [[Flametal]] x15
+* [[Asksvin Hide]] x1
+| materials 3 = 
+* [[Flametal]] x30
+* [[Asksvin Hide]] x2
+| materials 4 = 
+* [[Flametal]] x60
+* [[Asksvin Hide]] x4
+| idol             = * [[Flametal Battle Idol]]
+| slash per level = 5
+| chop per level  = 3
+| stamina         = 16
+| weight          = 2.0
+| durability      = 300
+| knockback       = 20
+| backstab        = 3x
+| block armor     = 57
+| block force     = 20
+| block force per level = 5
+| wielding        = Dual wielded
+| parry bonus     = 2
+| movement speed  = -5%
+}}
+
+'''Berserkir Axes''' is an [[Ashlands]]-tier dual wielded [[Axes|axe]].
+
+* Its primary attack is a 4-step combo: two single hits, one with each axe, followed by two double hits using both axes simultaneously, resulting in a total of 6 hits. The final double hit deals 2x damage with each individual hit.
+* The secondary attack costs 32 stamina and is a leap forward, followed by a slash with both axes for a single hit, dealing 2x the damage.
+
+The Berserkir Axes deal [[Chop]] damage, which allows them to cut down trees, like all axes. They deal more Chop damage than the previous axe, the [[Jotun Bane]].
+
+== Upgrade information ==
+Like most Ashlands-tier weapons, the Berserkir Axes can be upgraded to one of the following three variants using gemstones:
+
+* {{Item link|Bleeding Berserkir Axes}} ([[Bloodstone]])
+* {{Item link|Thundering Berserkir Axes}} ([[Iolite]])
+* {{Item link|Primal Berserkir Axes}} ([[Jade]])
+
+An upgraded Berserkir Axes will '''NOT''' keep its upgrade level when it is modified using gemstones.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|140
+|145
+|150
+|155
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|15 [[Charred Bone]]<br>24 [[Flametal]]<br>3 [[Asksvin Hide]]
+|15 [[Flametal]]<br>1 [[Asksvin Hide]]
+|30 [[Flametal]]<br>2 [[Asksvin Hide]]
+|60 [[Flametal]]<br>4 [[Asksvin Hide]]
+{{Upgrade station row|Black forge|4|start=3}}
+|}
+
+* Berserkir Axes can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+{{ToolsNav}}
+{{WeaponsNav}}
+
+[[ru:Топоры берсеркира]]
+[[de:Berserkir-Äxte]]

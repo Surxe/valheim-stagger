@@ -1,0 +1,643 @@
+{{Outdated}}
+<br>
+'''Stagger''' is a combat state that stuns the target and causes non-player [[creatures]] to take double damage. Stagger is caused in two cases:
+
+*The total amount of staggering reaches the stagger limit.
+*An attack is successfully parried by a player.
+
+The stagger duration is different for each creature ranging from near instant to a few seconds. The duration may also be different when parrying certain attacks.
+
+While a non-player creature is staggered, every hit against it deals double damage. A new stagger is ignored while the target is already staggered. When a player staggers a creature through damage, the player gains 3 [[Adrenaline|adrenaline]] (multiplied by the creature's adrenaline multiplier).
+
+===Staggering===
+Staggering is inflicted when receiving physical (blunt, slash and pierce) and lightning [[damage types]], and the amount of stagger applied is equivalent to the amount of damage taken after resistances and armor, multiplied by the attack's stagger multiplier. Some status effects modify the amount of staggering received. Currently only [[Fader]]'s [[Forsaken power]] does so, halving it. Players also receive extra staggering when blocking based on how much physical or lightning damage got through the block.
+
+Staggering gradually expires 20% of the stagger limit per second. Staggering won't be reset when the stagger limit is reached. Staggering won't exceed the stagger limit.
+
+The stagger limit is a percentage of the maximum health which generally makes stronger creatures harder to stagger. Creatures with a limit of 0% are immune to stagger from damage. Players with health based [[food]] will have an increased stagger limit which also means that the staggering expires faster.
+
+=== Increased staggering ===
+Some player attacks cause increased staggering:
+
+*1.5x: Two-handed [[Axes|axe]] primary attacks.
+*2x: Mace secondary attack. This equates to 5x the weapon's listed damage, since the special attack has a 2.5x damage multiplier.
+*2x: [[Clubs|Sledge]] primary attacks, except the [[Stagbreaker]].
+
+*4x: Two-handed [[Axes|axe]] secondary attack. This equates to 2x the weapon's listed damage, since the special attack has a 0.5x damage multiplier.
+*6x: Atgeir secondary attack. This equates to 6x the weapon's listed damage, since the special attack has a 1x damage multiplier.
+*6x: [[Fists]] secondary attack. This equates to 6x the weapon's listed damage, since the special attack has a 1x damage multiplier.
+
+=== Notes ===
+
+* Stagger doesn't stack. If the target is already staggered, the new stagger is ignored. This makes faster attacks better at stun-locking targets.
+* Parrying an attack causes an instant stagger without contributing towards the stagger limit. However the double damage from the stagger helps reaching the limit more easily.
+** Only creatures that can be staggered by blocking are affected. [[Bonemass]], [[Moder]], [[The Elder]], [[Yagluth]], [[The Queen]], [[Fader]], [[Kall Fimbulbringer]] and the [[Gammeltroll]] are not staggered by parries.
+* While blocking causes extra staggering, it also often significantly reduces the damage taken (which reduces staggering).
+** If block armor is less than gear armor, then blocking will always increase the total amount of received staggering.
+* Getting staggered from blocking will cancel the block (but resistances and gear armor will still work).
+** However getting staggered from the actual damage taken when blocking won't cancel the block.
+
+
+==Creature stats==
+Stagger is based on animations so the duration is affected by animation transitions and animation speed scaling. For example staggering running creatures may result in slightly different stagger duration. Players will also stagger longer if staggered at the right moment when using the sword secondary attack (even up to 5.8 seconds).
+
+Duration values seem to vary a few milliseconds because of the animation system. However this won't have an impact on the actual gameplay.
+
+Note: In rare cases, creature idle animation may interrupt the staggering and end it very quickly.
+
+The limit percentages and base limits below are taken from the game data. Durations have not been measured for creatures added after the [[Plains]] update.
+{| class="wikitable sortable floatheader"
+!
+!Creature
+!Duration (s)
+!When parried (s)
+!Limit %
+!Base limit
+|-
+|0
+|Player
+|1.18
+|Varies
+|40%
+|Varies
+|-
+|1
+|[[Neck]]
+|1.54
+|1.66
+|50%
+|2.5
+|-
+|2
+|[[Boar]]
+|1.24
+|
+|50%
+|5
+|-
+|3
+|[[Deer]]
+|Immune
+|
+|Immune
+|
+|-
+|4
+|[[Greyling]]
+|2.06
+|2.16
+|30%
+|6
+|-
+|5
+|[[Eikthyr]]
+|Immune
+|
+|Immune
+|
+|-
+|6
+|[[Greydwarf]]
+|1.94
+|2.04
+|30%
+|12
+|-
+|7
+|[[Greydwarf Brute]]
+|1.34
+|2.04
+|50%
+|75
+|-
+|8
+|[[Greydwarf Shaman]]
+|1.26
+|1.36
+|33%
+|20
+|-
+|9
+|[[Skeleton]]
+|2.46
+|
+|50%
+|20
+|-
+|10
+|[[Rancid Remains]]
+|2.46
+|4.92
+|50%
+|50
+|-
+|11
+|[[Ghost]]
+|1.64
+|
+|50%
+|30
+|-
+|12
+|[[Troll]]
+|2.74
+|5.46 for unarmed melee (randomly)
+|30%
+|180
+|-
+|13
+|[[The Elder]]
+|Immune
+|
+|Immune
+|
+|-
+|14
+|[[Root (creature)|Root]]
+|Immune
+|
+|Immune
+|
+|-
+|15
+|[[Serpent]]
+|Immune
+|
+|Immune
+|
+|-
+|16
+|[[Abomination]]
+|3.0
+|
+|33%
+|264
+|-
+|17
+|[[Blob]]
+|Immune
+|
+|Immune
+|
+|-
+|18
+|[[Oozer]]
+|Immune
+|
+|Immune
+|
+|-
+|19
+|[[Draugr]]
+|2.8
+|
+|50%
+|50
+|-
+|20
+|[[Draugr Elite]]
+|2.8
+|
+|50%
+|100
+|-
+|21
+|[[Leech]]
+|Immune
+|
+|Immune
+|
+|-
+|22
+|[[Surtling]]
+|1.14
+|
+|50%
+|10
+|-
+|23
+|[[Wraith]]
+|2.04
+|
+|50%
+|50
+|-
+|24
+|[[Bonemass]]
+|Immune
+|
+|Immune
+|
+|-
+|25
+|[[Wolf]]
+|1.7
+|
+|50%
+|40
+|-
+|26
+|[[Fenring]]
+|1.32
+|1.34
+|50%
+|150
+|-
+|27
+|[[Drake]]
+|Immune
+|
+|Immune
+|
+|-
+|28
+|[[Stone Golem]]
+|1.0
+|4.9 for basic melee
+|33%
+|264
+|-
+|29
+|[[Bat]]
+|1.68
+|
+|50%
+|5
+|-
+|30
+|[[Ulv]]
+|1.4
+|
+|50%
+|25
+|-
+|31
+|[[Cultist]]
+|1.32
+|1.35
+|50%
+|100
+|-
+|32
+|[[Moder]]
+|Immune
+|
+|Immune
+|
+|-
+|33
+|[[Deathsquito]]
+|Immune
+|
+|Immune
+|
+|-
+|34
+|[[Lox]]
+|2.72
+|
+|30%
+|300
+|-
+|35
+|[[Fuling]]
+|2.08
+|4.14 for spear when on melee range
+|30%
+|52.5
+|-
+|36
+|[[Fuling Berserker]]
+|2.88
+|
+|30%
+|240
+|-
+|37
+|[[Fuling Shaman]]
+|3.2
+|
+|30%
+|30
+|-
+|38
+|[[Growth]]
+|Immune
+|
+|Immune
+|
+|-
+|39
+|[[Yagluth]]
+|Immune
+|
+|Immune
+|
+|-
+|40
+|[[Bear]]
+|
+|
+|30%
+|150
+|-
+|41
+|[[Vile]]
+|
+|
+|30%
+|360
+|-
+|42
+|[[Hen]]
+|
+|
+|50%
+|5
+|-
+|43
+|[[Chicken]]
+|Immune
+|
+|Immune
+|
+|-
+|44
+|[[Lox|Lox Calf]]
+|
+|
+|30%
+|30
+|-
+|45
+|[[Seeker]]
+|
+|
+|30%
+|60
+|-
+|46
+|[[Seeker Brood]]
+|
+|
+|30%
+|6
+|-
+|47
+|[[Seeker Soldier]]
+|
+|
+|30%
+|450
+|-
+|48
+|[[Tick]]
+|
+|
+|50%
+|25
+|-
+|49
+|[[Gjall]]
+|Immune
+|
+|Immune
+|
+|-
+|50
+|[[Dvergr Rogue]]
+|
+|
+|30%
+|105
+|-
+|51
+|[[Dvergr Mage]]
+|
+|
+|30%
+|105
+|-
+|52
+|[[The Queen]]
+|Immune
+|
+|Immune
+|
+|-
+|53
+|[[Charred Warrior]]
+|
+|
+|50%
+|300
+|-
+|54
+|[[Charred Marksman]]
+|
+|
+|50%
+|100
+|-
+|55
+|[[Charred Warlock]]
+|
+|
+|50%
+|300
+|-
+|56
+|[[Charred Twitcher]]
+|
+|
+|50%
+|110
+|-
+|57
+|[[Asksvin]]
+|
+|
+|30%
+|240
+|-
+|58
+|[[Asksvin|Asksvin Hatchling]]
+|
+|
+|30%
+|120
+|-
+|59
+|[[Volture]]
+|
+|
+|50%
+|100
+|-
+|60
+|[[Morgen]]
+|
+|
+|30%
+|480
+|-
+|61
+|[[Fallen Valkyrie]]
+|
+|
+|50%
+|750
+|-
+|62
+|[[Lava Blob]]
+|Immune
+|
+|Immune
+|
+|-
+|63
+|[[Bonemaw]]
+|Immune
+|
+|Immune
+|
+|-
+|64
+|[[Fader]]
+|Immune
+|
+|Immune
+|
+|-
+|65
+|[[Greydwarf (Deep North)]]
+|
+|
+|30%
+|30
+|-
+|66
+|[[Greydwarf Shaman (Deep North)]]
+|
+|
+|33%
+|39.6
+|-
+|67
+|[[Moose]]
+|
+|
+|30%
+|300
+|-
+|68
+|[[Barka]]
+|
+|
+|30%
+|660
+|-
+|69
+|[[Elaking]]
+|
+|
+|30%
+|105
+|-
+|70
+|[[Eyeless One]]
+|
+|
+|30%
+|420
+|-
+|71
+|[[Fallen Warrior]]
+|
+|
+|40%
+|300
+|-
+|72
+|[[Gammeltroll]]
+|
+|
+|30%
+|900
+|-
+|73
+|[[Krigen]]
+|
+|
+|50%
+|650
+|-
+|74
+|[[Hexen]]
+|
+|
+|50%
+|400
+|-
+|75
+|[[Captive Fuling]]
+|
+|
+|30%
+|75
+|-
+|76
+|[[Imprisoned Dvergr]]
+|
+|
+|30%
+|450
+|-
+|77
+|[[Shadow]]
+|
+|
+|40%
+|300
+|-
+|78
+|[[Seal]]
+|Immune
+|
+|Immune
+|
+|-
+|79
+|[[Shapeless Pulp]]
+|Immune
+|
+|Immune
+|
+|-
+|80
+|[[Tiny Pulp]]
+|Immune
+|
+|Immune
+|
+|-
+|81
+|[[Kall Fimbulbringer]]
+|Immune
+|
+|Immune
+|
+|}
+
+== Examples ==
+A 2 star [[Boar]] has 30 health and a 50% stagger limit. This means if it took 15 damage, it would stagger (30 hp * 0.5 stagger limit = 15 dmg needed). If this Boar was hit by an attack that dealt 15 physical damage, it would cause it to stagger.
+
+A [[Troll]] has 180 stagger limit (30% of 600) and is dealt 50 Pierce damage per second. Because it is weak to Pierce, it actually takes 75 physical damage per second. Since the staggering level is reduced by 36 (20% of 180) per second, it would take about 4.6 seconds to stagger the Troll after it had lost 345 health. 75 Pierce damage per second would stagger it in 2.35 seconds after it had lost 264 health.
+
+[[Draugr]] has 50 stagger limit. Hitting with a fully upgraded [[Frostner]] for 100 damage would only cause 31 staggering because only 31% of the damage is physical. However using the secondary attack would deal 155 staggering because of the 2.5x damage and 2x staggering multiplier.
+
+Player with 100 health would have 40 stagger limit. Attempting to block 100 physical damage with 50 block armor would let 50 damage through the block which would be enough to instantly stagger the player and cancel the block damage mitigation.
+
+Attempting to block 85 physical damage with 50 block armor would cause 36 staggering. With 50 gear armor, the player would receive 6.5 damage and in total take 42.5 staggering. This would stagger the player but the block wouldn't get cancelled because the stagger wasn't caused by the block.
+<br />
+[[Category:Effects]]

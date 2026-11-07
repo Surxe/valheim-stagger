@@ -1,0 +1,81 @@
+{{Infobox weapon
+| title            = Nidhögg the Bleeding
+| image            = Nidhögg the Bleeding.png
+| description      = If you bleed, your foes are sure to do so as well.
+| id               = SwordNiedhoggBlood
+| type             = Sword
+| source           = [[Black Forge]]
+| durability       = 300
+| crafting level   = 4
+| repair level     = 4
+| slash            = 135
+| knockback        = 40
+| materials 1 = 
+*[[Nidhögg]] x1
+*[[Flametal]] x6 
+*[[Bloodstone]] x1
+| materials 2 = 
+*[[Flametal]] x6 
+*[[Bloodstone]] x1
+| materials 3 = 
+*[[Flametal]] x12
+*[[Bloodstone]] x2
+| materials 4 = 
+*[[Flametal]] x24
+*[[Bloodstone]] x4
+| idol             = * [[Flametal Battle Idol]]
+| stamina          = 16
+| stamina secondary = 28
+| block armor      = 57
+| movement speed   = -5%
+}}
+
+'''Nidhögg the Bleeding''' is the upgraded form of [[Nidhögg]] using the [[Bloodstone]]. Like all upgraded-weapons that use Bloodstone, its damage is increased by 0.2% for every 1 point of [[health]] the player is missing ''(not to be confused with health percentage)''.
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+An upgraded Nidhögg will '''NOT''' keep its upgrade level when it is crafted into Nidhögg the Bleeding.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality 
+!1
+!2
+!3
+!4
+|-
+!Slash
+|135
+|141
+|147
+|153
+|-
+!Durability
+|300
+|350 
+|400 
+|450 
+|-
+!Crafting
+|1 [[Nidhögg]]<br>6 [[Flametal]]<br>1 [[Bloodstone]]
+|6 [[Flametal]]<br>1 [[Bloodstone]]
+|12 [[Flametal]]<br>2 [[Bloodstone]]
+|24 [[Flametal]]<br>4 [[Bloodstone]]
+{{Upgrade station row|Black forge|4|start=4}}
+|}
+
+* Nidhögg the Bleeding can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+== Notes ==
+Attention: The bloodstone effect work with MISSING health, -1 Health = 0.2% increased damage.
+
+== Gallery ==
+<gallery>
+File:Nidhogg The Bleeding.png
+File:Nidhogg The Bleeding player.png|Player holding the sword
+</gallery>
+
+{{Weapons}}
+
+[[ru:Кровоточащий нидхёгг]]

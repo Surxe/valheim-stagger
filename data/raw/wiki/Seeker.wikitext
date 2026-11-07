@@ -1,0 +1,92 @@
+{{infobox creature
+| title        = Seeker
+| image 0star  = Seeker.png
+| image 1star  = Seeker 1star.png
+| image 2star  = Seeker 2star.png
+| trophy       = Seeker trophy
+| trophy description = Less delicate than they look. The leather of the wings catches the firelight as if remembering flight.
+| trophy id    = TrophySeeker
+| id           = Seeker
+| behavior     = Aggressive
+| tameable     = No
+| location     = Mistlands
+| health 0star = 200
+| damage 0star = * Pincers: 90 Pierce
+* Claw: 120 Pierce
+* Ground slam: 100 Blunt
+* Ground slam flying: 100 Blunt
+| health 1star = 400
+| damage 1star = * Pincers: 135 Pierce
+* Claw: 180 Pierce
+* Ground slam: 150 Blunt
+* Ground slam flying: 150 Blunt
+| health 2star = 600
+| damage 2star = * Pincers: 180 Pierce
+* Claw: 240 Pierce
+* Ground slam: 200 Blunt
+* Ground slam flying: 200 Blunt
+| abilities    = * Takeoff (8s)
+* Land (8 seconds)
+* Pincers (6 seconds)
+* Claw (10 seconds each for 2 variants)
+* Ground slam (10 seconds)
+* Ground slam flying (10 seconds)
+| resistant     = Blunt, Pierce, Slash
+| immune        = Spirit
+| faction       = Mistlands
+| stagger       = 30%
+}}
+'''Seekers''' are aggressive creatures found in the [[Mistlands]] and in [[Infested Mine]]s.
+
+Seekers are large insectoid creatures with traits similar to beetles, ants, and bees. They have mandibles and three pairs of legs, the middle of which are larger and used to attack enemies. A pair of large leathery wings sprout from the back and can be used to fly short distances. Seekers and their [[Seeker Soldier|Soldier]] counterparts are implied to all be offspring of [[The Queen]], much the same as how real insect colonies function.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mistlands]] during the daytime|limit=2|frequency=4|stars=Yes (max 1 star)}}
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mistlands]] during the nighttime, despawn at dawn|limit=6|frequency=4}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Meadows]], [[Black Forest]]s, [[Swamp]], [[Mountains]] or [[Plains]] during the nighttime after defeating [[The Queen]], despawn at dawn|limit=2|frequency=1|stars=No}}
+{{spawn row|type=[[Spawn points]] near some [[Mistlands]] structures|limit=-|frequency=0}}
+{{spawn row|type=[[Spawn points]] in [[Infested Mines]]|limit=-|frequency=Some respawn every 4 hours}}
+{{spawn row|type=Spawned by [[The Queen]] (amount based on nearby players)|limit=2-5|frequency=6|stars=No}}
+{{spawn row|type=During "They sought you out" [[Events|event]] before defeating [[The Queen]]|limit=3|frequency=6|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Seekers|Aggressive creature strategies#Seeker}}
+
+=== Takeoff ===
+When grounded between 10 and 100 meters of a player, they will launch from the ground and begin flying. This ability can be used every 8 seconds.
+
+=== Land ===
+When airborne under 5 meters of a player, they will land on the ground. This ability can be used every 8 seconds.
+
+=== Pincers ===
+Leans back before sweeping downward to clamp the player with their pincers (90 [[Damage types#Pierce|Pierce]] damage). This creates a 2.2-meter 45-degree horizontal arc and can be used every 6 seconds when within 2 meters of a player.
+
+=== Claw ===
+This attack has two variants, each with its own 10-second cooldown: a thrust with the left claw and a thrust with the right claw (120 [[Damage types#Pierce|Pierce]] damage). This hits in a 3.5-meter 20-degree horizontal arc and can be used within 3.5 meters of a player.
+
+=== Ground slam ===
+Stands on their hind legs before slamming down on the player with both claws (100 [[Damage types#Blunt|Blunt]] damage). This hits in a 3.2-meter 60-degree horizontal arc in front of Seekers and can be used every 10 seconds when within 3 meters of a player.
+
+=== Ground slam flying ===
+While airborne, leans back before propelling forward with both claws (100 [[Damage types#Blunt|Blunt]] damage). Using this attack grounds Seekers and is an alternative to landing with their Land ability. This hits in a 3.2-meter 60-degree horizontal arc in front of Seekers and can be used every 10 seconds when within 5 meters of a player.
+
+== Notes ==
+*Seekers are ant-like in appearance, but unlike ants, basic Seekers are capable of flight while Seeker Soldiers and The Queen are not.
+*Seeker hives produce [[Royal Jelly]], which in real life is produced by worker bees and fed to larvae, particularly to produce new queens.
+
+== Gallery ==
+<gallery captionalign="center">
+Mistlands Artwork 2 Valheim.jpeg
+File:2 star seeker encounter.png|2-star seeker encounter in infested mine.
+File:Seeker Concept art.png|Seeker Concept Art.
+</gallery>
+
+{{Creatures}}
+[[ru:Искатель]]
+[[cs:Hledač]]
+[[fr:Fouineur]]

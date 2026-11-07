@@ -1,0 +1,87 @@
+{{infobox weapon
+| title          = Iron Axe
+| image          = Iron Axe.png
+| description    = Sharp and strong, a woodcutter's friend.
+| id             = AxeIron
+| type           = Axe 1h
+| source         = [[Forge]]
+| wielding       = One-handed
+| durability     = 175
+| crafting level = 2
+| repair level   = 2
+| slash          = 60
+| knockback      = 50
+| materials 1 = 
+* [[Wood]] x4
+* [[Iron]] x20
+* [[Leather Scraps]] x2
+| materials 2 = 
+* [[Iron]] x10
+* [[Leather Scraps]] x1
+| materials 3 = 
+* [[Iron]] x20
+* [[Leather Scraps]] x2
+| materials 4 = 
+* [[Iron]] x40
+* [[Leather Scraps]] x4
+| idol           = * [[Silver Battle Idol]]
+| chop = 50
+| block armor = 21
+| stamina = 10}}
+
+'''Iron Axe''' is the fourth one-handed [[Axes|axe]]. It can be used to chop down [[Ancient Tree|Ancient]], [[Birch]], [[Beech]], [[Fir]], [[Oak]] and [[Pine]] trees.
+
+* Its primary attack is a 3-hit combo with double damage on the last hit.
+* The secondary attack is a slow but powerful overhead swing, ''perfect'' for removing tree stumps that are too low to hit with a normal swing.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|60
+|65
+|70
+|75
+|
+|-
+!Chop (trees)
+|50
+|53
+|56
+|59
+|
+|-
+!Durability
+|175
+|225
+|275
+|325
+|
+|-
+!Crafting
+|4 [[Wood]]<br>20 [[Iron]]<br>2 [[Leather Scraps]]
+|10 [[Iron]]<br>1 [[Leather Scraps]]
+|20 [[Iron]]<br>2 [[Leather Scraps]]
+|40 [[Iron]]<br>4 [[Leather Scraps]]
+|4 [[Wood]]<br>90 [[Iron]]<br>9 [[Leather Scraps]]
+{{Upgrade station row|Forge|4|start=2|addcol=1}}
+|}
+
+* Iron Axe can also be upgraded at the [[Forge of Potential]] with a [[Silver Battle Idol]].
+
+== Trivia ==
+* In the game files, the Iron Axe is sometimes known as "Viking Axe."
+
+{{ToolsNav}}
+{{WeaponsNav}}
+
+[[cs:Železná sekera]]
+[[de:Eisenaxt]]
+[[ru:Железный топор]]
+[[fr:Hache en fer]]

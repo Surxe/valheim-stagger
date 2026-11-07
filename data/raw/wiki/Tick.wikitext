@@ -1,0 +1,56 @@
+{{infobox creature
+| title         = Tick
+| image 0star   = Tick.png
+| image 1star   = Tick 1star.png
+| image 2star   = Tick 2star.png
+| trophy        = Tick trophy
+| trophy description = It's a conversation piece...
+| trophy id     = TrophyTick
+| id            = Tick
+| location      = [[Mistlands]]
+| behavior      = Aggressive
+| tameable      = No
+| health 0star  = 50
+| damage 0star  = Attach: 50 Pierce every 0.5s
+| health 1star  = 100
+| damage 1star  = Attach: 75 Pierce every 0.5s
+| health 2star  = 150
+| damage 2star  = Attach: 100 Pierce every 0.5s
+| abilities     = Attach (2s)
+| veryweak      =
+| weak          = Pierce
+| resistant     =
+| veryresistant =
+| immune        = Spirit
+| stagger       = 50%
+}}
+Ticks are aggressive creatures found in the [[Mistlands]]. Ticks look like giant versions of their [https://en.wikipedia.org/wiki/Tick namesakes]. Their only attack is to latch onto their target and deal constant damage.
+
+=== Drops ===
+{{CreatureDrops}}
+
+=== Spawning ===
+{{spawn table|{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Mistlands]] during the nighttime after defeating [[The Queen]], despawn at dawn|limit=3|frequency=1}}
+{{spawn row|type=Five [[spawn points]] near [[Giant Remains]] with skulls in the [[Mistlands]]|frequency=0|stars=No}}
+{{spawn row|type=Common [[spawn points|spawn point]] in the [[Infested Mine]]s|frequency=0|stars=Yes}}
+{{spawn row|type=Uncommon [[spawn points|spawn point]] in the [[Infested Mine]]s|frequency=Respawns every 4 hours}}
+{{spawn row|type=Spawned by [[Gjall]]s (3 per ability)|frequency=6|limit=8|stars=No}}
+{{spawn row|type=During "What's up, Gjall?!" [[Events|event]] before defeating [[The Queen]]|limit=4|frequency=6}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Tick|Aggressive creature strategies#Tick}}
+
+=== Attach ===
+Ticks attach themselves to the player and suck blood from them every 0.5 seconds (50 [[Damage types#Pierce|Pierce]] damage). This lasts 5 seconds, dealing damage ten times; parrying the attack forces them to detach. Each attack reaches 1 meter in a 40-degree horizontal arc. The hitbox is calculated from the center of Ticks; this fact combined with the incredibly small hitbox, it is possible for a Tick to attach and be unable to do damage due to not being able to reach the player — especially if they are moving.
+
+== Gallery ==
+<gallery>
+File:1 star Tick at night in Mistlands.png|1-star Tick in Mistlands after the Queen is defeated.
+</gallery>
+*
+
+{{Creatures}}
+
+[[ru:Клещ]]
+[[cs:Klíště]]
+__NOTOC__

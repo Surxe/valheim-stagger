@@ -1,0 +1,43 @@
+{{infobox creature
+| title         = Shapeless Pulp
+| image 0star   = Shapeless Pulp.png
+| image 1star   =
+| image 2star   =
+| trophy        = Pulp Trophy
+| trophy description = Remains of unfortunate adventurers, digested and jellified over time.
+| trophy id     = TrophyBlob_Morkhalla
+| id            = BlobMork
+| faction       = Deep North
+| location      = [[Mörkhalla]]
+| tameable      = No
+| health 0star  = 150
+| damage 0star  = Aoe: 110 Poison, 20 Blunt
+| health 1star  = 300
+| damage 1star  = Aoe: 165 Poison, 30 Blunt
+| health 2star  = 450
+| damage 2star  = Aoe: 220 Poison, 40 Blunt
+| abilities     = Aoe (2s)
+| veryweak      =
+| weak          =Blunt, Frost, Lightning
+| resistant     =Slash, Pierce, Fire
+| veryresistant =
+| immune        =Poison, Stagger
+| stagger       =
+}}
+
+'''Shapeless Pulp''' is a hostile creature found in [[Mörkhalla]] in the [[Deep North]]. They are spawned by [[Hexahedric Pulp]] every six seconds while a player is within 20 meters, and themselves turn into [[Tiny Pulp]].
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{Spawn table|
+{{spawn row|type=Spawned from [[Hexahedric Pulp]], only while no other Shapeless Pulp is within 20 meters of it|limit=1|frequency=Every 5 seconds|stars=Yes}}
+{{spawn row|type=When a [[Blob Bomb Pulp]] is used|limit=-|frequency=-|stars=No}}
+}}
+
+== Attacks and abilities ==
+* '''Aoe''': an area attack dealing 110 [[Damage types#Poison|Poison]] and 20 [[Damage types#Blunt|Blunt]] damage.
+
+
+{{CreaturesNav}}

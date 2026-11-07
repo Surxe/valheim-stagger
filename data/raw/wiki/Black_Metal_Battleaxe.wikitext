@@ -1,0 +1,83 @@
+{{infobox weapon
+| image          = Black Metal Battleaxe.png
+| description    = Green shall be the last thing your foes see before you cleave them in half.
+| id             = BattleaxeBlackmetal
+| type           = Axe 2h
+| source         = [[Forge]]
+| durability     = 200
+| crafting level = 4
+| repair level   = 4
+| slash          = 110
+| chop = 60
+| knockback      = 70
+| materials 1 = 
+* [[Linen]] x5
+* [[Black Metal]] x30
+* [[Finewood]] x10
+| materials 2 = 
+* [[Linen]] x5
+* [[Black Metal]] x15
+| materials 3 = 
+* [[Linen]] x10
+* [[Black Metal]] x30
+| materials 4 = 
+* [[Linen]] x20
+* [[Black Metal]] x60
+| idol           = * [[Black Metal Battle Idol]]
+| block armor = 52
+| stamina = 20
+| movement speed = -15%}}
+
+'''Black Metal Battleaxe''' is the third two-handed [[axe]]. 
+
+* Its primary attack is a 3-hit combo (wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x [[staggering]] and no multitarget penalty.
+* The faster secondary attack deals 0.5x damage and 4x staggering.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|110
+|116
+|122
+|128
+|
+|-
+!Chop (trees)
+|60
+|62.5
+|65
+|67.5
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|5 [[Linen]]<br>30 [[Black Metal]]<br>10 [[Finewood]]
+|5 [[Linen]]<br>15 [[Black Metal]]
+|10 [[Linen]]<br>30 [[Black Metal]]
+|20 [[Linen]]<br>60 [[Black Metal]]
+|40 [[Linen]]<br>135 [[Black Metal]]<br>10 [[Finewood]]
+{{Upgrade station row|Forge|4|start=3}}
+|}
+
+* Black Metal Battleaxe can also be upgraded at the [[Forge of Potential]] with a [[Black Metal Battle Idol]].
+
+== Notes ==
+* The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.
+* General combo starter is the secondary into the primary.
+
+{{WeaponsNav}}
+
+[[ru:Боевой топор из черного металла]]
