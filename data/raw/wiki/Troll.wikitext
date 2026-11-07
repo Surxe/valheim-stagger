@@ -1,0 +1,146 @@
+{{infobox creature
+| image 0star   = Troll.png
+| image 1star   = Troll 1star.png
+| image 2star   = Troll 2star.png
+| trophy        = Troll trophy
+| trophy description = The leathery skin bears the faded tracery of ancient symbols.
+| trophy id     = TrophyFrostTroll
+| id            = Troll
+| faction       = Forest
+| location      = [[Black Forest]]
+| tameable      = No
+| health 0star  = 600
+| damage 0star  = 
+* Unarmed:
+** Punch: 60 Blunt, 100 Chop, 40 Pickaxe
+** Ground slam: 70 Blunt, 100 Chop, 40 Pickaxe
+** Ground slam area: 50 Blunt, 50 Chop, 30 Pickaxe
+** Throw: 50 Blunt, 60 Chop, 40 Pickaxe
+* Log-wielding:
+** Log swing V: 70 Blunt, 100 Chop, 40 Pickaxe
+** Log swing H: 60 Blunt, 100 Chop, 40 Pickaxe
+| health 1star  = 1200
+| damage 1star  = 
+* Unarmed:
+** Punch: 90 Blunt, 150 Chop, 60 Pickaxe
+** Ground slam: 105 Blunt, 150 Chop, 60 Pickaxe
+** Ground slam area: 50 Blunt, 50 Chop, 30 Pickaxe
+** Throw: 75 Blunt, 90 Chop, 60 Pickaxe
+* Log-wielding:
+** Log swing V: 105 Blunt, 150 Chop, 60 Pickaxe
+** Log swing H: 90 Blunt, 150 Chop, 60 Pickaxe
+| health 2star  = 1800
+| damage 2star  = 
+* Unarmed:
+** Punch: 120 Blunt, 200 Chop, 80 Pickaxe
+** Ground slam: 140 Blunt, 200 Chop, 80 Pickaxe
+** Ground slam area: 50 Blunt, 50 Chop, 30 Pickaxe
+** Throw: 100 Blunt, 120 Chop, 80 Pickaxe
+* Log-wielding:
+** Log swing V: 140 Blunt, 200 Chop, 80 Pickaxe
+** Log swing H: 120 Blunt, 200 Chop, 80 Pickaxe
+| abilities     = 
+* Unarmed:
+** Punch (4 seconds)
+** Ground slam (20 seconds)
+** Throw (10 seconds)
+* Log-wielding:
+** Log swing V (6 seconds)
+** Log swing H (6 seconds)
+| veryweak      = 
+| weak          = Pierce
+| resistant     = Blunt
+| veryresistant = 
+| immune        = Spirit
+| neutral       = 
+| stagger       = 30%
+| weak point    = Head
+| wp veryweak   = Pierce
+| wp immune     = Spirit
+}}
+
+'''Trolls''' are aggressive [[creatures]] found in [[Black Forest|Black Forests]]. They are massive, bumbling humanoids with brutish limbs and wiry blonde hair. They may spawn with a large tree trunk in their hand.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Black Forest]] |limit=1|frequency=1|stars=After 2000 meters from the world center}}
+{{spawn row|type=Possible [[Spawn points|spawn point]] outside [[Troll Cave]]s in [[Black Forest]]|frequency=0}}
+{{spawn row|type=Possible [[Spawn points|spawn point]] inside [[Troll Cave]]s in [[Black Forest]]|frequency=0}}
+{{spawn row|type=During "The ground is shaking" [[Events|event]] after defeating [[The Elder]]|limit=2|frequency=6|stars=Yes, if a [[Love Potion]] is active. Otherwise, No.}}
+{{spawn row|type=[[Spawn zones]] in [[Black Forest#Alternative biomes|Troll Black Forest]]|limit=2|frequency=Common|stars=Yes}}
+}}
+
+== Attacks and abilities ==
+Trolls come in two variants: 1/3rd of Trolls are equipped with a log, while the others are unarmed. 
+
+Unarmed Trolls have three attacks.
+
+=== Punch ===
+Leans back before swinging to attack the player in a 5-meter 45-degree horizontal arc (60 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 40 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage). This attack can be used every 4 seconds when within 4 meters of a player.
+
+=== Ground slam ===
+Lifts both fists up before slamming them down into the ground (70 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 40 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage). This slam reaches 4.5 meters out in a 90-degree vertical arc, and can be used every 20 seconds when within 5 meters of a player. This effectively means that the Troll will punch five times before doing a slam, assuming that the player is always in range. When the slam hits anything, including the ground, it also creates a 3-meter area that deals 50 [[Damage types#Blunt|Blunt]], 50 Tier 2 [[Damage types#Chop|Chop]] and 30 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage. This area damage is the same at every star level.
+
+=== Throw ===
+Throws a large boulder at players within 8–20 meters (50 [[Damage types#Blunt|Blunt]], 60 Tier 0 [[Damage types#Chop|Chop]] and 40 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). The boulder travels at an initial velocity of 15 meters per second and can travel for 4 seconds before disappearing. It has a spread of 10–20 degrees. This has a cooldown of 10 seconds and can be disabled by standing close to the Troll.
+
+Log Trolls have two attacks.
+
+=== Log swing (vertical) ===
+Slams their log into the ground extending out 9 meters and spanning across 90 degrees (70 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 40 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage). This attack can be used every 6 seconds when within 8 meters of a player.
+
+=== Log swing (horizontal) ===
+Swings their log from the side, creating a 10-meter 50-degree arc (60 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 40 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage). This attack can be used every 6 seconds when within 8 meters of a player.
+
+==Strategy==
+{{For|strategies for defeating Trolls|Aggressive creature strategies#Troll}}
+* Among the largest enemies in ''Valheim'', Trolls have a physical strength that reflects their size. Ranged attacks with a Bow or Spear are best and kiting a Troll through dense areas of the forest is very effective, as they have large hitboxes that hinder their pathfinding.
+* Trolls employ massive yet slow attacks that are easy to avoid but very hard to block and parry. Using a [[Bone Tower Shield]] is effective at blocking most of its attacks, provided the player has sufficient health.
+** "Pulling" the attention of a Troll and brandishing a tower shield while other players fire arrow volleys is an effective strategy.
+* Trolls will sometimes fall into deep ditches or pits, or more often, the large pit at a copper dig site. Their poor pathfinding often renders them stuck.
+** If a Troll approaches a ditch that is sufficiently deep (at least 6 meters) and does not fall in, it will not willingly walk in. Unable to reach the player, it will stand still, glowering into the pit. After a few moments, it will turn its aggression towards any player structures it can reach.
+** Alternatively, if the positions are reversed, standing atop the ledge of a pit allows for easy dispatch with arrows and spears.
+* Trolls can spawn with or without a tree trunk in their hand. A Troll equipped with a tree trunk has decidedly better range and destructive power than one that is not.
+
+== Notes ==
+* A 1-star Troll has a pale green tint, and a 2-star Troll is tinted a ruddy red.
+* They are tall (7 meters) and can move along corridors 2 meters and wider.
+* The curative pollen ejected by [[Greydwarf Shaman]]s also heals Trolls, as they share a [[Factions|Faction]].
+* They cannot jump or swim, but they will walk along the bottom of shallow water, sometimes getting a considerable distance from the shore. They can walk through shallow water faster than a player can swim.
+* All the Troll's attacks (except its rock throw) have a [[Damage#Terrain_damage|tool tier]] of 2, which allows players to use Trolls to harvest resources they are otherwise unable to attain at their current equipment level. Trolls are capable of knocking down and breaking apart [[Oak]] and [[Birch]] trees with their attacks, which is especially useful in the early game for obtaining [[Finewood]] without a [[Bronze Axe]] (or better). Trolls can also break [[Copper Deposit|Copper]] and [[Tin Deposit]]s (even with their rock throw attacks), which can allow the player to get [[Bronze]] before killing the first boss, [[Eikthyr]].
+** Additionally, Trolls lured into more hostile biomes will aggressively attack most creatures in that biome, due to them having different Factions. While Trolls are not such a good match for stronger enemies, such as [[Plains]] creatures, they are capable of destroying large numbers of [[Swamp]] creatures, leaving loot like [[Entrails]] and [[Bloodbag]]s in their wake for the player to collect
+* The [[Love Potion]] increases Troll spawn rate, star chances and alerts them.
+
+== Gallery ==
+<gallery spacing="small" captionsize="small" bordersize="small" navigation="true" widths="185">
+Valheim Mountain-Troll-2 ver0-79-10.jpg|Mountain Troll preparing to smash a Viking in Deep Forest
+Troll in-game.png
+Screenshot 2021-05-18 9.27.56 AM.png|Recently updated Troll visuals
+Trollinswamp.jpg|Infuriated Troll lashing out at enemies in swamp (new model)
+File:1 star troll.png|A 1-star Troll at night.
+File:Helpless.jpg|A Troll trapped and helpless in a defensive ditch.
+</gallery>
+
+== Trivia ==
+* In Old Norse sources, Trolls were assimilated to Jötnar, the giants from Norse mythology. Only in later Scandinavian folklore did they appear as separate beings.
+* During the alpha, Trolls in the Black Forest had brown skin covered by green moss, while Trolls in the Mountains had blue skin.<ref>https://archive.md/s5GAU#selection-903.0-903.13</ref>
+* The trophy of the brown Troll from the alpha build can be spawned with the command "spawn TrophyForestTroll", and the current troll trophy with "spawn TrophyFrostTroll"
+* The alpha build Troll trophy can be placed on an [[Item Stand]], however, it is invisible.
+
+== Lore ==
+{{Quote|The trolls of Midgard may be fading from your memory, as indeed they are from all the race of man. Few and forlorn, they crouch in damp caves and gnaw on the bones of the weak and foolhardy. The will of Odin has pushed them back into the dark places.
+But in Valheim they have flourished. It has been centuries since any in Midgard saw the great Trolls stamp flat the land and bring down the trees for joy. Look upon this great and noble sight, wanderers in a strange land! Then take to your heels and run...|[[Runestone]]}}
+
+== References ==
+<references />
+
+{{Creatures}}
+
+[[ru:Тролль]]
+[[uk:Троль]]
+[[fr:Troll]]
+[[cs:Troll]]
+[[de:Troll]]

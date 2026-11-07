@@ -1,0 +1,49 @@
+{{Infobox_creature
+| title          = Bat
+| image 0star    = bat.png
+| image 1star    = Bat.png
+| trophy         =
+| id             = Bat<br>Bat_Swamp
+| location       = [[Mountain]]
+| health 0star   = 10
+| damage 0star   = Melee: 20 Slash
+| health 1star   = 20
+| damage 1star   = Melee: 30 Slash
+| abilities      = Melee (10s)
+| weak           = Fire, Spirit
+| resistant      = Blunt, Slash, Pierce
+| immune         = Frost, Poison
+| neutral        =
+| stagger        = 50%
+| faction        = Mountain
+}}
+'''Bats''' are aggressive [[creatures]] found in [[Mountain|Mountains]] inside [[Frost Caves]]. They have a small body size and glossy black coat and wings, capable of flight.
+
+== Drops ==
+{{CreatureDrops|stars=1}}
+
+== Spawning ==
+{{Spawn table|{{spawn row|type=Common [[spawn points|spawn point]] in [[Frost Caves]].|frequency=0|stars=No}}
+{{spawn row|type=Common [[spawn points|spawn point]] in [[Howling Cavern]].|frequency=0|stars=Yes (Only 1-Star)}}
+{{spawn row|type=During "You stirred the cauldron," [[Events|event]] after killing [[Bonemass]].|limit=10|frequency=6|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Swamp#Alternative biomes|Bat Swamp]]|limit=10|frequency=33|stars=No}}}}
+
+
+== Attacks and abilities ==
+{{For|strategies for defeating Bats|Aggressive creature strategies#Bat}}
+
+=== Melee ===
+Lunges forward and bites the player (20 [[Damage types#Slash|Slash]] damage). This hits in a 1.5-meter 60-degree horizontal arc. It can use this attack every 10 seconds when 1.5 meters from a player.
+
+== Gallery ==
+<gallery>
+A bat against the player Valheim.jpg
+</gallery>
+
+== Notes ==
+* When the "''You stirred the cauldron,''" [[Events|event]] concludes, any remaining bats do '''not''' despawn. Therefore, wandering bats might still attack after the end of the event, posing danger especially for [[:Category:Tameable creatures|tamed animals]].
+
+{{Creatures}}
+
+[[ru:Летучая мышь]]
+[[cs:Netopýr]]

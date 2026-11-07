@@ -1,0 +1,63 @@
+{{infobox creature
+| image 0star  = Wraith.png
+| trophy       = Wraith trophy
+| trophy description = The shed skin of a wraith, a flowing robe only visible by moonlight.
+| trophy id    = TrophyWraith
+| id           = Wraith
+| location     = [[Swamp]]
+| health 0star = 100
+| damage 0star = Melee: 60 Slash
+| abilities    = Melee (2s)
+| veryweak      = 
+| weak          = Fire, Spirit
+| resistant     = Blunt, Pierce, Slash
+| veryresistant = 
+| immune        = Frost, Poison
+| neutral      = 
+|stagger=50%
+|faction=Undead}}
+
+'''Wraiths''' are aggressive [[creatures]] found in [[Swamp]]s. They are dark blueish spectral entities, cloaked with a hood covering their blank face. They emit a quiet snarling hiss sound when they are aggravated. Since they naturally spawn at night, glow and fly, spotting them from a distance is easy; their telltale glow reveals them even to inattentive players as they approach.
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Swamp]]s during the nighttime, despawn at dawn|limit=2|frequency=3|stars=No}}
+{{spawn row|type=Rare [[Spawn points|spawn point]] near [[Abandoned Hut]]s in [[Swamp]]s, also during the daytime|frequency=0|stars=No}}
+{{spawn row|type=During "You feel a chill down your spine..." [[events|event]] after defeating [[Bonemass]]|limit=2|frequency=5|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Swamp#Alternative biomes|Hut Swamp]] at night|limit=3|frequency=17|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Wraiths|Aggressive creature strategies#Wraith}}
+
+=== Melee ===
+Swipes at the player with their claw, creating a 60-degree vertical arc that extends 2.4 meters outward (60 [[Damage types#Slash|Slash]] damage). This attack can be used every 2 seconds within 1.8 meters of the player.
+
+== Notes ==
+* Wraiths can be especially dangerous when entering Swamps early on, with Black Forest-tier gear. It is best to avoid entering the biome at night for this reason.
+* Wraiths are the only ''renewable'' source of [[Chain]]s, the other major source being [[Sunken Crypts]].
+* Because of their [[Damage#Spirit|Spirit damage]] weakness (and considering their [[Damage#Physical|Physical damage]] resistance), [[Silver]] weapons are around 90% effective, making them a good choice. However, due to Wraith's immunity to [[Damage#Frost|Frost damage]], the [[Frostner]] is only about 50% effective, making it a bad choice.
+* Wraiths can fly directly on top of you if you get under them correctly, making them unable to hit you, while being vulnerable to two-handed [[Clubs]] like the [[Stagbreaker]].<!-- Needs confirmation. Worked for me once but I haven't seen a wraith once since. -->
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+Wraith1.jpg
+Wraith2.jpg
+Wraith.jpg|A lone gliding Wraith preparing for an attack.
+</gallery>
+
+== Lore ==
+{{Quote|Rest, wanderer, and consider the wraiths.
+We know that when a warrior dies, their soul cracks open and seeps into the earth around them, thereby to nourish new life and strengthen those who follow after.
+Yet if a warrior should die with no great deeds to their name, their soul will be too thin and airy. It will flow upwards instead, like smoke from a hearth. These wisps of souls sometimes catch in the branches of trees long enough to form Wraiths, wretched shadows with nothing but bitterness and jealousy to drive them. Blown about the land in despair, they remain only to prey on those who are still living.
+Should you see one, kill it and count it a mercy.|[[Runestone]]}}
+
+{{Creatures}}
+
+[[de:Zorngeist]]
+[[fr:Spectre]]
+[[ru:Призрак]]
+[[cs:Přízrak]]

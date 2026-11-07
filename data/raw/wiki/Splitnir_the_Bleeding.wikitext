@@ -1,0 +1,70 @@
+{{infobox weapon
+| title          = Splitnir the Bleeding
+| image          = Splitnir the Bleeding.png
+| description    = A small sacrifice must be made for every battle...
+| id             = SpearSplitner_Blood
+| type           = Spear
+| source         = [[Black Forge]]
+| crafting level = 4
+| repair level   = 4
+| pierce         = 135
+| knockback      = 20
+| materials 1 = 
+* [[Splitnir]] x1
+* [[Flametal]] x6
+* [[Bloodstone]] x1
+| materials 2 = 
+* [[Flametal]] x6
+* [[Bloodstone]] x1
+| materials 3 = 
+* [[Flametal]] x12
+* [[Bloodstone]] x2
+| materials 4 = 
+* [[Flametal]] x24
+* [[Bloodstone]] x4
+| idol           = * [[Black Marble Battle Idol]]
+| stamina = 16
+| stamina secondary = 18
+| block armor = 57
+| movement speed = -5%}}
+
+'''Splitnir the Bleeding''' is the upgraded form of [[Splitnir]] using the [[Bloodstone]]. Like all upgraded-weapons that use Bloodstone, its damage is increased by 0.2% for every 1 point of [[health]] the player is missing ''(not to be confused with health percentage)''.
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+An upgraded Splitnir will '''NOT''' keep its upgrade level when it is made into Splitnir the Bleeding.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Pierce
+|135
+|141
+|147
+|153
+|-
+!Durability
+|100
+|150
+|200
+|250
+|-
+!Crafting
+|1 [[Splitnir]]<br>6 [[Flametal]]<br>1 [[Bloodstone]]
+|6 [[Flametal]]<br>1 [[Bloodstone]]
+|12 [[Flametal]]<br>2 [[Bloodstone]]
+|24 [[Flametal]]<br>4 [[Bloodstone]]
+{{Upgrade station row|Black forge|4|start=4}}
+|}
+
+* Splitnir the Bleeding can also be upgraded at the [[Forge of Potential]] with a [[Black Marble Battle Idol]].
+
+{{Weapons}}
+
+[[ru:Кровоточащий расколнир]]

@@ -1,0 +1,107 @@
+{{infobox creature
+| image 0star       = Bonemass.png
+| description 0star = Wanderer, look to your feet, that tread upon our tomb. One thousand bones without their meat, will drag you to your doom.
+| trophy            = Bonemass trophy
+| trophy description = Bones and viscous goo, held together by some unseen force. Offer it to the Sacrificial Stones.
+| trophy id         = TrophyBonemass
+| id                = Bonemass
+| type              = Boss
+| summon            = [[Withered Bone]] x10
+| behavior          = Aggressive
+| tameable          = No
+| location          = 
+* [[Swamp]]
+| health 0star      = 5000
+| damage 0star      = 
+* Area of effect: 130 Poison
+* Punch: 80 Blunt, 50 Poison, 1000 Chop, 1000 Pickaxe
+| abilities         = 
+* Area of effect (30 seconds, unblockable)
+* Punch (7 seconds)
+* Throw (50 seconds)
+| veryweak          = 
+| weak              = Blunt, Frost
+| resistant         = Slash
+| veryresistant     = Fire, Pierce
+| immune            = Poison, Stagger
+| neutral           = 
+| aggressive        = 
+|faction=Boss}}
+'''Bonemass''' is the third [[Creatures#Bosses|boss]]. He appears as a gigantic humanoid mass comprised of toxic ooze, mud and skeletal remains, likely absorbed from nearby tombs situated close to his altar.
+
+== Summoning ==
+[[File:BonemassAltar.png|left|thumb|200x200px|Bonemass' Forsaken Altar.]]
+Bonemass' [[Forsaken Altars|Forsaken Altar]] is located in [[Swamp]]s. His location can be found when visiting [[Sunken Crypts]] and sometimes ruined structures, where a [[Runestone#Vegvisir|Vegvisir]] will reveal his nearest summoning location on the map.
+
+He is summoned by placing 10 {{Item Link|Withered Bone}}s in his Forsaken altar in Swamps. Like all bosses, Bonemass can be summoned as many times as desired, provided the required materials are met.
+
+== Attacks and abilities ==
+{{For|strategies for defeating Bonemass|Boss strategies#Bonemass}}
+Bonemass has an environment aura that forces raining, which means pulling him from the area cannot be used to remove [[Wet Effect|Wet]].
+
+=== Area of effect ===
+Bonemass will charge up with a thick green cloud before vomiting a wave of poisonous ooze, inflicting the [[Poison]] status on everything in a 9-meter radius around him (130 [[Damage types#Poison|Poison]] damage). This is signaled when he leans backwards. The poison cloud persists for 15 seconds and will continuously refresh the poison duration on any player that stays inside. This effect cannot be dodged or blocked. Bonemass can use this ability when a player is within 15 meters, and it has a cooldown of 30 seconds. The cloud is centered on the impact point of Bonemass's vomit; due to the size of his collision box, this results in the cloud not reaching very far behind him which gives players a safe area to retreat to that is still within range to strike him.
+
+=== Punch ===
+A close-range swipe at a player dealing up to 80 [[Damage types#Blunt|Blunt]] and 50 [[Damage types#Poison|Poison]] damage to players, in addition to 1000 Tier 0 [[Damage types#Chop|Chop]] and 1000 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage to any trees or rocks hit. This attack can be used every 7 seconds when a player is within 8 meters. It hits in a horizontal 8.5-meter 66.1-degree arc in front of Bonemass.
+
+=== Throw ===
+At 50-second intervals, Bonemass will reach into his armpit to throw out a glob of goop in the general direction of the player at an initial velocity of 20 meters per second with a spread of 5–20 degrees. On impact, this ability will attempt to spawn four random monsters ([[Skeleton]]s and/or [[Blob]]s, with equal chances for both). A maximum of eight summons of each type can be active at once; but the selection of enemies each spawning instance is still random regardless of the status of spawn caps, meaning reaching the spawn cap for one type of summon will not force spawns for the other. Bonemass will still attempt to summon creatures even if both spawn caps are reached. This ability can only be used when a player is within 30 meters.
+
+== Aftermath ==
+Defeating Bonemass provides the player with a Wishbone, which allows the player to easily locate [[Silver Vein]]s beneath the surface of [[Mountain]] biomes (as well as buried [[Muddy Scrap Pile]]s in Swamp biomes, and other miscellaneous buried treasures in certain locations).
+
+=== Drops ===
+{{CreatureDrops|stars=0}}
+
+=== Forsaken power ===
+Mounting Bonemass' trophy upon his respective stone will allow the player to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:
+
+* Damage modifier: [[Resistance|Slightly resistant]] vs Blunt
+* Damage modifier: [[Resistance|Slightly resistant]] vs Slash
+* Damage modifier: [[Resistance|Slightly resistant]] vs Pierce
+* Block stamina usage: -100%
+* Block stamina return: +5
+
+See [[Forsaken_power#Bonemass Power|Bonemass' power]] for more details.
+
+=== Events ===
+Defeating Bonemass affects the following [[events]] for that world:
+
+* Disables: Draugr and Skeleton "A foul smell from the swamp..."
+* Enables: Blobs and Oozers "A foul smell from the swamp..."
+* Enables: "A skeleton surprise!"
+* Enables: "A cold wind blows from the mountains." (if [[Moder]] has not been defeated)
+* Enables: "There's a smell of sulfur in the air." (if a [[Surtling]] has died)
+* Enables: "You are being hunted."
+* Enables: "You stirred the cauldron." (if a [[Bat]] has died)
+* Enables: "You feel a chill down your spine..."
+Note: Two of these events unlock flying enemies that will be uninhibited by base walls and will attack tame animals. For example, bats will quickly wipe out any outdoor tame Boars (if the player has them), most likely before the player can swat them all. Therefore, in order to protect any rare animals (such as a 2-star [[Boar]]), it is advisable to build a secure indoor barn area before undertaking Bonemass.
+
+=== Creature spawning ===
+Defeating Bonemass unlocks [[Skeleton]]s to spawn at night in the Meadows, Black Forest, Swamp (additional), Mountain and Plains. They can only have 0 stars.
+
+== Gallery ==
+<gallery widths="185">
+Bonemass.jpg
+Bonemass trophy.png
+Bonemass-banner.jpg
+Bonemass New Model.png|Bonemass 0.153.2 Model
+File:BonemassAltar.png
+File:Yagluth&bonemass.png|'''Bonemass''' and Yagluth chatting
+</gallery>
+
+== Notes ==
+* Bonemass has undergone a model change since [[Valheim|''Valheim's'']] release.
+* In the in-game trophies menu, there is another description of Bonemass, "A mess of black soil and old bone, thankfully quiet now."
+
+== Achievements ==
+{{Achievement|Boss3Bonemass}}
+
+{{Creatures}}
+
+[[ru:Масса костей]]
+[[fr:Masse d'Os]]
+[[cs:Bonemass]]
+[[uk:Кістянка]]
+[[de:Knochenwanst]]

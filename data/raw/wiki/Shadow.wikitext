@@ -1,0 +1,43 @@
+{{Infobox creature
+| title=Shadow
+| image 0star = Shadow.png
+| id=ShadowPerson
+|immune=Blunt, Slash, Pierce, Chop, Pickaxe, Fire, Frost, Lightning, Poison, Spirit
+}}
+'''Shadow''' are the souls of fallen warriors, They are found in [[Abandoned Village]]s and sometime roaming in [[Deep North]] during the night.
+
+They have no attack and ignore all damage, but sometimes mumble sentences.
+
+==Talk==
+{{Collapsible|Show/Hide quotes||
+* His blade was dipped in poison, I stood no chance...
+* Pain, sharp and excruciating. And then nothing.
+* Fire doesn't warm me any longer, nor does it offer any true light.
+* I don't recall what it was like to not be numb and cold.
+* Her knife found my heart just as I slit her throat. We died next to each other.
+* This is not Valhalla, nor is it Hel. No, this is something far worse.
+* A dead man out of mind...
+* Father... I failed you. I'm sorry...
+* Forgive me, sister, for I could not follow in your footsteps.
+* I went with him until the end...
+* Is someone there? I... I could have sworn I saw somebody.
+* Long forgotten... Lonely...
+* Just one more step. Just one more.
+* These were the last of the lands we knew...
+* This waste I know not, nor this dark night...
+* I thought I saw someone walking beside me, but it was but a shadow.
+* I no longer feel the sun on my face, nor the ground beneath my feet.
+* I've... I've become so very numb.
+* My purpose has been served, yet no reward was given. Now I walk here, without a use...
+* There is so much blood... How much can a person bleed before they are gone?
+* The sorrow of my defeat, everlasting...
+* I still feel the sharp antlers piercing my chest. When will I be free of this pain?
+* I thought she was reaching out to me, but then lightning spilled from her fingertips.
+* Such strange creatures there are to be found here. I had hoped they were friendly.
+* Can you hear their voices? They still remain...
+* I came so far, only for it to be over in the blink of an eye.
+* Such beautiful shifting, undulating colours... Why can't I reach them?
+* Was this my destiny? To fall before I ever reached my goal?
+* So much blood spilled, and for what?
+* Who shall tell my tale?
+}}

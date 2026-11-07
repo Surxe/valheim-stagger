@@ -1,0 +1,82 @@
+{{infobox weapon
+| title          = Flint Spear
+| image          = Flint spear.png
+| description    = If your eye marks a thing for death, let your arm send the messenger.
+| id             = SpearFlint
+| type           = Spear
+| source         = [[Workbench]]
+| crafting level = 1
+| repair level   = 1
+| pierce         = 20
+|materials 1 = 
+* [[Wood]] x5
+* [[Flint]] x10
+* [[Leather Scraps]] x2
+| materials 2 = 
+* [[Wood]] x3
+* [[Flint]] x5
+* [[Leather Scraps]] x1
+| materials 3 = 
+* [[Wood]] x6
+* [[Flint]] x10
+* [[Leather Scraps]] x2
+| materials 4 = 
+* [[Wood]] x12
+* [[Flint]] x20
+* [[Leather Scraps]] x4
+| idol = * [[Wooden Battle Idol]]
+| stamina = 6
+| block armor = 4
+| stamina secondary = 8}}
+
+'''Flint Spear''' is the first [[Spears|spear]].
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+== Upgrade information ==
+{| class="wikitable"
+! Quality
+!1
+!2
+!3
+!4
+!All
+|-
+! Pierce
+|20
+|26
+|32
+|38
+|N/A
+|-
+!Durability
+|100
+|150
+|200
+|250
+|N/A
+|-
+!Crafting
+|5 [[Wood]]<br />10 [[Flint]]<br />2 [[Leather Scraps]]
+|3 [[Wood]]<br />5 [[Flint]]<br />1 [[Leather Scraps]]
+|6 [[Wood]]<br />10 [[Flint]]<br />2 [[Leather Scraps]]
+|12 [[Wood]]<br />20 [[Flint]]<br />4 [[Leather Scraps]]
+|26 [[Wood]]<br />45 [[Flint]]<br />9 [[Leather Scraps]]
+{{Upgrade station row|Workbench|4|start=1|addcol=1}}
+|}
+
+* Flint Spear can also be upgraded at the [[Forge of Potential]] with a [[Wooden Battle Idol]].
+
+== Notes ==
+* Like all spears, the Flint Spear floats if dropped or thrown into water.
+
+<!-- Add back in when there are images. == Gallery ==
+<gallery>
+</gallery> -->
+
+{{Weapons}}
+
+[[Fr:Lance_en_silex]]
+[[ru:Кремневое копье]]
+[[cs:Kopí z pazourku]]

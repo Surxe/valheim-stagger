@@ -1,0 +1,76 @@
+{{infobox weapon
+| title          = Ancient Bark Spear
+| image          = Ancient bark spear.png
+| description    = Despite its gnarled look, this spear is strong and perfectly balanced.
+| id             = SpearElderbark
+| type           = Spear
+| source         = [[Forge]]
+| crafting level = 3
+| repair level   = 3
+| pierce         = 55
+| materials 1=
+* [[Troll Hide]] x4
+* [[Iron]] x10
+* [[Ancient Bark]] x10
+|materials 2=
+* [[Troll Hide]] x1
+* [[Iron]] x5
+* [[Ancient Bark]] x5
+|materials 3=
+* [[Troll Hide]] x2
+* [[Iron]] x10
+* [[Ancient Bark]] x10
+|materials 4=
+* [[Troll Hide]] x4
+* [[Iron]] x20
+* [[Ancient Bark]] x20
+|idol=* [[Iron Battle Idol]]
+|stamina=10|block armor=21|stamina secondary=12}}
+
+'''Ancient Bark Spear''' is the third [[Spears|spear]].
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|55
+|61
+|67
+|73
+|
+|-
+!Durability
+|100
+|150
+|200
+|250
+|
+|-
+!Crafting
+|4 [[Troll Hide]]<br />10 [[Iron]]<br />10 [[Ancient Bark]]
+|1 [[Troll Hide]]<br />5 [[Iron]]<br />5 [[Ancient Bark]]
+|2 [[Troll Hide]]<br />10 [[Iron]]<br />10 [[Ancient Bark]]
+|4 [[Troll Hide]]<br />20 [[Iron]]<br />20 [[Ancient Bark]]
+|11 [[Troll Hide]]<br />45 [[Iron]]<br />45 [[Ancient Bark]]
+{{Upgrade station row|Forge|4|start=3|addcol=1}}
+|}
+
+* Ancient Bark Spear can also be upgraded at the [[Forge of Potential]] with an [[Iron Battle Idol]].
+
+== Notes ==
+* Like all spears, the Ancient Bark Spear floats if dropped or thrown into water.
+
+{{Weapons}}
+
+[[Fr:Lance_en_écorce_ancienne]]
+[[cs:Kopí ze starověkého dřeva]]
+[[ru:Копье из древней коры]]

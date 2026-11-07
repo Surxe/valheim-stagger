@@ -1,0 +1,102 @@
+{{Infobox weapon
+|description = A cut from this blade stings like ice, then burns like the flame.
+|type = knife
+|id = KnifeGold_FrostFire
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| slash             = 62
+| slash per level = 5
+| pierce             = 62
+| pierce per level = 5
+| fire = 10
+| fire per level = 3
+| frost = 88
+| frost per level = 3
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Dagger]] x1
+* [[Frostfire Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Frostfire Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Frostfire Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Frostfire Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 14
+| stamina secondary = 42
+| block armor       = 
+| movement speed    = 
+| weight=0.3
+| special = 
+}}
+
+'''Frostfire Dagger''' is a version of [[Nord Dagger]] upgraded with a [[Frostfire Essence]]. It loses a small amount of [[slash]] and [[Pierce|pierce damage]] in exchange for a larger amount of [[fire]] and [[Frost|frost damage]].
+
+* The primary attack is a fast 3-slash combo with 2x damage on the last swing.
+* Its secondary attack is a leaping stab with 3x damage.
+* It deals 6x damage against [[Creature senses|unalerted]] enemies.
+
+An upgraded Nord Dagger will '''NOT''' keep its upgrade level when it is crafted into Frostfire Dagger.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|62
+|67
+|72
+|77
+|
+|-
+!Pierce
+|62
+|67
+|72
+|77
+|
+|-
+!Fire
+|10
+|13
+|16
+|19
+|
+|-
+!Frost
+|88
+|91
+|94
+|97
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Dagger}} x1<br> {{item link|Frostfire Essence}} x1
+| [[Bloodgold]] x10<br> [[Frostfire Essence]] x1
+| [[Bloodgold]] x20<br> [[Frostfire Essence]] x2
+| [[Bloodgold]] x40<br> [[Frostfire Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Dagger]] x1<br>[[Frostfire Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Frostfire Dagger can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

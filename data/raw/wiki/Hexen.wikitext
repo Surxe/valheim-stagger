@@ -1,0 +1,63 @@
+{{Infobox creature
+| title=Hexen
+| trophy = Hexen Trophy
+| trophy description=Before her death, her eyes sparked with magic. Now they're empty and void.
+| trophy id=TrophyJotunWitch
+| image 0star = Hexen.png
+| image 1star = Hexen.png
+| id=JotunWitch
+| faction       = Deep North
+| location      = [[Mörkhalla]], [[Jotun Invasions]]
+| drops         = [[Nornathread]]<br>[[Hexen Trophy]]<br>[[Intricate Key]]<br>[[Mould Robes of the Caller]]<br>[[Mould Headdress of the Caller]]<br>[[Mould Trousers of the Caller]]
+| health 0star  = 800
+| damage 0star  =
+* Magicblast: 120 Lightning, 30 Blunt, 30 Chop
+* Lightningbolt: 110 Lightning, 15 Spirit, 20 Chop
+* Dodge: 150 Slash, 200 Chop, 100 Pickaxe
+| health 1star  = 1600
+| damage 1star  =
+* Magicblast: 180 Lightning, 45 Blunt, 45 Chop
+* Lightningbolt: 165 Lightning, 22.5 Spirit, 30 Chop
+* Dodge: 225 Slash, 300 Chop, 150 Pickaxe
+| health 2star  =
+| damage 2star  =
+| abilities     =
+* Magicblast (3 seconds)
+* Lightningbolt (3 seconds)
+* Dodge (6 seconds each for 4 variants)
+| veryweak      =
+| weak          = Fire
+| resistant     =
+| veryresistant = Frost
+| immune        = Poison, Spirit
+| stagger       = 50%
+}}
+'''Hexen''' are aggressive [[creatures]] found in [[Mörkhalla]] and during [[Jotun Invasion]]s. They fly around and cast damaging spells.
+
+Killing a Hexen the first time enables Hexen and [[Krigen]] daytime patrols in the [[Deep North]].
+
+==Drops==
+{{CreatureDrops|stars=1}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=Multiple [[spawn points]] in [[Mörkhalla]]|frequency=0|stars=Up to one}}
+{{spawn row|type=Daytime patrol in the [[Deep North]], requires the [[Global Key]] <code>jotun_killed</code>|limit=2|stars=No}}
+{{spawn row|type=[[Jotun Invasions]]|limit=2|frequency=4|stars=Up to two}}}}
+
+== Attacks and abilities ==
+* '''Magicblast''': 120 [[Damage types#Lightning|Lightning]], 30 [[Damage types#Blunt|Blunt]] and 30 [[Damage types#Chop|Chop]] damage. This attack can be used every three seconds when within 5–20 meters of a target.
+* '''Lightningbolt''': a projectile dealing 110 Lightning, 15 [[Damage types#Spirit|Spirit]] and 20 Chop damage in a 3-meter radius where it hits. This attack can be used every three seconds when within 20 meters of a target.
+* '''Dodge''': an area attack dealing 150 [[Damage types#Slash|Slash]], 200 Chop and 100 [[Damage types#Pickaxe|Pickaxe]] damage. There are four dodge variants (left, right, up and down) with the same damage, each usable every six seconds.
+
+== Gallery ==
+<gallery position=left widths=300>
+Hexen flying.jpg | Hexen flying
+Hexen attacking.jpg | Hexen attacking
+</gallery>
+
+== See also ==
+* [[Krigen]]
+
+{{CreaturesNav}}
+[[ru:Хексен]]

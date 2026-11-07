@@ -1,0 +1,85 @@
+{{Infobox weapon
+| title = Thunderblood Sword
+| image = Thunderblood Sword.png
+| description = As the blood runs along the blade, it awakens the storm within.
+| type = Sword
+| id = SwordGold_BloodLightning
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| slash             = 180
+| slash per level = 10
+| lightning = 45
+| lightning per level = 5
+| knockback         = 
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Sword]] x1
+* [[Thunderblood Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Thunderblood Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Thunderblood Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Thunderblood Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 66
+| movement speed    = -5%
+| weight=0.8
+| special = 
+}}
+
+'''Thunderblood Sword''' is a version of [[Nord Sword]] upgraded with a [[Thunderblood Essence]]. It gains extra [[slash]] and [[Lightning|lightning damage]], a 25% chance per hit to trigger [[Chain lightning]] and a 0.2% damage increase for every 1 point of [[health]] the player is missing.
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+An upgraded Nord Sword will '''NOT''' keep its upgrade level when it is crafted into Thunderblood Sword.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|180
+|190
+|200
+|210
+|
+|-
+!Lightning
+|45
+|50
+|55
+|60
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Sword}} x1<br> {{item link|Thunderblood Essence}} x1
+| [[Bloodgold]] x10<br> [[Thunderblood Essence]] x1
+| [[Bloodgold]] x20<br> [[Thunderblood Essence]] x2
+| [[Bloodgold]] x40<br> [[Thunderblood Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Sword]] x1<br>[[Thunderblood Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Thunderblood Sword can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

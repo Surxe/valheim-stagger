@@ -1,0 +1,51 @@
+{{infobox creature
+| trophy        = Growth trophy
+| trophy description = A black and sticky mess.
+| trophy id     = TrophyGrowth
+| image 0star   = Growth.png
+| id            = BlobTar
+| location      = [[Plains]]
+| health 0star  = 100
+| damage 0star  = Attack: 45 Blunt, 50 Poison
+| abilities     = Attack (8s, 6x)
+| veryweak      = 
+| weak          = Blunt, Fire
+| resistant     = Frost, Pierce, Slash
+| veryresistant = 
+| immune        = Poison, Stagger 
+| neutral       = 
+|faction=Undead}}
+'''Growths''' are aggressive [[creatures]] found in [[Plains]], specifically in [[Tar Pit|Tar pits]]. They, like [[Blob|Blobs]] and [[Oozer]]s, are large, gelatinous piles of sentient tar that emit poisonous black gasses.
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=Up to 9 [[spawn points]] in [[Tar Pit]]s |frequency=2 respawn every hour, even when the pit is drained|stars=No}}
+{{spawn row|type=When a [[Blob bomb Tar]] is used|limit=-|frequency=-|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Growth|Aggressive creature strategies#Growth}}
+
+=== Attack ===
+Launches six orbs of tar at the enemy, applying the [[Tarred]] and [[Poison]] statuses (45 [[Damage types#Blunt|Blunt]] and 50 [[Damage types#Poison|Poison]] damage). Each orb travels at 12 meters per second for up to 4 seconds before despawning and has a spread of 5–20 degrees. This ability can be used when a player is within 15 meters, and it has a cooldown of 8 seconds.
+
+== Gallery ==
+<gallery captionalign="center">
+Growth 1.png
+Tar_pond.png
+</gallery>
+
+== Notes ==
+* Growths in the tar can be difficult to discern from a distance. Three or more growths may loosely surround the player, dealing high damage.
+* They are hostile to other Plains creatures, which makes luring them into [[Deathsquito|Deathsquitos]], [[Fuling|Fulings]] or [[Lox]] a viable strategy to killing or distracting them. Lox will usually make quick work of them with their powerful AOE attacks.
+* Killing them inside the tar pit may result in their loot being stuck
+
+*
+{{Creatures}}
+[[de:Düsterblob]]
+[[fr:Growth]]
+[[ru:Поросль]]
+[[cs:Dehtová bublina]]

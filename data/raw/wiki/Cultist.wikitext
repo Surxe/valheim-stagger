@@ -1,0 +1,56 @@
+{{infobox_creature
+| title           = Cultist
+| image 0star     = Cultist.png
+| trophy          = Cultist trophy
+| trophy description = The fire in its eyes has still not burned out.
+| trophy id       = TrophyCultist
+| id              = Fenring_Cultist
+| location        = [[Mountain]]
+| health 0star    = 200
+| damage 0star    = * <nowiki>Fireclaw double</nowiki>: 35 Slash, 40 Fire
+* Fireclaw: 35 Slash, 40 Fire
+* Flames: 50 Fire
+| abilities       = * Fireclaw double (10s)
+* Fireclaw (2 seconds)
+* Flames (10 seconds)
+| veryweak        =
+| weak            = Poison
+| resistant       =
+| veryresistant   =
+| immune          = Fire
+| neutral         =
+|stagger=50%|faction=Mountain}}
+
+'''Cultists''' are aggressive [[creatures]] found in [[Mountain]]s inside [[Frost Caves]]. Their appearance is distinctly werewolf-like, however, unlike [[Fenring]]s and [[Ulv]]s, they wear tattered red hooded cloaks.
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{Spawn table|{{spawn row|type=Rare [[spawn points|spawn point]] in [[Frost Caves]].|frequency=0|stars=No}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Cultists|Aggressive creature strategies#Cultist}}
+
+=== Fireclaw double ===
+The exact same as Fireclaw<ref>The ordering of attacks is based off of how they are ordered in the game files for the sake of data collection.</ref>, but swings a second time with its other hand and has a 10-second cooldown (35 [[Damage types#Slash|Slash]] 40 [[Damage types#Fire|Fire]] damage each hit). 
+
+=== Fireclaw ===
+Swings its claw in a 90-degree horizontal arc that is 3 meters long to scratch the player, which applies the [[Burning]] status (35 [[Damage types#Slash|Slash]] 40 [[Damage types#Fire|Fire]] damage). This attack has a 2-second cooldown and can be used within 1.5 meters of the player.
+
+=== Flames ===
+Brings both arms down before sending out a blast of fire which applies the [[Burning]] status (50 [[Damage types#Fire|Fire]] damage). It hits in a 4-meter 35-degree horizontal arc and can hit through walls. This attack cannot be blocked, has a cooldown of 10 seconds, and can be used 2–6 meters from a player; it cannot be used if the player stands close.
+
+== Gallery ==
+<gallery>
+A Cultist in a Frost Cave Valheim.jpg
+Cultist's pyrokinetic attack Valheim.gif|Cultist's pyrokinetic attack
+</gallery>
+
+== Notes ==
+
+{{Creatures}}
+
+[[de:Kultist]]
+[[ru:Культист]]
+[[cs:Kultista]]

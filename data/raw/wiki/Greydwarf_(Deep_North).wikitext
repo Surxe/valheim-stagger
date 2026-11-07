@@ -1,0 +1,46 @@
+{{infobox creature
+| title         = Greydwarf
+| image 0star   = Greydwarf (Deep North).png
+| location      = [[Deep North]]
+|id = Greydwarf_Frozen
+| drops         = 
+| health 0star  = 100
+| damage 0star  = 
+* Attack: 20 Blunt, 60 Slash, 16 Frost
+* Throw: 60 Blunt, 20 Frost
+| health 1star  = 200
+| damage 1star  = 
+* Attack: 30 Blunt, 90 Slash, 24 Frost
+* Throw: 90 Blunt, 30 Frost
+| health 2star  = 300
+| damage 2star  = 
+* Attack: 40 Blunt, 120 Slash, 32 Frost
+* Throw: 120 Blunt, 40 Frost
+| abilities     = 
+* Attack (2 seconds)
+* Throw (8 seconds)
+| veryweak      = Fire
+| weak          = 
+| resistant     = Poison
+| veryresistant = 
+| immune        = Spirit
+| neutral       = 
+| stagger       = 30%
+}}
+'''[[Deep North]] Greydwarves''' are a variant of regular [[Greydwarf|Greydwarves]].
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Deep North]]|limit=5|frequency=3}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Greydwarfs|Aggressive creature strategies#Greydwarf}}
+Similarly to regular Greydwarves, they have a melee attack and a throw attack. Both attacks deal [[Frost]] damage and thus can slow down the player.
+
+They are afraid of fire like a regular Greydwarf.
+
+{{CreaturesNav}}

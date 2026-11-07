@@ -1,0 +1,57 @@
+{{infobox creature
+| image 0star  = Leech.png
+| image 1star  = Leech 1star.png
+| image 2star  = Leech 2star.png
+| trophy       = Leech trophy
+| trophy description = Although slimy, the skin is beautifully patterned in red and black.
+| trophy id    = TrophyLeech
+| id           = Leech
+| location     = [[Swamp]]
+| health 0star = 60
+| damage 0star = Bite: 20 Pierce, 70 Poison
+| health 1star = 120
+| damage 1star = Bite: 30 Pierce, 105 Poison
+| health 2star = 180
+| damage 2star = Bite: 40 Pierce, 140 Poison
+| abilities    = Bite (2s)
+| veryweak      = 
+| weak          = 
+| resistant     = Poison
+| veryresistant = 
+| immune        = Fire, Spirit, Stagger
+| neutral      = 
+|faction=Undead}}
+'''Leeches''' are aggressive [[creatures]] found in [[Swamp|Swamps]]. They are enlarged, aquatic annelid worms that feed off their victims by sucking their blood.
+
+==Drops==
+{{CreatureDrops}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in waters of [[Swamp]]s|limit=10}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Leech|Aggressive creature strategies#Leech}}
+
+=== Bite ===
+Extends their head forward slightly and bites in a 1.5-meter 48.5-degree arc, inflicting the [[Poison]] status (20 [[Damage types#Slash|Pierce]] and 70 [[Damage types#Poison|Poison]] damage). This attack has a 2-second cooldown and can be used within 1.5 meters of a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+File:Leech2.jpg
+File:Leech 1star.png|<center>1-star Leech</center>
+File:Leech 2star.png|<center>2-star Leech</center>
+</gallery>
+
+==Notes==
+
+*Whereas regular Leeches are black and red, One-Star Leeches are a bright, poisonous green, and Two-Star Leeches are purple and bright magenta.
+*Despite the bright colors of the One- and Two-Star Leeches, the darkness of the Swamp can often make it extremely hard to identify the level of a Leech, especially at a distance; using the targeting reticle at close-range to view its rarity is often the most reliable way.
+*Leeches are only on the undead faction because undead don't have blood to drink so they ignore eachother.
+{{Creatures}}
+[[fr:Sangsue]]
+[[cs:Pijavice]]
+[[ru:Пиявка]]
+[[uk:П'явка]]
+[[de:Schlundegel]]

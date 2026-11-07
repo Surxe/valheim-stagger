@@ -1,0 +1,76 @@
+{{infobox weapon
+| title          = Iron Atgeir
+| image          = Iron atgeir.png
+| description    = Blood-drinker, skull-cracker, death-bringer.
+| id             = AtgeirIron
+| type           = Polearm
+| source         = [[Forge]]
+| crafting level = 2
+| repair level   = 2
+| pierce         = 65
+| materials 1 = 
+* [[Wood]] x10
+* [[Iron]] x30
+* [[Leather Scraps]] x2
+| materials 2 = 
+* [[Iron]] x15
+* [[Leather Scraps]] x1
+| materials 3 = 
+* [[Iron]] x30
+* [[Leather Scraps]] x2
+| materials 4 = 
+* [[Iron]] x60
+* [[Leather Scraps]] x4
+| idol = * [[Iron Battle Idol]]
+| stamina = 14
+| block armor = 28
+}}
+
+'''Iron Atgeir''' is the second [[Polearms|polearm]].
+
+* Its primary attack is a 3-stab combo with 2x damage on the last hit.
+* The secondary attack is an AOE swing with a 3-meter radius that deals 1x damage and 6x stagger with no damage penalty against multiple targets.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Pierce
+|65
+|71
+|77
+|83
+|-
+!Durability
+|175
+|225
+|275
+|325
+|-
+!Crafting
+|10 [[Wood]]<br>30 [[Iron]]<br>2 [[Leather Scraps]]
+|15 [[Iron]]<br>1 [[Leather Scraps]]
+|30 [[Iron]]<br>2 [[Leather Scraps]]
+|60 [[Iron]]<br>4 [[Leather Scraps]]
+{{Upgrade station row|Forge|4|start=2}}
+|}
+
+* Iron Atgeir can also be upgraded at the [[Forge of Potential]] with an [[Iron Battle Idol]].
+
+== Notes ==
+* The secondary attack is enough to stagger most creatures.
+
+== Trivia ==
+* Historically, no archeological find has been made to establish the existence of this weapon. The [[wikipedia:Atgeir|atgeir]] is only mentioned in one of the Icelandic sagas, composed at the end of the 13th century. This could mean that the weapon was, in fact, based upon 13th century [[wikipedia:Pole_weapon|polearms]] (thus the weapon's category name used in ''Valheim''), before being retroactively attributed to the Viking period.
+
+{{Weapons}}
+
+[[Category:Polearms]]
+
+[[Fr:Atgeir_en_fer]]
+[[cs:Železný Atgeir]]
+[[ru:Железная алебарда]]

@@ -1,0 +1,138 @@
+<div class="infobox-tabber">
+<tabber>
+Early Axes=
+{{infobox weapon
+| title          = Early Axes
+| image          = Early axes.png
+| description    = Mighty weapons from long ago, from a time when the world was still young and incomplete...
+| id             = AxeEarly
+| type           = axe dw
+| source         = [[Workbench]]
+| wielding       = Dual wielded
+| durability     = 175
+| crafting level = 1
+| repair level   = 1
+| slash          = 30
+| chop           = 35
+|materials 1=
+* [[Curious Axe Head]] x1
+* [[Mysterious Axe Head]] x1
+* [[Wood]] x4
+|materials 2=
+* [[Wood]] x2
+* [[Leather Scraps]] x2
+|materials 3=
+* [[Wood]] x4
+* [[Leather Scraps]] x4
+|materials 4=
+* [[Wood]] x8
+* [[Leather Scraps]] x8
+|idol=* [[Iron Battle Idol]]
+| slash per level = 5
+| chop per level  = 3
+| stamina         = 6
+| weight          = 2.0
+| knockback       = 20
+| backstab        = 3x
+| block armor     = 4
+| stamina secondary = 12
+| block force     = 20
+| block force per level = 5
+| parry bonus     = 2
+| movement speed  = -5%
+}}
+|-|
+Curious Head=
+{{Infobox item
+| title       = Curious Axe Head
+| description = The metal glints oddly in the sunlight. Somehow, you know that it can never be complete on its own...
+| id          = AxeHead1
+| type        = Material
+| source      = [[Abandoned House]] (version 6)
+| usage       = Crafting
+| weight      = 2
+| stack       = 10
+| teleport    = Yes
+}}
+|-|
+Mysterious Head=
+{{Infobox item
+| title       = Mysterious Axe Head
+| description = What battles has this weapon borne witness to? You cannot see its past, only shape its future...
+| id          = AxeHead2
+| type        = Material
+| source      = [[Abandoned House]] (version 2)
+| usage       = Crafting
+| weight      = 2
+| stack       = 10
+| teleport    = Yes
+}}
+</tabber>
+</div>
+
+'''Early Axes''' are the first dual wielded [[Axes|axe]].
+
+* Its primary attack is a 4-step combo: two single hits, one with each axe, followed by two double hits using both axes simultaneously, resulting in a total of 6 hits. The final double hit deals 2x damage with each individual hit.
+* The secondary attack costs 12 stamina and is a leap forward, followed by a slash with both axes for a single hit, dealing 1.5x damage.
+
+The Early Axes deal [[Chop]] damage and can cut down the same trees as the [[Bronze Axe]], such as [[Birch]]es, [[Oak]]s and [[Ancient Tree]]s.
+
+== Crafting ==
+Early Axes can be crafted at a [[Workbench]] with [[Wood]], [[Leather Scraps]] and two rare components:
+* '''{{Item link|Curious Axe Head|nolink=1}}''' can be found inside a chest in variant 6 of the [[Abandoned House]].
+* '''{{Item link|Mysterious Axe Head|nolink=1}}''' can be found inside a chest in variant 2 of the Abandoned House.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|30
+|35
+|40
+|45
+|
+|-
+!Chop
+|35
+|38
+|41
+|44
+|
+|-
+!Durability
+|175
+|225
+|275
+|325
+|
+|-
+!Crafting
+|1&nbsp;Curious Axe Head<br>1&nbsp;Mysterious Axe Head<br>4&nbsp;[[Wood]]
+|2 [[Wood]]<br>2&nbsp;[[Leather Scraps]]
+|4 [[Wood]]<br>4&nbsp;[[Leather Scraps]]
+|8 [[Wood]]<br>8&nbsp;[[Leather Scraps]]
+|1&nbsp;Curious Axe Head<br>1&nbsp;Mysterious Axe Head<br>18 [[Wood]]<br>14 [[Leather Scraps]]
+{{Upgrade station row|Workbench|4|start=1|addcol=1}}
+|}
+
+* Early Axes can also be upgraded at the [[Forge of Potential]] with an [[Iron Battle Idol]].
+
+== Notes ==
+* The name "Early Axes" is a pun for Early Access.
+* The description states this as well. ''"Mighty weapons from long ago, from a time when the world was young and incomplete."''
+
+== Gallery ==
+<gallery>
+Abandoned House 6.png|Abandoned House variant 6, which may contain a Curious Axe Head
+Abandoned House 2.png|Abandoned House variant 2, which may contain a Mysterious Axe Head
+</gallery>
+
+{{ToolsNav}}
+{{WeaponsNav}}
+
+[[ru:Древние топоры]]

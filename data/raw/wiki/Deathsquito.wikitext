@@ -1,0 +1,48 @@
+{{infobox creature
+| image 0star  = Deathsquito.png
+| trophy       = Deathsquito trophy
+| trophy description = You don't like touching this thing even when it's dead.
+| trophy id    = TrophyDeathsquito
+| id           = Deathsquito
+| location     = 
+[[Plains]]
+| health 0star = 10
+| damage 0star = Sting: 90 Pierce
+| abilities    = Sting (10s)
+| veryweak      = 
+| weak          = 
+| resistant     = 
+| veryresistant = 
+| immune        = Spirit
+|stagger=50%|faction=Plains}}
+'''Deathsquitos''' are aggressive [[creatures]] found in [[Plains]]. They are, as their name suggests, enlarged mosquito-type bugs that give off a loud buzzing noise. 
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Plains]]|limit=3|frequency=3|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Plains#Alternative biomes|Death Plains]]|limit=5|frequency=42|stars=No}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Deathsquitos|Aggressive creature strategies#Deathsquito}}
+
+=== Sting ===
+Lunges forward to stab the player with their proboscis (90 [[Damage types#Pierce|Pierce]] damage). This hits in a 1.6-meter 60-degree horizontal arc. It can use this attack every 10 seconds when 1.5 meters from a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+DeathSquito.png
+Deadsquito 1.jpg|DEAD-squito! Pay attention, keep a weapon ready, and they're not much of a threat.
+</gallery>
+
+== Notes ==
+
+* Despite their size, Deathsquitos are one of the most deadly creatures due to their relative speed and high pierce damage.
+
+
+{{Creatures}}
+[[de:Todeskito]]
+[[ru:Смертожал]]
+[[uk:Комар-смертевик]]

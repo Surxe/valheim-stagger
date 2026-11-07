@@ -1,0 +1,68 @@
+'''{{PAGENAME}}''' is a [[Weapons|weapon]] class.
+
+Polearms are strong two-handed weapons. All polearms deal pierce damage, and have a distinct AoE special attack.
+
+Most polearms in the game are referred to as atgeirs. Atgeirs share a distinctive in-game look, featuring a thin, curved blade attached to the side of a long wooden pole.
+
+{{See also|Polearms (Skill)}}
+
+==List of polearms==
+{| class="wikitable sortable"
+!<onlyinclude>Name!! Icon!! data-sort-type="number" |Damage
+!Stamina (primary)
+! Stamina (secondary)
+!Block armor
+|-
+|[[Bronze Atgeir]]||[[File:Bronze atgeir.png]]||Pierce: 45/63
+|12||24
+|16
+|-
+|[[Iron Atgeir]]||[[File:Iron atgeir.png]]||Pierce: 65/83
+|14||28
+|28
+|-
+|[[Black Metal Atgeir]]||[[File:Blackmetal atgeir.png]]||Pierce: 105/123
+|18||36
+|52
+|-
+|[[Himminafl]]||[[File:Himminafl.png]]||Pierce: 85/85<br/>Lightning: 40/58
+|20||40
+|64
+|-
+|[[Nord Atgeir]]||[[File:Nord Atgeir.png]]||Pierce: 182/202
+|20||40
+|88</onlyinclude>
+|}
+
+==Properties==
+{| class="wikitable"
+|-
+! Attack type!!Stamina (base)!!Range
+! Attack speed
+!Damage 
+![[Stagger|Staggering]]
+!Knockback !!Notes
+|-
+|Primary attack||12–20||3.2m
+| 2.98s (0.84 + 0.86 + 1.28)
+|1x + 1x + 2x
+|1x
+|30|| Player does not move forward on first strike, moves forward 0.5m on following strikes. 30 degree arc.
+|-
+|Secondary attack||2x||3m (AoE)
+|1.56s
+|1x
+|6x
+|10x|| Player moves 0.5m forward. 360 degree arc. No multi-target damage penalty.
+|}
+
+==Gallery==
+<gallery>
+Polearms hitbox.jpg|Polearms hitboxes
+</gallery>
+
+
+[[Category:Weapons]]
+[[Category:Polearms]]
+{{WeaponsNav}}
+[[ru:Древковое оружие]]

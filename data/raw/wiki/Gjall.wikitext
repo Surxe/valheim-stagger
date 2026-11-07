@@ -1,0 +1,86 @@
+{{infobox creature
+| title        = Gjall
+| image 0star  = Gjall.png
+| image 1star  = Gjall 1star.png
+| image 2star  = Gjall 2star.png
+| trophy       = Gjall trophy
+| trophy description = Hopefully it won't float away.
+| trophy id    = TrophyGjall
+| id           = Gjall
+| location     = [[Mistlands]]
+| behavior     = Aggressive
+| health 0star =1500
+| damage 0star =
+* Spit: 50 Blunt, 80 Fire
+* Shake: 20 Blunt
+| health 1star =3000
+| damage 1star =
+* Spit: 75 Blunt, 120 Fire
+* Shake: 30 Blunt
+| health 2star =4500
+| damage 2star =
+* Spit: 100 Blunt, 160 Fire
+* Shake: 40 Blunt
+| abilities    =
+* Spit (6 seconds)
+* Egg (50 seconds, 3 [[Tick]]s)
+* Shake (10 seconds)
+| immune        = Spirit, Stagger
+| resistant     = Fire
+| weak point    = Eggs
+| wp veryweak   = Pierce
+| wp immune     = Spirit, Chop, Pickaxe
+| faction       = Mistlands
+}}
+
+'''Gjall''' are massive flying, aggressive creatures found in the [[Mistlands]]. If there is one nearby, you will be alerted by a unique sound: a cross between a plane and an airhorn. Additionally, the mist in the immediate area around a Gjall will have a fiery orange hue. 
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mistlands]] during the daytime|limit=1|stars=No|frequency=1}}
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mistlands]] during the nighttime, despawn at dawn|limit=1|stars=Yes|frequency=1}}
+{{spawn row|type=During "What's up, Gjall!?" [[Events|event]] before defeating [[The Queen]]|limit=1|frequency=6|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Gjall|Aggressive creature strategies#Gjall}}
+
+=== Spit ===
+Inhales a little before spitting out two balls of fire which inflict the [[Burning]] status (50 [[Damage types#Blunt|Blunt]] and 80 [[Damage types#Fire|Fire]] damage). Each fireball travels at 15 meters per second for up to 10 seconds before despawning and has a spread of 10–20 degrees. This attack can be used every 6 seconds when within 6–30 meters of a player — standing on top of the Gjall disables this attack.
+
+=== Egg ===
+Leans back and drops three eggs, which hatch into [[Tick]]s when hitting the ground. The hatched ticks do not carry the star tier of the Gjall — they will be 0 star. This ability can be used every 50 seconds when within 10–20 meters of a player — standing on top of the Gjall disables this ability.
+
+=== Shake ===
+Sways from side to side, hitting in a 3.41-meter radius sphere around themselves three times (20 [[Damage types#Blunt|Blunt]] damage each hit). Gjalls can do this every 10 seconds when within 6 meters of a player. The attack cannot be blocked or dodged.
+
+== Notes==
+*Gjall are very dangerous creatures but can easily be outrun. Therefore, fleeing is an option if you have sufficient stamina.
+*Pierce resistance is useful against the ticks if they become a problem
+
+== Trivia ==
+*In Norse mythology, the [[wikipedia:Gjallarhorn|Gjallarhorn]] is blown by Heimdallr to signal the commencement of Ragnarok.
+*There are different ways to pronounce Gjall:
+**In Old Norse, it would be pronounced /ˈɡjɑlː/ g'yall with hard g as in get and long l at the end. This pronunciation would be the closest to the Viking lore.
+**In modern Norwegian, it is pronounced /jɑl/ yal, like [[wiktionary:y'all|y'all]]. Many players prefer this pronunciation and it also matches the puns in Gjall [[events]] better.
+**In modern Swedish, it is pronounced /jalː/ yahll with a as in the first half of cow and long l at the end.
+**In modern Danish, it is pronounced /ˈkjæl/ k'yael with k as in scar and ae in bat.
+**In modern Icelandic, it is pronounced /catl/ tyahtl with ty as in stew.
+*The name "Gjall" is probably inspired by the name of the mythological river Gjöll, meaning "noisy" "loud" or "scream".
+*The sound made by the Gjall is most likely a reference to the sound made by the tripods in [https://www.youtube.com/watch?v=jzY099ihULs War of the Worlds]. It may also take inspiration from the World War 2-era German dive bomber [[wikipedia:Junkers Ju 87|Junkers JU-87 "Stuka"]] which was known for its loud siren as it approached high speeds on a bombing run. 
+*The process behind the unique sounds made by Gjall was broken down in the video ''[https://www.youtube.com/watch?v=UwwLCM7Kzyc&ab_channel=IronGate What's up Gjall?]'' by Iron Gate.
+
+== Gallery ==
+<gallery captionalign="center">
+Mistlands Artwork 4 Valheim.jpeg|Promotional artwork
+20250602221429_1.jpg
+</gallery>
+
+{{Creatures}}
+[[ru:Гьялль]]
+[[cs:Gjall]]
+[[de:Gjall]]
+__NOTOC__

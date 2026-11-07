@@ -1,0 +1,50 @@
+{{About|the creature summoned by [[The Elder]]||Root}}
+{{infobox creature
+| title             = Root
+| image 0star       = Root (creature).png
+| image 1star       = Root (creature).png
+| image 2star       = Root (creature).png
+| id                = TentaRoot
+| type              = Minion
+| faction           = Boss
+| location          = [[Black Forest]]
+| health 0star      = 20 (The Elder)<br>30 (Root Black Forest)
+| damage 0star      = 
+* Attack: 55 Blunt, 20 Chop, 20 Pickaxe
+| health 1star      = 60 (Root Black Forest)
+| damage 1star      = 
+* Attack: 82.5 Blunt, 30 Chop, 30 Pickaxe
+| health 2star      = 90 (Root Black Forest)
+| damage 2star      = 
+* Attack: 110 Blunt, 40 Chop, 40 Pickaxe
+| abilities         = Attack (3s)
+| weak              = Fire
+| resistant         = Frost
+| immune            = Poison, Stagger
+| neutral           = 
+}}
+'''Roots''' are aggressive [[creatures]] spawned by [[The Elder]] or found in [[Black Forest#Alternative biomes|Root Black Forest]]  alternative biome.
+
+They are enlarged, vicious tree roots that flail around frantically in an attempt to damage their target.
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=From the spawn ability of [[The Elder]]|limit=30|frequency=-|stars=No}}
+{{Spawn row|type=[[Spawn zones]] in [[Black Forest#Alternative biomes|Root Black Forest]]|limit=150|frequency=6|stars=yes}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Root|Aggressive creature strategies#Root}}
+
+=== Attack ===
+Every 3 seconds when a player is within 4 meters, a Root can slam down on the player (55 [[Damage types#Blunt|Blunt]], 20 Tier 0 [[Damage types#Chop|Chop]] and 20 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This hits in a 4-meter 90-degree vertical arc.
+
+Each cast of The Elder's root attack spawns 15 Roots within 15 meters of its target, one every 0.1 seconds. No more are spawned while 30 of The Elder's Roots are loaded; wild Roots are a separate creature and do not count. Roots spawned by The Elder disappear after 18 to 20 seconds.
+
+== Notes ==
+* They will appear on the highest area, including on player built structures. For example, if a building with 3 floors is built, roots will only spawn on the roof rather than on the first and second floors until the roof is destroyed.
+
+{{Creatures}}
+
+[[cs:Kořen]]
+[[de:Wurzel (Kreatur)]]

@@ -1,0 +1,99 @@
+{{infobox weapon
+| title          = Himminafl 
+| image          = Himminafl.png
+| description    = It might not be a hammer, but Thor himself would still approve of this weapon.
+| id             = AtgeirHimminAfl
+| type           = Polearm
+| source         = [[Black Forge]]
+| light source   = Light Blue
+| weight         = 2.5
+| durability     = 250
+| crafting level = 1
+| repair level   = 1
+| pierce         = 85
+| lightning      = 40
+| materials 1 = 
+* [[Yggdrasil Wood]] x10
+* [[Refined Eitr]] x15
+* [[Silver]] x5
+* [[Mandible]] x2
+| materials 2 = 
+* [[Refined Eitr]] x15
+* [[Silver]] x5
+* [[Mandible]] x2
+| materials 3 = 
+* [[Refined Eitr]] x30
+* [[Silver]] x10
+* [[Mandible]] x4
+| materials 4 = 
+* [[Refined Eitr]] x60
+* [[Silver]] x20
+* [[Mandible]] x8
+| idol           = * [[Black Marble Battle Idol]]
+| stamina = 20
+| block armor = 64
+| pierce per level = 0
+| lightning per level = 6
+| durability per level = 50}}
+
+'''Himminafl''' is the fourth [[Polearms|polearm]].
+
+* Its primary attack is a 3-stab combo with 2x damage on the last hit.
+* The secondary attack is an AOE swing with a 3-meter radius that deals 1x damage and 6x stagger with no damage penalty against multiple targets. It also triggers a lightning effect with randomly spawned lightning bolts.
+
+The Himminafl is capable of dispelling the [[Mist]] of [[Mistlands]] in a 9-meter radius.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|85
+|85
+|85
+|85
+|
+|-
+!Lightning
+|40
+|46
+|52
+|58
+|
+|-
+!Durability
+|250
+|300
+|350
+|400
+|
+|-
+!Crafting
+|10 [[Yggdrasil Wood]]<br />15 [[Refined Eitr]]<br />5 [[Silver]]<br />2 [[Mandible]]
+|15 [[Refined Eitr]]<br />5 [[Silver]]<br />2 [[Mandible]]
+|30 [[Refined Eitr]]<br />10 [[Silver]]<br />4 [[Mandible]]
+|60 [[Refined Eitr]]<br />20 [[Silver]]<br />8 [[Mandible]]
+|10 [[Yggdrasil Wood]]<br />120 [[Refined Eitr]]<br />40 [[Silver]]<br />16 [[Mandible]]
+{{Upgrade station row|Black forge|4|addcol=1}}
+|}
+
+* Himminafl can also be upgraded at the [[Forge of Potential]] with a [[Black Marble Battle Idol]].
+
+== Notes ==
+* The secondary attack is enough to stagger most creatures.
+* Despite the visual resembling a slash, the secondary attack deals piercing damage.
+* The blade of the {{PAGENAME}} constantly sparkles with electricity; it also glows faintly blue at all times. It is very dim compared to most proper light sources, but can provide a small amount of light in the dark.
+** The glow effect also makes players slightly easier to detect while [[Sneak_(Skill)|sneaking]], increasing the visibility of its holder by approximately 10%.
+
+== Trivia ==
+* The {{PAGENAME}} translates to "Heaven's Might" in Old Norse.
+* Prior to [[Version history|patch 0.217.4]], the name of the {{PAGENAME}} was spelled "Himmin afl".
+
+{{Weapons}}
+
+[[ru:Химминафль]]

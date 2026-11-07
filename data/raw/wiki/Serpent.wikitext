@@ -1,0 +1,65 @@
+{{infobox creature
+| image 0star   = Serpent.png
+| trophy        = Serpent trophy
+| trophy description = The scales have dulled but the eyes are still bright.
+| trophy id     = TrophySerpent
+| id            = Serpent
+| location      = 
+[[Ocean]]
+| health 0star  = 400
+| damage 0star  = 
+Attack: 70 Slash
+| abilities     = 
+Attack (10 seconds)
+| veryweak      = 
+| weak          = Frost
+| resistant     = Poison
+| veryresistant = 
+| immune        = Fire, Spirit, Stagger
+| neutral       = 
+|faction=Sea}}'''Serpents''' are aggressive [[creatures]] found in [[Ocean|Oceans]], and currently the only hostile creature spawning in Oceans. They are large, aquatic snake-like reptilian creatures with six glowing eyes, spiked dorsal fins and a gaping mouth filled with razor-sharp teeth. 
+
+Serpents are hunted primarily for their meat, which can be used in mid-late game food. 
+
+== Attacks and abilities ==
+{{For|strategies for defeating Serpents|Aggressive creature strategies#Serpent}}
+
+=== Bite ===
+Serpents will draw their head back before lunging forward to bite the player (70 [[Damage types#Slash|Slash]] damage). This attack can be used every 10 seconds when within 3 meters of a player; even when a player is within attacking range, Serpents will continue moving toward them to stay as close as possible. It extends 3 meters out and hits in an 80-degree horizontal arc.
+
+==Aftermath==
+===Drops ===
+{{CreatureDrops|stars=0}}
+
+===Traders===
+Killing a Serpent unlocks [[Seafarer's Herbs]] from [[The Bog Witch]] for 130 [[Coins]].
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of [[Ocean]] during the night time, despawn at dawn|limit=1|frequency=2|stars=No}}
+{{spawn row|type=[[Spawn zones|Middle]] of [[Ocean]] during rain or thunderstorm|limit=1|frequency=2|stars=No}}
+}}
+
+== Gallery ==
+<gallery captionalign="center" widths="185" orientation="none">
+Serpent1.png|A hostile Serpent
+Serpent circling a raft.png|A Serpent circling a Raft
+20210322211953 1.jpg|Serpent Trophy
+Trapped Serpent (2).png|A captured Serpent in a fenced-off area
+Serpent on ship.png|A defenseless Serpent stuck on a longship
+</gallery>
+
+== Notes ==
+*A [[Raft]] is generally too slow and too fragile for a solo player to survive a Serpent attack. Because of Serpent attacks, the minimum recommended setup for ocean exploration is a [[Karve]] with at least a [[Finewood Bow]].
+*Only the Serpents that are spawned in rainy conditions can be held in captivity. Serpents that spawn at night will despawn during the day. 
+*Serpents will attempt to flee back into the ocean if dragged inland.
+*Serpent meat floats, but all other drops do not. Killing a Serpent in deep water will result in the drops sinking to the bottom of the ocean and there is currently no way to dive to retrieve them. Therefore, an [[Abyssal Harpoon]] can be used to drag the Serpent to shallow water or even on land before it is killed, to collect the drops. 
+
+== Trivia ==
+*The Serpent is likely based on [https://en.wikipedia.org/wiki/J%C3%B6rmungandr Jörmungandr] from Norse mythology, the giant sea Serpent that roams the waters of Midgard.
+*Upon release, serpent meat could be cooked on a [[Cooking Station]]. Now, the [[Iron Cooking Station]] is required to cook serpent meat. 
+
+{{Creatures}}
+[[uk:Змій]]
+[[fr:Serpent]]
+[[ru:Змей]]

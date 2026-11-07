@@ -1,0 +1,66 @@
+{{infobox weapon
+| title          = Torch
+| image          = Torch.png
+| description    = It brings light and warmth, drives back the darkness.
+| id             = Torch
+| type           = Club 1h
+| source         = [[Crafting_Menu#Player_Inventory|Player crafting menu]]
+| usage          = Light source, Weapon
+| weight         = 1.0
+| durability     = 20
+| light source   = yes
+| blunt          = 4
+| fire           = 15
+| knockback      = 30
+| stamina = 4
+| parry force    = 10
+| damage secondary = 0
+| materials 1 = 
+* [[Wood]] x1
+* [[Resin]] x1
+}}
+
+'''Torch''' is a utility [[Clubs|club]] which can be equipped in both main and off-hand.
+
+* Its primary attack is a 3-hit combo with double damage on the last hit.
+* It does not have a secondary attack.
+
+It provides light. When equipped, it has the same effect as a fire, scaring off [[Neck]]s, untamed [[Boar]]s, [[Greyling]]s and [[Greydwarf]]s.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+! 1
+|-
+!Blunt
+|4
+|-
+!Fire
+|15
+|-
+!Durability
+|20
+|-
+!Crafting
+|1 [[Wood]]<br/>1 [[Resin]]
+{{Crafting station row|Workbench|1|by hand=y}}
+
+|}
+
+== Notes ==
+* The player starts the game with a torch. 
+* The torch passively loses durability when equipped and will stay lit for a maximum of 10 minutes ([[Day_and_Night_Cycle|night]] lasts for nine minutes). 
+* Torches cannot be repaired and will simply disappear when their durability reaches 0%. 
+* Cannot be placed on an [[Item Stand]]. 
+* Despite its description, the torch does not provide the player with [[Fire Effect|warmth]].   
+
+{{ToolsNav}}
+{{WeaponsNav}}
+
+[[Category:Tools]]
+[[Category:Light sources]]
+
+[[cs:Louč]]
+[[ru:Факел]]
+[[fr:Torche]]
+[[de:Fackel]]

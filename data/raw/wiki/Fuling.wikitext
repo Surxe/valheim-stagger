@@ -1,0 +1,107 @@
+{{infobox creature
+| image 0star  = Fuling.png
+| image 1star  = Fuling 1star.png
+| image 2star  = Fuling 2star.png
+| trophy       = Fuling trophy
+| trophy description = Loose folds of greenish skin gathered in around a pair of dark and hateful eyes.
+| trophy id = TrophyGoblin
+| id           = Goblin
+| location     = [[Plains]]
+| health 0star = 175
+| damage 0star = 
+* Club: 85 Blunt
+* Spear: 85 Pierce
+* Sword: 85  Slash
+* Torch: 45 Blunt, 45 Fire
+| health 1star = 350
+| damage 1star = 
+* Club: 127.5 Blunt
+* Spear: 127.5 Pierce
+* Sword: 127.5 Slash
+* Torch: 67.5 Blunt, 67.5 Fire
+| health 2star = 525
+| damage 2star = 
+* Club: 170 Blunt
+* Spear: 170 Pierce
+* Slash: 170 Slash
+* Torch: 90 Blunt, 90 Fire
+| abilities    = 
+* Club (2 seconds)
+* Spear (4 seconds)
+* Sword (2 seconds)
+* Torch (2 seconds)
+| veryweak      = 
+| weak          = 
+| resistant     = 
+| veryresistant = 
+| immune        = Spirit
+| neutral      = 
+|stagger=30%
+|faction=Plains}}
+'''Fulings''' are aggressive [[creatures]] found in [[Plains]], especially within [[Fuling Village]]s. They resemble small, goblin-like beings that appear to possess their own tribalistic culture. It is implied through [[Runestone]]s and [[Fuling Totem|totems]] that they worship [[Yagluth]], a long dead king.
+
+Fulings appear 33% of the time as club variants, 17% of the time as spear variants, 33% of the time as sword variants and 17% of the time as torch variants.
+
+All Fulings spawn with one piece of armor each providing 60 armor value and having an equal 25% chance of appearing: helmet, armband, shoulders, and legband. Additionally, they have a 33% chance to spawn with a [[Wood Shield]] identical to the one players can craft. They do not drop equipment on death.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Plains]] during the daytime|limit=2|frequency=3}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Plains]] during the nighttime, despawn at dawn|limit=5|frequency=5}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in most biomes during the nighttime after [[Yagluth]] has been defeated, despawn at dawn|limit=3|frequency=3|stars=No}}
+{{spawn row|type=Common [[Spawn points|spawn point]] in [[Fuling Village]]s, [[Fuling Outpost]]s and [[Fuling Ruin]]s |frequency=0}}
+{{spawn row|type=During "The horde is attacking!" [[Events|event]]|limit=8|frequency=6|stars=No}}
+{{spawn row|type=During "They were bros, man." [[Events|event]]|limit=8|frequency=6|stars=Yes (Minimum 1 Star)}}
+{{spawn row|type=[[Spawn zones]] in [[Plains#Alternative biomes|Goblin Plains]]|limit=5|frequency=3|stars=Yes}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Fulings|Aggressive creature strategies#Fuling}}
+Besides the spear, which can only be thrown, each weapon arcs horizontally by 90 degrees and extends 2.4 meters out.
+
+=== Club ===
+Does 85 [[Damage types#Blunt|Blunt]] damage. This attack has a 2-second cooldown and can be used within 1.6 meters of a player.
+
+=== Spear ===
+Throws a spear at the player, which does not need to be retrieved for Fulings to attack again (85 [[Damage types#Pierce|Pierce]] damage). The spear travels at 20 meters per second for up to 10 seconds before despawning and has a spread of 4–20 degrees. This has a 4-second cooldown and can be used within 14 meters of a player.
+
+=== Sword ===
+Does 85 [[Damage types#Slash|Slash]] damage. This attack has a 2-second cooldown and can be used within 1.6 meters of a player.
+
+=== Torch ===
+Does 45 [[Damage types#Blunt|Blunt]] and 45 [[Damage types#Fire|Fire]] damage, which applies the [[Burning]] status. This attack has a 2-second cooldown and can be used within 1.6 meters of a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+Fuling1.jpg
+Fulingcamp2.jpg
+Fulingcamp3.jpg
+Fulingcamp4.jpg
+20210330133509 2.jpg
+</gallery>
+
+== Notes ==
+* Fulings have unusually sharp hearing and will be able to detect the player from a much longer distance than other enemies. Chopping down trees or mining ore is likely to attract their attention.
+* Fulings are relatively noisy. The distinctive sound of their chatter or laughter will often be the first sign that they are active in an area.
+* Fulings are extremely fast and agile, but they sometimes fail to register the edge of a player-dug ditch until it is too late to avoid falling in. 
+* Fulings are particularly slow swimmers. Adventurers may use this to their advantage, for instance, by jumping over a river (natural or player-made) while firing arrows at their now slow targets.
+* While most creatures in Valheim take inspiration from counterparts in Norse mythology, the Fuling seem to be an exception. The closest parallel would be the [https://en.wikipedia.org/wiki/Goblin#European_folklore_and_collected_folk_stories Goblin], more traditionally used in fantasy works since their popularization within the ''Dungeons & Dragons'' setting. This is further indicated by them being named "Goblin" in the game files.
+* "Fuling" can be roughly translated into "ugly one" in modern Swedish.
+
+*
+
+== Lore ==
+{{Quote|Here on the plains you will find the dwellings of the Fuling, that ancient race who once built towers and cities to rival those of men until Oden punished them for their pride. He trampled the Fuling armies, their armour cracking like snail shells beneath his feet, and tore down their cities.
+Only Yagluth, the great sorcerer, would not bend or break before his fury. So Oden tore his body in half and cast the remains into Valheim, where he bled into the earth and crumbled to dust, wept over by the last of his people.
+Now the Fuling rule over the plains of Valheim, savage and wild with only hatred and fear in their hearts. But Yagluth is with them still, an unseen force that the Fuling shamans draw upon for their crooked magic, growing again in strength as his people spread across the world...|[[Runestone]]}}
+The runestone describes [[Oden]] punishing the Fuling as a whole people for their pride, trampling their armies and tearing down their cities, and its portrayal of the surviving Fuling is racially motivated: it stereotypes the entire race as "savage and wild with only hatred and fear in their hearts".<ref>In-game text, Plains runestone (<code>$lore_plains_random11</code>).</ref>
+
+== References ==
+<references />
+
+{{Creatures}}
+[[de:Fuling]]
+[[ru:Фулинг]]
+[[fr:Gobelin]]

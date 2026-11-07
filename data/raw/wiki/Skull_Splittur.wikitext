@@ -1,0 +1,79 @@
+{{infobox weapon
+| image          = Skull Splittur.png
+| description    = Will find skulls to split even in the thickest of mists.
+| id             = BattleaxeSkullSplittur
+| type           = Axe 2h
+| source         = [[Black Forge]]
+| light source   = <span style="color:#74D7FF";>Cyan</span>
+| durability     = 200
+| crafting level = 1
+| repair level   = 1
+| slash          = 130
+| chop           = 70
+| knockback      = 70
+| materials 1 = 
+* [[Yggdrasil Wood]] x15
+* [[Iron]] x30
+* [[Refined Eitr]] x10
+| materials 2 = 
+* [[Yggdrasil Wood]] x5
+* [[Iron]] x15
+| materials 3 = 
+* [[Yggdrasil Wood]] x10
+* [[Iron]] x30
+| materials 4 = 
+* [[Yggdrasil Wood]] x20
+* [[Iron]] x60
+| idol           = * [[Black Marble Battle Idol]]
+| block armor = 64
+| stamina = 22
+}}
+
+'''Skull Splittur''' is the fourth two-handed [[axe]].
+
+* Its primary attack is a 3-hit combo (wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x [[staggering]] and no multitarget penalty.
+* The faster secondary attack deals 0.5x damage and 4x staggering.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|130
+|136
+|142
+|148
+|-
+!Chop (trees)
+|70
+|72.5
+|75
+|77.5
+|-
+!Durability
+|200
+|250
+|300
+|350
+|-
+!Crafting
+|15 [[Yggdrasil Wood]]<br>30 [[Iron]]<br>10 [[Refined Eitr]]
+|5 [[Yggdrasil Wood]]<br>15 [[Iron]]
+|10 [[Yggdrasil Wood]]<br>30 [[Iron]]
+|20 [[Yggdrasil Wood]]<br>60 [[Iron]]
+{{Upgrade station row|Black forge|4|start=1}}
+|}
+
+* Skull Splittur can also be upgraded at the [[Forge of Potential]] with a [[Black Marble Battle Idol]].
+
+== Notes ==
+* The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.
+* General combo starter is the secondary into the primary.
+
+{{WeaponsNav}}
+
+[[ru:Крушитель черепов]]

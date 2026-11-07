@@ -1,0 +1,63 @@
+{{Infobox creature
+| image 0star   = Charred Warlock.png
+| image 1star   = Charred Warlock 1star.png
+| image 2star   = Charred Warlock 2star.png
+| trophy        = Warlock trophy
+| trophy description = A warm glow seems to almost emanate from within. Handle with care.
+| trophy id     = TrophyCharredMage
+| id            = Charred_Mage
+| faction       = Demon
+| location      = [[Ashlands]]
+| health 0star  = 600
+| damage 0star  =
+<nowiki>Fire</nowiki>: 100 Pierce + 15 Blunt, 35 Fire
+| health 1star  = 1200
+| damage 1star  =
+<nowiki>Fire</nowiki>: 150 Pierce + 15 Blunt, 35 Fire
+| health 2star  = 1800
+| damage 2star  =
+<nowiki>Fire</nowiki>: 200 Pierce + 15 Blunt, 35 Fire
+| abilities     =
+* Fire (8 seconds)
+* Summon (10 seconds)
+| weak          = Spirit
+| resistant     = Pierce, Frost
+| veryresistant = Fire
+| immune        = Poison
+| stagger = 50%}}
+
+'''Charred Warlocks''' are hostile enemies found in the [[Ashlands]].
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{Spawn table|
+{{spawn row|type=Inside [[Charred Fortress]]|limit=3|frequency=One time|stars=Yes}}
+{{spawn row|type=Randomly from [[Effigy of Malice]] inside [[Charred Fortress]] when a player is nearby|limit=none|frequency=2|stars=Yes}}
+{{spawn row|type=Randomly from [[Monument of Torment (Elite)]] when a player is nearby|limit=none|frequency=2|stars=Yes (2 stars only)}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Charred Warlock|Aggressive creature strategies#Charred Warlock}}
+They have a 50% chance of spawning with a Charred Helmet: a piece from an armor set unique to the Charred which provides 60 Armor.
+
+=== Fire ===
+Raises both hands up before thrusting forward with their staff to launch a green ball of fire (100 [[Damage types#Pierce|Pierce]] damage). The ball travels at 12 meters per second for up to 20 seconds before despawning and has a spread of 2–20 degrees. On impact, this ball creates a 3.5 meter vortex of fire which persists for 7 seconds and inflicts the [[Burning]] status (15 [[Damage types#Blunt|Blunt]] and 35 [[Damage types#Fire|Fire]] damage). This attack can be used every 8 seconds when within 20 meters of a player.
+
+=== Summon ===
+Raises their unarmed hand then their staff to summon one [[Summoned Twitcher]] — a green version of the [[Charred Twitcher]] with only 50 health but the same attributes and abilities otherwise — within an area 5 meters from the caster. A maximum of ten Summoned Twitchers can be summoned at once; this limit is shared across all loaded Charred Warlocks. Even when the limit is reached, they will continue to attempt to use this ability. It can be used every 10 seconds when within 30 meters of a player.
+
+== Gallery ==
+<gallery>
+File:Imagem 2024-05-12 141452189.png|Possible early concept of Charred Warlock
+</gallery>
+
+== Lore ==
+{{Quote|But for those who are burned by a drake's fire, the blessing is a curse. They are killed and quickened at the same time, caught forever between death and life. Such are the unfortunate souls who wander this ruined land, with flames for flesh and agony in every moment. They cannot be destroyed, only pitied.|Runestone}}{{Creatures}}
+
+[[ru:Обугленный чернокнижник]]
+[[uk:Обвуглений чаклун]]
+[[cs:Sežehnutý čaroděj]]
+[[de:Verkohlter Hexer]]
+[[fr:Sorcier calciné]]

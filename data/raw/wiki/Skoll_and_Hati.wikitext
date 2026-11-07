@@ -1,0 +1,82 @@
+{{infobox weapon
+| title          = Skoll and Hati
+| image          = Skoll and Hati.png
+| description    = Stab once for those who've betrayed you, and twice for those you hate.
+| id             = KnifeSkollAndHati 
+| type           = Knife 2h
+| source         = [[Black Forge]]
+| crafting level = 1
+| repair level   = 1
+| slash          = 45
+| pierce         = 45
+| materials 1 = 
+*[[Finewood]] x4
+*[[Iron]] x10
+*[[Black Metal]] x10
+| materials 2 = 
+*[[Iron]] x4
+*[[Black Metal]] x4
+| materials 3 = 
+*[[Iron]] x8
+*[[Black Metal]] x8
+| materials 4 = 
+*[[Iron]] x16
+*[[Black Metal]] x16
+| idol           = * [[Black Metal Battle Idol]]
+| stamina = 14
+}}
+
+'''Skoll and Hati''' is the sixth [[Knives|knife]] and the first two-handed knife. 
+
+* The primary attack is a fast 3-slash combo with 2x damage on the last swing.
+* Its secondary attack is a leaping stab with 3x damage.
+* It deals 6x damage against [[Creature senses|unalerted]] enemies.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|45
+|46
+|47
+|48
+|
+|-
+!Pierce
+|45
+|46
+|47
+|48
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|4 [[Finewood]]<br> 10 [[Iron]]<br> 10 [[Black Metal]]
+|4 [[Iron]]<br> 4 [[Black Metal]]
+|8 [[Iron]]<br> 8 [[Black Metal]]
+|16 [[Iron]]<br> 16 [[Black Metal]]
+|4 [[Finewood]]<br>38 [[Iron]]<br>38 [[Black Metal]]
+{{Upgrade station row|Black forge|4|addcol=1}}
+|}
+
+* Skoll and Hati can also be upgraded at the [[Forge of Potential]] with a [[Black Metal Battle Idol]].
+
+== Notes ==
+* In Norse Mythology, Sköll and Hati are the names of ghostly Wolves who pursue goddesses, Sól and Máni, respectively.
+* The description of the dual blades is a nod to the translations of their names in Norse Mythology. In Old Norse, Skoll translates to "Treachery" or "Mockery". Hati translates to "He Who Hates". 
+
+{{Weapons}}
+
+[[ru:Сколль и Хати]]

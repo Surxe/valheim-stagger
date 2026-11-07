@@ -1,0 +1,126 @@
+{{infobox creature
+| image 0star  = Dvergr Rogue.png
+| image 1star  = Dvergr Rogue 1star.png 
+| image 2star  = Dvergr Rogue 2star.png 
+| trophy       = Dvergr trophy
+| trophy description = It's frankly a little troubling that you would consider hanging these on your wall...
+| trophy id    = TrophyDvergr
+| id           = Dverger
+| location     = [[Mistlands]]
+| health 0star = 350
+| damage 0star =
+* Shoot: 110 Pierce
+* Melee: 70 Blunt
+| health 1star = 700
+| damage 1star =
+* Shoot: 165 Pierce
+* Melee: 105 Blunt
+| health 2star = 1050
+| damage 2star =
+* Shoot: 220 Pierce
+* Melee: 140 Blunt
+| abilities    = 
+* Shoot (6 seconds)
+* Melee (4 seconds)
+| veryweak      = 
+| weak          = 
+| resistant     = 
+| veryresistant = 
+| immune        = Spirit
+| neutral       = 
+| stagger       = 30%
+| faction       = Dvergr
+}}
+'''Dvergr Rogues''' are neutral [[creatures]] found in the [[Mistlands]], especially around [[Dvergr (race)|Dvergr]] settlements. They resemble short, blue humanoids with light blue eyes and silver hair carrying an [[Arbalest]]. Rogues that spawn at Dvergr structures will often be accompanied by a mix of other rogues and/or [[Dvergr Mage]]s; unlike mages, however, rogues may spawn (and respawn) anywhere in the Mistlands.
+
+Once provoked by a player (by damaging them, other nearby Dvergr, or any part of a nearby structure that is protected by a Dvergr [[Ward]]), they will become hostile and attack.
+
+Dvergr are naturally hostile to other aggressive creatures in the Mistlands and will attack them on sight. Clearing at least one Dvergr settlement is necessary to progress in the Mistlands, because the [[Dvergr Component Crate]] contains the [[Dvergr Extractor]], an essential component in the [[Sap Extractor]]. This can be circumvented by ramming the relevant crate with a cart or hoping that aggressive mobs in the area destroy it.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mistlands]] during the day time|limit=2|frequency=3}}
+{{spawn row|type=Common [[Spawn points|spawn point]] in Dvergr forts and structures|frequency=0}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Dvergr|Aggressive creature strategies#Dvergr}}
+
+=== Shoot ===
+Lifts one leg to support and load their crossbow before shooting the player (110 [[Damage types#Pierce|Pierce]] damage). The arrow travels at 40 meters per second for up to 4 seconds before despawning and has a spread of 2–20 degrees. This attack can be used every 6 seconds when within 1–15 meters of a player.
+
+=== Melee ===
+Smacks the player with the side of their crossbow (70 [[Damage types#Blunt|Blunt]] damage). This attack swings in a 2.5-meter 90-degree horizontal arc and can be used every 4 seconds when within 0.5–2.5 meters of a player.
+
+==Quotes==
+{{Collapsible|Show quotes|Expand/Retract|
+Greet
+* Who goes there?
+* Norseman.
+* Greetings.
+* Hello.
+* Welcome.
+* Åtett.
+Goodbye
+* Until next time.
+* Be careful out there!
+* Goodbye then.
+* Don't get lost.
+* Keep that wisplight close, you don't want to lose it.
+* Tettå
+Talk
+* You never know what you'll find out there in the mist.
+* Best be on your guard.
+* What's Midgard like, then? I've only ever heard the tales.
+* Do all humans look like you? You're so... Nevermind.
+* It's easy to lose track of the days out here...
+* Us Dvergr watch out for our own kin.
+* Blasted Seekers! I wish they'd all just shrivel up and die.
+* I almost got completely drained by a tick once... But Dvergr don't die that easily.
+* It's a bit strange to think this was all once a great battlefield...
+* If we could come through to here, it makes you wonder what else might...
+Talk in faction base
+* My knees are aching, but at least we have food and a warm fire.
+* If you work and keep tidy, Friday brings money.
+* This little fort is nothing compared to our strongholds at home...
+* When is it dinner time? I'm hungry.
+* Are we running out of ale? I think we're running out of ale...
+* Some repairs to this place wouldn't hurt.
+* I don't get why they didn't just take everything when they left the mines. Why leave the cores there?
+* Damned Seekers smashed our black cores! Back into the deep then, I guess...
+* This world has changed so much since our people were here last. Imagine what it'll look like in another couple of centuries!
+*  I heard we're venturing down south again. Maybe I'll apply for the expedition this time.
+Private area alarm
+* I wouldn't do that if I were you.
+* Keep your hands to yourself!
+* We were here first!
+* Hands off!
+* Touch that again and I'll chop your hand off.
+* I'm warning you!
+* We're not to be trifled with!
+* You'd best be real careful. Or things will go badly for you.
+Aggravated
+* I'll make you bleed!
+* Kill the Norseman!
+* Do you feel lucky?
+* You'll regret this!
+* You've planted your last turnip!
+* I'll kick your arse!
+* Enjoying shooting yourself in the foot, eh? I can help with that!
+* So it's a fight you're after, then?
+* I'll mop the floors with your guts!
+* Into formation!
+* You're going down!}}
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+File:Dvergr Rogue in-game.png
+File:1-star dvergr rogue.png|1-star Dvergr-rogue
+File:Screenshot 2025-11-29 100757.png|2 star Dvergr rogue
+</gallery>
+
+{{Creatures}}
+[[ru:Дверг-разбойник]]
+[[cs:Dvergský Tulák]]

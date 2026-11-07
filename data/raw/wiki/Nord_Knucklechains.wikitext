@@ -1,0 +1,124 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+|title = Nord Knucklechains
+|image = Nord Knucklechains.png
+|description = Wrap your fists in the hardest of metals, to ensure your foes feel the strength behind your blows.
+|type = Fists
+|id = FistGold
+| source = [[Frost Foundry]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| blunt             = 114
+| slash per level   = 8
+| knockback         = 
+|materials 1=
+* [[Cast Nord Knucklechains]] x1
+* [[Liquid Frost]] x5
+|materials 2=
+* [[Bloodgold]] x10
+* [[Timberwood]] x5
+|materials 3=
+* [[Bloodgold]] x20
+* [[Timberwood]] x10
+|materials 4=
+* [[Bloodgold]] x40
+* [[Timberwood]] x20
+| idol              = * [[Iron Protection Idol]]
+| stamina           = 14
+| stamina secondary = 20
+| block armor       = 
+}}
+|Cast|
+{{Infobox item
+|title = Cast: Nord Knucklechains
+|image = Cast Nord Knucklechains.png
+|description = This weapon needs to be hardened with frost.
+|id = FistGoldUncooked
+|type = Cast
+| source = [[Black Forge]] level 4
+|materials=
+* [[Bloodgold]] x20
+* [[Mould Nord Knucklechains]] x1
+* [[Long Claws]] x2
+| weight      = 2.0
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+|title = Mould: Nord Knucklechains
+|image = Mould Nord Knucklechains.png
+|description = Filled with the right material, this mould will create a most formidable weapon.
+|id = MoldFistweapon
+|type = Mould
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Mörkhalla]]
+| usage       = Crafting
+| weight      = 1.0
+| stack       = 10
+}}
+}}
+
+'''Nord Knucklechains''' are [[Deep North]]-tier [[Fists]].
+
+* The primary attack is a 2-hit combo with 2x damage at the second hit.
+* The secondary attack is a kick which does additional knockback and 6x [[staggering]].
+* They deal 6x damage against [[Creature senses|unalerted]] enemies.
+
+They cannot be crafted directly, instead the player must craft the corresponding [[Cast Nord Knucklechains]] and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Knucklechains''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrading ==
+Like most Deep North-tier weapons, Nord Knucklechains can be upgraded to one of the following two variants using essences:
+
+* {{Item link|Frostfire Knucklechains}} (with a [[Frostfire Essence]])
+* {{Item link|Thunderblood Knucklechains}} (with a [[Thunderblood Essence]])
+
+Upgraded Nord Knucklechains will '''NOT''' keep their upgrade level when it is modified using essences.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|114
+|114
+|114
+|114
+|
+|-
+!Slash
+|0
+|8
+|16
+|24
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br> [[Mould Nord Knucklechains]] x1<br> [[Long Claws]] x2<br> [[Liquid Frost]] x5
+| [[Bloodgold]] x10<br> [[Timberwood]] x5
+| [[Bloodgold]] x20<br> [[Timberwood]] x10
+| [[Bloodgold]] x40<br> [[Timberwood]] x20
+| [[Bloodgold]] x90<br> [[Mould Nord Knucklechains]] x1<br>[[Timberwood]] x45<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Knucklechains can also be upgraded at the [[Forge of Potential]] with an [[Iron Protection Idol]].
+
+{{WeaponsNav}}

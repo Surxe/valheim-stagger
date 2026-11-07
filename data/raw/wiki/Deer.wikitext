@@ -1,0 +1,60 @@
+{{infobox creature
+| title         = Deer
+| image 0star   = Deer.png
+| image 1star   = Deer 1star.png
+| image 2star   = Deer 2star.png
+| trophy        = Deer trophy
+| trophy description = A fine specimen but you'll need to kill more than deer to enter Valhalla.
+| trophy id     = TrophyDeer
+| id            = Deer
+| type          = Passive
+| tameable      = No
+| location      = 
+* [[Meadows]]
+* [[Black Forest]]
+| health 0star  = 10
+| health 1star  = 20
+| health 2star  = 30
+| abilities     = 
+
+| veryweak      = 
+| weak          = 
+| resistant     = 
+| veryresistant = 
+| immune        = Spirit, Stagger
+|faction=Forest}}
+'''Deer''' are passive [[creatures]] found in [[Meadows]] and [[Black Forest]]s. They are four-legged, reddish-brown animals that are extremely timid and completely harmless.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in forests of [[Meadows]]|limit=4|stars=Yes}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Black Forest]]|limit=4|stars=Yes}}
+{{spawn row|type=[[Spawn zones]] in [[Meadows#Alternative biomes|Peaceful Meadows]]|limit=10|frequency=3|stars=Yes}}
+{{spawn row|type=[[Spawn zones]] in [[Meadows#Alternative biomes|Birch Meadows]]|limit=5|frequency=3|stars=Yes}}
+}}
+
+== Strategy ==
+{{For|strategies for hunting Deer|Passive creature strategies#Deer}}
+
+== Gallery ==
+<gallery>
+File:Deer 0 and 2S.png|A zero and two-star deer side by side.
+File:DeerBlackForest.png|A deer in a Black Forest.
+File:Portal Hub Deer.jpg|A Deer in a player built building built by a player that builds buildings
+</gallery>
+
+== Notes ==
+* The most distinguishable way to tell the level of a deer from a distance is by looking at its antlers or lack there of. Antlers or large antlers indicate the deer is starred.
+* In an Alpha build of ''Valheim'', the equivalent of a 2-starred deer had antlers and a greenish-blue glow.
+
+{{Creatures}} 
+
+[[pt-br:Cervo]]
+[[ru:Олень]]
+[[fr:Cerf]]
+[[cs:Jelen]]
+[[uk:Олень]]
+[[de:Hirsch]]

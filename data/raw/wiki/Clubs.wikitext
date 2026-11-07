@@ -1,0 +1,152 @@
+'''{{PAGENAME}}''' is a [[Weapons|weapon]] class.
+
+Clubs primarily deal [[Damage types|blunt]] damage and feature high knockback. The knockback from clubs allows the player to keep enemies at arms' length and is sufficient to displace some enemies out of their effective attack range. 
+
+{{See also|Clubs (Skill)}}
+
+==List of clubs==
+{| class="wikitable"
+!<onlyinclude>Name
+!Icon
+!Damage
+!Knockback
+!Stamina<br>(primary)
+!Stamina<br>(secondary)
+!Notes
+|-
+! colspan="7" | One-handed
+|-
+|[[Torch]]
+|[[File:Torch.png|50px|link=Torch]]
+|Blunt: 4<br />Fire: 15
+|30
+|4
+|—
+|
+|-
+|[[Club]]
+|[[File:Club.png|50px|link=Club]]
+|Blunt: 12/30
+|30
+|6
+|—
+|
+|-
+|[[Bronze Mace]]
+|[[File:Bronze Mace.png|50px|link=Bronze mace]]
+|Blunt: 35/53
+|80 
+|8
+|16
+|
+|-
+|[[Iron Mace]]
+|[[File:Iron Mace.png|50px|link=Iron mace]]
+|Blunt: 55/73
+|90
+|10 
+|20
+|
+|-
+|[[Frostner]]
+|[[File:Frostner.png|50px|link=Frostner]]
+|Frost: 40/58<br />Blunt: 35/35<br />Spirit: 20/20
+|100
+|12
+|24
+|
+|-
+|[[Porcupine]]
+|[[File:Porcupine.png|50px|link=Porcupine]]
+|Blunt: 50/50<br />Pierce: 45/63
+|100
+|14
+|28
+|
+|-
+|[[Flametal Mace]]
+|[[File:Flametal Mace.png|50px|link=Flametal mace]]
+|Blunt: 135/153
+|100
+|16
+|28
+|
+|-
+|[[Nord Mace]]
+|[[File:Nord_Mace.png|50px|link=[https://valheim.weirdgloop.org/w/Nord_Mace | Nord Mace]]]
+|Blunt:170/200
+|90
+|16
+|28
+|
+|-
+! colspan="7" | Two-handed (Sledgehammer)
+|-
+|[[Stagbreaker]]
+|[[File:Stagbreaker.png|50px|link=Stagbreaker]]
+|Blunt: 20/38<br />Pierce: 5/5
+|150
+|12
+|—
+|AoE damage
+|-
+|[[Iron Sledge]]
+|[[File:Iron Sledge.png|50px|link=Iron sledge]]
+|Blunt: 55/73
+|200
+|20
+|—
+|2x stagger,<br />AoE damage
+|-
+|[[Demolisher]]
+|[[File:Demolisher.png|50px|link=Demolisher]]
+|Blunt: 145/163
+|210
+|28
+|—
+|2x stagger,<br />AoE damage
+|-
+|[[Nord Sledge]]
+|[[file:nord_Sledge.png|50px|link=[https://valheim.weirdgloop.org/w/Nord_Sledge| Nord Sledge]]]
+|Blunt: 225/255
+|210
+|28
+|—
+|2x stagger,<br />AoE damage</onlyinclude>
+|-
+|}
+
+==Properties==
+{| class="wikitable"
+|-
+!Attack type!!Stamina (base)!!Range!!Attack speed
+!Damage
+![[Stagger|Staggering]]
+!Knockback !!Notes
+|-
+|Clubs (primary)||1x||2.4m||2.46s (0.86 + 0.80 + 0.90)
+| 1x
+|30–100
+|Player moves forward 0.66m with each swing. 90 degree arc.
+|-
+| Clubs (secondary)||2x||2.4m||1.72s
+|2.5x
+| 2x
+|2x||Player moves forward 0.66m. 30 degree arc.
+|-
+|Two-handed hammers ||1x||4m||1.7s
+|1x / 2x
+|150–210
+|Damages 4m around impact zone. Hammer lands 2m in front of player. No 3-hit combo.
+|}
+
+==Gallery==
+<gallery>
+Clubs Hitbox.jpg | Clubs hitboxes
+Two-handed Clubs Hitbox.jpg | Two-handed Clubs hitboxes
+</gallery>
+
+[[Category:Weapons]]
+[[Category:Clubs]]
+{{WeaponsNav}}
+[[ru:Дубины]]

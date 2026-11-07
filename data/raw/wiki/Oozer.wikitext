@@ -1,0 +1,49 @@
+{{infobox creature
+| image 0star  = Oozer.png
+| id           = BlobElite
+| location     = [[Swamp]]
+| health 0star = 150
+| damage 0star = Area of effect: 115 Poison
+| abilities    = Area of effect (4s)
+| veryweak      = 
+| weak          = Blunt, Frost, Lightning
+| resistant     = Fire, Pierce, Slash
+| veryresistant = 
+| immune        = Poison, Stagger
+| neutral      = 
+|faction=Undead}}
+'''Oozers''' are aggressive [[creatures]] found in [[Swamp|Swamps]]. They are large, gelatinous piles of sentient ooze that emit poisonous yellow gasses. Upon death, they split into two [[Blob|Blobs]].
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Swamp]] during the nighttime, despawn at dawn|limit=1|stars=No}}
+{{spawn row|type=Rare [[Spawn points|spawn point]] in front of [[Sunken Crypts]], doesn't despawn at dawn|frequency=0|stars=No}}
+{{spawn row|type=During "A foul smell from the swamp" [[Events|event]] after defeating [[Bonemass]]|limit=2|frequency=6|stars=No}}
+{{spawn row|type=When a [[Blob bomb Elite poison]] is used|limit=-|frequency=-|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Oozers|Aggressive creature strategies#Oozer}}
+
+=== Area of effect ===
+Oozers will stretch slightly before compressing and releasing a cloud of poisonous gas 8 meters in radius, applying the [[Poison]] status (115 [[Damage types#Poison|Poison]] damage). Despite visual appearances, the cloud does not actually persist and only hits once. This ability can be used when a player is within 3 meters, and it has a cooldown of 4 seconds.
+
+== Gallery ==
+<gallery captionalign="center">
+oozer.jpg
+</gallery>
+
+== Notes ==
+* Oozers have a chance to drop [[Scrap Iron]], meaning they can theoretically provide early access to [[Iron]] equipment before the player obtains a [[Swamp Key]]. However, given the relatively uncommon spawn rate for Oozers, low drop rate of Scrap iron, and high metal cost of iron equipment, this is generally not a viable strategy for obtaining Iron.
+* Oozers have no associated trophy.
+
+{{Creatures}}
+
+[[cs:Oozer]]
+[[ru:Слизняк]]
+[[uk:Слизовик]]
+[[de:Schleimmasse]]
+[[fr:Oozer]]

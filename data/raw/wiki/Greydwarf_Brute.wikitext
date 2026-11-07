@@ -1,0 +1,64 @@
+{{infobox creature
+| image 0star   = Greydwarf Brute.png
+| image 1star   = Greydwarf Brute 1star.png
+| image 2star   = Greydwarf Brute 2star.png
+| trophy        = Greydwarf Brute trophy
+| trophy description = It took seven blows to hack this gnarled head from its body.
+| trophy id     = TrophyGreydwarfBrute
+| id            = Greydwarf_Elite
+| location      = 
+[[Black Forest]]
+| health 0star  = 150
+| damage 0star  = Attack: 30 Slash
+| health 1star  = 300
+| damage 1star  = Attack: 45 Slash
+| health 2star  = 450
+| damage 2star  = Attack: 60 Slash
+| abilities     = Attack (2s)
+| veryweak      = Fire
+| weak          = 
+| resistant     = Poison
+| veryresistant = 
+| immune        = Spirit
+| neutral       = 
+|stagger=50%|faction=Forest}}
+
+'''Greydwarf brutes''' are aggressive [[creatures]] found in [[Black Forest]]s. They are large mossy tree-like beings and are substantially bigger and stronger than [[Greydwarf]]s.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Black Forest]] during the nighttime, despawn at dawn|limit=1|stars=After 2000 meters from the world center}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Meadows]] during the nighttime after defeating [[The Elder]], despawn at dawn|limit=1|stars=No}}
+{{spawn row|type=Rare [[Spawn points|spawn point]] near some abandoned structures in [[Black Forest]]|frequency=0}}
+{{spawn row|type=Rarely from [[Greydwarf Nest|Greydwarf nests]] in [[Black Forest]]|limit=3|frequency=12 seconds}}
+{{spawn row|type=During "The forest is moving..." [[Events|event]] before defeating [[The Elder]]|limit=1|frequency=6|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Black Forest#Alternative biomes|Root Black Forest]] at night|limit=3|frequency=4|stars=Yes}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Greydwarf brutes|Aggressive creature strategies#Greydwarf brute}}
+
+=== Attack ===
+Slams their rock downwards, extending outwards 3 meters in a 45-degree vertical arc (30 [[Damage types#Blunt|Slash]] damage). This attack can be used every 2 seconds when within 1.8 meters of a player.
+
+== Gallery ==
+<gallery>
+File:Valheim Greydwarf-Brute-1 ver0-79-10.jpg|<center>0-star Greydwarf brute in the [[Black Forest]] at night</center>
+File:Greydwarf Brute 1star.png|<center>1-star Greydwarf brute</center>
+File:Greydwarf Brute 2star.png|<center>2-star Greydwarf brute</center>
+</gallery>
+
+== Notes ==
+*One-star Greydwarf brutes have pinker bark than the standard Greydwarf brute's brown. Two-star Greydwarf brutes have even more vivid-pink bark.
+*Brutes deal slash damage despite them having a club shaped arm as a weapon, this is due to the alpha version of the Brute attacking with normal claws and their damage type has not been changed to reflect their new weapon.
+
+{{Creatures}}
+
+[[ru:Грейдворф-дикарь]]
+[[fr:Brute Naingris]]
+[[cs:Šedý trpaslík surovec]]
+[[uk:Сіролюдський здоровань]]
+[[de:Grauzwergen Berserker]]

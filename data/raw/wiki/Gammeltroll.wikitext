@@ -1,0 +1,64 @@
+{{infobox creature
+| title         =Gammeltroll
+| image 0star   =Gammeltroll.png
+| trophy        =
+| id            =TrollFrost
+| faction       =Deep North
+| location      =[[Deep North]]
+| tameable      =No
+| drops         =[[Petrified Tissue]] (from the [[Petrified Gammeltroll]])
+| health 0star  = 3000
+| damage 0star  =
+* Punch: 220 Blunt, 100 Chop, 40 Pickaxe
+* Ground slam: 200 Blunt, 100 Chop, 40 Pickaxe
+* Ground slam area: 220 Blunt, 100 Chop, 100 Pickaxe
+* Throw: 150 Blunt, 100 Chop, 80 Pickaxe (x8)
+| abilities     =
+* Punch (4 seconds each for 2 variants)
+* Ground slam (10 seconds each for 2 variants)
+* Throw (12 seconds)
+| veryweak      =
+| weak          =Pickaxe
+| resistant     =Blunt, Slash, Pierce, Frost
+| veryresistant =
+| immune        =Fire, Spirit
+| stagger       =30%
+| weak point    = Head
+| wp veryweak   = Pickaxe
+| wp immune     = Spirit
+}}
+
+'''Gammeltrolls''' are huge hostile creatures that roam around the [[Deep North]]. They are elder [[Troll]]s, the largest creatures in all of ''Valheim''.
+
+Gammeltrolls are essential for progression in the Deep North. Upon being defeated, they turn into statues as [[Petrified Gammeltroll]]s. Those become part of the terrain and can be built on, or blown up to obtain [[Petrified Tissue]], the raw source of [[Bloodgold]], the Deep North-tier metal.
+
+Gammeltrolls are resistant to most physical damage types, but they do NOT have a weak point on their heads in the same way as their smaller cousins. This has been tested in game.
+
+== Drops ==
+Gammeltrolls drop no items themselves. When one dies, it leaves behind a [[Petrified Gammeltroll]], which can only be damaged by [[Ember Charge]]s. Each of its segments yields two or three items, each either [[Stone]] (2/3 chance) or [[Petrified Tissue]] (1/3 chance).
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Deep North]] above altitude 10, during the day and night, alone|limit=1|frequency=|stars=No}}
+}}
+
+The spawn system places a Gammeltroll spawn point, which spawns a single Gammeltroll with a wake-up animation once a player comes within 120 meters. The spawn point does not respawn it.
+
+== Attacks and abilities ==
+The punch and ground slam attacks also hit [[Factions|allied creatures]]. [[Blocking#Parrying|Parrying]] does not stagger a Gammeltroll.
+
+=== Punch ===
+Deals 220 [[Damage types#Blunt|Blunt]], 100 Tier 6 [[Damage types#Chop|Chop]] and 40 Tier 6 [[Damage types#Pickaxe|Pickaxe]] damage in a 15-meter, 100-degree horizontal arc. There is a left and a right variant with the same damage, each with its own 4-second cooldown. It can be used within 15 meters of a target.
+
+=== Ground slam ===
+Stomps with one foot, dealing 200 Blunt, 100 Tier 2 Chop and 40 Tier 2 Pickaxe damage in a 6-meter, 90-degree vertical arc. There is a left and a right variant with the same damage, each with its own 10-second cooldown. It can be used within 10 meters of a target, in any direction. When a stomp hits anything, including the ground, it also creates a 10-meter area that deals 220 [[Damage types#Blunt|Blunt]], 100 Tier 4 [[Damage types#Chop|Chop]] and 100 Tier 4 [[Damage types#Pickaxe|Pickaxe]] damage. Unlike the stomp itself, this area does not hit allied creatures.
+
+=== Throw ===
+Throws eight projectiles in two bursts of four, 0.2 seconds apart. Each projectile deals 150 Blunt, 100 Chop and 80 Pickaxe damage in a 5-meter radius where it lands, and leaves a half log behind. The logs can be chopped for three items, each either [[Wood]] (2/3 chance) or [[Timberwood]] (1/3 chance). This attack can be used every 12 seconds when 12–300 meters from a target.
+
+== Notes ==
+* As of [[Version_history#1.0.21|patch 1.0.21]], their punch attack no longer has enough [[Damage#Terrain damage|tool tier]] to mine a Petrified Gammeltroll.
+* Gammeltrolls stand 21 meters (68.9 feet) tall, triple the height of a Black Forest Troll.
+
+{{CreaturesNav}}
+[[ru:Гаммельтролль]]

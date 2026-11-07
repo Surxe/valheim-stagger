@@ -1,0 +1,115 @@
+{{infobox creature
+| title             = Fader
+| image 0star       = Fader.png
+| trophy            = Fader trophy
+| trophy description = The green dragon, corrupted beyond redemption. Offer him to the sacrificial stones.
+| trophy id         = TrophyFader
+| id                = Fader 
+| description 0star = A father noble and proud, he soared through skies of fire. Then madness lowered its shroud, and warped his heart's desire.
+| type              = Boss
+| faction           = Boss
+| location          = [[Ashlands]]
+| summon            = [[Bell]] x3
+| drops             = [[Kindled Ribs]]<br>[[Fader Trophy]]
+| health 0star      = 25000
+| damage 0star = 
+* Fissure: 120 Fire, 80 Spirit, 40 Chop, 40 Pickaxe
+* Bite: 210 Pierce, 300 Chop, 300 Pickaxe
+* Claw: 200 Pierce, 300 Chop, 300 Pickaxe
+* Spin: 140 Pierce, 300 Chop, 300 Pickaxe
+* Flamebreath: 60 Fire, 40 Chop, 40 Pickaxe
+* Meteors: 40 Blunt, 120 Fire, 100 Chop, 100 Pickaxe + 80 Fire, 80 Spirit, 30 Chop, 30 Pickaxe
+* Wall of fire: 80 Fire, 80 Spirit, 30 Chop, 30 Pickaxe
+| abilities         =
+* Fissure (30 seconds 35–85% HP, 20 seconds <35% HP)
+* Bite (3 seconds)
+* Claw (3 seconds each for 2 variants)
+* Spin (20 seconds)
+* Flamebreath (25 seconds 5–85% HP)
+* Meteors (25 seconds 25–100% HP, 18 seconds <25% HP)
+* Roar (45 seconds 35–55% HP, 26 seconds <35% HP)
+* Wall of fire (60 seconds, 15–90% HP)
+| veryweak          = 
+| weak              = 
+| resistant         = Pierce 
+| veryresistant     = 
+| immune            = Fire, Spirit
+}}
+'''Fader''' is the seventh [[Creatures#Bosses|boss]]. He appears as a charred, skeletal dragon which emanates a green glow from orifices and gaps in his body.
+
+== Summoning ==
+The Emerald Flame's summoning altar can be found in a coliseum-like structure in the Ashlands. The [[Runestone|Vegvisir]] can be found in the central tower of [[Charred Fortress]]es and very rarely on top of [[Charred Ruins]], revealing the nearest summoning altar on the map. Fader can be summoned by placing three [[Bell]]s around the coliseum. It takes three [[Bell Fragment]]s to craft one bell. Bell fragments can be found in charred fortresses around the Ashlands.
+
+== Attacks and abilities ==
+{{For|strategies for defeating Fader|Boss strategies#Fader}}
+
+=== Fissure ===
+Fader draws a line on the ground with his left paw, raises it and slams it into the ground. This causes 12–16 11-meter radius circles of small green flames to emerge from the ground around players, with a delay of 0.45 seconds between each circle for a total summoning time of 5.4–7.2 seconds. After a 4-second delay (individually for each circle), large spikes shoot up where the small flames are, followed by a highly damaging flame pool that inflicts the [[Burning]] status (120 [[Damage types#Fire|Fire]], 80 [[Damage types#Spirit|Spirit]], 40 Tier 0 [[Damage types#Chop|Chop]] and 40 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This move can kill a player even with full [[Flametal Armor]] and a [[Fire Resistance Barley Wine]] active in mere seconds. Between 35–85% health, this attack can be used every 30 seconds. Under 35% health, it can be used every 20 seconds. The flames last for 15 seconds and cannot be dodged nor blocked. Fader can use this attack when he's within 40 meters of a player.
+
+=== Bite ===
+Fader pulls his head back and then lunges forward to bite in a 10-meter 40-degree horizontal arc in front of him (210 [[Damage types#Pierce|Pierce]], 300 Tier 3 [[Damage types#Chop|Chop]] and 300 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). This attack can be used every 3 seconds when within 9 meters of a player.
+
+=== Claw ===
+Fader brings up one of his paws and swipes in an area in a 10-meter 65-degree horizontal arc in front of him (200 [[Damage types#Pierce|Pierce]], 300 Tier 3 [[Damage types#Chop|Chop]] and 300 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). This attack has two variants, each with its own 3-second cooldown: a slash with his left claw and a slash with his right claw. He can use this attack when within 9 meters of a player.
+
+=== Spin ===
+Fader leans slightly on his right side before spinning to attack the surrounding area in a 8.5-meter radius circle around himself (140 [[Damage types#Pierce|Pierce]], 300 Tier 3 [[Damage types#Chop|Chop]] and 300 Tier 3 [[Damage types#Pickaxe|Pickaxe]] damage). He can use this ability every 20 seconds when a player is within 8 meters.
+
+=== Flamebreath ===
+Fader charges up and releases a 17-meter line of fire. It leaves lingering fire on the ground with a radius of 4 meters that inflicts the [[Burning]] status (60 [[Damage types#Fire|Fire]], 40 Tier 0 [[Damage types#Chop|Chop]] and 40 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). The flames last for 14 seconds. This attack cannot be blocked and can only be used every 25 seconds between 5–85% health when within 2–20 meters of a player. 
+
+=== Meteors ===
+Fader rises on his hind legs and then stomps onto the ground calling forth 10 meteors, similar to [[Yagluth|Yagluth's]] meteor attack (40 [[Damage types#Blunt|Blunt]], 120 [[Damage types#Fire|Fire]], 100 Tier 0 [[Damage types#Chop|Chop]] and 100 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). The meteors fall from the sky 60 meters behind Fader and 90 meters off of the ground in a 15-meter radius sphere. They fall at an initial velocity of 30 meters per second and can travel for up to 8 seconds before despawning. Upon impact, they leave green flames in a 5-meter radius circle that inflicts the [[Burning]] status (80 [[Damage types#Fire|Fire]], 80 [[Damage types#Spirit|Spirit]], 30 Tier 0 [[Damage types#Chop|Chop]] and 30 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage<ref group="Note">Due to what is presumably a typo or balancing change, this attack does not actually use the Fader_MeteorSmash_AOE prefab but instead uses the Fader_WallOfFire_AOE prefab. The MeteorSmash prefab does 300 Fire, 100 Spirit, 300 Tier 0 Chop and 300 Tier 0 Pickaxe damage but remains unused in any of Fader's properties.</ref>). These flames linger for 20 seconds. This attack can be used every 25 seconds while Fader is between 25–100% health. Under 25% health, it can be used every 18 seconds. He can use this ability while a player is within 30 meters.
+
+=== Roar ===
+When a player is within 100 meters, Fader can shoot eight glowing orbs out of his mouth into that air directly above him. These travel at an initial velocity of 20–50 meters per second for up to 20 seconds before despawning. They have a spread of 20–60 degrees. Upon impact, these orbs summon one [[Charred Warrior|Summoned Charred Warrior]] or [[Charred Marksman|Summoned Charred Marksman]] with a 50% chance of either. A maximum of seven of each creature can be summoned this way; since they have a unique ID from their regular counterparts, naturally-spawning Charred Warriors and Charred Marksmen do not count toward these spawn caps. Fader will still attempt to use ability even after reaching the spawn caps. These summoned enemies have 50 health and do half the damage of their regular counterparts. They also take friendly fire damage from Fader's attacks. This ability can be used every 45 seconds between 35–55% health, and every 26 seconds while under 35% health.
+
+=== Wall of fire ===
+Between 15–90% health, Fader can draw a line on the ground with his right paw which summons a wall of fire around the player that inflicts the [[Burning]] status (80 [[Damage types#Blunt|Fire]], 80 [[Damage types#Spirit|Spirit]], 30 Tier 0 [[Damage types#Chop|Chop]] and 30 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This wall is is made up of 12 individual 4-meter radius circles of fire that appear 8 meters from the player, starting from the furthest point from Fader and moving clockwise with a delay of 0.25 seconds between each circle. These are generated relative to the player's current position, meaning that the player can create more room for themself to maneuver by continuously moving. This attack can be used every 60 seconds when within 40 meters of a player. Each circle is active for 20 seconds.
+
+=== Notes ===
+<references group="Note"/>
+
+== Aftermath ==
+=== Creature spawning ===
+Defeating Fader unlocks [[Charred Marksman|Charred Marksmen]] and [[Charred Warrior|Charred Warriors]] to spawn at night in the [[Meadows]], [[Black Forest]], [[Swamp]], [[Mountain]] and [[Plains]]. They can only have 0 stars.
+
+=== Events ===
+Defeating Fader affects the following [[events]] for that world:
+
+* Disables: "The undead army marches"
+* Disables: "The dead have been summoned"
+
+=== Drops ===
+{{CreatureDrops|stars=0}}
+
+=== Forsaken power ===
+Mounting Fader’s trophy upon his respective stone will allow you to claim his Forsaken Power. This ability will grant the player and nearby allies the following effects for 300 seconds:
+
+* Damage modifier: [[Resistance|Resistant]] vs Fire
+* [[Adrenaline]] gain: +100%
+* 50% reduced [[Stagger]] meter modifier
+
+=== Traders ===
+Defeating Fader unlocks [[Fiery Spice Powder]] from [[The Bog Witch]] for 200 [[Coins]].
+
+== Gallery ==
+<gallery>
+File:Faderarena.png|Emerald Flame arena
+File:Faderspawner.png|Emerald Flame spawner
+File:Valheim Fader.png|Fader In-game
+</gallery>
+
+== Notes == 
+* "Fader" is a formal word in Danish and Swedish for "father."
+** This is analogous to [[Moder]], whose name is Swedish for "mother."
+* Fader is frequently referred to as "the Emerald Flame" in-game. Interestingly, this title marks his location on the map. This is contrast to all other Bosses, whose name is their place on the map.
+* Lore-wise, those who die to Drake fire are "caught between life and death" and "have flames for flesh and agony in every moment." This explains the existence of [[Charred Warrior|Charred]].
+
+== Achievements ==
+{{Achievement|Boss7Fader}}
+
+{{Creatures}}
+
+[[ru:Прародитель]]
+[[uk:Батько]]

@@ -1,0 +1,95 @@
+{{Infobox weapon
+| title = Frostfire Atgeir
+| image = Frostfire Atgeir.png
+| description = Let the flames begin to devour, while the ice claims whatever remains.
+| type = Polearm
+| id = AtgeirGold_FrostFire
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| pierce            = 148
+| pierce per level = 10
+| fire = 12
+| fire per level = 3
+| frost = 88
+| frost per level = 3
+| knockback         = 
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Atgeir]] x1
+* [[Frostfire Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Frostfire Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Frostfire Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Frostfire Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 20
+| stamina secondary = 40
+| block armor       = 88
+| movement speed    = -5%
+| weight=2.5
+| special = 
+}}
+
+'''Frostfire Atgeir''' is a version of [[Nord Atgeir]] upgraded with a [[Frostfire Essence]]. It loses a small amount of [[Pierce|pierce damage]] in exchange for a larger amount of [[fire]] and [[Frost|frost damage]].
+
+* Its primary attack is a 3-stab combo with 2x damage on the last hit.
+* The secondary attack is an AOE swing with a 3-meter radius that deals 1x damage and 6x stagger with no damage penalty against multiple targets.
+
+An upgraded Nord Atgeir will '''NOT''' keep its upgrade level when it is crafted into Frostfire Atgeir.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|148
+|158
+|168
+|178
+|
+|-
+!Fire
+|12
+|15
+|18
+|21
+|
+|-
+!Frost
+|88
+|91
+|94
+|97
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Atgeir}} x1<br> {{item link|Frostfire Essence}} x1
+| [[Bloodgold]] x10<br> [[Frostfire Essence]] x1
+| [[Bloodgold]] x20<br> [[Frostfire Essence]] x2
+| [[Bloodgold]] x40<br> [[Frostfire Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Atgeir]] x1<br>[[Frostfire Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Frostfire Atgeir can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

@@ -1,0 +1,54 @@
+{{Infobox creature
+| title=Captive Fuling
+| image 0star = Captive Fuling.png
+| id=GoblinDeepNorth
+| faction       = Plains
+| location      = [[Mörkhalla]]
+| drops         = 
+| health 0star  = 250
+| damage 0star  =
+* Club: 160 Blunt
+* Spear: 150 Pierce
+* Sword: 160 Slash
+* Torch: 85 Blunt, 85 Fire
+| health 1star  = 500
+| damage 1star  =
+* Club: 240 Blunt
+* Spear: 225 Pierce
+* Sword: 240 Slash
+* Torch: 127.5 Blunt, 127.5 Fire
+| health 2star  = 750
+| damage 2star  =
+* Club: 320 Blunt
+* Spear: 300 Pierce
+* Sword: 320 Slash
+* Torch: 170 Blunt, 170 Fire
+| abilities     =
+* Club (2 seconds)
+* Spear (4 seconds)
+* Sword (2 seconds)
+* Torch (2 seconds)
+| veryweak      =
+| weak          = 
+| resistant     = 
+| veryresistant =
+| immune        = Spirit
+| stagger       = 30%
+}}
+'''Captive Fuling''' are creatures found in [[Mörkhalla]].
+== Drops ==
+{{drop table|
+{{drop row|item=Coins|0star=20-39 (25%)|1star=40-78 (50%)|2star=80-100}}
+{{drop row|item=Ancient Coin|0star=1|1star=2|2star=4}}
+{{drop row|item=Lingonberries|0star=1-9 (20%)|1star=2-18 (40%)|2star=4-36 (80%)}}
+}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=Spawn point in [[Mörkhalla]]|frequency=0|stars=Yes}}
+}}
+
+==Attacks and abilities==
+Captive Fulings have similar attack patterns as regular [[Fuling]]s, but with greater health and damage.
+
+{{Creatures}}

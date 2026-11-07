@@ -1,0 +1,67 @@
+{{infobox weapon
+| title          = Copper Knife
+| image          = Copper knife.png
+| description    = A glittering copper knife.
+| id             = KnifeCopper
+| type           = Knife
+| source         = [[Forge]]
+| crafting level = 1
+| repair level   = 1
+| pierce         = 12
+| slash          = 12
+| movement speed = 
+|materials 1=* [[Wood]] x2
+* [[Copper]] x8|materials 2=* [[Greydwarf Eye]] x8
+* [[Copper]] x4|materials 3=* [[Greydwarf Eye]] x16
+* [[Copper]] x8|materials 4=* [[Greydwarf Eye]] x32
+* [[Copper]] x16
+| idol           = * [[Bronze Battle Idol]]
+| stamina = 6}}
+
+'''Copper Knife''' is the second [[Knives|knife]].
+
+* The primary attack is a fast 3-slash combo with 2x damage on the last swing.
+* Its secondary attack is a leaping stab with 3x damage.
+* It deals 6x damage against [[Creature senses|unalerted]] enemies.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Pierce
+|12
+|13
+|14
+|15
+|-
+!Slash
+|12
+|13
+|14
+|15
+|-
+!Durability
+|200
+|250
+|300
+|350
+|-
+!Crafting
+|2 [[Wood]]<br />8 [[Copper]]
+|4 [[Copper]]<br />8 [[Greydwarf Eye]]
+|8 [[Copper]]<br />16 [[Greydwarf Eye]]
+|16 [[Copper]]<br />32 [[Greydwarf Eye]]
+{{Upgrade station row|Forge|4|start=1}}
+|}
+
+* Copper Knife can also be upgraded at the [[Forge of Potential]] with a [[Bronze Battle Idol]].
+
+{{Weapons}}
+
+[[Fr:Couteau_en_cuivre]]
+[[cs:Měděný nůž]]
+[[ru:Медный нож]]

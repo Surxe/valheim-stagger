@@ -1,0 +1,60 @@
+{{infobox creature
+| title         =Elaking
+| image 0star   =Elaking.png
+| image 1star   =Elaking 1star.png
+| image 2star   =Elaking 2star.png
+| trophy        =Elaking Trophy
+| trophy description = Mean little eyes stare back at you.
+| trophy id     = TrophyElaking
+| id            =Elaking<br>ElakingLantern
+| faction       =Deep North
+| location      =
+| drops         =[[Elaking Hair Bundle]]<br>[[Mould Intricate Key]]<br>[[Elaking Trophy]]
+| health 0star  = 350
+| damage 0star  =
+* Claw: 40 Blunt, 100 Slash
+* Jump: 75 Blunt, 30 Slash, 200 Chop, 100 Pickaxe
+* Lantern: 65 Blunt, 65 Slash, 35 Fire
+| health 1star  = 700
+| damage 1star  =
+* Claw: 60 Blunt, 150 Slash
+* Jump: 112.5 Blunt, 45 Slash, 300 Chop, 150 Pickaxe
+* Lantern: 97.5 Blunt, 97.5 Slash, 52.5 Fire
+| health 2star  =1050
+| damage 2star  =
+* Claw: 80 Blunt, 200 Slash
+* Jump: 150 Blunt, 60 Slash, 400 Chop, 200 Pickaxe
+* Lantern: 130 Blunt, 130 Slash, 70 Fire
+| abilities     =
+* Claw (2 seconds)
+* Jump (3 seconds)
+* Lantern (2 seconds)
+| veryweak      =
+| weak          =Fire
+| resistant     =Frost
+| veryresistant =
+| immune        =Spirit
+| stagger       =30%
+}}
+The '''Elaking''' is a hostile creature that can be found in the [[Deep North]] at night and in [[Winding Tunnels]].
+
+They come in two variants, with and without a lantern. This changes their attack patterns and drops.
+
+== Drops ==
+With Lantern:
+{{CreatureDrops|stars=1}}
+Without Lantern:
+{{CreatureDrops|id=ElakingLantern|stars=1}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Deep North]] during the night|limit=2|frequency=4|stars=1 max}}
+{{Spawn row|type= From Wardrobe Shaft spawner in [[Winding Tunnels]]|limit=5 near|frequency=10 seconds}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Elaking|Aggressive creature strategies#Elaking}}
+Elakings with a lantern have a single melee attack.
+Elakings without a lantern have a melee attack and a jump attack.
+
+{{CreaturesNav}}

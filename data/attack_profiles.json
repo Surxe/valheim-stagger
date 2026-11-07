@@ -1,0 +1,141 @@
+{
+  "_doc": [
+    "Hand-curated attack profiles per weapon class, transcribed from the 'Properties' tables of the wiki class pages (Axes, Clubs, Swords, Spears, Polearms, Knives, Fists) plus per-weapon prose. Snapshots of those pages live in data/raw/wiki.",
+    "A profile has up to two attacks (primary, secondary). An attack is a list of swings performed in order and then repeated (combo chains loop).",
+    "swing.damage: list of hit damage multipliers landing at the same moment (dual-wield double hits list two). Applied to the weapon's listed damage (Attack.m_damageMultiplier / m_lastChainDamageMultiplier in game code).",
+    "swing.duration_s: time from this swing's hit to the next swing's hit when chaining. Taken from the wiki 'Attack speed' breakdown; the wiki measures whole animation segments, so per-hit timing is approximate.",
+    "attack.stagger: Attack.m_staggerMultiplier, applied to every hit of the attack.",
+    "Confidence: 'wiki' = taken directly from a wiki table/prose; 'inferred' = reasoned from related entries, needs verification."
+  ],
+  "profiles": {
+    "axe_1h": {
+      "match": {"class": "Axes", "subgroup": "One-handed"},
+      "source": "Axes",
+      "attacks": {
+        "primary": {"label": "3-hit combo", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.96}, {"damage": [1], "duration_s": 0.8}, {"damage": [2], "duration_s": 0.82}]},
+        "secondary": {"label": "overhead chop", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1.5], "duration_s": 2.0}]}
+      }
+    },
+    "axe_2h": {
+      "match": {"class": "Axes", "subgroup": "Two-handed"},
+      "source": "Axes",
+      "attacks": {
+        "primary": {"label": "3-hit combo", "stagger": 1.5, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 1.58}, {"damage": [1], "duration_s": 0.92}, {"damage": [2], "duration_s": 0.7}]},
+        "secondary": {"label": "quick strike", "stagger": 4.0, "confidence": "wiki",
+          "swings": [{"damage": [0.5], "duration_s": 0.84}]}
+      }
+    },
+    "axe_dual": {
+      "match": {"class": "Axes", "subgroup": "Dual wielded"},
+      "source": "Axes",
+      "attacks": {
+        "primary": {"label": "4-step combo (6 hits)", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.42}, {"damage": [1], "duration_s": 0.7}, {"damage": [1, 1], "duration_s": 1.04}, {"damage": [2, 2], "duration_s": 1.46}]},
+        "secondary": {"label": "leap slash", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1.5], "duration_s": 1.93}]}
+      }
+    },
+    "club_1h": {
+      "match": {"class": "Clubs", "subgroup": "One-handed"},
+      "source": "Clubs",
+      "attacks": {
+        "primary": {"label": "3-hit combo", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.86}, {"damage": [1], "duration_s": 0.8}, {"damage": [2], "duration_s": 0.9}]},
+        "secondary": {"label": "heavy swing", "stagger": 2.0, "confidence": "wiki",
+          "swings": [{"damage": [2.5], "duration_s": 1.72}]}
+      }
+    },
+    "club_2h": {
+      "match": {"class": "Clubs", "subgroup": "Two-handed"},
+      "source": "Clubs",
+      "attacks": {
+        "primary": {"label": "ground slam (AoE)", "stagger": 2.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 1.7}]}
+      }
+    },
+    "sword_1h": {
+      "match": {"class": "Swords", "subgroup": "One-handed"},
+      "source": "Swords",
+      "attacks": {
+        "primary": {"label": "3-hit combo", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.86}, {"damage": [1], "duration_s": 0.7}, {"damage": [2], "duration_s": 0.9}]},
+        "secondary": {"label": "lunge", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [3], "duration_s": 1.84}]}
+      }
+    },
+    "sword_2h": {
+      "match": {"class": "Swords", "subgroup": "Two-handed"},
+      "source": "Swords",
+      "attacks": {
+        "primary": {"label": "3-hit combo", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.96}, {"damage": [1], "duration_s": 0.82}, {"damage": [2], "duration_s": 1.66}]},
+        "secondary": {"label": "heavy strike", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [3], "duration_s": 2.16}]}
+      }
+    },
+    "spear": {
+      "match": {"class": "Spears"},
+      "source": "Spears",
+      "attacks": {
+        "primary": {"label": "stab", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.68}]},
+        "secondary": {"label": "throw (incl. pickup)", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1.5], "duration_s": 1.04}]}
+      }
+    },
+    "polearm": {
+      "match": {"class": "Polearms"},
+      "source": "Polearms",
+      "attacks": {
+        "primary": {"label": "3-hit combo", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.84}, {"damage": [1], "duration_s": 0.86}, {"damage": [2], "duration_s": 1.28}]},
+        "secondary": {"label": "360 spin (AoE)", "stagger": 6.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 1.56}]}
+      }
+    },
+    "knife_1h": {
+      "match": {"class": "Knives", "subgroup": "One-handed"},
+      "source": "Knives",
+      "attacks": {
+        "primary": {"label": "3-hit combo", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.44}, {"damage": [1], "duration_s": 0.58}, {"damage": [2], "duration_s": 0.72}]},
+        "secondary": {"label": "lunge", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [3], "duration_s": 1.52}]}
+      }
+    },
+    "knife_dual": {
+      "match": {"class": "Knives", "subgroup": "Dual wielded"},
+      "source": "Skoll and Hati",
+      "attacks": {
+        "primary": {"label": "3-slash combo", "stagger": 1.0, "confidence": "inferred",
+          "_note": "Damage pattern from the Skoll and Hati page; timings copied from one-handed knives (no measurement on the wiki).",
+          "swings": [{"damage": [1], "duration_s": 0.44}, {"damage": [1], "duration_s": 0.58}, {"damage": [2], "duration_s": 0.72}]},
+        "secondary": {"label": "leaping stab", "stagger": 1.0, "confidence": "inferred",
+          "swings": [{"damage": [3], "duration_s": 1.52}]}
+      }
+    },
+    "fists": {
+      "match": {"class": "Fists"},
+      "source": "Fists",
+      "attacks": {
+        "primary": {"label": "2-hit punch combo", "stagger": 1.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 0.76}, {"damage": [2], "duration_s": 0.72}]},
+        "secondary": {"label": "kick", "stagger": 6.0, "confidence": "wiki",
+          "swings": [{"damage": [1], "duration_s": 1.48}]}
+      }
+    }
+  },
+  "overrides": {
+    "_doc": "Per-weapon (wiki page title) deviations from the class profile. 'attacks.<name>: null' removes the attack; other keys shallow-merge into the attack.",
+    "Torch": {"source": "Torch", "attacks": {"secondary": null}},
+    "Club": {"source": "Club", "attacks": {"secondary": null}},
+    "Stagbreaker": {"source": "Stagger", "attacks": {"primary": {"stagger": 1.0}}},
+    "Berserkir Axes": {"source": "Berserkir Axes", "attacks": {"secondary": {"swings": [{"damage": [2], "duration_s": 1.93}]}}},
+    "Bleeding Berserkir Axes": {"source": "Berserkir Axes", "attacks": {"secondary": {"confidence": "inferred", "swings": [{"damage": [2], "duration_s": 1.93}]}}},
+    "Thundering Berserkir Axes": {"source": "Berserkir Axes", "attacks": {"secondary": {"confidence": "inferred", "swings": [{"damage": [2], "duration_s": 1.93}]}}},
+    "Primal Berserkir Axes": {"source": "Berserkir Axes", "attacks": {"secondary": {"confidence": "inferred", "swings": [{"damage": [2], "duration_s": 1.93}]}}}
+  }
+}

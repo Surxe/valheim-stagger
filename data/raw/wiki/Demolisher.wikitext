@@ -1,0 +1,80 @@
+{{infobox weapon
+| title          = Demolisher
+| image          = Demolisher.png
+| description    = This mighty sledge yearns to wreak havoc.
+| id             = SledgeDemolisher
+| type           = Club 2h
+| source         = [[Black Forge]]
+| durability     = 250
+| crafting level = 1
+| repair level   = 1
+| blunt          = 145
+| knockback      = 210
+| materials 1 = 
+*[[Yggdrasil Wood]] x10
+*[[Iron]] x20
+*[[Refined Eitr]] x10
+| materials 2 = 
+*[[Yggdrasil Wood]] x2
+*[[Iron]] x15
+*[[Refined Eitr]] x2
+| materials 3 = 
+*[[Yggdrasil Wood]] x4
+*[[Iron]] x30
+*[[Refined Eitr]] x4
+| materials 4 = 
+*[[Yggdrasil Wood]] x8
+*[[Iron]] x60
+*[[Refined Eitr]] x8
+| idol           = * [[Black Marble Battle Idol]]
+| staggering = 2
+| stamina = 28
+| block armor = 52}}
+
+'''Demolisher''' is the third two-handed [[Clubs|club]].
+
+* The primary attack slams the ground ''(after a lengthy swing delay)'', dealing damage, 2x the damage as staggering and knocking back everything in a spherical area of effect with a radius of 4 meters.
+* It has no secondary attack.
+
+The Demolisher is capable of dispelling the [[Mist]] of [[Mistlands]] in a 9-meter radius.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|145
+|151
+|157
+|163
+|
+|-
+!Durability
+|250
+|300
+|350
+|400
+|
+|-
+!Crafting
+|10 [[Yggdrasil Wood]]<br />20 [[Iron]]<br />10 [[Refined Eitr]]
+|2 [[Yggdrasil Wood]]<br />15 [[Iron]]<br />2 [[Refined Eitr]]
+|4 [[Yggdrasil Wood]]<br />30 [[Iron]]<br />4 [[Refined Eitr]]
+|8 [[Yggdrasil Wood]]<br />60 [[Iron]]<br />8 [[Refined Eitr]]
+|24 [[Yggdrasil Wood]]<br />125 [[Iron]]<br />24 [[Refined Eitr]]
+{{Upgrade station row|Black forge|4|addcol=1}}
+|}
+
+* Demolisher can also be upgraded at the [[Forge of Potential]] with a [[Black Marble Battle Idol]].
+
+== Trivia ==
+* The head of the Demolisher appears to be made of [[Black Marble]] with some [[Copper]] components, including copper designs on the sides of the head depicting [[Yggdrasil]]. Despite these appearances, neither of those materials are used in its construction.
+
+{{Weapons}}
+
+[[ru:Разрушитель]]

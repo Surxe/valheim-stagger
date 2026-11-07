@@ -1,0 +1,54 @@
+{{infobox creature
+| title         =Eyeless One
+| image 0star   =Eyeless One.png
+| image 1star   =
+| image 2star   =
+| trophy        =Eyeless One Trophy
+| trophy description = Getting slashed by these claws would be very unpleasant.
+| trophy id     =TrophyMole
+| id            =ElakingMole
+| faction       =Deep North
+| location      =[[Winding Tunnels]]
+| tameable      =No
+| health 0star  = 1400
+| damage 0star  =
+* Sand cloud: 60 Blunt (x6)
+* Claw: 80 Blunt, 40 Slash, 100 Poison
+| health 1star  = 2800
+| damage 1star  =
+* Sand cloud: 90 Blunt (x6)
+* Claw: 120 Blunt, 60 Slash, 150 Poison
+| health 2star  = 4200
+| damage 2star  =
+* Sand cloud: 120 Blunt (x6)
+* Claw: 160 Blunt, 80 Slash, 200 Poison
+| abilities     =
+* Sand cloud (10 seconds)
+* Claw (2 seconds each for 2 variants)
+| veryweak      =
+| weak          =
+| resistant     =Frost
+| veryresistant =
+| immune        =Spirit
+| stagger       =30%
+}}
+'''Eyeless Ones''' are hostile creatures found in the [[Winding Tunnels]] below ground in the [[Deep North]].
+
+== Drops ==
+{{CreatureDrops}}
+
+==Spawning==
+{{Spawn table|
+{{spawn row|type=Spawn point in [[Winding Tunnels]]|limit=1|frequency=0|stars=Yes}}
+}}
+
+An Eyeless One appears with a wake-up animation when a player comes within 10 meters of its spawn point. Each spawn point spawns only one Eyeless One and does not respawn it.
+
+== Attacks and abilities ==
+=== Sand cloud ===
+Launches six projectiles, each dealing 60 [[Damage types#Blunt|Blunt]] damage. Eyeless Ones prefer this attack whenever it is available. It can be used every 10 seconds when within 15 meters of a target.
+
+=== Claw ===
+Deals 80 Blunt, 40 [[Damage types#Slash|Slash]] and 100 [[Damage types#Poison|Poison]] damage in a 2-meter, 90-degree horizontal arc. There are two claw attacks with the same damage, each with its own 2-second cooldown. They can be used when within 2 meters of a target.
+
+{{CreaturesNav}}

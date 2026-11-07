@@ -1,0 +1,115 @@
+{{infobox creature
+| title        = Boar
+| image 0star  = Boar.png
+| image 1star  = Boar 1star.png
+| image 2star  = Boar 2star.png
+| trophy       = Boar trophy
+| trophy description = This boar head would make for a nice decoration in any house.
+| trophy id    = TrophyBoar
+| id           = Boar
+| location     = [[Meadows]]
+| tameable     = Yes
+| health 0star = 10
+| damage 0star = Attack: 10 Blunt
+| health 1star = 20
+| damage 1star = Attack: 15 Blunt
+| health 2star = 30
+| damage 2star = Attack: 20 Blunt
+| abilities    = Attack (5s) 
+
+| veryweak      = 
+| weak          = 
+| resistant     = 
+| veryresistant = 
+| immune        = Spirit
+
+|stagger=50%
+|faction=Forest
+}}
+
+{{quote|This land is hard and wild but we who are brought here are harder still. Take comfort, traveller, in the gifts before you, the good wood and stone, the fruits and flowers of the forest. Look also to the wild boar who roam these lands. They fear fire and the hand of man but they can be taught to obey it. Go quietly to them and let them eat of your stock. Roots of the ground are their pleasure.|[[Runestone]]}}
+
+Boars are wild [[creatures]] found throughout [[Valheim_(world)|Valheim]], known for their aggressive behavior when approached. They can be identified by their status tags indicating whether they are 'wild' or 'tame,' along with their emotional states, such as 'hungry,' 'happy,' 'frightened,' or 'acclimatizing.' Understanding these states can help players interact with them effectively.
+
+Wild Boars are afraid of fire, including torches, and will enter a 'frightened' state when it is nearby. 2-star Boars are extremely rare and are great for acquiring leather scraps and boar meat through breeding. They can be tamed and bred. See the taming and breeding sections below.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Meadows]]|limit=4|stars=After 800 meters from the world center}}
+{{spawn row|type=1-9 [[spawn points]] near [[Runestone|Boar runestones]]|frequency=0}}
+{{spawn row|type=0-2 [[spawn points]] near abandoned farms in [[Meadows]]|frequency=0}}
+{{spawn row|type=From breeding|limit=5, within 10 meters|frequency=-|stars=Inherited from either parent, randomly}}
+{{spawn row|type=During "Eikthyr rallies the creatures of the forest," [[Events|event]] before defeating [[Eikthyr]]|limit=2|frequency=6|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Meadows#Alternative biomes|Peaceful Meadows]]|limit=15|frequency=5|stars=Yes}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating boars|Aggressive creature strategies#Boar}}
+
+=== Attack ===
+Swings its head upward and hits in a 45.2-degree horizontal arc with a range of 1.5 meters (10 [[Damage types#Blunt|Blunt]] damage). This attack can be used every 5 seconds when within 2 meters of a player.
+
+== Taming ==
+''For general taming information and strategies, see [[Taming]].'' 
+
+To tame a wild Boar, players should approach while sneaking to avoid alarming it. If a Boar feels threatened, it will become aggressive, chasing the player until they are out of sight, at which point it will revert to a 'hungry' state. Wild Boars have a predictable combat pattern, charging and then retreating, which can be used to the player's advantage when herding them into a pen ''(recommended to tame)''.
+
+Constructing a secure pen is essential to prevent the Boar from escaping and to avoid disruption of the taming process by outside sources. To successfully tame a Boar, players need to feed it {{item link|Raspberries}}, {{item link|Blueberries}}, {{item link|Carrot}}s, {{item link|Onion}}s, {{item link|Turnip}}s, or red {{item link|Mushroom}}s. They will ignore all other foods dropped on the ground. Just drop the food on the ground within one meter, and the Boar will eat, as long as it is not frightened ''(indicated by a red exclamation mark)''. Players can place the food on the ground in a stack, as the Boar will only eat one food from the stack at a time.
+
+The taming speed is 30 minutes of real-life gameplay with three pieces of food, '''uninterrupted'''; as long as the Boar does not get frightened and the correct amount of food is on the ground, it should only take 30 minutes. A player must remain in the area for taming to progress. If the Boar becomes frightened at any time during taming, the process will take longer and may require more food.
+
+== Tamed ==
+When tamed, Boars seek freedom. If a tamed Boar sees an opening in their fenced area, they will run towards it, which can be used to corral them from place to place.
+
+Tamed Boars can be renamed by pressing LShift + E. Interacting with them using E will display the message "(Creature name) loves you" on-screen along with a cloud of pink hearts. They are no longer afraid of fire and require feeding for passive health regeneration.
+
+Additionally, tamed Boars lose their anchor to their spawn point, allowing them to move more freely. 
+
+'''Note:''' ''Boars from abandoned farms and Runestones will retain their anchor point and will always try to return home, making them more challenging to handle. It is recommended to either breed these boars on the spot and move the offspring instead, or to name the original tamed animal and then, once bred, kill it. One issue with using the original animal is that it tends to sit in a corner of a pen, staring at its spawn point, which can interfere with breeding as it does not roam the pen.''
+
+== Breeding ==
+Tamed Boars can breed, provided the Boar is happy and well-fed with berries, carrots, onions, turnips or red mushrooms, along with there being another Boar at least within three meters, and no more than five Boars within at least 10 meters. Once the conditions are met, the Boar will accumulate love points (3) with one another until the pregnancy starts. Successful love point is indicated by pink hearts. After gaining enough love points, the Boar becomes pregnant, which is not visualized. After one minute, the Boar gives birth to a baby Boar ''(piglet)'', visualized by a red cloud. Any Boar can become pregnant, which means that if two Boars breed and one becomes pregnant, they still have the ability to breed and get the other pregnant. 
+
+Once born, the '''piglet''' will take 50 minutes to mature into an adult. Offspring inherit [[Creature Level|stars]] from the parent that gives birth to it. Offspring are tamed at birth and require a [[Butcher Knife]] or friendly fire to kill. Offspring cannot be interacted with ''(no renaming or commanding)'' until they become an adult.
+{| class="wikitable"
+|Creature
+|Required love points
+|Total limit
+|Partner check range
+|Pregnancy duration
+|Birth offset
+|Offspring grow time
+|Offspring drops
+|-
+|[[Boar]]
+|3
+|5 within 10 meters
+|3 meters
+|1 minute
+|1 meter
+|50 minutes
+|None
+|}
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+Boar2.jpg
+Boar lore.jpg
+Boar 1star in-game.png
+Boar 2star in-game.png
+</gallery>
+
+== Notes ==
+* Boars will not eat [[Yellow Mushroom]]s.
+
+{{Creatures}}
+
+[[ru:Кабан]]
+[[fr:Sanglier]]
+[[cs:Kanec]]
+[[uk:Вепр]]
+[[de:Wildschwein]]
+[[pt-br:Javali]]

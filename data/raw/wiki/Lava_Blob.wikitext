@@ -1,0 +1,43 @@
+{{infobox creature
+| title        = Lava Blob
+| image 0star  = Lava Blob.png
+| trophy       = Lava Blob Trophy
+| trophy description = It's probably dead, right?
+| trophy id = TrophyBlob_Lava
+| id           = BlobLava
+| location     = [[Ashlands]]
+| tameable     = No
+| health 0star = 300
+| damage 0star = Area of effect: 70 Blunt, 30 Fire 
+| abilities    = Area of effect (10s)
+| weak         = Blunt, Frost, Lightning 
+| resistant    = Pierce, Poison 
+| immune       = Fire 
+|stagger=No}}
+'''Lava Blobs''' are aggressive [[creatures]] found in the [[Ashlands]]. They are the lava counterparts of [[Blob]]s that can spread fire.
+
+Similar to their [[Blob]] counterparts, the Lava Blob jumps around, and so can close large distance between itself and the player.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning == 
+{{Spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Ashlands]]|limit=2|frequency=4|stars=No}}
+{{spawn row|type=When a [[Blob bomb Lava]] is used|limit=-|frequency=-|stars=No}}
+}}
+
+== Attacks and abilities ==
+=== Area of effect ===
+Expands rapidly before exploding in a fiery shower that destroys the blob in the process (70 [[Damage types#Blunt|Blunt]], 30 [[Damage types#Fire|Fire]], 160 Tier 1 [[Damage types#Chop|Chop]] and 160 Tier 1 [[Damage types#Pickaxe|Pickaxe]] damage). This explosion has a 6-meter radius and can be used when a player is within that range or immediately upon death. This ability also has the attribute of being able to destroy terrain.
+
+== Notes ==
+* The Lava Blob does not have a head, face, or eyes, but it still has a 'front' and cannot perform its standard explosion attack unless it is facing its target. If it is not facing its target, it will rotate in place until it is, and only then explode.
+
+== Tips==
+* When the blob growth animation starts, players wanting to avoid being damaged from the explosion should immediately dodge roll or begin sprinting away from the Lava Blob.
+* With careful timing and positioning, players can use the Lava Blob to damage enemies or fell trees without taking any damage themselves.
+
+{{CreaturesNav}}
+
+[[ru:Лавовый сгустень]]

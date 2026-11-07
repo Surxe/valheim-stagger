@@ -1,0 +1,92 @@
+{{Infobox weapon
+| description = The blade is already bloodied, yet it sparks in want of more.
+| type = Knife
+| id = KnifeGold_BloodLightning
+| source = [[Black Forge]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 
+| slash             = 80
+| slash per level = 5
+| pierce             = 80
+| pierce per level = 5
+| lightning = 45
+| lightning fire per level = 3
+| materials 1 = 
+* [[Bloodgold]] x20
+* [[Nord Dagger]] x1
+* [[Thunderblood Essence]] x1
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Thunderblood Essence]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Thunderblood Essence]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Thunderblood Essence]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 14
+| stamina secondary = 42
+| block armor       = 
+| movement speed    = 
+| weight=0.3
+| special = 
+}}
+
+'''Thunderblood Dagger''' is a version of [[Nord Dagger]] upgraded with a [[Thunderblood Essence]]. It gains extra [[slash]], [[pierce]] and [[Lightning|lightning damage]], a 25% chance per hit to trigger [[Chain lightning]] and a 0.2% damage increase for every 1 point of [[health]] the player is missing.
+
+* The primary attack is a fast 3-slash combo with 2x damage on the last swing.
+* Its secondary attack is a leaping stab with 3x damage.
+* It deals 6x damage against [[Creature senses|unalerted]] enemies.
+
+An upgraded Nord Dagger will '''NOT''' keep its upgrade level when it is crafted into Thunderblood Dagger.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|80
+|85
+|90
+|95
+|
+|-
+!Pierce
+|80
+|85
+|90
+|95
+|
+|-
+!Lightning
+|45
+|50
+|55
+|60
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|-
+!Crafting
+| {{item link|Bloodgold}} x20<br> {{item link|Nord Dagger}} x1<br> {{item link|Thunderblood Essence}} x1
+| [[Bloodgold]] x10<br> [[Thunderblood Essence]] x1
+| [[Bloodgold]] x20<br> [[Thunderblood Essence]] x2
+| [[Bloodgold]] x40<br> [[Thunderblood Essence]] x4
+| [[Bloodgold]] x90<br> [[Nord Dagger]] x1<br>[[Thunderblood Essence]] x8
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Thunderblood Dagger can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

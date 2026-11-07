@@ -1,0 +1,64 @@
+{{infobox creature
+| title        = Fallen Valkyrie
+| image 0star  = Fallen Valkyrie.png
+| trophy       = Fallen Valkyrie trophy
+| trophy description = Though she is dead, she yearns for the blood to flow.
+| trophy id    = TrophyFallenValkyrie
+| id           = FallenValkyrie
+| location     = [[Ashlands]]
+| tameable     = No
+| health 0star = 1500
+| damage 0star =
+* Spit: Fire 80, Poison 18
+* Claws: 105 Slash, 55 Pierce
+* Spin: 80 Blunt, 140 Pierce, 100 Chop, 100 Pickaxe 
+| abilities    =
+* Spit (10 seconds, 3x)
+* Claws (3 seconds)
+* Spin (10 seconds)
+| veryweak      = 
+| weak          = Spirit 
+| resistant     = Fire 
+| veryresistant = 
+| immune        = Poison 
+| stagger       = 50%
+| neutral       = 
+}}
+The '''Fallen Valkyrie''' is a hostile enemy found in the [[Ashlands]]. They often appear hovering some distance above ground, and periodically fly to nearby locations, as if scouting. They resemble the [[Valkyrie|Valkyries]] who bring the players to [[Valheim (world)|Valheim]], but showing noticeable signs of decay.
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Ashlands]], both day and night|limit=1|frequency=Uncommon|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Fallen Valkyries|Aggressive creature strategies#Fallen Valkyrie}}
+
+=== Spit ===
+Fallen Valkyries will fly back slightly before thrusting forward to launch three projectiles that explode on impact and create circular fields of fire 2 meters in radius, which inflict the [[Burning]] and [[Poison]] statuses (80 [[Damage types#Fire|Fire]] and 18 [[Damage types#Poison|Poison]] damage). Each projectile travels at 14 meters per second for up to 10 second before despawning and has a spread of 10–20 degrees. This attack can be used every 10 seconds when within 7–15 meters of a player.
+
+=== Claws ===
+Brings both talons up before swinging down to scratch the player (105 [[Damage types#Slash|Slash]] and 55 [[Damage types#Pierce|Pierce]] damage). This creates a vertical hitbox that extends outward 6.04 meters and arcs 60.2 degrees. They can use this attack every 3 seconds when within 3–5 meters of a player.
+
+=== Spin ===
+Folds both wings inward before extending them fully and spinning (80 [[Damage types#Blunt|Blunt]], 140 [[Damage types#Pierce|Pierce]], 100 Tier 0 [[Damage types#Chop|Chop]] and 100 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This hits in a circular area 5.67 meters in radius. It can be used every 10 seconds when within 6 meters of a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="310">
+File:Old valkyrie.png|An early version of the Fallen Valkyrie model
+File:FallenValkyrie.jpg|An Idle Fallen Valkyrie
+Falen valkyrie.png|A Fallen Valkyrie soaring
+20250605223151_2.jpg
+Ashlands 8.png|
+</gallery>
+
+{{Creatures}}
+
+[[ru:Падшая валькирия]]
+[[uk:Занепала валькірія]]
+[[de:Gefallene Walküre]]
+[[cs:Padlá valkýra]]
+[[fr:Valkyrie déchue]]

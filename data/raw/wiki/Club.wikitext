@@ -1,0 +1,70 @@
+{{infobox weapon
+| title            = Club
+| image            = Club.png
+| description      = A crude but useful weapon.
+| id               = Club
+| type             = Club 1h
+| source           = [[Crafting_Menu#Player_Inventory|Player crafting menu]]
+| durability       = 100
+| crafting level   = 1
+| repair level     = 1
+| blunt            = 12
+| knockback        = 30
+| stamina          = 6
+| damage secondary = 0
+| materials 1      = 
+* [[Wood]] x6
+| materials 2      = 
+* [[Bone Fragments]] x5
+| materials 3      = 
+* [[Bone Fragments]] x10
+| materials 4      = 
+* [[Bone Fragments]] x20
+| idol           = * [[Wooden Battle Idol]]
+| block armor      = 3
+| block force      = 20}}
+
+The '''Club''' is the first one-handed [[Clubs|club]].
+
+* Its primary attack is a 3-hit attack combo with double damage on the last hit.
+* Unlike other one-handed [[clubs]] ''(with the exception of [[Torch]])'', it has no secondary attack.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Blunt
+|12
+|18
+|24
+|30
+|-
+!Durability
+|100
+|150
+|200
+|250
+|-
+!Crafting
+|6 [[Wood]]
+|5 [[Bone Fragments]]
+|10 [[Bone Fragments]]
+|20 [[Bone Fragments]]
+{{Upgrade station row|Workbench|4|by hand=y}}
+|}
+
+* Club can also be upgraded at the [[Forge of Potential]] with a [[Wooden Battle Idol]].
+
+== Notes ==
+* Not very effective at quality 1, as a [[Flint Axe]] may be preferred. The Club becomes much stronger with upgrades, especially against [[Skeleton]]s, which take 50% more damage from blunt.
+
+{{Weapons}}
+
+[[ru:Дубина]]
+[[fr:Bâton]]
+[[cs:Palice (zbraň)]]
+[[de:Keule]]

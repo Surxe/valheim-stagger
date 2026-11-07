@@ -1,0 +1,1849 @@
+[
+ {
+  "id": "neck",
+  "name": "Neck",
+  "game_id": "Neck",
+  "biome": "Meadows",
+  "base_health": 5.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.54,
+  "damage_modifiers": {
+   "fire": "weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Neck",
+   "revid": 60643
+  },
+  "warnings": []
+ },
+ {
+  "id": "boar",
+  "name": "Boar",
+  "game_id": "Boar",
+  "biome": "Meadows",
+  "base_health": 10.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.24,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Boar",
+   "revid": 60937
+  },
+  "warnings": []
+ },
+ {
+  "id": "deer",
+  "name": "Deer",
+  "game_id": "Deer",
+  "biome": "Meadows",
+  "base_health": 10.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Deer",
+   "revid": 60782
+  },
+  "warnings": []
+ },
+ {
+  "id": "greyling",
+  "name": "Greyling",
+  "game_id": "Greyling",
+  "biome": "Meadows",
+  "base_health": 20.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.06,
+  "damage_modifiers": {
+   "fire": "very_weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Greyling",
+   "revid": 60644
+  },
+  "warnings": []
+ },
+ {
+  "id": "eikthyr",
+  "name": "Eikthyr",
+  "game_id": "Eikthyr",
+  "biome": "Meadows",
+  "base_health": 500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "spirit": "normal"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Eikthyr",
+   "revid": 60629
+  },
+  "warnings": []
+ },
+ {
+  "id": "greydwarf",
+  "name": "Greydwarf",
+  "game_id": "Greydwarf",
+  "biome": "Black Forest",
+  "base_health": 40.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.94,
+  "damage_modifiers": {
+   "fire": "very_weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Greydwarf",
+   "revid": 60645
+  },
+  "warnings": []
+ },
+ {
+  "id": "greydwarf-brute",
+  "name": "Greydwarf Brute",
+  "game_id": "Greydwarf_Elite",
+  "biome": "Black Forest",
+  "base_health": 150.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.34,
+  "damage_modifiers": {
+   "fire": "very_weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Greydwarf_Brute",
+   "revid": 60646
+  },
+  "warnings": []
+ },
+ {
+  "id": "greydwarf-shaman",
+  "name": "Greydwarf Shaman",
+  "game_id": "Greydwarf_Shaman",
+  "biome": "Black Forest",
+  "base_health": 60.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.33,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.26,
+  "damage_modifiers": {
+   "fire": "very_weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Greydwarf_Shaman",
+   "revid": 60647
+  },
+  "warnings": []
+ },
+ {
+  "id": "skeleton",
+  "name": "Skeleton",
+  "game_id": "Skeleton_Meadows Skeleton Skeleton_Swamps Skeleton_Mountains",
+  "biome": "Meadows",
+  "base_health": 40.0,
+  "health_source": "stagger_table",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.46,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "weak",
+   "frost": "resistant",
+   "pierce": "resistant",
+   "poison": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Skeleton",
+   "revid": 60625
+  },
+  "warnings": [
+   "Infobox health 30.0 disagrees with stagger table (40); using table."
+  ]
+ },
+ {
+  "id": "rancid-remains",
+  "name": "Rancid Remains",
+  "game_id": "Skeleton_Poison",
+  "biome": "Black Forest",
+  "base_health": 100.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.46,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "weak",
+   "frost": "resistant",
+   "pierce": "resistant",
+   "poison": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Rancid_Remains",
+   "revid": 60649
+  },
+  "warnings": []
+ },
+ {
+  "id": "ghost",
+  "name": "Ghost",
+  "game_id": "Ghost",
+  "biome": "Black Forest",
+  "base_health": 60.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.64,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Ghost",
+   "revid": 60650
+  },
+  "warnings": []
+ },
+ {
+  "id": "troll",
+  "name": "Troll",
+  "game_id": "Troll",
+  "biome": "Black Forest",
+  "base_health": 600.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.74,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "pierce": "weak",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Troll",
+   "revid": 60945
+  },
+  "warnings": []
+ },
+ {
+  "id": "the-elder",
+  "name": "The Elder",
+  "game_id": "gd_king",
+  "biome": "Black Forest",
+  "base_health": 2500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "very_weak",
+   "poison": "immune",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/The_Elder",
+   "revid": 60767
+  },
+  "warnings": []
+ },
+ {
+  "id": "root",
+  "name": "Root",
+  "game_id": "TentaRoot",
+  "biome": "Black Forest",
+  "base_health": 20.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "weak",
+   "frost": "resistant",
+   "poison": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Root_%28creature%29",
+   "revid": 58668
+  },
+  "warnings": []
+ },
+ {
+  "id": "serpent",
+  "name": "Serpent",
+  "game_id": "Serpent",
+  "biome": "Ocean",
+  "base_health": 400.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "immune",
+   "frost": "weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Serpent",
+   "revid": 60652
+  },
+  "warnings": []
+ },
+ {
+  "id": "abomination",
+  "name": "Abomination",
+  "game_id": "Abomination",
+  "biome": "Swamp",
+  "base_health": 800.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.33,
+  "stagger_immune": false,
+  "stagger_duration_s": 3.0,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "immune",
+   "lightning": "normal",
+   "pierce": "very_resistant",
+   "poison": "immune",
+   "slash": "normal",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Abomination",
+   "revid": 60658
+  },
+  "warnings": []
+ },
+ {
+  "id": "blob",
+  "name": "Blob",
+  "game_id": "Blob",
+  "biome": "Swamp",
+  "base_health": 50.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "resistant",
+   "frost": "weak",
+   "lightning": "weak",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Blob",
+   "revid": 60662
+  },
+  "warnings": []
+ },
+ {
+  "id": "oozer",
+  "name": "Oozer",
+  "game_id": "BlobElite",
+  "biome": "Swamp",
+  "base_health": 150.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "resistant",
+   "frost": "weak",
+   "lightning": "weak",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Oozer",
+   "revid": 60663
+  },
+  "warnings": []
+ },
+ {
+  "id": "draugr",
+  "name": "Draugr",
+  "game_id": "Draugr",
+  "biome": "Swamp",
+  "base_health": 100.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.8,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "poison": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Draugr",
+   "revid": 60664
+  },
+  "warnings": []
+ },
+ {
+  "id": "draugr-elite",
+  "name": "Draugr Elite",
+  "game_id": "Draugr_Elite",
+  "biome": "Swamp",
+  "base_health": 200.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.8,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "poison": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Draugr_Elite",
+   "revid": 60665
+  },
+  "warnings": []
+ },
+ {
+  "id": "leech",
+  "name": "Leech",
+  "game_id": "Leech",
+  "biome": "Swamp",
+  "base_health": 60.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "immune",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Leech",
+   "revid": 60666
+  },
+  "warnings": []
+ },
+ {
+  "id": "surtling",
+  "name": "Surtling",
+  "game_id": "Surtling",
+  "biome": "Swamp",
+  "base_health": 20.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.14,
+  "damage_modifiers": {
+   "fire": "immune",
+   "frost": "weak",
+   "poison": "immune",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Surtling",
+   "revid": 60667
+  },
+  "warnings": []
+ },
+ {
+  "id": "wraith",
+  "name": "Wraith",
+  "game_id": "Wraith",
+  "biome": "Swamp",
+  "base_health": 100.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.04,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "immune",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Wraith",
+   "revid": 60706
+  },
+  "warnings": []
+ },
+ {
+  "id": "bonemass",
+  "name": "Bonemass",
+  "game_id": "Bonemass",
+  "biome": "Swamp",
+  "base_health": 5000.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "very_resistant",
+   "frost": "weak",
+   "pierce": "very_resistant",
+   "poison": "immune",
+   "slash": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Bonemass",
+   "revid": 60768
+  },
+  "warnings": []
+ },
+ {
+  "id": "wolf",
+  "name": "Wolf",
+  "game_id": "Wolf",
+  "biome": "Mountains",
+  "base_health": 80.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.7,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Wolf",
+   "revid": 61081
+  },
+  "warnings": []
+ },
+ {
+  "id": "fenring",
+  "name": "Fenring",
+  "game_id": "Fenring",
+  "biome": "Mountains",
+  "base_health": 300.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.32,
+  "damage_modifiers": {
+   "fire": "weak",
+   "poison": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Fenring",
+   "revid": 60677
+  },
+  "warnings": []
+ },
+ {
+  "id": "drake",
+  "name": "Drake",
+  "game_id": "Hatchling",
+  "biome": "Mountains",
+  "base_health": 100.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "weak",
+   "frost": "immune",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Drake",
+   "revid": 60676
+  },
+  "warnings": []
+ },
+ {
+  "id": "stone-golem",
+  "name": "Stone Golem",
+  "game_id": "StoneGolem",
+  "biome": "Mountains",
+  "base_health": 800.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.33,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.0,
+  "damage_modifiers": {
+   "fire": "immune",
+   "frost": "immune",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Stone_Golem",
+   "revid": 60679
+  },
+  "warnings": []
+ },
+ {
+  "id": "bat",
+  "name": "Bat",
+  "game_id": "Bat Bat_Swamp",
+  "biome": "Mountains",
+  "base_health": 10.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.68,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "immune",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Bat",
+   "revid": 60680
+  },
+  "warnings": []
+ },
+ {
+  "id": "ulv",
+  "name": "Ulv",
+  "game_id": "Ulv",
+  "biome": "Mountains",
+  "base_health": 50.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.4,
+  "damage_modifiers": {
+   "fire": "very_resistant",
+   "poison": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Ulv",
+   "revid": 60681
+  },
+  "warnings": []
+ },
+ {
+  "id": "cultist",
+  "name": "Cultist",
+  "game_id": "Fenring_Cultist",
+  "biome": "Mountains",
+  "base_health": 200.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": 1.32,
+  "damage_modifiers": {
+   "fire": "immune",
+   "poison": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Cultist",
+   "revid": 60682
+  },
+  "warnings": []
+ },
+ {
+  "id": "moder",
+  "name": "Moder",
+  "game_id": "Dragon",
+  "biome": "Mountains",
+  "base_health": 7500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "normal",
+   "fire": "weak",
+   "frost": "immune",
+   "pierce": "normal",
+   "poison": "normal",
+   "slash": "normal",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Moder",
+   "revid": 60769
+  },
+  "warnings": []
+ },
+ {
+  "id": "deathsquito",
+  "name": "Deathsquito",
+  "game_id": "Deathsquito",
+  "biome": "Plains",
+  "base_health": 10.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Deathsquito",
+   "revid": 60700
+  },
+  "warnings": []
+ },
+ {
+  "id": "lox",
+  "name": "Lox",
+  "game_id": "Lox",
+  "biome": "Plains",
+  "base_health": 1000.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.72,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "resistant",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Lox",
+   "revid": 60949
+  },
+  "warnings": []
+ },
+ {
+  "id": "fuling",
+  "name": "Fuling",
+  "game_id": "Goblin",
+  "biome": "Plains",
+  "base_health": 175.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.08,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Fuling",
+   "revid": 60702
+  },
+  "warnings": []
+ },
+ {
+  "id": "fuling-berserker",
+  "name": "Fuling Berserker",
+  "game_id": "GoblinBrute",
+  "biome": "Plains",
+  "base_health": 800.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": 2.88,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Fuling_Berserker",
+   "revid": 60703
+  },
+  "warnings": []
+ },
+ {
+  "id": "fuling-shaman",
+  "name": "Fuling Shaman",
+  "game_id": "GoblinShaman",
+  "biome": "Plains",
+  "base_health": 100.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": 3.2,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Fuling_Shaman",
+   "revid": 60704
+  },
+  "warnings": []
+ },
+ {
+  "id": "growth",
+  "name": "Growth",
+  "game_id": "BlobTar",
+  "biome": "Plains",
+  "base_health": 100.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "weak",
+   "frost": "resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Growth",
+   "revid": 60705
+  },
+  "warnings": []
+ },
+ {
+  "id": "yagluth",
+  "name": "Yagluth",
+  "game_id": "GoblinKing",
+  "biome": "Plains",
+  "base_health": 10000.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "pierce": "very_resistant",
+   "poison": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Yagluth",
+   "revid": 60792
+  },
+  "warnings": []
+ },
+ {
+  "id": "bear",
+  "name": "Bear",
+  "game_id": "Bjorn",
+  "biome": "Black Forest",
+  "base_health": 500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "resistant",
+   "pierce": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Bear",
+   "revid": 60651
+  },
+  "warnings": []
+ },
+ {
+  "id": "vile",
+  "name": "Vile",
+  "game_id": "Unbjorn",
+  "biome": "Plains",
+  "base_health": 1200.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Vile",
+   "revid": 60707
+  },
+  "warnings": []
+ },
+ {
+  "id": "hen",
+  "name": "Hen",
+  "game_id": "Hen",
+  "biome": null,
+  "base_health": 10.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Hen",
+   "revid": 61195
+  },
+  "warnings": []
+ },
+ {
+  "id": "chicken",
+  "name": "Chicken",
+  "game_id": "Chicken",
+  "biome": null,
+  "base_health": 10.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Chicken",
+   "revid": 60785
+  },
+  "warnings": []
+ },
+ {
+  "id": "lox-calf",
+  "name": "Lox Calf",
+  "game_id": "Lox",
+  "biome": "Plains",
+  "base_health": 100.0,
+  "health_source": "stagger_table",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "resistant",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Lox",
+   "revid": 60949
+  },
+  "warnings": [
+   "No own wiki page; resistances taken from 'Lox' page and may differ."
+  ]
+ },
+ {
+  "id": "seeker",
+  "name": "Seeker",
+  "game_id": "Seeker",
+  "biome": "Mistlands",
+  "base_health": 200.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "pierce": "resistant",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Seeker",
+   "revid": 60708
+  },
+  "warnings": []
+ },
+ {
+  "id": "seeker-brood",
+  "name": "Seeker Brood",
+  "game_id": "SeekerBrood",
+  "biome": "Mistlands",
+  "base_health": 20.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "pierce": "resistant",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Seeker_Brood",
+   "revid": 60712
+  },
+  "warnings": []
+ },
+ {
+  "id": "seeker-soldier",
+  "name": "Seeker Soldier",
+  "game_id": "SeekerBrute",
+  "biome": "Mistlands",
+  "base_health": 1500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "pierce": "resistant",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Seeker_Soldier",
+   "revid": 60711
+  },
+  "warnings": []
+ },
+ {
+  "id": "tick",
+  "name": "Tick",
+  "game_id": "Tick",
+  "biome": "Mistlands",
+  "base_health": 50.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "pierce": "weak",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Tick",
+   "revid": 60714
+  },
+  "warnings": []
+ },
+ {
+  "id": "gjall",
+  "name": "Gjall",
+  "game_id": "Gjall",
+  "biome": "Mistlands",
+  "base_health": 1500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Gjall",
+   "revid": 60851
+  },
+  "warnings": []
+ },
+ {
+  "id": "dvergr-rogue",
+  "name": "Dvergr Rogue",
+  "game_id": "Dverger",
+  "biome": "Mistlands",
+  "base_health": 350.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Dvergr_Rogue",
+   "revid": 60719
+  },
+  "warnings": []
+ },
+ {
+  "id": "dvergr-mage",
+  "name": "Dvergr Mage",
+  "game_id": "DvergerMage (unified)\n*DvergerMageFire\n*DvergerMageIce\n*DvergerMageSupport",
+  "biome": "Mistlands",
+  "base_health": 350.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "frost": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Dvergr_Mage",
+   "revid": 61062
+  },
+  "warnings": []
+ },
+ {
+  "id": "the-queen",
+  "name": "The Queen",
+  "game_id": "SeekerQueen",
+  "biome": "Mistlands",
+  "base_health": 12500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "pierce": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/The_Queen",
+   "revid": 60809
+  },
+  "warnings": []
+ },
+ {
+  "id": "charred-warrior",
+  "name": "Charred Warrior",
+  "game_id": "Charred_Melee",
+  "biome": "Ashlands",
+  "base_health": 600.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "very_resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Charred_Warrior",
+   "revid": 60725
+  },
+  "warnings": []
+ },
+ {
+  "id": "charred-marksman",
+  "name": "Charred Marksman",
+  "game_id": "Charred_Archer",
+  "biome": "Ashlands",
+  "base_health": 200.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "very_resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Charred_Marksman",
+   "revid": 60726
+  },
+  "warnings": []
+ },
+ {
+  "id": "charred-warlock",
+  "name": "Charred Warlock",
+  "game_id": "Charred_Mage",
+  "biome": "Ashlands",
+  "base_health": 600.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "very_resistant",
+   "frost": "resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Charred_Warlock",
+   "revid": 60724
+  },
+  "warnings": []
+ },
+ {
+  "id": "charred-twitcher",
+  "name": "Charred Twitcher",
+  "game_id": "Charred_Twitcher",
+  "biome": "Ashlands",
+  "base_health": 220.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "very_resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Charred_Twitcher",
+   "revid": 60727
+  },
+  "warnings": []
+ },
+ {
+  "id": "asksvin",
+  "name": "Asksvin",
+  "game_id": "Asksvin",
+  "biome": "Ashlands",
+  "base_health": 800.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Asksvin",
+   "revid": 61160
+  },
+  "warnings": []
+ },
+ {
+  "id": "asksvin-hatchling",
+  "name": "Asksvin Hatchling",
+  "game_id": "Asksvin",
+  "biome": "Ashlands",
+  "base_health": 400.0,
+  "health_source": "stagger_table",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Asksvin",
+   "revid": 61160
+  },
+  "warnings": [
+   "No own wiki page; resistances taken from 'Asksvin' page and may differ."
+  ]
+ },
+ {
+  "id": "volture",
+  "name": "Volture",
+  "game_id": "Volture",
+  "biome": "Ashlands",
+  "base_health": 200.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "frost": "weak",
+   "poison": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Volture",
+   "revid": 60728
+  },
+  "warnings": []
+ },
+ {
+  "id": "morgen",
+  "name": "Morgen",
+  "game_id": "Morgen",
+  "biome": "Ashlands",
+  "base_health": 1600.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "resistant",
+   "lightning": "weak",
+   "pierce": "resistant",
+   "slash": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Morgen",
+   "revid": 60729
+  },
+  "warnings": []
+ },
+ {
+  "id": "fallen-valkyrie",
+  "name": "Fallen Valkyrie",
+  "game_id": "FallenValkyrie",
+  "biome": "Ashlands",
+  "base_health": 1500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "poison": "immune",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Fallen_Valkyrie",
+   "revid": 60948
+  },
+  "warnings": []
+ },
+ {
+  "id": "lava-blob",
+  "name": "Lava Blob",
+  "game_id": "BlobLava",
+  "biome": "Ashlands",
+  "base_health": 300.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "immune",
+   "frost": "weak",
+   "lightning": "weak",
+   "pierce": "resistant",
+   "poison": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Lava_Blob",
+   "revid": 60940
+  },
+  "warnings": []
+ },
+ {
+  "id": "bonemaw",
+  "name": "Bonemaw",
+  "game_id": "BonemawSerpent",
+  "biome": "Ashlands",
+  "base_health": 1100.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "immune",
+   "frost": "weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Bonemaw",
+   "revid": 60721
+  },
+  "warnings": []
+ },
+ {
+  "id": "fader",
+  "name": "Fader",
+  "game_id": "Fader",
+  "biome": "Ashlands",
+  "base_health": 25000.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "immune",
+   "pierce": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Fader",
+   "revid": 60772
+  },
+  "warnings": []
+ },
+ {
+  "id": "greydwarf-deep-north",
+  "name": "Greydwarf (Deep North)",
+  "game_id": "Greydwarf_Frozen",
+  "biome": "Deep North",
+  "base_health": 100.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "very_weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Greydwarf_%28Deep_North%29",
+   "revid": 60737
+  },
+  "warnings": []
+ },
+ {
+  "id": "greydwarf-shaman-deep-north",
+  "name": "Greydwarf Shaman (Deep North)",
+  "game_id": "Greydwarf_Shaman_Frozen",
+  "biome": "Deep North",
+  "base_health": 120.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.33,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "very_weak",
+   "poison": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Greydwarf_Shaman_%28Deep_North%29",
+   "revid": 60939
+  },
+  "warnings": []
+ },
+ {
+  "id": "moose",
+  "name": "Moose",
+  "game_id": "moose",
+  "biome": "Deep North",
+  "base_health": 1000.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "resistant",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Moose",
+   "revid": 61181
+  },
+  "warnings": []
+ },
+ {
+  "id": "barka",
+  "name": "Barka",
+  "game_id": "Barka",
+  "biome": "Deep North",
+  "base_health": 2200.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "weak",
+   "frost": "resistant",
+   "lightning": "resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Barka",
+   "revid": 61182
+  },
+  "warnings": []
+ },
+ {
+  "id": "elaking",
+  "name": "Elaking",
+  "game_id": "Elaking ElakingLantern",
+  "biome": null,
+  "base_health": 350.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "weak",
+   "frost": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Elaking",
+   "revid": 61063
+  },
+  "warnings": []
+ },
+ {
+  "id": "eyeless-one",
+  "name": "Eyeless One",
+  "game_id": "ElakingMole",
+  "biome": null,
+  "base_health": 1400.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "frost": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Eyeless_One",
+   "revid": 60942
+  },
+  "warnings": []
+ },
+ {
+  "id": "fallen-warrior",
+  "name": "Fallen Warrior",
+  "game_id": "FallenWarrior",
+  "biome": null,
+  "base_health": 750.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.4,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant",
+   "spirit": "weak"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Fallen_Warrior",
+   "revid": 61131
+  },
+  "warnings": []
+ },
+ {
+  "id": "gammeltroll",
+  "name": "Gammeltroll",
+  "game_id": "TrollFrost",
+  "biome": "Deep North",
+  "base_health": 3000.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "resistant",
+   "fire": "immune",
+   "frost": "resistant",
+   "pierce": "resistant",
+   "slash": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Gammeltroll",
+   "revid": 61187
+  },
+  "warnings": []
+ },
+ {
+  "id": "krigen",
+  "name": "Krigen",
+  "game_id": "JotunWarrior (sword and greataxe) JotunWarriorDualWield (dual-axe)",
+  "biome": null,
+  "base_health": 1300.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "frost": "very_resistant",
+   "pierce": "resistant",
+   "poison": "immune",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Krigen",
+   "revid": 61159
+  },
+  "warnings": []
+ },
+ {
+  "id": "hexen",
+  "name": "Hexen",
+  "game_id": "JotunWitch",
+  "biome": null,
+  "base_health": 800.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.5,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "weak",
+   "frost": "very_resistant",
+   "poison": "immune",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Hexen",
+   "revid": 61125
+  },
+  "warnings": []
+ },
+ {
+  "id": "captive-fuling",
+  "name": "Captive Fuling",
+  "game_id": "GoblinDeepNorth",
+  "biome": null,
+  "base_health": 250.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Captive_Fuling",
+   "revid": 60256
+  },
+  "warnings": []
+ },
+ {
+  "id": "imprisoned-dvergr",
+  "name": "Imprisoned Dvergr",
+  "game_id": "DvergerDeepNorth",
+  "biome": null,
+  "base_health": 1500.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.3,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Imprisoned_Dvergr",
+   "revid": 61145
+  },
+  "warnings": []
+ },
+ {
+  "id": "shadow",
+  "name": "Shadow",
+  "game_id": "ShadowPerson",
+  "biome": null,
+  "base_health": 750.0,
+  "health_source": "stagger_table",
+  "stagger_factor": 0.4,
+  "stagger_immune": false,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "immune",
+   "fire": "immune",
+   "frost": "immune",
+   "lightning": "immune",
+   "pierce": "immune",
+   "poison": "immune",
+   "slash": "immune",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Shadow",
+   "revid": 55518
+  },
+  "warnings": []
+ },
+ {
+  "id": "seal",
+  "name": "Seal",
+  "game_id": "Seal",
+  "biome": "Deep North",
+  "base_health": 400.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "weak",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Seal",
+   "revid": 60943
+  },
+  "warnings": []
+ },
+ {
+  "id": "shapeless-pulp",
+  "name": "Shapeless Pulp",
+  "game_id": "BlobMork",
+  "biome": null,
+  "base_health": 150.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "resistant",
+   "frost": "weak",
+   "lightning": "weak",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Shapeless_Pulp",
+   "revid": 60944
+  },
+  "warnings": []
+ },
+ {
+  "id": "tiny-pulp",
+  "name": "Tiny Pulp",
+  "game_id": "BlobMorkMini",
+  "biome": null,
+  "base_health": 50.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "blunt": "weak",
+   "fire": "resistant",
+   "frost": "weak",
+   "lightning": "weak",
+   "pierce": "resistant",
+   "poison": "immune",
+   "slash": "resistant"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Tiny_Pulp",
+   "revid": 60749
+  },
+  "warnings": []
+ },
+ {
+  "id": "kall-fimbulbringer",
+  "name": "Kall Fimbulbringer",
+  "game_id": "FrozenKing FrozenKing_p2 FrozenKing_p3",
+  "biome": "Deep North",
+  "base_health": 10000.0,
+  "health_source": "infobox",
+  "stagger_factor": 0.0,
+  "stagger_immune": true,
+  "stagger_duration_s": null,
+  "damage_modifiers": {
+   "fire": "resistant",
+   "frost": "resistant",
+   "lightning": "resistant",
+   "pierce": "resistant",
+   "spirit": "immune"
+  },
+  "source": {
+   "stagger": "https://valheim.weirdgloop.org/w/Stagger",
+   "page": "https://valheim.weirdgloop.org/w/Kall_Fimbulbringer",
+   "revid": 61118
+  },
+  "warnings": []
+ }
+]

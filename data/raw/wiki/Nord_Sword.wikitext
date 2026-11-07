@@ -1,0 +1,118 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+| title = Nord Sword
+| image = Nord Sword.png
+| description = Even in the faintest sunlight, this weapon glimmers.
+| type = Sword
+| id = SwordGold
+| source = [[Frost Foundry]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| slash             = 170
+| slash per level = 10
+| knockback         = 
+| materials 1 = 
+* [[Cast Nord Sword]] x1
+* [[Liquid Frost]] x5
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Timberwood]] x5
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Timberwood]] x10
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Timberwood]] x20
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 66
+| movement speed    = -5%
+}}
+|Cast|
+{{Infobox item
+| title = Cast: Nord Sword
+| image = Cast Nord Sword.png
+| description = This weapon needs to be hardened with frost.
+| id = SwordGoldUncooked
+| type = Cast
+| source = [[Black Forge]] level 4
+| materials = 
+* [[Bloodgold]] x20
+* [[Mould Nord Sword]] x1
+* [[Timberwood]] x10
+| weight      = 0.8
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+| title = Mould: Nord Sword
+| image = Mould Nord Sword.png
+| description = Filled with the right material, this mould will create a most formidable weapon.
+| id = MoldSword
+| type = Mould
+| weight      = 1.0
+| stack       = 10
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Abandoned Deep North Village]]<br>[[Mörkhalla]]
+| usage       = Crafting
+}}
+}}
+
+'''Nord Sword''' is the eighth, [[Deep North]]-tier [[Swords|sword]].
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+It cannot be crafted directly, instead the player must craft the corresponding '''Cast Nord Sword''' and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Sword''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* From [[Barrel]]s in [[Abandoned Village]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrade information ==
+Like most Deep North-tier weapons, the Nord Sword can be upgraded into:
+
+* {{item link|Frostfire Sword}} (with a [[Frostfire Essence]])
+* {{item link|Thunderblood Sword}} (with a [[Thunderblood Essence]]).
+
+An upgraded Nord Sword will '''NOT''' keep its upgrade level when it is modified using an essense.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|170
+|180
+|190
+|200
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br>[[Mould Nord Sword]] x1<br>[[Timberwood]] x10<br>[[Liquid Frost]] x5
+| [[Bloodgold]] x10<br>[[Timberwood]] x5
+| [[Bloodgold]] x20<br>[[Timberwood]] x10
+| [[Bloodgold]] x40<br>[[Timberwood]] x20
+| [[Bloodgold]] x90<br>[[Mould Nord Sword]] x1<br>[[Timberwood]] x45<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Sword can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+{{WeaponsNav}}

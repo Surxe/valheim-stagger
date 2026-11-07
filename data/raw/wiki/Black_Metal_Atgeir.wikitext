@@ -1,0 +1,81 @@
+{{infobox weapon
+| image          = Blackmetal atgeir.png
+| description    = A vicious hewing-axe of almost unbreakable black metal.
+| id             = AtgeirBlackmetal
+| type           = Polearm
+| source         = [[Forge]]
+| crafting level = 4
+| repair level   = 4
+| pierce         = 105
+| materials 1 = 
+* [[Finewood]] x10
+* [[Black Metal]] x30
+* [[Linen Thread]] x5
+| materials 2 = 
+* [[Black Metal]] x15
+* [[Linen Thread]] x5
+| materials 3 = 
+* [[Black Metal]] x30
+* [[Linen Thread]] x10
+| materials 4 = 
+* [[Black Metal]] x60
+* [[Linen Thread]] x20
+| idol           = * [[Black Metal Battle Idol]]
+| stamina = 18
+| block armor = 52}}
+
+'''Black Metal Atgeir''' is the third [[Polearms|polearm]].
+
+* Its primary attack is a 3-stab combo with 2x damage on the last hit.
+* The secondary attack is an AOE swing with a 3-meter radius that deals 1x damage and 6x stagger with no damage penalty against multiple targets.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|105
+|111
+|117
+|123
+|
+|-
+!Durability
+|175
+|225
+|275
+|325
+|
+|-
+!Crafting
+|10 [[Finewood]]<br>30 [[Black Metal]]<br>5 [[Linen Thread]]
+|15 [[Black Metal]]<br>5 [[Linen Thread]]
+|30 [[Black Metal]]<br>10 [[Linen Thread]]
+|60 [[Black Metal]]<br>20 [[Linen Thread]]
+|10 [[Finewood]]<br>135 [[Black Metal]]<br>40 [[Linen Thread]]
+{{Upgrade station row|Forge|4|start=4|addcol=1}}
+|}
+
+* Black Metal Atgeir can also be upgraded at the [[Forge of Potential]] with a [[Black Metal Battle Idol]].
+
+== Notes ==
+* The secondary attack is enough to stagger most creatures, which makes it optimal for crowd control.
+* Despite the visual resembling a slash, the secondary attack deals piercing damage.
+
+== Gallery ==
+<gallery>
+File:BM Atgeir model screenshot.png
+</gallery>
+
+{{Weapons}}
+
+[[Category:Polearms]]
+
+[[Fr:Atgeir_en_sombracier]]
+[[cs:Atgeir z černého kovu]]
+[[ru:Алебарда из черного металла]]

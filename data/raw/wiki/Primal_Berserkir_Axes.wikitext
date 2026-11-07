@@ -1,0 +1,88 @@
+{{infobox weapon
+| image           = Primal Berserkir Axes.png
+| description     = Your most primal instincts take over, and the nature around you reaches out to aid you.
+| id              = AxeBerzerkrNature
+| type            = axe dw
+| source          = Black forge
+| durability      = 300
+| crafting level  = 4
+| repair level    = 4
+| slash           = 140
+| poison          = 10
+| chop            = 80
+| knockback       = 20
+| backstab        = 3x
+| parry bonus     = 2
+| slash per level = 5
+| chop per level  = 3
+| materials 1 = 
+* [[Berserkir Axes]] x1
+* [[Flametal]] x5
+* [[Jade]] x1
+| materials 2 = 
+* [[Flametal]] x5
+* [[Jade]] x1
+| materials 3 = 
+* [[Flametal]] x10
+* [[Jade]] x2
+| materials 4 = 
+* [[Flametal]] x20
+* [[Jade]] x4
+| idol             = * [[Flametal Battle Idol]]
+| stamina         = 16
+| weight           = 2.0
+| block armor     = 57
+| block force     = 20
+| block force per level = 5
+| wielding        = Dual wielded
+|movement speed   = -5%
+}}
+'''Primal Berserkir Axes''' are the upgraded form of [[Berserkir Axes]] using the [[Jade]]. Like all upgraded-weapons that use Jade, they gain 10 [[Poison|poison damage]] and their hit effect has a 20% chance to apply [[Immobilized]].
+
+* Its primary attack is a 4-step combo: two single hits, one with each axe, followed by two double hits using both axes simultaneously, resulting in a total of 6 hits. The final double hit deals 2x damage with each individual hit.
+* The secondary attack costs 28 stamina and is a leap forward, followed by a slash with both axes for a single hit, dealing 2x the damage.
+
+An upgraded Berserkir Axes will '''NOT''' keep their upgrade level when they are crafted into Primal Berserkir Axes.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|140
+|145
+|150
+|155
+|-
+!Poison
+|10
+|10
+|10
+|10
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|1 [[Berserkir Axes]]<br>5 [[Flametal]]<br>1 [[Jade]]
+|5 [[Flametal]]<br>1 [[Jade]]
+|10 [[Flametal]]<br>2 [[Jade]]
+|20 [[Flametal]]<br>4 [[Jade]]
+{{Upgrade station row|Black forge|4|start=4}}
+|}
+
+* Primal Berserkir Axes can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+{{WeaponsNav}}
+
+[[ru:Первобытные топоры берсеркира]]
+[[cs:Prvotní berserkské sekery]]
+[[de:Urweltliche Berserkir-Äxte]]
+[[fr:Haches des berserkir primitives]]

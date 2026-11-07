@@ -1,0 +1,79 @@
+{{Infobox_weapon
+|title          = Paws of the Bear
+|image          = Paws of the Bear.png
+|description    = Made for tearing and rending.
+|id             = FistBjornClaw
+|type           = fists
+|source         = [[Workbench]]
+|crafting level = 2
+|repair level   = 2
+|slash          = 25
+|materials 1=
+* [[Bear Hide]] x2
+* [[Bear Paw]] x2
+* [[Leather Scraps]] x4
+|materials 2=
+* [[Bear Hide]] x2
+* [[Leather Scraps]] x2
+|materials 3=
+* [[Bear Hide]] x4
+* [[Leather Scraps]] x4
+|materials 4=
+* [[Bear Hide]] x8
+* [[Leather Scraps]] x8
+| idol         = * [[Bronze Battle Idol]]
+| stamina      = 6}}
+
+'''Paws of the Bear''' is the first craftable [[Fists|fist weapon]].
+
+* The primary attack is a 2-hit combo with 2x damage at the second hit.
+* The secondary attack is a kick which does additional knockback and 6x [[staggering]].
+* They deal 6x damage against [[Creature senses|unalerted]] enemies.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|25
+|29
+|33
+|37
+|
+|-
+!Durability
+|300
+|350
+|400
+|450
+|
+|-
+!Crafting
+|2 [[Bear Hide]]<br>2 [[Bear Paw]]<br>4 [[Leather Scraps]]
+|2 [[Bear Hide]]<br>2 [[Leather Scraps]]
+|4 [[Bear Hide]]<br>4 [[Leather Scraps]]
+|8 [[Bear Hide]]<br>8 [[Leather Scraps]]
+|16 [[Bear Hide]]<br>2 [[Bear Paw]]<br>18 [[Leather Scraps]]
+|-
+!Workbench level
+|2
+|3
+|4
+|5
+|
+|}
+
+* Paws of the Bear can also be upgraded beyond level 4 at the [[Forge of Potential]] with a [[Bronze Battle Idol]].
+
+== Trivia ==
+* The secondary attack is enough to stagger most creatures.
+* Paws of the Bear like other fist weapons are the most durable of any weapon in the game by having durability value of 450 at max level.
+
+{{WeaponsNav}}
+
+[[ru:Медвежьи лапы]]

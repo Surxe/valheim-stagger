@@ -1,0 +1,84 @@
+{{infobox weapon
+| image           = Brutal Slayer.png
+| description     = If it bleeds, you can kill it.
+| id              = THSwordSlayerBlood
+| type            = Sword 2h
+| source          = [[Black Forge]]
+| crafting level  = 4
+| repair level    = 4
+| slash           = 170
+| materials 1 = 
+* [[Slayer]] x1
+* [[Flametal]] x15
+* [[Bloodstone]] x1
+| materials 2 = 
+* [[Flametal]] x15
+* [[Bloodstone]] x1
+| materials 3 = 
+* [[Flametal]] x30
+* [[Bloodstone]] x2
+| materials 4 = 
+* [[Flametal]] x60
+* [[Bloodstone]] x4
+| idol            = * [[Flametal Battle Idol]]
+| slash per level = 6
+| stamina         = 20
+| weight          = 4.0
+| durability      = 300
+| durability per level = 50
+| knockback       = 55
+| backstab        = 3x
+| block armor     = 64
+| block armor per level = 0
+| block force     = 50
+| block force per level = 10
+| wielding        = Two-handed
+| parry bonus     = 2
+| movement speed  = -5%
+}}
+
+'''Brutal Slayer''' is the upgraded form of [[Slayer]] using the [[Bloodstone]]. Like all upgraded-weapons that use Bloodstone, its damage is increased by 0.2% for every 1 point of [[health]] the player is missing ''(not to be confused with health percentage)''.
+
+* The primary attack is a wide 3-hit attack combo with double damage on the last hit.
+* Its slower secondary attack is a thrust that deals 3x damage.
+
+An upgraded Slayer will '''NOT''' keep its upgrade level when it is crafted into Brutal Slayer.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|170
+|176
+|182
+|188
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|1 [[Slayer]]<br>15 [[Flametal]]<br>1 [[Bloodstone]]
+|15 [[Flametal]]<br>1 [[Bloodstone]]
+|30 [[Flametal]]<br>2 [[Bloodstone]]
+|60 [[Flametal]]<br>4 [[Bloodstone]]
+{{Crafting station row|Black forge|4|start=4}}
+|}
+
+* Brutal Slayer can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+== Notes ==
+* The primary attacks are fairly vertical and wide reaching, with the third attack in the combo being more narrow in the horizontal plane.
+* The secondary attack is a long reaching thrust that is capable of outreaching most enemies.
+* The Bloodstone effect works with MISSING health, -1 Health = 0.2% increased damage.
+
+{{Weapons}}
+
+[[ru:Жестокий убийца]]

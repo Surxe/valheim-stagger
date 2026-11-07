@@ -1,0 +1,83 @@
+{{Infobox creature
+| image 0star  = Asksvin.png
+| image 1star  = Asksvin 1star.png
+| image 2star  = Asksvin 2star.png
+| trophy       = Asksvin trophy
+| trophy description = Don't let yourself be fooled by the friendly smile, for it could easily bite your arm off.
+| trophy id = TrophyAsksvin
+| id           = Asksvin
+| faction      = Demon
+| location     = [[Ashlands]]
+| tameable     = Yes
+| health 0star = 800
+| damage 0star =
+* Bite: 75 Blunt, 75 Slash, 50 Chop, 50 Pickaxe
+* Headbutt: 120 Blunt, 100 Chop, 100 Pickaxe
+* Pounce: 150 Blunt, 50 Chop, 100 Pickaxe
+| health 1star = 1600
+| damage 1star =
+* Bite: 112.5 Blunt, 112.5 Slash, 75 Chop, 75 Pickaxe
+* Headbutt: 180 Blunt, 150 Chop, 150 Pickaxe
+* Pounce: 225 Blunt, 75 Chop, 150 Pickaxe
+| health 2star = 2400
+| damage 2star =
+* Bite: 150 Blunt, 150 Slash, 100 Chop, 100 Pickaxe
+* Headbutt: 240 Blunt, 200 Chop, 200 Pickaxe
+* Pounce: 300 Blunt, 100 Chop, 200 Pickaxe
+| abilities =
+* Bite (8 seconds)
+* Headbutt (8 seconds)
+* Pounce (4 seconds)
+| resistant = Fire, Poison
+| immune    = Spirit
+| stagger   = 30%}}
+'''Asksvin''' are hostile, tameable, and fast rideable creatures found in the [[Ashlands]]. They look like huge, mutated [[Neck]]s.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{Spawn table|{{spawn row|type=[[Spawn zones|Middle]] of the [[Ashlands]] during the daytime|limit=2|frequency=4|stars=Yes (max 1 star)}}
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Ashlands]] during the nighttime, despawn at dawn|limit=2|frequency=4|stars=Yes}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Asksvin|Aggressive creature strategies#Asksvin}}
+Both before and after taming, Asksvin take no damage from [[lava]], despite not being immune to fire damage.
+
+=== Bite ===
+Sweeps their head back before rounding forward to chomp down on the player (75 [[Damage types#Blunt|Blunt]], 75 [[Damage types#Slash|Slash]], 50 Tier 0 [[Damage types#Chop|Chop]] and 50 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This extends 4.5 meters in a 45-degree horizontal arc and can be used every 8 seconds when within 4 meters of a player.
+
+=== Headbutt ===
+Steps back before bringing their head down and rushing at the player (120 [[Damage types#Blunt|Blunt]], 100 Tier 4 [[Damage types#Chop|Chop]] and 100 Tier 4 [[Damage types#Pickaxe|Pickaxe]] damage). This extends 4 meters in a 45-degree horizontal arc and can be used every 8 seconds when within 6 meters of a player.
+
+=== Pounce ===
+Wiggles a little before springing forward at the player (150 [[Damage types#Blunt|Blunt]], 50 Tier 0 [[Damage types#Chop|Chop]] and 100 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This attack hit in a horizontal arc of 5.5 meters and 45 degrees. It can be used every 4 seconds when within 3–6 meters of a player. The attack does high damage to [[Grausten Structures|grausten]] and weaker structures, similar to a Lox, and it can even damage [[Factions|allied creatures]].
+
+Parts for a buildable [[Asksvin Skeleton]] can also be found separately in the [[Ashlands]], but they drop from destroying Asksvin Skeletons already there, not from killing Asksvin.
+
+== Taming ==
+''For general taming information and strategies, see [[Taming]].''
+
+Similar to the [[Wolf]], Level 3 (two-star) Asksvin only spawn at night. Like any creatures spawned at night, Level 3 Asksvin will attempt to flee the active area and despawn during daytime hours if the taming process has not begun. This can be prevented by either (A) trapping them in a pit or pen that they cannot escape (and staying within 64 meters of them) or (B) by starting the taming process, after which they will never despawn. 
+
+Asksvin can be tamed by feeding them [[Smoke Puff]]s, [[Vineberry Cluster]]s or [[Fiddlehead]]s. They are rideable by equipping the [[Asksvin Saddle]]. When riding an Asksvin, players cannot attack. Players riding an Asksvin can traverse lava, and neither the player nor Asksvin will take damage from the lava.
+
+Tamed Asksvin do not do friendly fire damage to players, any other tamed creatures or neutral [[Dvergr (race)|Dvergr]].
+
+== Breeding ==
+Asksvin can breed, provided the Asksvin is happy and well-fed with [[Fiddlehead]] or [[Vineberry Cluster]] or [[Smoke Puff]], along with there being another Asksvin within four meters, and no more than 10 Asksvin within at least 10 meters. Once the conditions are met, they will accumulate love points with one another until the pregnancy starts. Pregnancy lasts 60 seconds, checked every 30 seconds, so the egg comes 60 to 90 seconds after it starts. They then lay an [[Asksvin egg]]. The quality of the Asksvin egg is determined by the Asksvin that laid it. A quality 1 egg in the player's inventory indicates a 0-star Asksvin, quality 2 indicates a 1-star, and quality 3 indicates a 2-star.
+
+Once laid, it would take 30 minutes to hatch into Asksvin Hatchling if there is a heat source nearby (Example [[Campfire]]). If the heat source is gone or the player puts the egg into their inventory, the timer is reset. Then the Asksvin Hatchling takes 50 minutes to grow into an adult without the need of heat source.
+
+They will not breed if the cap is reached, which is 10 Asksvin in 10 meters. However, there is currently no known limit to the eggs themselves.
+
+Two Asksvin in a pen can "boost" each other over 2 high stone walls if trying to run to the same spot outside the pen. Without the saddle, they are very hard to recapture.
+
+== Trivia ==
+* The word "Asksvin" is Swedish for "ash swine." And like swine, the plural for Asksvin is the same as its singular form.
+* Due to their green and warty appearance, "Pickle-Dog" has gained popularity as a common moniker for Asksvin within the Twitch-Valheim community.
+
+{{Creatures}}
+
+[[uk:Попелозавр]]
+[[ru:Пеплозавр]]

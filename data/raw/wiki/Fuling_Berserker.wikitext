@@ -1,0 +1,64 @@
+{{infobox creature
+| image 0star  = Fuling Berserker.png
+| image 1star  = Fuling Berserker 1star.png
+| image 2star  = Fuling Berserker 2star.png
+| trophy       = Fuling berserker trophy
+| trophy description = The huge grizzled head is as heavy as a boulder.
+| trophy id    = TrophyGoblinBrute
+| id           = GoblinBrute
+| location     = 
+[[Plains]]
+| health 0star = 800
+| damage 0star = 
+* Attack: 130 Blunt, 100 Chop, 40 Pickaxe
+* Rage attack: 130 Blunt, 100 Chop, 40 Pickaxe
+| health 1star = 1600
+| damage 1star = 
+* Attack: 195 Blunt, 150 Chop, 60 Pickaxe
+* Rage attack: 195 Blunt, 150 Chop, 60 Pickaxe
+| health 2star = 2400
+| damage 2star = 
+* Attack: 260 Blunt, 200 Chop, 80 Pickaxe
+* Rage attack: 260 Blunt, 200 Chop, 80 Pickaxe
+| abilities    = * Attack (2s)
+* Rage attack (20 seconds)
+| veryweak      = 
+| weak          = 
+| resistant     = 
+| veryresistant = 
+| immune        = Spirit
+| neutral      = 
+|stagger=30%|faction=Plains}}
+'''Fuling Berserkers''' are aggressive [[creatures]] found in [[Plains]] guarding [[Fuling Village|Fuling Villages]] and [[Stonehenge|Stonehenges]]. They are large, strong goblin-like beings that appear to possess their own tribalistic culture. It is implied through [[Runestone|runestones]] and [[Fuling Totem|totems]] that they worship [[Yagluth]], a long dead king.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=Uncommon [[Spawn points|spawn point]] in [[Fuling Village]]s|frequency=0}}
+{{spawn row|type=Up to 3 [[spawn points]] in [[Stonehenge]]s|frequency=0}}
+{{spawn row|type=During "The horde is attacking!" [[Events|event]]|limit=2|frequency=6|stars=No}}
+{{spawn row|type=During "They were bros, man." [[Events|event]]|limit=2|frequency=6|stars=Yes (Minimum 1 Star)}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Fuling berserkers|Aggressive creature strategies#Fuling berserker}}
+
+=== Attack ===
+Swings their club in a 4-meter 70-degree arc in front of themselves (130 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 40 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage). This attack can be used within 3 meters of the player every 2 seconds. It has two variations: a regular swing and delayed swing<ref>The timing difference between the regular swing and the delayed swing is approximately 0.297 seconds.</ref>.
+
+=== Rage attack ===
+Slams their club into the ground 3 times extending out 4 meters and arcing 60 degrees vertically, stepping forward with each swing (130 [[Damage types#Blunt|Blunt]], 100 Tier 2 [[Damage types#Chop|Chop]] and 40 Tier 2 [[Damage types#Pickaxe|Pickaxe]] damage each). They can do this every 20 seconds when within 6 meters of a player.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+Fulingcamp4.jpg
+</gallery>
+
+== Notes ==
+* Fuling Berserkers have skin tones that mostly match their non-berserker counterparts. That is, ordinary Berserkers have green skin, One-stars have lighter yellow-green skin, and Two-stars have reddish-tan skin.
+* Although Fuling berserkers always carry the same weapon, their appearances do vary (regardless of level), much like ordinary Fulings. Some wear a headpiece that obscures their eyes; others have four large bones strapped to their back.
+
+{{Creatures}}
+[[fr:Berserker Gobelin]]
+[[ru:Фулинг-берсерк]]

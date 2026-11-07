@@ -1,0 +1,93 @@
+{{infobox weapon
+| image           = Thundering Berserkir Axes.png
+| description     = Carnage spreads around you when you wield these axes, such that Thor himself would be proud.
+| id              = AxeBerzerkrLightning
+| type            = axe dw
+| source          = [[Black Forge]]
+| durability      = 300
+| crafting level  = 4
+| repair level    = 4
+| slash           = 140
+| lightning       = 10
+| chop            = 80
+| knockback       = 20
+| backstab        = 3x
+| parry bonus     = 2
+| slash per level = 5
+| chop per level  = 3
+| materials 1 = 
+* [[Berserkir Axes]] x1
+* [[Flametal]] x5
+* [[Iolite]] x1
+| materials 2 = 
+* [[Flametal]] x5
+* [[Iolite]] x1
+| materials 3 = 
+* [[Flametal]] x10
+* [[Iolite]] x2
+| materials 4 = 
+* [[Flametal]] x20
+* [[Iolite]] x4
+| idol             = * [[Flametal Battle Idol]]
+| stamina         = 16
+| weight          = 2.0
+| block armor     = 57
+| block force     = 20
+| block force per level = 5
+| wielding        = Dual wielded
+| movement speed  = -5%
+}}
+
+'''Thundering Berserkir Axes''' are the upgraded form of [[Berserkir Axes]] using the [[Iolite]]. Like all upgraded-weapons that use [[Iolite]], they gain 10 [[Lightning|lightning damage]] and their hit effect has a 25% chance to apply [[Chain Lightning]].
+
+* Its primary attack is a 4-step combo: two single hits, one with each axe, followed by two double hits using both axes simultaneously, resulting in a total of 6 hits. The final double hit deals 2x damage with each individual hit.
+* The secondary attack costs 32 stamina and is a leap forward, followed by a slash with both axes for a single hit, dealing 2x the damage.
+
+An upgraded Berserkir Axes will '''NOT''' keep their upgrade level when they are crafted into Thundering Berserkir Axes.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|140
+|145
+|150
+|155
+|-
+!Lightning
+|10
+|10
+|10
+|10
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|1 [[Berserkir Axes]]<br>5 [[Flametal]]<br>1 [[Iolite]]
+|5 [[Flametal]]<br>1 [[Iolite]]
+|10 [[Flametal]]<br>2 [[Iolite]]
+|20 [[Flametal]]<br>4 [[Iolite]]
+{{Upgrade station row|Black forge|4|start=4}}
+|}
+
+* Thundering Berserkir Axes can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+== Notes ==
+* When used for woodcutting, the Thundering Berserkir Axes do not deal lightning damage to trees (through either their normal attacks or Chain Lightning), but their Chain Lightning ability can trigger when cutting trees to deal damage to nearby enemies.
+* Larger groups of enemies take more damage overall and will die faster than smaller groups.
+
+{{WeaponsNav}}
+
+[[ru:Громовые топоры берсеркира]]
+[[cs:Hromové berserkské sekery]]
+[[de:Donnernde Berserkir-Äxte]]
+[[fr:Haches des berserkir du tonnerre]]

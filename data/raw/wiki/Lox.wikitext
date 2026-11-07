@@ -1,0 +1,100 @@
+{{infobox creature
+| image 0star  = Lox.png
+| trophy       = Lox trophy
+| trophy description = A giant beast's head, thatched with thick fur.
+| trophy id    = TrophyLox
+| id           = Lox
+| location     = [[Plains]]
+| tameable     = Yes
+| health 0star = 1000
+| damage 0star = 
+* Bite: 130 Slash
+* Stomp: 120 Blunt, 100 Chop, 100 Pickaxe
+| abilities    = 
+* Bite (4 seconds)
+* Stomp (12 seconds)
+| veryweak      = 
+| weak          = Fire
+| resistant     = Blunt, Frost, Slash
+| veryresistant = 
+| immune        = Spirit
+| stagger       = 30%
+| faction       = Plains
+}}
+'''Lox''' are aggressive [[creatures]] found in [[Plains]]. They are an enlarged fusion of both a lizard and an ox, with shaggy brown hair and reptilian skin. Lox can be [[Taming|tamed]] which allows them to be bred and [[Lox Saddle|ridden]]. 
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Plains]]|limit=3|stars=No|frequency=3}}
+{{spawn row|type=From breeding|limit=4 within 20 meters|stars=No|frequency=-}}
+{{spawn row|type=[[Spawn zones]] in [[Plains#Alternative biomes|Lox Plains]]|limit=15|frequency=167|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Lox|Aggressive creature strategies#Lox}}
+
+=== Bite ===
+Leans back before sweeping forward to chomp down on the player (130 [[Damage types#Slash|Slash]] damage). This extends 5.5 meters in a 45-degree horizontal arc and can be used every 4 seconds when within 5 meters of a player.
+
+=== Stomp ===
+Stands on their hind legs and slams down to attack (120 [[Damage types#Blunt|Blunt]], 100 Tier 0 [[Damage types#Chop|Chop]] and 100 Tier 0 [[Damage types#Pickaxe|Pickaxe]] damage). This attack hits in a circular area with a radius of 2.5 meters and can be used every 12 seconds when within 6 meters of a player.
+
+== Taming ==
+''For general taming information and strategies, see [[Taming|Taming.]]''   
+
+Because Lox tend to stay in herds and wander back to the same location, it is possible to tame large groups of Lox even early in the game by periodically sprinting through the Plains and scattering the [[Cloudberries]] around places where the herds gather. Alternatively, with a decent [[Sneak (Skill)]] (and carefully watching the player's surroundings) it is possible to sneak at single Lox (or small herds) and disperse the Cloudberries this way. It is recommended to not go below 50 stamina when doing this so the player can run away if spotted.   
+
+Once most or all of them are tamed, [[Deathsquito|Deathsquitos]] and [[Fuling|Fulings]] will often attack them instead of the player. With a number of tamed Lox, there will usually be one between the player and a new spawn. However, without adequate healing, some of the Lox are liable to eventually [[Death|die]] if the area is active at [[Day and Night Cycle|night]] or during certain [[Events|invasions]].  
+
+This strategy saves the player from having to build pens for the Lox, but the risk of death is high while scattering seeds. If the player's armor does not protect them from a Deathsquito attack, it may be ideal to leave everything in chests except Cloudberries and flint spears. A rudimentary [[Shelter Effect|shelter]] with a [[Portal]] in it can be used to safely enter the Plains and to keep the area active while the Lox are being tamed.  
+
+== Riding ==
+Tamed Lox can be utilized as mounts. First, create a [[Lox Saddle]], then equip it to a Lox by assigning the saddle to a hot key and using it while close to the creature. Directional keys will not cause the Lox to turn while riding. Instead, the player must move the camera, and the Lox will always move straight in the direction that the camera is facing. A Lox can move either at walking or sprinting speed - it cannot reverse. 
+
+A ridden Lox is a very powerful companion. In addition to retaining their impressive health and damage resistances, a sprinting Lox is faster than even the most high sprint-level players, while also enjoying the benefit of not being slowed down by equipped armor. A ridden Lox also completely ignores a player's carried weight, able to move and even sprint while the rider is encumbered. 
+
+A mounted Lox has 240 points of stamina which drain at approximately the same rate as a player's while sprinting, however, leveling the Riding [[Skills|skill]] both increases the speed of a ridden Lox as well as reducing the amount of stamina drained. It is important to note that a Lox's stamina regenerates much, much slower than a player's, one point is regained roughly every 4 seconds while the creature has been recently fed, and one every 10 seconds while it is hungry.
+
+While it is not currently possible to utilize a player's weapons while riding (trying to do so results in the player instantly dismounting as soon as the attack key is pressed) a Lox at full sprint is capable of trampling most other creatures underfoot, dealing heavy damage when it comes into contact with them. Additionally, when not making the Lox move, it will attack nearby enemies like it would do when unsaddled.  
+
+== Breeding ==
+Lox can breed provided the Lox is:
+
+* Happy and well-fed with [[Cloudberries]], [[Flax]], or [[Barley]]
+* There is another Lox within 8 meters
+* No more than 4 Lox within 20 meters
+* Not already pregnant
+* Within approximately 64 meters of a player
+
+Additionally, in order for a Lox to be able to pathfind to and eat food, it can't be in a room with a ceiling that is too low. On flat ground, 8 meters of vertical clearance should be enough, but it is recommended to have 10 meters or more if you intend to house your Lox indoors.
+
+Once met, the Lox will accumulate love points with each other until the pregnancy starts. Pregnancy will last a minimum of two minutes, after which the birth of the baby Lox is random chance.
+
+Once born, the baby Lox will take 1 hour and 40 minutes to mature into an adult.
+
+== Gallery ==
+<gallery captionalign="center" widths="185">
+Lox1.jpg
+Lox2.jpg
+Lox3.jpg
+Lox faceoff.jpg|By the time it realized it had to go around the ditch, not over, it was full of arrows.
+Lox in ditch.jpg|Tried to charge the ditch and smash it, but got stuck and died.
+File:LoxCalf.png
+</gallery>
+
+== Notes ==
+* The name 'Lox' is a fusion of the words 'lizard' and 'ox', which reflects their design.
+* The trader, [[Haldor]], has a tamed Lox named [[Halstein]] that can be found in his camp. [[Hildir]] has two tamed Lox named [[Blåbär]] and [[Hallon]].
+* Approaching a wild Lox will always frighten it and cause it to become aggressive to the player.
+* Lox can project their melee damage a considerable distance forward by rearing up and smashing down with their front hooves. When digging ditches to block them, this must be kept in mind; a Lox does not have to be able to cross a narrow ditch to destroy structures on the other side. 
+* [[Lox Meat]] is very healthy and a good basic HP [[food]]. [[Lox Meat Pie]] has nearly the same health and stamina gain as [[Serpent Stew]], which were the best overall health foods until the [[Mistlands]] release. One advantage Lox-based food has over Serpent-based food is accessibility: Lox can be tamed and bred, whereas Serpents must be found.
+
+{{Creatures}}
+
+[[fr:Lox]]
+[[ru:Быкоящер]]
+[[de:Lox]]
+[[cs:Lox]]

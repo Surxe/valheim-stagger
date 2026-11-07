@@ -1,0 +1,8 @@
+{{Infobox weapon|title=Bare fists|image=Fists.png|type=[[Fists]]|blunt=5|stamina=4|parry bonus=1.5|source=Always available|id=PlayerUnarmed|knockback=40|backstab=3x|block armor=2|block force=0|wielding=One-handed}}
+
+'''Bare fists''' are the player's first weapons. They deal low damage, offering good knockback and stagger on the slower secondary attack (kick). They get quickly replaced by crafted weapons and tools.
+
+The primary attack is a punch, and the secondary attack is a kick that does additional knockback. Both attacks have a base value of 5 blunt damage. The punch has a 2-hit combo where the second punch (left hand) does double damage.
+
+{{Weapons}}
+[[Category:Unarmed]]

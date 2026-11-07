@@ -1,0 +1,79 @@
+{{infobox weapon
+| title          = Iron Sledge
+| image          = Iron sledge.png
+| description    = A mighty hammer, worthy of a champion.
+| id             = SledgeIron
+| type           = Club 2h
+| source         = [[Forge]]
+| durability     = 100
+| crafting level = 2
+| repair level   = 2
+| blunt          = 55
+| knockback      = 200
+
+|materials 1=
+*[[Ancient Bark]] x10
+*[[Iron]] x30
+*[[Ymir Flesh]] x4
+*[[Draugr Elite Trophy]] x1
+|materials 2=
+*[[Ancient Bark]] x2
+*[[Iron]] x15
+*[[Ymir Flesh]] x2
+|materials 3=
+*[[Ancient Bark]] x4
+*[[Iron]] x30
+*[[Ymir Flesh]] x4
+|materials 4=
+*[[Ancient Bark]] x8
+*[[Iron]] x60
+*[[Ymir Flesh]] x8
+|idol=* [[Iron Battle Idol]]
+|staggering=2|stamina=20|block armor=28}}
+
+'''Iron Sledge''' is the second two-handed [[Clubs|club]].
+
+* The primary attack slams the ground ''(after a lengthy swing delay)'', dealing damage, 2x the damage as staggering and knocking back everything in a spherical area of effect with a radius of 4 meters.
+* It has no secondary attack.
+
+It is a two-handed counterpart to the one-handed [[Iron Mace]], which is cheaper to craft. While both weapons deal the same amount of damage, the Iron sledge damages everything in a large area-of-effect, and thus is capable of attacking large numbers of enemies simultaneously.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|55
+|61
+|67
+|73
+|
+|-
+!Durability
+|100
+|150
+|200
+|250
+|
+|-
+!Crafting
+|10 [[Ancient Bark]]<br />30 [[Iron]]<br />4 [[Ymir Flesh]]<br />1 [[Draugr Elite Trophy]]
+|2 [[Ancient Bark]]<br />15 [[Iron]]<br />2 [[Ymir Flesh]]
+|4 [[Ancient Bark]]<br />30 [[Iron]]<br />4 [[Ymir Flesh]]
+|8 [[Ancient Bark]]<br />60 [[Iron]]<br />8 [[Ymir Flesh]]
+|24 [[Ancient Bark]]<br />135 [[Iron]]<br />18 [[Ymir Flesh]]<br />1 [[Draugr Elite Trophy]]
+{{Upgrade station row|Forge|4|start=2|addcol=1}}
+|}
+
+* Iron Sledge can also be upgraded at the [[Forge of Potential]] with an [[Iron Battle Idol]].
+
+{{Weapons}}
+
+[[Fr:Masse_de_fer]]
+[[cs:Železné velké kladivo]]
+[[ru:Железная кувалда]]

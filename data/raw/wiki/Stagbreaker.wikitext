@@ -1,0 +1,86 @@
+{{infobox weapon
+| title          = Stagbreaker
+| image          = Stagbreaker.png
+| description    = A weapon worthy of the Gods! If you get hit with this, you'll know it…
+| id             = SledgeStagbreaker
+| type           = Club 2h
+| source         = [[Workbench]]
+| durability     = 100
+| crafting level = 2
+| repair level   = 2
+| blunt          = 20
+| pierce         = 5
+| knockback      = 150
+|materials 1=
+* [[Corewood]] x20
+* [[Deer Trophy]] x5
+* [[Leather Scraps]] x2
+|materials 2=
+* [[Corewood]] x5
+* [[Deer Trophy]] x2
+* [[Leather Scraps]] x1
+* [[Bone Fragments]] x10
+|materials 3=
+* [[Corewood]] x10
+* [[Deer Trophy]] x4
+* [[Leather Scraps]] x2
+* [[Bone Fragments]] x20
+|materials 4=
+* [[Corewood]] x20
+* [[Deer Trophy]] x8
+* [[Leather Scraps]] x4
+* [[Bone Fragments]] x40
+| idol = * [[Wooden Battle Idol]]
+| stamina = 12
+| block armor = 4}}
+
+'''Stagbreaker''' is the first two-handed [[Clubs|club]].
+
+* The primary attack slams the ground ''(after a lengthy swing delay)'', dealing damage and knocking back everything in a spherical area of effect with a radius of 4 meters.
+* It has no secondary attack.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Blunt
+|20
+|26
+|32
+|38
+|-
+!Pierce
+|5
+|5
+|5
+|5
+|-
+!Durability
+|100
+|150
+|200
+|250
+|-
+!Crafting
+|20 [[Corewood]]<br>5 [[Deer Trophy]]<br>2 [[Leather Scraps]]
+|5 [[Corewood]]<br>2 [[Deer Trophy]]<br>1 [[Leather Scraps]]<br>10 [[Bone Fragments]]
+|10 [[Corewood]]<br>4 [[Deer Trophy]]<br>2 [[Leather Scraps]]<br>20 [[Bone Fragments]]
+|20 [[Corewood]]<br>8 [[Deer Trophy]]<br>4 [[Leather Scraps]]<br>40 [[Bone Fragments]]
+{{Upgrade station row|Workbench|4|start=2}}
+|}
+
+* Stagbreaker can also be upgraded at the [[Forge of Potential]] with a [[Wooden Battle Idol]].
+
+== Trivia ==
+* Being a powerful weapon whose construction involves the use of antlers from Deer Trophies and even described to be worthy of the Gods, Stagbreaker indirectly alludes to Freyr from Norse Mythology who utilizes either deer antlers or a weapon fashioned from one in place of his enchanted sword which he gave away to win the heart of his jötunn lover Gerðr.
+* It is possible when using Stagbreaker in mountains to see the "too hard" message pop up due to buried silver or obsidian being hit by the weapon's splash damage. This, in turn, makes it possible to obtain [[Silver]] relatively easily without fighting [[Bonemass]] for the [[Wishbone]].
+
+{{Weapons}}
+
+[[cs:Jelení palice]]
+[[fr:Brise-cerf]]
+[[ru:Оленья Скорбь]]

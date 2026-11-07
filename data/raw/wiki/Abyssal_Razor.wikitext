@@ -1,0 +1,79 @@
+{{infobox weapon
+| title          = Abyssal Razor
+| image          = Abyssal Razor.png
+| description    = A knife from the deep.
+| id             = KnifeChitin
+| type           = Knife
+| source         = [[Workbench]]
+| crafting level = 2
+| repair level   = 2
+| pierce         = 20
+| slash          = 20
+| materials 1    = 
+* [[Finewood]] x4
+* [[Chitin]] x20
+* [[Leather Scraps]] x2
+| materials 2    = 
+* [[Chitin]] x10
+| materials 3    = 
+* [[Chitin]] x20
+| materials 4    = 
+* [[Chitin]] x40
+| idol           = * [[Silver Battle Idol]]
+| stamina        = 8}}
+
+'''Abyssal Razor''' is the third [[Knives|knife]].
+
+* The primary attack is a fast 3-slash combo with 2x damage on the last swing.
+* Its secondary attack is a leaping stab with 3x damage.
+* It deals 6x damage against [[Creature senses|unalerted]] enemies.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Pierce
+|20
+|21
+|22
+|23
+|
+|-
+!Slash
+|20
+|21
+|22
+|23
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|4 [[Finewood]]<br>20 [[Chitin]]<br>2 [[Leather Scraps]]
+|10 [[Chitin]]
+|20 [[Chitin]]
+|40 [[Chitin]]
+|4 [[Finewood]]<br>90 [[Chitin]]<br>2 [[Leather Scraps]]
+{{Upgrade station row|Workbench|4|start=2|addcol=1}}
+|}
+
+* Abyssal Razor can also be upgraded at the [[Forge of Potential]] with a [[Silver Battle Idol]].
+
+== Notes ==
+* Damage is equivalent to an [[Iron]] tier weapon, without requiring any ore to craft.
+
+{{Weapons}}
+
+[[Fr:Rasoir_abyssal]]
+[[cs:Břitva z hlubin]]
+[[ru:Глубинное лезвие]]

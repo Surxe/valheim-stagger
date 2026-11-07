@@ -1,0 +1,49 @@
+{{infobox creature
+| image 0star  = Moose.png
+| image 1star   =Moose 1star.png
+| image 2star   =Moose 2star.png
+| trophy       = Moose Trophy
+| trophy description = The mighty ruler of the northern forests.
+| trophy id    = TrophyMoose
+| id           = moose
+| location     = [[Deep North]]
+| tameable     = Yes
+| health 0star = 1000
+| damage 0star = 
+* Horn: 160 Slash
+* Horn Sweep: 145 Slash
+* Hooves: 150 Blunt
+| abilities    = 
+* Horn (4 seconds)
+* Horn Sweep (4 seconds)
+* Hooves (4 seconds)
+| veryweak      = 
+| weak          = Fire
+| resistant     = Blunt, Slash, Frost
+| veryresistant = 
+| immune        = Spirit
+| stagger       = 30%
+| faction       = Deep North
+}}
+'''Moose''' are aggressive [[creatures]] found in the [[Deep North]]. They can be [[taming|tamed]] which allows them to be [[Moose Saddle|ridden]], akin to [[Lox]] and [[Asksvin]].
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Deep North]]|limit=3|frequency=3|stars=Yes}}
+}}
+
+== Taming ==
+Moose can be tamed with [[Lingonberries]], a berry from a bush found throughout the deep north. 
+
+Like any other breedable animal in Valheim, throwing Lingonberries at a trapped Moose’s feet will start the taming process.
+
+''For general taming information and strategies, see [[Taming|Taming.]]''
+
+== Riding ==
+Tamed Moose can be utilized as mounts. A [[Moose Saddle]] is required to ride a tamed Moose.
+
+{{CreaturesNav}}
+[[ru:Лось]]

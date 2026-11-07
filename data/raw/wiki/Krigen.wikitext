@@ -1,0 +1,128 @@
+{{Infobox creature
+| title=Krigen
+| image 0star = Krigen.png
+| id= JotunWarrior (sword and greataxe)<br>JotunWarriorDualWield (dual-axe)
+| trophy        = Krigen Trophy
+| trophy description = Once a mighty warrior, now nought but a husk remains.
+| trophy id = TrophyJotunWarrior
+| faction       = Deep North
+| location      = [[Mörkhalla]], [[Jotun Invasions]]
+| health 0star  = 1300
+| damage 0star  =
+* Axe
+** Cleave: 150 Slash, 60 Chop
+** Slash: 170 Slash, 40 Chop
+** Slashdw: 150 Slash, 40 Chop
+** Dodge: 140 Slash, 20 Chop
+** Dodger: 150 Slash, 20 Chop
+* Greataxe
+** Charge: 160 Blunt, 80 Chop, 80 Pickaxe
+** Cleave: 170 Slash, 90 Chop
+** Slash: 160 Slash, 80 Chop
+** Dodge: 150 Slash, 40 Chop
+* Sword
+** Charge: 160 Blunt, 80 Chop, 80 Pickaxe
+** Cleave: 170 Slash, 40 Chop
+** Slash: 160 Slash, 30 Chop
+** Dodge: 150 Slash
+| health 1star  = 2600
+| damage 1star  =
+* Axe
+** Cleave: 225 Slash, 90 Chop
+** Slash: 255 Slash, 60 Chop
+** Slashdw: 225 Slash, 60 Chop
+** Dodge: 210 Slash, 30 Chop
+** Dodger: 225 Slash, 30 Chop
+* Greataxe
+** Charge: 240 Blunt, 120 Chop, 120 Pickaxe
+** Cleave: 255 Slash, 135 Chop
+** Slash: 240 Slash, 120 Chop
+** Dodge: 225 Slash, 60 Chop
+* Sword
+** Charge: 240 Blunt, 120 Chop, 120 Pickaxe
+** Cleave: 255 Slash, 60 Chop
+** Slash: 240 Slash, 45 Chop
+** Dodge: 225 Slash
+| health 2star  = 3900
+| damage 2star  =
+* Axe
+** Cleave: 300 Slash, 120 Chop
+** Slash: 340 Slash, 80 Chop
+** Slashdw: 300 Slash, 80 Chop
+** Dodge: 280 Slash, 40 Chop
+** Dodger: 300 Slash, 40 Chop
+* Greataxe
+** Charge: 320 Blunt, 160 Chop, 160 Pickaxe
+** Cleave: 340 Slash, 180 Chop
+** Slash: 320 Slash, 160 Chop
+** Dodge: 300 Slash, 80 Chop
+* Sword
+** Charge: 320 Blunt, 160 Chop, 160 Pickaxe
+** Cleave: 340 Slash, 80 Chop
+** Slash: 320 Slash, 60 Chop
+** Dodge: 300 Slash
+| abilities     =
+* Axe
+** Cleave (1 second)
+** Slash (1 second)
+** Slashdw (1 second)
+** Dodge (10 seconds)
+** Dodger (10 seconds)
+* Greataxe and Sword
+** Charge (20 seconds)
+** Cleave (3 seconds)
+** Slash (3 seconds)
+** Dodge (20 seconds)
+| veryweak      =
+| weak          =
+| resistant     = Pierce
+| veryresistant = Frost
+| immune        = Poison, Spirit
+| stagger       = 50%
+}}
+__NOTOC__
+'''Krigen''' are aggressive [[creatures]] found in [[Mörkhalla]] and during [[Jotun Invasion]]s. They have three variants, wielding either a two-handed sword, two axes, or a two-handed greataxe.
+
+==Drops==
+{{CreatureDrops}}
+Killing a Krigen sets the [[Global Keys]] <code>jotun_killed</code>, which enables Krigen and [[Hexen]] daytime patrols in the [[Deep North]].
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=Multiple [[spawn points]] in [[Mörkhalla]] (all three variants)|frequency=0}}
+{{spawn row|type=Daytime patrol in the [[Deep North]] that hunts the player, in groups of one to two, sword or greataxe only; requires the world key <code>jotun_killed</code>|limit=2|stars=No}}
+{{spawn row|type=[[Jotun Invasions]], in groups of one to two, sword or greataxe only|limit=4|frequency=5|stars=Yes}}}}
+
+== Attacks and abilities ==
+All melee attacks except Charge are used when within 1.6 meters of a target. Charge is used when the target is 5–10 meters away.
+
+=== Axe ===
+* '''Cleave''': 150 [[Damage types#Slash|Slash]] and 60 [[Damage types#Chop|Chop]] damage. Can be used every second.
+* '''Slash''': 170 Slash and 40 Chop damage. Can be used every second.
+* '''Slashdw''': 150 Slash and 40 Chop damage. Can be used every second.
+* '''Dodge''': an area attack dealing 140 Slash and 20 Chop damage. Can be used every 10 seconds.
+* '''Dodger''': an area attack dealing 150 Slash and 20 Chop damage. Can be used every 10 seconds.
+
+=== Greataxe ===
+* '''Charge''': an area attack dealing 160 [[Damage types#Blunt|Blunt]], 80 Chop and 80 [[Damage types#Pickaxe|Pickaxe]] damage. Can be used every 20 seconds.
+* '''Cleave''': 170 Slash and 90 Chop damage. Can be used every three seconds.
+* '''Slash''': 160 Slash and 80 Chop damage. Can be used every three seconds.
+* '''Dodge''': an area attack dealing 150 Slash and 40 Chop damage. Can be used every 20 seconds.
+
+=== Sword ===
+* '''Charge''': an area attack dealing 160 Blunt, 80 Chop and 80 Pickaxe damage. Can be used every 20 seconds.
+* '''Cleave''': 170 Slash and 40 Chop damage. Can be used every three seconds.
+* '''Slash''': 160 Slash and 30 Chop damage. Can be used every three seconds.
+* '''Dodge''': an area attack dealing 150 Slash damage. Can be used every 20 seconds.
+
+== See also ==
+* [[Hexen]]
+
+==Gallery==
+<gallery position=left widths=300>
+Krigens.jpg
+Krigens 1.jpg
+</gallery>
+
+{{CreaturesNav}}
+[[ru:Криген]]

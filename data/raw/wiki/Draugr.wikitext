@@ -1,0 +1,76 @@
+{{infobox creature
+| image 0star  = Draugr.png
+| image 1star  = Draugr 1star.png
+| image 2star  = Draugr 2star.png
+| trophy       = Draugr trophy
+| trophy description = Bind up the mouth if it starts to whisper in the night...
+| trophy id    = TrophyDraugr
+| id           = Draugr
+| location     = [[Swamp]]
+| health 0star = 100
+| damage 0star = * Axe: 48 Slash, 15 Chop
+* Bow: 48 Pierce
+| health 1star = 200
+| damage 1star = * Axe: 72 Slash, 22.5 Chop
+* Bow: 72 Pierce
+| health 2star = 300
+| damage 2star = * Axe: 96 Slash, 30 Chop
+* Bow: 96 Pierce
+| abilities    = * Axe (3s)
+* Bow (4 seconds)
+| veryweak      = 
+| weak          = 
+| resistant     = Fire
+| veryresistant = 
+| immune        = Poison
+| neutral       = 
+| stagger       =50%
+| faction       =Undead}}
+
+'''Draugr''' are aggressive [[creatures]] found in [[Swamp|Swamps]] and in [[Draugr village|Draugr villages]], [[Sunken Crypts]] and sometimes [[Mountain]] towers. They are ancient undead Vikings that have since become bloated in appearance.
+
+==Drops==
+{{CreatureDrops}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Swamp]]s|limit=3|frequency=5}}
+{{spawn row|type=Common [[spawn points|spawn point]] in [[Draugr village]]s|frequency=0|stars=No}}
+{{spawn row|type=Common [[spawn points|spawn point]] in [[Sunken Crypts]]|frequency=0|stars=No}}
+{{spawn row|type=Multiple [[spawn points]] near [[Swamp]] structures|frequency=0|stars=No}}
+{{spawn row|type=From [[Body Pile]]s in [[Swamp]]s, [[Sunken Crypts]] or [[Mountain]] towers|limit=2|frequency=Every 6 seconds}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in [[Meadows]], [[Black Forest]]s or [[Plains]] during foggy nights after defeating [[The Elder]], despawn at dawn|limit=1|stars=No|frequency=2}}
+{{spawn row|type=During "A foul smell from the swamp" [[Events|event]] before defeating [[Bonemass]]|limit=3|frequency=6|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Meadows#Alternative biomes|Dark Meadows]]|limit=2|frequency=4|stars=Yes}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Draugr|Aggressive creature strategies#Draugr}}Draugr come in two variants: 75% of them are equipped with axes and the other 25% have bows.
+
+=== Axe ===
+Does a horizontal slash that extends 2.2 meters and arcs 90 degrees (48 [[Damage types#Slash|Slash]] and 15 Tier 0 [[Damage types#Chop|Chop]] damage). This attack has a 3-second cooldown and can be used within 1.6 meters of a player.
+
+=== Bow ===
+Nocks an arrow and shoots the player (48 [[Damage types#Pierce|Pierce]] damage). The arrow travels at 30 meters per second for up to 4 seconds before despawning and has a spread of 2–20 degrees. This attack has a 4-second cooldown and can be used within 20 meters of a player.
+
+== Gallery ==
+<gallery>
+Draugr archer.jpg
+Draugar roaming the swamp Valheim.jpg
+</gallery>
+
+==Notes==
+*Entering a [[Sunken Crypts|Sunken Crypt]] and leaving Draugr alive there will count towards spawn caps effectively suppressing their spawns in a large area.
+*[https://en.wikipedia.org/wiki/Draugr Draugr] or Draug - "the undead of ''[[Valheim (world)|Valheim]]''", also called ''aptrganga'' or ''aptrgangr'' in the Norse literature. Draugr live in their graves, often guarding treasure buried with them in their burial mound.
+
+== Lore ==
+{{Quote|Long ages ago, the world of Valheim was home to a race of proud and noble people. They built great towers that touched the clouds and delved deep into the earth for precious metals. But their pride was their undoing. They challenged the very gods and went to war against the Aesir and the Vanir, destroying themselves completely. Great Odin levelled their cities and Loki consumed their mines in fire. Mighty Thor broke down their towers and Freya sowed their fields with salt tears.
+Now they are sunk many hundreds of years deep. No songs sing of their stories, and the earth has claimed their cities. But pride cannot be killed entirely and the warriors who fought in that final battle will not surrender until their bodies are dust and the dust long gone. They return as Draugr, unholy walkers in ancient armour, creatures of rust and despair.
+Break them, bury them, let them know they are dead.|[[Runestone]]}}
+
+{{Creatures}}
+[[fr:Draugr]]
+[[cs:Draugr]]
+[[ru:Драугр]]
+[[uk:Драуґр]]
+[[de:Draugr]]

@@ -1,0 +1,171 @@
+'''Axes''' are a [[Weapons|weapon]] class.
+
+They are the only type of player weapon that can be used to cut trees. They can also be used against creatures, which makes for a slightly worse [[Swords|sword]].
+
+Battleaxes have enough reach to attack through some walls, enabling the player to hit enemies on the other side of barriers. They can even hit [[The Queen]] through the wall in the vestibule inside the [[Infested Citadel]], making for a more efficient cheese victory than even the [[Demolisher]].
+
+{{See also| Axes (skill)|Wood cutting (skill)}}
+
+== List of axes ==
+{| class="wikitable"
+!<onlyinclude>Name !!Icon!! data-sort-type="number" |Damage!! Stamina (primary)!!Stamina (secondary)
+!Able to chop
+|-
+! colspan="6" | One-handed
+|-
+|[[Stone Axe]]
+|[[File:Stone Axe.png|link=Stone axe]]
+|Slash: 15/30<br/>Chop: 20/29
+|5
+|10
+|Up to [[Birch]] and [[Oak]]
+|-
+|[[Flint Axe]]
+|[[File:Flint Axe.png|link=Flint axe]]
+|Slash: 20/35<br />Chop: 30/39
+|6
+|12
+|Up to [[Birch]] and [[Oak]]
+|-
+|[[Bronze Axe]]||[[File:BronzeAxeIcon.png|link=Bronze axe]]||Slash: 40/55<br />Chop: 40/49
+|8
+|16
+|Up to [[Birch]] and [[Oak]]
+|-
+|[[Iron Axe]]||[[File:Iron Axe.png|link=Iron axe]]||Slash: 60/75<br />Chop: 50/59
+|10
+|20
+|Up to [[Birch]] and [[Oak]]
+|-
+|[[Black Metal Axe]]||[[File:Black Metal Axe.png|link=Black metal axe]]||Slash: 100/115<br />Chop: 60/69
+|14
+|28
+|Up to [[Yggdrasil Shoot|Yggdrasil shoots]]
+|-
+|[[Jotun Bane]]||[[File:Jotun bane.png|link=Jotun Bane]]||Slash: 80/95<br />Poison: 40/40<br />Chop: 70/79
+|16
+|32
+|Up to [[Yggdrasil Shoot|Yggdrasil shoots]]
+|-
+|[[Nord Axe]]||[[File:nord Axe.png|link=https://valheim.weirdgloop.org/w/Nord_Axe|Nord Axe]]||Slash: 176/196<br />Chop: 90/96
+|16
+|28
+|Up to [[Yggdrasil Shoot|Yggdrasil shoots]]
+|-
+! colspan="6" | Dual-wielded
+|-
+|[[Early Axes]]||[[File:Early Axes.png|link=Early axes]]||Slash: 30/45<br />Chop: 35/44
+|6
+|16
+|Up to [[Birch]] and [[Oak]]
+|-
+|[[Berserkir Axes]]||[[File:Berserkir Axes.png|link=Berserkir axes]]||Slash: 140/155<br />Chop: 80/89
+|16
+|32
+|Up to [[Yggdrasil Shoot|Yggdrasil shoots]]
+|-
+! colspan="6" | Two-handed (Battleaxe)
+|-
+|[[Battleaxe]]||[[File:BattleAxe.png|link=Battleaxe]]||Slash: 70/88<br />Chop: 40/47.5
+|16
+|8
+|Up to [[Birch]] and [[Oak]]
+|-
+|[[Crystal Battleaxe]]||[[File:Crystal Battleaxe.png|link=Crystal battleaxe]]||Slash: 90/108<br />Spirit: 30/30<br />Chop: 50/57.5
+|18
+|9
+|Up to [[Birch]] and [[Oak]]
+|-
+|[[Black Metal Battleaxe]]||[[File:Black Metal Battleaxe.png|link=Black metal battleaxe]]||Slash: 110/128<br />Chop: 60/67.5
+|20
+|10
+|Up to [[Yggdrasil Shoot|Yggdrasil shoots]]
+|-
+|[[Skull Splittur]]||[[File:Skull Splittur.png|link=Skull Splittur]]||Slash: 130/148<br />Chop: 70/77.5
+|22
+|11
+|Up to [[Yggdrasil Shoot|Yggdrasil shoots]]
+|-
+|[[Nord Greataxe]]||[[File:Nord Greataxe.png|link=Nord Greataxe]]||Slash: 188/218<br />Chop: 40/47.5
+|22
+|11
+|Up to [[Yggdrasil Shoot|Yggdrasil shoots]]</onlyinclude>
+|}
+All axes are also able to chop [[Scorched Tree|Scorched trees]] found in [[Ashlands]] and [[Timber Tree]] found in the [[Deep North]].
+
+== Properties ==
+{| class="wikitable"
+|-
+! Attack type
+!Stamina!!Range!!Attack speed
+!Attack speed (trees)
+!Damage
+![[Stagger|Staggering]]
+! Knockback!!Notes
+|-
+| Axes (primary)
+|1x||2.2m||2.58s (0.96 + 0.8 + 0.82)
+|1.3s 
+|1x + 1x + 2x
+|1x
+|50–60
+|Player moves forward 0.25m on the 2nd and 3rd combo swing. 90 degree arc.
+|-
+|Axes (secondary)
+|2x
+|2.2m
+|2s
+|2s
+|1.5x
+|1x
+|1.5x
+|Vertical downwards swing.
+|-
+|Two-handed axes (primary)
+|1x||2.5m||3.20s (1.58 + 0.92 + 0.7)
+|1.58s
+|1x + 1x + 2x
+|1.5x
+|70
+|Player moves forward 0.5m with each swing. 90 degree arc. No multitarget damage penalty.
+|-
+|Two-handed axes (secondary)
+|0.5x||2.5m||0.84s
+|0.84s
+|0.5x
+|4x
+|2x||Player does not move forward during strike. 30 degree arc.
+|-
+| Dual-Wielded Axes (primary)
+|1x||2.2m|| 3.62s (0.42 + 0.7 + 1.04 + 1.46)
+|1.3s 
+|1x + 1x + (1x + 1x) + (2x + 2x)
+|1x
+|20
+| Third and fourth movement are double hit
+|-
+| Dual-Wielded Axes (secondary)
+|2x
+|2.2m
+|1.93s
+|1.93s
+|1.5x
+|1x
+|1.5x
+|Jump forward and double slash
+|-
+|}
+
+==Gallery==
+<gallery>
+Axes Hitbox.jpg | One-handed axes hitboxes
+Battleaxe Hitbox.jpg | Battleaxe hitboxes
+</gallery>
+
+[[Category:Weapons]]
+[[Category:Axes]]
+[[Category:Tools]]
+
+{{ToolsNav}}
+{{WeaponsNav}}
+[[ru:Топоры]]

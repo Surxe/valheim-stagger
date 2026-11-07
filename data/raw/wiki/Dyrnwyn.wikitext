@@ -1,0 +1,117 @@
+{{infobox weapon
+| title          = Dyrnwyn
+| image          = Dyrnwyn.png
+| description    = The sword that was broken is whole once more. Its flames burn hot, fuelled by the memories of ancient warriors.
+| id             = SwordDyrnwyn
+| type           = Sword
+| source         = Black forge
+| weight         = 0.8
+| durability     = 300
+| crafting level = 4
+| repair level   = 
+| light source   = Orange
+| slash          = 145
+| fire           = 10
+| knockback      = 40
+| stamina        = 16
+| parry force    = 20
+| parry bonus    = 2
+| block armor    = 57
+| block force    = 20
+| materials 1    = 
+* Dyrnwyn hilt fragment x1
+* Dyrnwyn blade fragment x1
+* Dyrnwyn tip fragment x1
+* [[Flametal]] x20
+* [[Bloodstone]] x1
+| materials 2    = 
+* [[Flametal]] x10
+* [[Bloodstone]] x1
+| materials 3    = 
+* [[Flametal]] x20
+* [[Bloodstone]] x2
+| materials 4    = 
+* [[Flametal]] x40
+* [[Bloodstone]] x4
+| idol           = * [[Flametal Battle Idol]]
+| slash per level = 6
+| stamina secondary = 28
+}}
+
+The '''Dyrnwyn''' is the seventh [[Swords|sword]]. 
+
+* The primary attack is a 3-hit combo with double damage on the last hit. No damage penalty against multiple targets.
+* Its secondary attack deals 3x damage with a slightly longer reach.
+
+== Dyrnwyn fragments ==
+The recipe to craft the Dyrnwyn requires three unique fragments. Each fragment can be found on each of the three [[Mysterious Location]]s.
+<gallery>
+Dyrnwyn hilt fragment.png|Dyrnwyn hilt fragment
+Dyrnwyn blade fragment.png|Dyrnwyn blade fragment
+Dyrnwyn tip fragment.png|Dyrnwyn tip fragment
+</gallery>
+Each fragment weighs 0.5 and does not stack. These fragments are not renewable, thus only one Dyrnwyn can be crafted. If the player has increased the setting from drop rate of items, more fragments will drop, enabling more sword to be crafted.
+
+==Upgrade information==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|145
+|151
+|157
+|163
+|
+|-
+!Fire
+|10
+|10
+|10
+|10
+|
+|-
+!Durability
+|300
+|350
+|400
+|450
+|
+|-
+!Crafting
+|1 Dyrnwyn hilt fragment<br />1 Dyrnwyn blade fragment<br />1 Dyrnwyn tip fragment<br />20 [[Flametal]]<br />1 [[Bloodstone]]
+|10 [[Flametal]]<br />1 [[Bloodstone]]
+|20 [[Flametal]]<br />2 [[Bloodstone]]
+|40 [[Flametal]]<br />4 [[Bloodstone]]
+|1 Dyrnwyn hilt fragment<br />1 Dyrnwyn blade fragment<br />1 Dyrnwyn tip fragment<br />90 [[Flametal]]<br />8 [[Bloodstone]]
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Dyrnwyn can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+== Tips ==
+*Weapons that do [[Spirit|spirit damage]] such as the [[Mistwalker]] or [[Silver Sword]] may be more effective at dealing with some [[Ashlands]] enemies such as the [[Charred Warrior]] due to the damage bonus against undead enemies.
+
+== External link ==
+*[https://www.youtube.com/watch?v=Ba9VJrzV4Ww Lord Reto Guide - How To Get The New Flaming Sword Dywnwyn]
+
+== Trivia ==
+* The Dyrnwyn, meaning "white-hilt" was a powerful sword that was part of the [[wikipedia:Thirteen_Treasures_of_the_Island_of_Britain|Thirteen Treasures of the Island of Britain]], a series of items from late medieval (15th-16th century) Welsh tradition. It was said to have been owned by [[wikipedia:Rhydderch_Hael|Rhydderch Hael]], one of the Three Generous Men of Britain mentioned in the [[wikipedia:Welsh_Triads|Welsh Triads]]. When drawn by a worthy or well-born man, the entire blade would blaze with fire. Rhydderch was never reluctant to hand the weapon to anyone, hence his nickname Hael, meaning "the Generous", but the recipients, as soon as they had learned of its peculiar properties, always rejected the sword.
+* While being an [[Ashlands]]-tier weapon, it existed and was obtainable before the Ashlands update using console commands. Its previous ID was <code>SwordIronFire</code>, it dealt 55 slash and 30 fire damage, had 200 durability and used 14 stamina.
+** Despite it being uncraftable before the Ashlands update, it used to have a recipe as well as upgrades up to quality 4 defined internally. Each upgrade added 5 slash and 6 fire damage, and 50 points of durability.
+*** Crafting: 2 Fine wood, 20 Flametal, 20 Surtling core, 3 Leather scraps
+*** Upgrade to level 2: 10 Flametal, 10 Surtling core, 2 Leather scraps
+*** Upgrade to level 3: 20 Flametal, 20 Surtling core, 4 Leather scraps
+*** Upgrade to level 4: 30 Flametal, 30 Surtling core, 6 Leather scraps
+
+== Achievements ==
+{{Achievement|BuildDyrnwyn}}
+
+{{Weapons}}
+
+[[cs:Dyrnwyn]]
+[[ru:Дирнвин]]

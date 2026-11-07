@@ -1,0 +1,139 @@
+{{Navbox
+|template = WeaponsNav
+|title = [[Weapons]]
+|state = {{{state|<includeonly>collapsed</includeonly>}}}
+
+|group1 = [[Axes]]
+|list1 = {{Navbox
+
+    |child
+    |group1 = One-handed
+    |list1 = [[Stone Axe]] • [[Flint Axe]] • [[Bronze Axe]] • [[Iron Axe]] • [[Black Metal Axe]] • [[Jotun Bane]] • [[Nord Axe]] ([[Frostfire Axe|Frostfire]] • [[Thunderblood Axe|Thunderblood]])
+
+    |group2 = Two-handed
+    |list2 = [[Battleaxe]] • [[Crystal Battleaxe]] • [[Black Metal Battleaxe]] • [[Skull Splittur]] • [[Nord Greataxe]] ([[Frostfire Greataxe|Frostfire]] • [[Thunderblood Greataxe|Thunderblood]])
+
+|group3 = Dual wielded
+    |list3 = [[Early Axes]] • [[Berserkir Axes]] ([[Bleeding Berserkir Axes]] • [[Thundering Berserkir Axes]] • [[Primal Berserkir Axes]])
+
+    }}
+
+|group2 = [[Clubs]]
+|list2 = {{Navbox
+
+    |child
+    |group1 = One-handed
+    |list1 = [[Torch]] • [[Club]] • [[Bronze Mace]] • [[Iron Mace]] • [[Frostner]] • [[Porcupine]] • [[Flametal Mace]] ([[Bloodgeon]] • [[Storm Star]] • [[Klossen]]) • [[Nord Mace]] ([[Frostfire Mace|Frostfire]] • [[Thunderblood Mace|Thunderblood]])
+
+    |group2 = Two-handed
+    |list2 = [[Stagbreaker]] • [[Iron Sledge]] • [[Demolisher]] • [[Nord Sledge]] ([[Frostfire Sledge|Frostfire]] • [[Thunderblood Sledge|Thunderblood]])
+
+    }}
+
+|group3 = [[Swords]]
+|list3 = {{Navbox
+
+    |child
+    |group1 = One-handed
+    |list1 = [[Bronze Sword]] •  [[Iron Sword]] •  [[Silver Sword]] • [[Black Metal Sword]] • [[Mistwalker]] • [[Nidhögg]] ([[Nidhögg the Bleeding]] • [[Nidhögg the Thundering]] • [[Nidhögg the Primal]]) • [[Dyrnwyn]] • [[Nord Sword]] ([[Frostfire Sword|Frostfire]] • [[Thunderblood Sword|Thunderblood]])
+
+    |group2 = Two-handed
+    |list2 = [[Krom]] • [[Slayer]] ([[Brutal Slayer]] • [[Scourging Slayer]] • [[Primal Slayer]]) • [[Nord Greatsword]] ([[Frostfire Greatsword|Frostfire]] • [[Thunderblood Greatsword|Thunderblood]])
+
+    }}
+
+|group4 = [[Spears]]
+|list4 = [[Flint Spear]] • [[Bronze Spear]] •  [[Ancient Bark Spear]] •  [[Fang Spear]] • [[Carapace Spear]]  • [[Splitnir]] ([[Splitnir the Bleeding]] • [[Splitnir the Storming]] • [[Splitnir the Primal]]) • [[Nord Spear]] ([[Frostfire Spear|Frostfire]] • [[Thunderblood Spear|Thunderblood]])
+
+|group5 = [[Polearms]]
+|list5 = [[Bronze Atgeir]] •  [[Iron Atgeir]] •  [[Black Metal Atgeir]] • [[Himminafl]] • [[Nord Atgeir]] ([[Frostfire Atgeir|Frostfire]] • [[Thunderblood Atgeir|Thunderblood]])
+
+|group6 = [[Knives]]
+|list6 = {{Navbox
+
+    |child
+    |group1 = One-handed
+    |list1 = [[Flint Knife]] • [[Copper Knife]] •  [[Abyssal Razor]] • [[Silver Knife]] • [[Black Metal Knife]] • [[Nord Dagger]] ([[Frostfire Dagger|Frostfire]] • [[Thunderblood Dagger|Thunderblood]])
+
+    |group2 = Dual wielded
+    |list2 = [[Skoll and Hati]]
+
+    }}
+
+|group7 = [[Fists]]
+|list7 = [[Bare Fists]] • [[Paws of the Bear]] • [[Flesh Rippers]] • [[Vilebone Maulclaws]] • [[Nord Knucklechains]] ([[Frostfire Knucklechains|Frostfire]] • [[Thunderblood Knucklechains|Thunderblood]])
+
+|group8 = [[Bows]]
+|list8 = {{Navbox
+
+    |child
+    |group1 = Bows
+    |list1 = [[Crude Bow]] • [[Finewood Bow]] • [[Huntsman Bow]] • [[Draugr Fang]] • [[Spinesnap]] • [[Ash Fang]] ([[Blood Fang]] • [[Storm Fang]] • [[Root Fang]]) • [[Nord Bow]] ([[Frostfire Bow|Frostfire]] • [[Thunderblood Bow|Thunderblood]])
+
+    |group2 = [[Arrows]]
+    |list2 = [[Wood Arrow]] • [[Fire Arrow]] • [[Flinthead Arrow]] • [[Bronzehead Arrow]] • [[Ironhead Arrow]] • [[Silver Arrow]] • [[Obsidian Arrow]] • [[Poison Arrow]] • [[Frost Arrow]] • [[Needle Arrow]] • [[Carapace Arrow]] • [[Charred Arrow]] • [[Bloodgold Arrow]]
+
+    }}
+
+|group9 = [[Crossbows]]
+|list9 = {{Navbox
+
+    |child
+    |group1 = Crossbows
+    |list1 = [[Arbalest]] • [[Ripper]] ([[Wound Ripper]] • [[Storm Ripper]] • [[Root Ripper]]) • [[Nord Crossbow]] ([[Frostfire Crossbow|Frostfire]] • [[Thunderblood Crossbow|Thunderblood]])
+
+    |group2 = [[Bolts]]
+    |list2 = [[Bone Bolt]] • [[Iron Bolt]] • [[Black Metal Bolt]] • [[Carapace Bolt]] • [[Charred Bolt]] • [[Bloodgold Bolt]]
+
+    }}
+
+|group10 = [[Magic]]
+|list10 = {{Navbox
+
+    |child
+    |group1 = [[Elemental magic]]
+    |list1 = [[Staff of Frost]] • [[Staff of Embers]] • [[Staff of Fracturing]] • [[Dundr]] • [[Staff of the Wild]] • [[Lightning Strike]] • [[Echo Spike]]
+
+    |group2 = [[Blood magic]]
+    |list2 = [[Staff of Protection]] • [[Dead Raiser]] • [[Trollstav]] • [[Northern Vengeance]] • [[Spirit Caller]]
+
+    }}
+
+|group11 =  [[Shields]]
+|list11 = {{Navbox
+
+    |child
+    |group1 = Round
+    |list1 = [[Wood Shield]] • [[Banded Shield]] •  [[Silver Shield]] •  [[Black Metal Shield]] • [[Carapace Shield]] • [[Flametal Shield]] • [[Nord Shield]] • [[Shield of Roots]]
+
+    |group2 = Tower
+    |list2 = [[Wood Tower Shield]] • [[Bone Tower Shield]] • [[Iron Tower Shield]] • [[Serpent Scale Shield]] • [[Black Metal Tower Shield]] • [[Flametal Tower Shield]] • [[Nord Greatshield]]
+
+    |group3 = Buckler
+    |list3 = [[Bronze Buckler]] • [[Iron Buckler]] • [[Carapace Buckler]] • [[Nord Buckler]]
+
+    }}
+
+|group12 = Other
+|list12 = {{Navbox
+
+    |child
+    |group1 = [[Pickaxes]]
+    |list1 = [[Antler Pickaxe]] • [[Bronze Pickaxe]] • [[Iron Pickaxe]] • [[Black Metal Pickaxe]]
+
+    |group2 = Bombs
+    |list2 = [[Blob Bombs]] • [[Ooze Bomb]] • [[Bile Bomb]] • [[Smoke Bomb]] • [[Ember Charge]]
+
+    |group3 = Base defense
+    |list3 = [[Ballista]] ([[Wooden Missile]] • [[Black Metal Missile]] • [[Flametal Missile]] • [[Bloodgold Missile]]) • [[Trap]]
+
+    |group4 = Siege
+    |list4 = [[Battering Ram]] • [[Catapult]] ([[Grausten Payload]] • [[Explosive Payload]] • [[Bloodgold Payload]])
+
+    |group5 = Misc
+    |list5 = [[Butcher Knife]] • [[Abyssal Harpoon]] • [[Wooden Weapons]]
+
+    }}
+
+}}
+<noinclude>[[Category:Navigation templates]]</noinclude>

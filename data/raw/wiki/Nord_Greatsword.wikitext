@@ -1,0 +1,120 @@
+{{InfoboxTabber
+|Weapon|
+{{Infobox weapon
+| title = Nord Greatsword
+| image = Nord Greatsword.png
+| description = A striking weapon, both visually and lethally.
+| type = Sword 2H
+| id = THSwordGold
+| source = [[Frost Foundry]]
+| durability        = 400
+| crafting level    = 4
+| repair level      = 4
+| slash             = 210
+| slash per level = 10
+| knockback         = 
+| materials 1 = 
+* [[Cast Nord Greatsword]] x1
+* [[Liquid Frost]] x5
+| materials 2 = 
+* [[Bloodgold]] x10
+* [[Frozen Branch]] x1
+| materials 3 = 
+* [[Bloodgold]] x20
+* [[Frozen Branch]] x2
+| materials 4 = 
+* [[Bloodgold]] x40
+* [[Frozen Branch]] x4
+| idol              = * [[Bloodgold Battle Idol]]
+| stamina           = 20
+| stamina secondary = 40
+| block armor       = 76
+}}
+|Cast|
+{{Infobox item
+| title = Cast: Nord Greatsword
+| image = Cast Nord Greatsword.png
+| description = This weapon needs to be hardened with frost.
+| id = THSwordGoldUncooked
+| type = Cast
+| source = [[Black Forge]] level 4
+| materials = 
+* [[Bloodgold]] x20
+* [[Mould Nord Greatsword]] x1
+* [[Frozen Branch]] x2
+| weight      = 4.0
+| stack       = 1
+}}
+|Mould|
+{{Infobox item
+| title = Mould: Nord Greatsword
+| image = Mould Nord Greatsword.png
+| description = Filled with the right material, this mould will create a most formidable weapon.
+| id = MoldSword2H
+| type = Mould
+| weight      = 1.0
+| stack       = 10
+| source      = [[Winding Tunnels]]<br>[[Memorial Site]]<br>[[Mörkhalla]]
+| usage       = Crafting
+}}
+}}
+
+'''Nord Greatsword''' is the third, [[Deep North]]-tier two-handed [[Swords|sword]].
+
+* The primary attack is a wide 3-hit attack combo with double damage on the last hit.
+* Its slower secondary attack is a thrust that deals 3x damage.
+
+It cannot be crafted directly, instead the player must craft the corresponding [[Cast Nord Greatsword]] and harden it in a [[Frost Foundry]]. 
+
+== Mould ==
+'''Mould: Nord Greatsword''' can be found:
+* By destroying trash piles in [[Winding Tunnels]].
+* In chests buried at [[Memorial Site]]s.
+* By destroying weapon stands on the last floor of [[Mörkhalla]].
+
+== Upgrade information ==
+Like most Deep North-tier weapons, the Nord Greatsword can be upgraded to one of the following two variants using essences:
+
+* {{Item link|Frostfire Greatsword}} (with a [[Frostfire Essence]])
+* {{Item link|Thunderblood Greatsword}} (with a [[Thunderblood Essence]])
+
+An upgraded Nord Greatsword will '''NOT''' keep its upgrade level when it is modified using essences.
+
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Slash
+|210
+|220
+|230
+|240
+|
+|-
+!Durability
+|400
+|450
+|500
+|550
+|
+|-
+!Crafting
+| [[Bloodgold]] x20<br> [[Mould Nord Greatsword]] x1<br> [[Frozen Branch]] x2<br> [[Liquid Frost]] x5
+| [[Bloodgold]] x10<br> [[Frozen Branch]] x1
+| [[Bloodgold]] x20<br> [[Frozen Branch]] x2
+| [[Bloodgold]] x40<br> [[Frozen Branch]] x4
+| [[Bloodgold]] x90<br> [[Mould Nord Greatsword]] x1<br>[[Frozen Branch]] x9<br>[[Liquid Frost]] x5
+{{Upgrade station row|Black forge|4|start=4|addcol=1}}
+|}
+
+* Nord Greatsword can also be upgraded at the [[Forge of Potential]] with a [[Bloodgold Battle Idol]].
+
+== Notes ==
+* The primary attacks are fairly vertical and wide reaching, with the third attack in the combo being more narrow in the horizontal plane.
+* The secondary attack is a long reaching thrust that is capable of outreaching most enemies.
+
+{{WeaponsNav}}

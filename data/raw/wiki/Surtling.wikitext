@@ -1,0 +1,72 @@
+{{infobox creature
+| title         = Surtling
+| image 0star   = Surtling.png
+| image 1star   = Surtling 1star.png
+| image 2star   = Surtling 2star.png
+| trophy        = Surtling trophy
+| trophy description = Wreathed in pale flame, it still smolders like an ember.
+| trophy id     = TrophySurtling
+| id            = Surtling
+| location      = [[Swamp]]
+| health 0star  = 20
+| damage 0star  = <nowiki>Fireball</nowiki>: 10 Blunt, 40 Fire
+| health 1star  = 40
+| damage 1star  = <nowiki>Fireball</nowiki>: 15 Blunt, 60 Fire
+| health 2star  = 60
+| damage 2star  = <nowiki>Fireball</nowiki>: 20 Blunt, 80 Fire
+| abilities     = Fireball (3s)
+| veryweak      = 
+| weak          = Frost, Water
+| resistant     = 
+| veryresistant = 
+| immune        = Fire, Poison, Spirit
+| neutral       = 
+|stagger=50%|faction=Demon}}
+
+'''Surtlings''' are aggressive [[creatures]] found near [[Fire geysers]] in [[Swamp]]s. They are small flaming imps that are relatively weak, especially in [[Swamp]]s where the constant raining significantly reduces the damage from their ranged fireball attack.
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{spawn table|
+{{spawn row|type=3 [[spawn points]] near [[Fire geysers]]|frequency=Respawn after 5 minutes}}
+{{spawn row|type=During "There's a smell of sulfur in the air..." [[Events|event]] after defeating [[Bonemass]]|limit=4|frequency=6|stars=No}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Surtlings|Aggressive creature strategies#Surtling}}
+Surtlings spawning near [[Fire geysers]] can be farmed through lowering the ground around the spawn area with a pickaxe. As soon as the Surtling spawns in water, it will take damage and quickly die. 
+
+=== Fireball ===
+Winds back before tossing a ball of fire at the player, which applies the [[Burning]] status (10 [[Damage types#Blunt|Blunt]] and 40 [[Damage types#Fire|Fire]] damage). This attack has a 3-second cooldown and can be used within 10 meters of a player. The fireball travels at 11 meters per second for up to 4 seconds before despawning and has a spread of 2–20 degrees.
+
+== Notes ==
+* Surtling is a reference to [[wikipedia:Surtr|Surtr]], also anglicized as 'Surt', a mighty giant fire jötunn in [https://en.wikipedia.org/wiki/Norse_mythology Norse mythology].
+**Interestingly, in earlier versions of the game, among [[Runestone]]s the player may stumble upon in Swamp biome provided the origin of Surtlings as demonic creatures born from splintered fragments of Surtr himself after being struck down and mutilated by First Men.
+* The flames around 1-star Surtlings are blue, with 2-star Surtlings being pink.
+* Projectiles can be parried, staggering the Surtling for some time and allowing you to close the distance for melee attacks, and possibly pushing them into water.
+* While they take damage from water, rain does not affect them.
+* Before the [[Version history|Ashlands update]], Surtlings were very common and the only inhabitants of Ashlands.
+
+== Gallery ==
+<gallery>
+File:Valheim Surtling-1 ver0-79-10.jpg|<center>A normal Surtling</center>
+File:Surtling 1star.png|<center>A 1-star Surtling</center>
+File:Surtling 2star.png|<center>A 2-star Surtling</center>
+</gallery>
+
+== Lore ==
+{{Quote|Let you who read me know of the Surtlings, that you might not fall prey to their wickedness.
+
+Long ago the great demon Surtr was brought down and destroyed by the First Men, giant warriors of whom you are but a dwindling echo. They smote long upon the body of this Surtr with swords and hammers so that his fiery substance was shattered into many small pieces.
+He who was made of the fire was fire in every part of him. You could not say ‘Here is the brain of Surtr’ or ‘Here is Surtr’s liver’ because every part was Surtr. So all the fragments of him were Surtr still, only much weaker in power and in thought and in memory, with no way to become whole once again.
+Now we call these fragments Surtlings and when they are found they should be stamped out like the last embers of a fire or doused with water to choke off their flames at the root. They will throw fire from afar and joy in causing terror and destruction. Even in his scattered dotage, the demon seeks revenge on the children of the First Men.|[[Runestone]]}}
+
+{{Creatures}}
+
+[[ru:Суртлинг]]
+[[uk:Вогневик]]
+[[fr:Surtling]]
+[[cs:Surtling]]
+[[de:Surtling]]

@@ -1,0 +1,107 @@
+'''Knives''' are a [[Weapons|weapon]] class.
+
+Knives have fast attacks with short range and low stamina cost.
+
+Knives deal 6x damage against unalerted enemies, whereas most other weapons do 3x.
+
+{{See also|Knives (Skill)}}
+
+== List of knives ==
+{| class="wikitable sortable"
+!<onlyinclude>Name!! Icon!! Damage
+!Stamina (primary)
+!Stamina (secondary)
+!Notes
+|-
+|[[Flint Knife]]||[[File:Flint knife.png]]
+|Slash: 5/8<br>Pierce: 5/8
+|4
+|12
+|
+|-
+|[[Copper Knife]]||[[File:Copper knife.png]]
+|Slash: 12/15<br>Pierce: 12/15
+|6
+|18
+|
+|-
+|[[Butcher Knife]]||[[File:Butcher knife.png]]
+|Pure: 1000
+|5
+| -
+|Does damage only to tamed animals
+|-
+|[[Abyssal Razor]]||[[File:Abyssal razor.png]]
+|Slash: 20/23<br>Pierce: 20/23
+|8
+|24
+|
+|-
+|[[Silver Knife]]||[[File:Silver knife.png]]
+|Slash: 25/28<br>Pierce: 25/28<br>Spirit: 12
+|10
+|30
+|
+|-
+|[[Black Metal Knife]]||[[File:Black metal knife.png]]
+|Slash: 34/37<br>Pierce: 34/37
+|12
+|36
+|
+|-
+|[[Skoll and Hati]]||[[File:Skoll and Hati.png]]
+|Slash: 45/48<br>Pierce: 45/48
+|14
+|42
+|Dual-wielded
+|-
+|[[Nord Dagger]]||[[File:Nord Dagger.png]]
+|Slash: 75/90<br>Pierce: 75/90
+|14
+|42
+|
+|-</onlyinclude>
+<!-- Skip the upgrades of Nord Dagger to keep it consistent with other Weapon categories for now
+|[[Frostfire Dagger]]||[[File:Frostfire Dagger.png]]
+|Slash: 62/77<br>Pierce: 62/77<br>Frost: 88/97<br>Fire: 10/19
+|14
+|42
+|
+|-
+|[[Thunderblood Dagger]]||[[File:Thunderblood Dagger.png]]
+|Slash: 80/95<br>Pierce: 80/95<br>Lightning: 45
+|14
+|42
+|
+|-
+-->
+|}
+
+== Properties ==
+{| class="wikitable"
+|-
+! Attack type !! Stamina !! Range !! Attack speed
+!Damage 
+![[Stagger|Staggering]]
+!Knockback!! Notes
+|-
+| Knives (primary) || 1x || 1.8m || 1.74s (0.44 + 0.58 + 0.72)
+|1x + 1x + 2x
+|1x
+|10
+| Attacking does not move the player. 60 degree arc.
+|-
+| Knives (secondary) || 3x || 1.8m || 1.52s
+|3x
+|1x
+|4x|| Causes the player to lunge 5m forward. 45 degree arc.
+|}
+==Gallery==
+<gallery>
+Knives Hitbox.jpg | Knives hitboxes
+</gallery>
+
+{{WeaponsNav}}
+
+[[Category:Weapons]]
+[[ru:Ножи]]

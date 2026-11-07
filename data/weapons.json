@@ -1,0 +1,6752 @@
+[
+ {
+  "id": "stone-axe",
+  "name": "Stone Axe",
+  "game_id": "AxeStone",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 15.0
+   },
+   {
+    "slash": 20.0
+   },
+   {
+    "slash": 25.0
+   },
+   {
+    "slash": 30.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Stone_Axe",
+   "revid": 60801,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "flint-axe",
+  "name": "Flint Axe",
+  "game_id": "AxeFlint",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 20.0
+   },
+   {
+    "slash": 25.0
+   },
+   {
+    "slash": 30.0
+   },
+   {
+    "slash": 35.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Flint_Axe",
+   "revid": 60816,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "bronze-axe",
+  "name": "Bronze Axe",
+  "game_id": "AxeBronze",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 40.0
+   },
+   {
+    "slash": 45.0
+   },
+   {
+    "slash": 50.0
+   },
+   {
+    "slash": 55.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Bronze_Axe",
+   "revid": 59733,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "iron-axe",
+  "name": "Iron Axe",
+  "game_id": "AxeIron",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 60.0
+   },
+   {
+    "slash": 65.0
+   },
+   {
+    "slash": 70.0
+   },
+   {
+    "slash": 75.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Iron_Axe",
+   "revid": 59734,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "black-metal-axe",
+  "name": "Black Metal Axe",
+  "game_id": "AxeBlackMetal",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 100.0
+   },
+   {
+    "slash": 105.0
+   },
+   {
+    "slash": 110.0
+   },
+   {
+    "slash": 115.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Black_Metal_Axe",
+   "revid": 59735,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "jotun-bane",
+  "name": "Jotun Bane",
+  "game_id": "AxeJotunBane",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 80.0,
+    "poison": 40.0
+   },
+   {
+    "slash": 85.0,
+    "poison": 40.0
+   },
+   {
+    "slash": 90.0,
+    "poison": 40.0
+   },
+   {
+    "slash": 95.0,
+    "poison": 40.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Jotun_Bane",
+   "revid": 61030,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-axe",
+  "name": "Nord Axe",
+  "game_id": "AxeGold",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 176.0
+   },
+   {
+    "slash": 186.0
+   },
+   {
+    "slash": 196.0
+   },
+   {
+    "slash": 206.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Axe",
+   "revid": 60803,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-axe",
+  "name": "Frostfire Axe",
+  "game_id": "AxeGold_FrostFire",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 144.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "slash": 154.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "slash": 164.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "slash": 174.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Axe",
+   "revid": 60484,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-axe",
+  "name": "Thunderblood Axe",
+  "game_id": "AxeGold_BloodLightning",
+  "class": "Axes",
+  "subgroup": "One-handed",
+  "profile": "axe_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 186.0,
+    "lightning": 45.0
+   },
+   {
+    "slash": 196.0,
+    "lightning": 50.0
+   },
+   {
+    "slash": 206.0,
+    "lightning": 55.0
+   },
+   {
+    "slash": 216.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.82
+     }
+    ]
+   },
+   "secondary": {
+    "label": "overhead chop",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 2.0
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Axe",
+   "revid": 60888,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "battleaxe",
+  "name": "Battleaxe",
+  "game_id": "Battleaxe",
+  "class": "Axes",
+  "subgroup": "Two-handed",
+  "profile": "axe_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 70.0
+   },
+   {
+    "slash": 76.0
+   },
+   {
+    "slash": 82.0
+   },
+   {
+    "slash": 88.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.5,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.58
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.92
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.7
+     }
+    ]
+   },
+   "secondary": {
+    "label": "quick strike",
+    "stagger": 4.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       0.5
+      ],
+      "duration_s": 0.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Battleaxe",
+   "revid": 59740,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "crystal-battleaxe",
+  "name": "Crystal Battleaxe",
+  "game_id": "BattleaxeCrystal",
+  "class": "Axes",
+  "subgroup": "Two-handed",
+  "profile": "axe_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 90.0,
+    "spirit": 30.0
+   },
+   {
+    "slash": 96.0,
+    "spirit": 30.0
+   },
+   {
+    "slash": 102.0,
+    "spirit": 30.0
+   },
+   {
+    "slash": 108.0,
+    "spirit": 30.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.5,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.58
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.92
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.7
+     }
+    ]
+   },
+   "secondary": {
+    "label": "quick strike",
+    "stagger": 4.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       0.5
+      ],
+      "duration_s": 0.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Crystal_Battleaxe",
+   "revid": 59751,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "black-metal-battleaxe",
+  "name": "Black Metal Battleaxe",
+  "game_id": "BattleaxeBlackmetal",
+  "class": "Axes",
+  "subgroup": "Two-handed",
+  "profile": "axe_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 110.0
+   },
+   {
+    "slash": 116.0
+   },
+   {
+    "slash": 122.0
+   },
+   {
+    "slash": 128.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.5,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.58
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.92
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.7
+     }
+    ]
+   },
+   "secondary": {
+    "label": "quick strike",
+    "stagger": 4.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       0.5
+      ],
+      "duration_s": 0.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Black_Metal_Battleaxe",
+   "revid": 59752,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "skull-splittur",
+  "name": "Skull Splittur",
+  "game_id": "BattleaxeSkullSplittur",
+  "class": "Axes",
+  "subgroup": "Two-handed",
+  "profile": "axe_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 130.0
+   },
+   {
+    "slash": 136.0
+   },
+   {
+    "slash": 142.0
+   },
+   {
+    "slash": 148.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.5,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.58
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.92
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.7
+     }
+    ]
+   },
+   "secondary": {
+    "label": "quick strike",
+    "stagger": 4.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       0.5
+      ],
+      "duration_s": 0.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Skull_Splittur",
+   "revid": 59794,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-greataxe",
+  "name": "Nord Greataxe",
+  "game_id": "BattleaxeGold",
+  "class": "Axes",
+  "subgroup": "Two-handed",
+  "profile": "axe_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 188.0
+   },
+   {
+    "slash": 198.0
+   },
+   {
+    "slash": 208.0
+   },
+   {
+    "slash": 218.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.5,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.58
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.92
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.7
+     }
+    ]
+   },
+   "secondary": {
+    "label": "quick strike",
+    "stagger": 4.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       0.5
+      ],
+      "duration_s": 0.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Greataxe",
+   "revid": 60360,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-greataxe",
+  "name": "Frostfire Greataxe",
+  "game_id": "BattleaxeGold_FrostFire",
+  "class": "Axes",
+  "subgroup": "Two-handed",
+  "profile": "axe_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 154.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "slash": 164.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "slash": 174.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "slash": 184.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.5,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.58
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.92
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.7
+     }
+    ]
+   },
+   "secondary": {
+    "label": "quick strike",
+    "stagger": 4.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       0.5
+      ],
+      "duration_s": 0.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Greataxe",
+   "revid": 60488,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-greataxe",
+  "name": "Thunderblood Greataxe",
+  "game_id": "BattleaxeGold_BloodLightning",
+  "class": "Axes",
+  "subgroup": "Two-handed",
+  "profile": "axe_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 198.0,
+    "lightning": 45.0,
+    "frost": 88.0
+   },
+   {
+    "slash": 208.0,
+    "lightning": 50.0,
+    "frost": 91.0
+   },
+   {
+    "slash": 218.0,
+    "lightning": 55.0,
+    "frost": 94.0
+   },
+   {
+    "slash": 228.0,
+    "lightning": 60.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.5,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.58
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.92
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.7
+     }
+    ]
+   },
+   "secondary": {
+    "label": "quick strike",
+    "stagger": 4.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       0.5
+      ],
+      "duration_s": 0.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Greataxe",
+   "revid": 60502,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "early-axes",
+  "name": "Early Axes",
+  "game_id": "AxeEarly",
+  "class": "Axes",
+  "subgroup": "Dual wielded",
+  "profile": "axe_dual",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 30.0
+   },
+   {
+    "slash": 35.0
+   },
+   {
+    "slash": 40.0
+   },
+   {
+    "slash": 45.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "4-step combo (6 hits)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.42
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       1,
+       1
+      ],
+      "duration_s": 1.04
+     },
+     {
+      "damage": [
+       2,
+       2
+      ],
+      "duration_s": 1.46
+     }
+    ]
+   },
+   "secondary": {
+    "label": "leap slash",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.93
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Early_Axes",
+   "revid": 60695,
+   "attack_profile_pages": [
+    "Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "berserkir-axes",
+  "name": "Berserkir Axes",
+  "game_id": "AxeBerzerkr",
+  "class": "Axes",
+  "subgroup": "Dual wielded",
+  "profile": "axe_dual",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 140.0
+   },
+   {
+    "slash": 145.0
+   },
+   {
+    "slash": 150.0
+   },
+   {
+    "slash": 155.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "4-step combo (6 hits)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.42
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       1,
+       1
+      ],
+      "duration_s": 1.04
+     },
+     {
+      "damage": [
+       2,
+       2
+      ],
+      "duration_s": 1.46
+     }
+    ]
+   },
+   "secondary": {
+    "label": "leap slash",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.93
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Berserkir_Axes",
+   "revid": 59974,
+   "attack_profile_pages": [
+    "Axes",
+    "Berserkir Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "bleeding-berserkir-axes",
+  "name": "Bleeding Berserkir Axes",
+  "game_id": "AxeBerzerkrBlood",
+  "class": "Axes",
+  "subgroup": "Dual wielded",
+  "profile": "axe_dual",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 140.0
+   },
+   {
+    "slash": 145.0
+   },
+   {
+    "slash": 150.0
+   },
+   {
+    "slash": 155.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "4-step combo (6 hits)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.42
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       1,
+       1
+      ],
+      "duration_s": 1.04
+     },
+     {
+      "damage": [
+       2,
+       2
+      ],
+      "duration_s": 1.46
+     }
+    ]
+   },
+   "secondary": {
+    "label": "leap slash",
+    "stagger": 1.0,
+    "confidence": "inferred",
+    "swings": [
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.93
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Bleeding_Berserkir_Axes",
+   "revid": 60443,
+   "attack_profile_pages": [
+    "Axes",
+    "Berserkir Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thundering-berserkir-axes",
+  "name": "Thundering Berserkir Axes",
+  "game_id": "AxeBerzerkrLightning",
+  "class": "Axes",
+  "subgroup": "Dual wielded",
+  "profile": "axe_dual",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 140.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 145.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 150.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 155.0,
+    "lightning": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "4-step combo (6 hits)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.42
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       1,
+       1
+      ],
+      "duration_s": 1.04
+     },
+     {
+      "damage": [
+       2,
+       2
+      ],
+      "duration_s": 1.46
+     }
+    ]
+   },
+   "secondary": {
+    "label": "leap slash",
+    "stagger": 1.0,
+    "confidence": "inferred",
+    "swings": [
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.93
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thundering_Berserkir_Axes",
+   "revid": 60444,
+   "attack_profile_pages": [
+    "Axes",
+    "Berserkir Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "primal-berserkir-axes",
+  "name": "Primal Berserkir Axes",
+  "game_id": "AxeBerzerkrNature",
+  "class": "Axes",
+  "subgroup": "Dual wielded",
+  "profile": "axe_dual",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 140.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 145.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 150.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 155.0,
+    "poison": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "4-step combo (6 hits)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.42
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       1,
+       1
+      ],
+      "duration_s": 1.04
+     },
+     {
+      "damage": [
+       2,
+       2
+      ],
+      "duration_s": 1.46
+     }
+    ]
+   },
+   "secondary": {
+    "label": "leap slash",
+    "stagger": 1.0,
+    "confidence": "inferred",
+    "swings": [
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.93
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Primal_Berserkir_Axes",
+   "revid": 60445,
+   "attack_profile_pages": [
+    "Axes",
+    "Berserkir Axes"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "torch",
+  "name": "Torch",
+  "game_id": "Torch",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 1,
+  "damage_by_quality": [
+   {
+    "blunt": 4.0,
+    "fire": 15.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Torch",
+   "revid": 60001,
+   "attack_profile_pages": [
+    "Clubs",
+    "Torch"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "club",
+  "name": "Club",
+  "game_id": "Club",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 12.0
+   },
+   {
+    "blunt": 18.0
+   },
+   {
+    "blunt": 24.0
+   },
+   {
+    "blunt": 30.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Club",
+   "revid": 60002,
+   "attack_profile_pages": [
+    "Club",
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "bronze-mace",
+  "name": "Bronze Mace",
+  "game_id": "MaceBronze",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 35.0
+   },
+   {
+    "blunt": 41.0
+   },
+   {
+    "blunt": 47.0
+   },
+   {
+    "blunt": 53.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Bronze_Mace",
+   "revid": 60004,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "iron-mace",
+  "name": "Iron Mace",
+  "game_id": "MaceIron",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 55.0
+   },
+   {
+    "blunt": 61.0
+   },
+   {
+    "blunt": 67.0
+   },
+   {
+    "blunt": 73.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Iron_Mace",
+   "revid": 60005,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostner",
+  "name": "Frostner",
+  "game_id": "MaceSilver",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 35.0,
+    "frost": 40.0,
+    "spirit": 20.0
+   },
+   {
+    "blunt": 35.0,
+    "frost": 46.0,
+    "spirit": 20.0
+   },
+   {
+    "blunt": 35.0,
+    "frost": 52.0,
+    "spirit": 20.0
+   },
+   {
+    "blunt": 35.0,
+    "frost": 58.0,
+    "spirit": 20.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostner",
+   "revid": 60006,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "porcupine",
+  "name": "Porcupine",
+  "game_id": "MaceNeedle",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 50.0,
+    "pierce": 45.0
+   },
+   {
+    "blunt": 50.0,
+    "pierce": 51.0
+   },
+   {
+    "blunt": 50.0,
+    "pierce": 57.0
+   },
+   {
+    "blunt": 50.0,
+    "pierce": 63.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Porcupine",
+   "revid": 60008,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "flametal-mace",
+  "name": "Flametal Mace",
+  "game_id": "MaceEldner",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 135.0
+   },
+   {
+    "blunt": 141.0
+   },
+   {
+    "blunt": 147.0
+   },
+   {
+    "blunt": 153.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Flametal_Mace",
+   "revid": 60371,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "bloodgeon",
+  "name": "Bloodgeon",
+  "game_id": "MaceEldnerBlood",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 135.0
+   },
+   {
+    "blunt": 141.0
+   },
+   {
+    "blunt": 147.0
+   },
+   {
+    "blunt": 153.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Bloodgeon",
+   "revid": 60449,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "storm-star",
+  "name": "Storm Star",
+  "game_id": "MaceEldnerLightning",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 135.0,
+    "lightning": 10.0
+   },
+   {
+    "blunt": 141.0,
+    "lightning": 10.0
+   },
+   {
+    "blunt": 147.0,
+    "lightning": 10.0
+   },
+   {
+    "blunt": 153.0,
+    "lightning": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Storm_Star",
+   "revid": 60450,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "klossen",
+  "name": "Klossen",
+  "game_id": "MaceEldnerNature",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 135.0,
+    "poison": 10.0
+   },
+   {
+    "blunt": 141.0,
+    "poison": 10.0
+   },
+   {
+    "blunt": 147.0,
+    "poison": 10.0
+   },
+   {
+    "blunt": 153.0,
+    "poison": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Klossen",
+   "revid": 60451,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-mace",
+  "name": "Nord Mace",
+  "game_id": "MaceGold",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 170.0
+   },
+   {
+    "blunt": 180.0
+   },
+   {
+    "blunt": 190.0
+   },
+   {
+    "blunt": 200.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Mace",
+   "revid": 60895,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-mace",
+  "name": "Frostfire Mace",
+  "game_id": "MaceGold_FrostFire",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 144.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "blunt": 154.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "blunt": 164.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "blunt": 174.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Mace",
+   "revid": 60491,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": [
+   "Infobox blunt=142.0 vs upgrade table q1=144.0; using upgrade table."
+  ]
+ },
+ {
+  "id": "thunderblood-mace",
+  "name": "Thunderblood Mace",
+  "game_id": "MaceGold_BloodLightning",
+  "class": "Clubs",
+  "subgroup": "One-handed",
+  "profile": "club_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 180.0,
+    "lightning": 45.0
+   },
+   {
+    "blunt": 190.0,
+    "lightning": 50.0
+   },
+   {
+    "blunt": 200.0,
+    "lightning": 55.0
+   },
+   {
+    "blunt": 210.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.8
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy swing",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       2.5
+      ],
+      "duration_s": 1.72
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Mace",
+   "revid": 60505,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "stagbreaker",
+  "name": "Stagbreaker",
+  "game_id": "SledgeStagbreaker",
+  "class": "Clubs",
+  "subgroup": "Two-handed",
+  "profile": "club_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 20.0,
+    "pierce": 5.0
+   },
+   {
+    "blunt": 26.0,
+    "pierce": 5.0
+   },
+   {
+    "blunt": 32.0,
+    "pierce": 5.0
+   },
+   {
+    "blunt": 38.0,
+    "pierce": 5.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "ground slam (AoE)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.7
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Stagbreaker",
+   "revid": 60021,
+   "attack_profile_pages": [
+    "Clubs",
+    "Stagger"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "iron-sledge",
+  "name": "Iron Sledge",
+  "game_id": "SledgeIron",
+  "class": "Clubs",
+  "subgroup": "Two-handed",
+  "profile": "club_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 55.0
+   },
+   {
+    "blunt": 61.0
+   },
+   {
+    "blunt": 67.0
+   },
+   {
+    "blunt": 73.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "ground slam (AoE)",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.7
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Iron_Sledge",
+   "revid": 60020,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "demolisher",
+  "name": "Demolisher",
+  "game_id": "SledgeDemolisher",
+  "class": "Clubs",
+  "subgroup": "Two-handed",
+  "profile": "club_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 145.0
+   },
+   {
+    "blunt": 151.0
+   },
+   {
+    "blunt": 157.0
+   },
+   {
+    "blunt": 163.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "ground slam (AoE)",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.7
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Demolisher",
+   "revid": 60022,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-sledge",
+  "name": "Nord Sledge",
+  "game_id": "SledgeGold",
+  "class": "Clubs",
+  "subgroup": "Two-handed",
+  "profile": "club_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 225.0
+   },
+   {
+    "blunt": 235.0
+   },
+   {
+    "blunt": 245.0
+   },
+   {
+    "blunt": 255.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "ground slam (AoE)",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.7
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Sledge",
+   "revid": 60372,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-sledge",
+  "name": "Frostfire Sledge",
+  "game_id": "SledgeGold_FrostFire",
+  "class": "Clubs",
+  "subgroup": "Two-handed",
+  "profile": "club_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 200.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "blunt": 210.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "blunt": 220.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "blunt": 230.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "ground slam (AoE)",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.7
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Sledge",
+   "revid": 60492,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-sledge",
+  "name": "Thunderblood Sledge",
+  "game_id": "SledgeGold_BloodLightning",
+  "class": "Clubs",
+  "subgroup": "Two-handed",
+  "profile": "club_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 235.0,
+    "lightning": 45.0
+   },
+   {
+    "blunt": 245.0,
+    "lightning": 50.0
+   },
+   {
+    "blunt": 255.0,
+    "lightning": 55.0
+   },
+   {
+    "blunt": 265.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "ground slam (AoE)",
+    "stagger": 2.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.7
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Sledge",
+   "revid": 60506,
+   "attack_profile_pages": [
+    "Clubs"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "bronze-sword",
+  "name": "Bronze Sword",
+  "game_id": "SwordBronze",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 35.0
+   },
+   {
+    "slash": 41.0
+   },
+   {
+    "slash": 47.0
+   },
+   {
+    "slash": 53.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Bronze_Sword",
+   "revid": 60337,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "iron-sword",
+  "name": "Iron Sword",
+  "game_id": "SwordIron",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 55.0
+   },
+   {
+    "slash": 61.0
+   },
+   {
+    "slash": 67.0
+   },
+   {
+    "slash": 73.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Iron_Sword",
+   "revid": 59709,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "silver-sword",
+  "name": "Silver Sword",
+  "game_id": "SwordSilver",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 75.0,
+    "spirit": 30.0
+   },
+   {
+    "slash": 81.0,
+    "spirit": 35.0
+   },
+   {
+    "slash": 87.0,
+    "spirit": 40.0
+   },
+   {
+    "slash": 93.0,
+    "spirit": 45.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Silver_Sword",
+   "revid": 59710,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "black-metal-sword",
+  "name": "Black Metal Sword",
+  "game_id": "SwordBlackmetal",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 95.0
+   },
+   {
+    "slash": 101.0
+   },
+   {
+    "slash": 107.0
+   },
+   {
+    "slash": 113.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Black_Metal_Sword",
+   "revid": 59711,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "mistwalker",
+  "name": "Mistwalker",
+  "game_id": "SwordMistwalker",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 5,
+  "damage_by_quality": [
+   {
+    "slash": 75.0,
+    "frost": 40.0
+   },
+   {
+    "slash": 75.0,
+    "frost": 46.0,
+    "spirit": 5.0
+   },
+   {
+    "slash": 75.0,
+    "frost": 52.0,
+    "spirit": 10.0
+   },
+   {
+    "slash": 75.0,
+    "frost": 58.0,
+    "spirit": 15.0
+   },
+   {
+    "slash": 75.0,
+    "frost": 64.0,
+    "spirit": 20.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Mistwalker",
+   "revid": 59793,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nidhogg",
+  "name": "Nidhögg",
+  "game_id": "SwordNiedhogg",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 135.0
+   },
+   {
+    "slash": 141.0
+   },
+   {
+    "slash": 147.0
+   },
+   {
+    "slash": 153.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nidh%C3%B6gg",
+   "revid": 60917,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nidhogg-the-bleeding",
+  "name": "Nidhögg the Bleeding",
+  "game_id": "SwordNiedhoggBlood",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 135.0
+   },
+   {
+    "slash": 141.0
+   },
+   {
+    "slash": 147.0
+   },
+   {
+    "slash": 153.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nidh%C3%B6gg_the_Bleeding",
+   "revid": 60446,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nidhogg-the-thundering",
+  "name": "Nidhögg the Thundering",
+  "game_id": "SwordNiedhoggLightning",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 135.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 141.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 147.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 153.0,
+    "lightning": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nidh%C3%B6gg_the_Thundering",
+   "revid": 60447,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nidhogg-the-primal",
+  "name": "Nidhögg the Primal",
+  "game_id": "SwordNiedhoggNature",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 135.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 141.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 147.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 153.0,
+    "poison": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nidh%C3%B6gg_the_Primal",
+   "revid": 60448,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "dyrnwyn",
+  "name": "Dyrnwyn",
+  "game_id": "SwordDyrnwyn",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 145.0,
+    "fire": 10.0
+   },
+   {
+    "slash": 151.0,
+    "fire": 10.0
+   },
+   {
+    "slash": 157.0,
+    "fire": 10.0
+   },
+   {
+    "slash": 163.0,
+    "fire": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Dyrnwyn",
+   "revid": 59909,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-sword",
+  "name": "Nord Sword",
+  "game_id": "SwordGold",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 170.0
+   },
+   {
+    "slash": 180.0
+   },
+   {
+    "slash": 190.0
+   },
+   {
+    "slash": 200.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Sword",
+   "revid": 60385,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-sword",
+  "name": "Frostfire Sword",
+  "game_id": "SwordGold_FrostFire",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 138.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "slash": 148.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "slash": 158.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "slash": 168.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Sword",
+   "revid": 60494,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-sword",
+  "name": "Thunderblood Sword",
+  "game_id": "SwordGold_BloodLightning",
+  "class": "Swords",
+  "subgroup": "One-handed",
+  "profile": "sword_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 180.0,
+    "lightning": 45.0
+   },
+   {
+    "slash": 190.0,
+    "lightning": 50.0
+   },
+   {
+    "slash": 200.0,
+    "lightning": 55.0
+   },
+   {
+    "slash": 210.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.7
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.9
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.84
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Sword",
+   "revid": 60508,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "krom",
+  "name": "Krom",
+  "game_id": "THSwordKrom",
+  "class": "Swords",
+  "subgroup": "Two-handed",
+  "profile": "sword_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 150.0
+   },
+   {
+    "slash": 156.0
+   },
+   {
+    "slash": 162.0
+   },
+   {
+    "slash": 168.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.82
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.66
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy strike",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 2.16
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Krom",
+   "revid": 60594,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "slayer",
+  "name": "Slayer",
+  "game_id": "THSwordSlayer",
+  "class": "Swords",
+  "subgroup": "Two-handed",
+  "profile": "sword_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 170.0
+   },
+   {
+    "slash": 176.0
+   },
+   {
+    "slash": 182.0
+   },
+   {
+    "slash": 188.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.82
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.66
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy strike",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 2.16
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Slayer",
+   "revid": 60364,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "brutal-slayer",
+  "name": "Brutal Slayer",
+  "game_id": "THSwordSlayerBlood",
+  "class": "Swords",
+  "subgroup": "Two-handed",
+  "profile": "sword_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 170.0
+   },
+   {
+    "slash": 176.0
+   },
+   {
+    "slash": 182.0
+   },
+   {
+    "slash": 188.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.82
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.66
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy strike",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 2.16
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Brutal_Slayer",
+   "revid": 60452,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "scourging-slayer",
+  "name": "Scourging Slayer",
+  "game_id": "THSwordSlayerLightning",
+  "class": "Swords",
+  "subgroup": "Two-handed",
+  "profile": "sword_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 170.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 176.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 182.0,
+    "lightning": 10.0
+   },
+   {
+    "slash": 188.0,
+    "lightning": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.82
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.66
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy strike",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 2.16
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Scourging_Slayer",
+   "revid": 60453,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "primal-slayer",
+  "name": "Primal Slayer",
+  "game_id": "THSwordSlayerNature",
+  "class": "Swords",
+  "subgroup": "Two-handed",
+  "profile": "sword_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 170.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 176.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 182.0,
+    "poison": 10.0
+   },
+   {
+    "slash": 188.0,
+    "poison": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.82
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.66
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy strike",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 2.16
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Primal_Slayer",
+   "revid": 60454,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-greatsword",
+  "name": "Nord Greatsword",
+  "game_id": "THSwordGold",
+  "class": "Swords",
+  "subgroup": "Two-handed",
+  "profile": "sword_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 210.0
+   },
+   {
+    "slash": 220.0
+   },
+   {
+    "slash": 230.0
+   },
+   {
+    "slash": 240.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.82
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.66
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy strike",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 2.16
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Greatsword",
+   "revid": 60365,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-greatsword",
+  "name": "Frostfire Greatsword",
+  "game_id": "THSwordGold_FrostFire",
+  "class": "Swords",
+  "subgroup": "Two-handed",
+  "profile": "sword_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 186.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "slash": 196.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "slash": 206.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "slash": 216.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.82
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.66
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy strike",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 2.16
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Greatsword",
+   "revid": 60489,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-greatsword",
+  "name": "Thunderblood Greatsword",
+  "game_id": "THSwordGold_BloodLightning",
+  "class": "Swords",
+  "subgroup": "Two-handed",
+  "profile": "sword_2h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 220.0,
+    "lightning": 45.0
+   },
+   {
+    "slash": 230.0,
+    "lightning": 50.0
+   },
+   {
+    "slash": 240.0,
+    "lightning": 55.0
+   },
+   {
+    "slash": 250.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.96
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.82
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.66
+     }
+    ]
+   },
+   "secondary": {
+    "label": "heavy strike",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 2.16
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Greatsword",
+   "revid": 60503,
+   "attack_profile_pages": [
+    "Swords"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "flint-spear",
+  "name": "Flint Spear",
+  "game_id": "SpearFlint",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 20.0
+   },
+   {
+    "pierce": 26.0
+   },
+   {
+    "pierce": 32.0
+   },
+   {
+    "pierce": 38.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Flint_Spear",
+   "revid": 60038,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "bronze-spear",
+  "name": "Bronze Spear",
+  "game_id": "SpearBronze",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 35.0
+   },
+   {
+    "pierce": 41.0
+   },
+   {
+    "pierce": 47.0
+   },
+   {
+    "pierce": 53.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Bronze_Spear",
+   "revid": 60039,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "ancient-bark-spear",
+  "name": "Ancient Bark Spear",
+  "game_id": "SpearElderbark",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 55.0
+   },
+   {
+    "pierce": 61.0
+   },
+   {
+    "pierce": 67.0
+   },
+   {
+    "pierce": 73.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Ancient_Bark_Spear",
+   "revid": 60040,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "fang-spear",
+  "name": "Fang Spear",
+  "game_id": "SpearWolfFang",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 75.0
+   },
+   {
+    "pierce": 81.0
+   },
+   {
+    "pierce": 87.0
+   },
+   {
+    "pierce": 93.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Fang_Spear",
+   "revid": 60041,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "carapace-spear",
+  "name": "Carapace Spear",
+  "game_id": "SpearCarapace",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 115.0
+   },
+   {
+    "pierce": 121.0
+   },
+   {
+    "pierce": 127.0
+   },
+   {
+    "pierce": 133.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Carapace_Spear",
+   "revid": 60042,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "splitnir",
+  "name": "Splitnir",
+  "game_id": "SpearSplitner",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 135.0
+   },
+   {
+    "pierce": 141.0
+   },
+   {
+    "pierce": 147.0
+   },
+   {
+    "pierce": 153.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Splitnir",
+   "revid": 60044,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "splitnir-the-bleeding",
+  "name": "Splitnir the Bleeding",
+  "game_id": "SpearSplitner_Blood",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 135.0
+   },
+   {
+    "pierce": 141.0
+   },
+   {
+    "pierce": 147.0
+   },
+   {
+    "pierce": 153.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Splitnir_the_Bleeding",
+   "revid": 60053,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "splitnir-the-storming",
+  "name": "Splitnir the Storming",
+  "game_id": "SpearSplitner_Lightning",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 135.0,
+    "lightning": 10.0
+   },
+   {
+    "pierce": 141.0,
+    "lightning": 10.0
+   },
+   {
+    "pierce": 147.0,
+    "lightning": 10.0
+   },
+   {
+    "pierce": 153.0,
+    "lightning": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Splitnir_the_Storming",
+   "revid": 60054,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": [
+   "Infobox lightning=None vs upgrade table q1=10.0; using upgrade table."
+  ]
+ },
+ {
+  "id": "splitnir-the-primal",
+  "name": "Splitnir the Primal",
+  "game_id": "SpearSplitner_Nature",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 135.0,
+    "poison": 10.0
+   },
+   {
+    "pierce": 141.0,
+    "poison": 10.0
+   },
+   {
+    "pierce": 147.0,
+    "poison": 10.0
+   },
+   {
+    "pierce": 153.0,
+    "poison": 10.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Splitnir_the_Primal",
+   "revid": 60055,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-spear",
+  "name": "Nord Spear",
+  "game_id": "SpearGold",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 170.0
+   },
+   {
+    "pierce": 180.0
+   },
+   {
+    "pierce": 190.0
+   },
+   {
+    "pierce": 200.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Spear",
+   "revid": 60377,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-spear",
+  "name": "Frostfire Spear",
+  "game_id": "SpearGold_FrostFire",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 148.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "pierce": 158.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "pierce": 168.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "pierce": 178.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Spear",
+   "revid": 60493,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-spear",
+  "name": "Thunderblood Spear",
+  "game_id": "SpearGold_BloodLightning",
+  "class": "Spears",
+  "subgroup": null,
+  "profile": "spear",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 180.0,
+    "lightning": 45.0
+   },
+   {
+    "pierce": 190.0,
+    "lightning": 50.0
+   },
+   {
+    "pierce": 200.0,
+    "lightning": 55.0
+   },
+   {
+    "pierce": 210.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "stab",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.68
+     }
+    ]
+   },
+   "secondary": {
+    "label": "throw (incl. pickup)",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1.5
+      ],
+      "duration_s": 1.04
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Spear",
+   "revid": 60507,
+   "attack_profile_pages": [
+    "Spears"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "bronze-atgeir",
+  "name": "Bronze Atgeir",
+  "game_id": "AtgeirBronze",
+  "class": "Polearms",
+  "subgroup": null,
+  "profile": "polearm",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 45.0
+   },
+   {
+    "pierce": 51.0
+   },
+   {
+    "pierce": 57.0
+   },
+   {
+    "pierce": 63.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.84
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.28
+     }
+    ]
+   },
+   "secondary": {
+    "label": "360 spin (AoE)",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.56
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Bronze_Atgeir",
+   "revid": 60063,
+   "attack_profile_pages": [
+    "Polearms"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "iron-atgeir",
+  "name": "Iron Atgeir",
+  "game_id": "AtgeirIron",
+  "class": "Polearms",
+  "subgroup": null,
+  "profile": "polearm",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 65.0
+   },
+   {
+    "pierce": 71.0
+   },
+   {
+    "pierce": 77.0
+   },
+   {
+    "pierce": 83.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.84
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.28
+     }
+    ]
+   },
+   "secondary": {
+    "label": "360 spin (AoE)",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.56
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Iron_Atgeir",
+   "revid": 60064,
+   "attack_profile_pages": [
+    "Polearms"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "black-metal-atgeir",
+  "name": "Black Metal Atgeir",
+  "game_id": "AtgeirBlackmetal",
+  "class": "Polearms",
+  "subgroup": null,
+  "profile": "polearm",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 105.0
+   },
+   {
+    "pierce": 111.0
+   },
+   {
+    "pierce": 117.0
+   },
+   {
+    "pierce": 123.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.84
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.28
+     }
+    ]
+   },
+   "secondary": {
+    "label": "360 spin (AoE)",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.56
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Black_Metal_Atgeir",
+   "revid": 60065,
+   "attack_profile_pages": [
+    "Polearms"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "himminafl",
+  "name": "Himminafl",
+  "game_id": "AtgeirHimminAfl",
+  "class": "Polearms",
+  "subgroup": null,
+  "profile": "polearm",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 85.0,
+    "lightning": 40.0
+   },
+   {
+    "pierce": 85.0,
+    "lightning": 46.0
+   },
+   {
+    "pierce": 85.0,
+    "lightning": 52.0
+   },
+   {
+    "pierce": 85.0,
+    "lightning": 58.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.84
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.28
+     }
+    ]
+   },
+   "secondary": {
+    "label": "360 spin (AoE)",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.56
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Himminafl",
+   "revid": 60062,
+   "attack_profile_pages": [
+    "Polearms"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-atgeir",
+  "name": "Nord Atgeir",
+  "game_id": "AtgeirGold",
+  "class": "Polearms",
+  "subgroup": null,
+  "profile": "polearm",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 182.0
+   },
+   {
+    "pierce": 192.0
+   },
+   {
+    "pierce": 202.0
+   },
+   {
+    "pierce": 212.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.84
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.28
+     }
+    ]
+   },
+   "secondary": {
+    "label": "360 spin (AoE)",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.56
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Atgeir",
+   "revid": 60066,
+   "attack_profile_pages": [
+    "Polearms"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-atgeir",
+  "name": "Frostfire Atgeir",
+  "game_id": "AtgeirGold_FrostFire",
+  "class": "Polearms",
+  "subgroup": null,
+  "profile": "polearm",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 148.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "pierce": 158.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "pierce": 168.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "pierce": 178.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.84
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.28
+     }
+    ]
+   },
+   "secondary": {
+    "label": "360 spin (AoE)",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.56
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Atgeir",
+   "revid": 60483,
+   "attack_profile_pages": [
+    "Polearms"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-atgeir",
+  "name": "Thunderblood Atgeir",
+  "game_id": "AtgeirGold_BloodLightning",
+  "class": "Polearms",
+  "subgroup": null,
+  "profile": "polearm",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 192.0,
+    "lightning": 45.0
+   },
+   {
+    "pierce": 202.0,
+    "lightning": 50.0
+   },
+   {
+    "pierce": 212.0,
+    "lightning": 55.0
+   },
+   {
+    "pierce": 222.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.84
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.86
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 1.28
+     }
+    ]
+   },
+   "secondary": {
+    "label": "360 spin (AoE)",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.56
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Atgeir",
+   "revid": 60497,
+   "attack_profile_pages": [
+    "Polearms"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "flint-knife",
+  "name": "Flint Knife",
+  "game_id": "KnifeFlint",
+  "class": "Knives",
+  "subgroup": "One-handed",
+  "profile": "knife_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 5.0,
+    "slash": 5.0
+   },
+   {
+    "pierce": 6.0,
+    "slash": 6.0
+   },
+   {
+    "pierce": 7.0,
+    "slash": 7.0
+   },
+   {
+    "pierce": 8.0,
+    "slash": 8.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Flint_Knife",
+   "revid": 59599,
+   "attack_profile_pages": [
+    "Knives"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "copper-knife",
+  "name": "Copper Knife",
+  "game_id": "KnifeCopper",
+  "class": "Knives",
+  "subgroup": "One-handed",
+  "profile": "knife_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 12.0,
+    "slash": 12.0
+   },
+   {
+    "pierce": 13.0,
+    "slash": 13.0
+   },
+   {
+    "pierce": 14.0,
+    "slash": 14.0
+   },
+   {
+    "pierce": 15.0,
+    "slash": 15.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Copper_Knife",
+   "revid": 59597,
+   "attack_profile_pages": [
+    "Knives"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "abyssal-razor",
+  "name": "Abyssal Razor",
+  "game_id": "KnifeChitin",
+  "class": "Knives",
+  "subgroup": "One-handed",
+  "profile": "knife_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 20.0,
+    "slash": 20.0
+   },
+   {
+    "pierce": 21.0,
+    "slash": 21.0
+   },
+   {
+    "pierce": 22.0,
+    "slash": 22.0
+   },
+   {
+    "pierce": 23.0,
+    "slash": 23.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Abyssal_Razor",
+   "revid": 59600,
+   "attack_profile_pages": [
+    "Knives"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "silver-knife",
+  "name": "Silver Knife",
+  "game_id": "KnifeSilver",
+  "class": "Knives",
+  "subgroup": "One-handed",
+  "profile": "knife_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 25.0,
+    "slash": 25.0,
+    "spirit": 12.0
+   },
+   {
+    "pierce": 26.0,
+    "slash": 26.0,
+    "spirit": 12.0
+   },
+   {
+    "pierce": 27.0,
+    "slash": 27.0,
+    "spirit": 12.0
+   },
+   {
+    "pierce": 28.0,
+    "slash": 28.0,
+    "spirit": 12.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Silver_Knife",
+   "revid": 59601,
+   "attack_profile_pages": [
+    "Knives"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "black-metal-knife",
+  "name": "Black Metal Knife",
+  "game_id": "KnifeBlackMetal",
+  "class": "Knives",
+  "subgroup": "One-handed",
+  "profile": "knife_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "pierce": 34.0,
+    "slash": 34.0
+   },
+   {
+    "pierce": 35.0,
+    "slash": 35.0
+   },
+   {
+    "pierce": 36.0,
+    "slash": 36.0
+   },
+   {
+    "pierce": 37.0,
+    "slash": 37.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Black_Metal_Knife",
+   "revid": 59699,
+   "attack_profile_pages": [
+    "Knives"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-dagger",
+  "name": "Nord Dagger",
+  "game_id": "KnifeGold",
+  "class": "Knives",
+  "subgroup": "One-handed",
+  "profile": "knife_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 75.0,
+    "pierce": 75.0
+   },
+   {
+    "slash": 80.0,
+    "pierce": 80.0
+   },
+   {
+    "slash": 85.0,
+    "pierce": 85.0
+   },
+   {
+    "slash": 90.0,
+    "pierce": 90.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Dagger",
+   "revid": 60359,
+   "attack_profile_pages": [
+    "Knives"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-dagger",
+  "name": "Frostfire Dagger",
+  "game_id": "KnifeGold_FrostFire",
+  "class": "Knives",
+  "subgroup": "One-handed",
+  "profile": "knife_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 62.0,
+    "pierce": 62.0,
+    "fire": 10.0,
+    "frost": 88.0
+   },
+   {
+    "slash": 67.0,
+    "pierce": 67.0,
+    "fire": 13.0,
+    "frost": 91.0
+   },
+   {
+    "slash": 72.0,
+    "pierce": 72.0,
+    "fire": 16.0,
+    "frost": 94.0
+   },
+   {
+    "slash": 77.0,
+    "pierce": 77.0,
+    "fire": 19.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Dagger",
+   "revid": 60487,
+   "attack_profile_pages": [
+    "Knives"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-dagger",
+  "name": "Thunderblood Dagger",
+  "game_id": "KnifeGold_BloodLightning",
+  "class": "Knives",
+  "subgroup": "One-handed",
+  "profile": "knife_1h",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 80.0,
+    "pierce": 80.0,
+    "lightning": 45.0
+   },
+   {
+    "slash": 85.0,
+    "pierce": 85.0,
+    "lightning": 50.0
+   },
+   {
+    "slash": 90.0,
+    "pierce": 90.0,
+    "lightning": 55.0
+   },
+   {
+    "slash": 95.0,
+    "pierce": 95.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-hit combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "lunge",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Dagger",
+   "revid": 60501,
+   "attack_profile_pages": [
+    "Knives"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "skoll-and-hati",
+  "name": "Skoll and Hati",
+  "game_id": "KnifeSkollAndHati",
+  "class": "Knives",
+  "subgroup": "Dual wielded",
+  "profile": "knife_dual",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 45.0,
+    "pierce": 45.0
+   },
+   {
+    "slash": 46.0,
+    "pierce": 46.0
+   },
+   {
+    "slash": 47.0,
+    "pierce": 47.0
+   },
+   {
+    "slash": 48.0,
+    "pierce": 48.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "3-slash combo",
+    "stagger": 1.0,
+    "confidence": "inferred",
+    "_note": "Damage pattern from the Skoll and Hati page; timings copied from one-handed knives (no measurement on the wiki).",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.44
+     },
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.58
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "leaping stab",
+    "stagger": 1.0,
+    "confidence": "inferred",
+    "swings": [
+     {
+      "damage": [
+       3
+      ],
+      "duration_s": 1.52
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Skoll_and_Hati",
+   "revid": 59705,
+   "attack_profile_pages": [
+    "Skoll and Hati"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "bare-fists",
+  "name": "Bare Fists",
+  "game_id": "PlayerUnarmed",
+  "class": "Fists",
+  "subgroup": null,
+  "profile": "fists",
+  "max_quality": 1,
+  "damage_by_quality": [
+   {
+    "blunt": 5.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "2-hit punch combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.76
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "kick",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.48
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Bare_Fists",
+   "revid": 47781,
+   "attack_profile_pages": [
+    "Fists"
+   ]
+  },
+  "warnings": [
+   "No upgrade table; single quality level from infobox."
+  ]
+ },
+ {
+  "id": "paws-of-the-bear",
+  "name": "Paws of the Bear",
+  "game_id": "FistBjornClaw",
+  "class": "Fists",
+  "subgroup": null,
+  "profile": "fists",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 25.0
+   },
+   {
+    "slash": 29.0
+   },
+   {
+    "slash": 33.0
+   },
+   {
+    "slash": 37.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "2-hit punch combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.76
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "kick",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.48
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Paws_of_the_Bear",
+   "revid": 60799,
+   "attack_profile_pages": [
+    "Fists"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "flesh-rippers",
+  "name": "Flesh Rippers",
+  "game_id": "FistFenrirClaw",
+  "class": "Fists",
+  "subgroup": null,
+  "profile": "fists",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 60.0
+   },
+   {
+    "slash": 64.0
+   },
+   {
+    "slash": 68.0
+   },
+   {
+    "slash": 72.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "2-hit punch combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.76
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "kick",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.48
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Flesh_Rippers",
+   "revid": 59613,
+   "attack_profile_pages": [
+    "Fists"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "vilebone-maulclaws",
+  "name": "Vilebone Maulclaws",
+  "game_id": "FistBjornUndeadClaw",
+  "class": "Fists",
+  "subgroup": null,
+  "profile": "fists",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "slash": 20.0,
+    "pierce": 60.0
+   },
+   {
+    "slash": 24.0,
+    "pierce": 60.0
+   },
+   {
+    "slash": 28.0,
+    "pierce": 60.0
+   },
+   {
+    "slash": 32.0,
+    "pierce": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "2-hit punch combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.76
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "kick",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.48
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Vilebone_Maulclaws",
+   "revid": 59706,
+   "attack_profile_pages": [
+    "Fists"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "nord-knucklechains",
+  "name": "Nord Knucklechains",
+  "game_id": "FistGold",
+  "class": "Fists",
+  "subgroup": null,
+  "profile": "fists",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 114.0
+   },
+   {
+    "blunt": 114.0,
+    "slash": 8.0
+   },
+   {
+    "blunt": 114.0,
+    "slash": 16.0
+   },
+   {
+    "blunt": 114.0,
+    "slash": 24.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "2-hit punch combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.76
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "kick",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.48
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Nord_Knucklechains",
+   "revid": 60292,
+   "attack_profile_pages": [
+    "Fists"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "frostfire-knucklechains",
+  "name": "Frostfire Knucklechains",
+  "game_id": "FistGold_FrostFire",
+  "class": "Fists",
+  "subgroup": null,
+  "profile": "fists",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 80.0,
+    "fire": 12.0,
+    "frost": 88.0
+   },
+   {
+    "blunt": 88.0,
+    "fire": 15.0,
+    "frost": 91.0
+   },
+   {
+    "blunt": 96.0,
+    "fire": 18.0,
+    "frost": 94.0
+   },
+   {
+    "blunt": 102.0,
+    "fire": 21.0,
+    "frost": 97.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "2-hit punch combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.76
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "kick",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.48
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Frostfire_Knucklechains",
+   "revid": 60490,
+   "attack_profile_pages": [
+    "Fists"
+   ]
+  },
+  "warnings": []
+ },
+ {
+  "id": "thunderblood-knucklechains",
+  "name": "Thunderblood Knucklechains",
+  "game_id": "FistGold_BloodLightning",
+  "class": "Fists",
+  "subgroup": null,
+  "profile": "fists",
+  "max_quality": 4,
+  "damage_by_quality": [
+   {
+    "blunt": 122.0,
+    "lightning": 45.0
+   },
+   {
+    "blunt": 130.0,
+    "lightning": 50.0
+   },
+   {
+    "blunt": 138.0,
+    "lightning": 55.0
+   },
+   {
+    "blunt": 146.0,
+    "lightning": 60.0
+   }
+  ],
+  "attacks": {
+   "primary": {
+    "label": "2-hit punch combo",
+    "stagger": 1.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 0.76
+     },
+     {
+      "damage": [
+       2
+      ],
+      "duration_s": 0.72
+     }
+    ]
+   },
+   "secondary": {
+    "label": "kick",
+    "stagger": 6.0,
+    "confidence": "wiki",
+    "swings": [
+     {
+      "damage": [
+       1
+      ],
+      "duration_s": 1.48
+     }
+    ]
+   }
+  },
+  "source": {
+   "page": "https://valheim.weirdgloop.org/w/Thunderblood_Knucklechains",
+   "revid": 60504,
+   "attack_profile_pages": [
+    "Fists"
+   ]
+  },
+  "warnings": []
+ }
+]

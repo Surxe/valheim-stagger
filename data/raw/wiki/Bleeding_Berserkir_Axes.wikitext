@@ -1,0 +1,82 @@
+{{infobox weapon
+| image           = Bleeding Berserkir Axes.png
+| description     = The closer you are to death, the harder you are sure to hit.
+| id              = AxeBerzerkrBlood
+| type            = axe dw
+| source          = [[Black Forge]]
+| durability      = 300
+| crafting level  = 4
+| repair level    = 4
+| slash           = 140
+| chop            = 80
+| knockback       = 20
+| backstab        = 3x
+| parry bonus     = 2
+| slash per level = 5
+| chop per level  = 3
+| materials 1 = 
+* [[Berserkir Axes]] x1
+* [[Flametal]] x5
+* [[Bloodstone]] x1
+| materials 2 = 
+* [[Flametal]] x5
+* [[Bloodstone]] x1
+| materials 3 = 
+* [[Flametal]] x10
+* [[Bloodstone]] x2
+| materials 4 = 
+* [[Flametal]] x20
+* [[Bloodstone]] x4
+| idol             = * [[Flametal Battle Idol]]
+| stamina         = 16
+| weight          = 2.0
+| block armor     = 57
+| block force     = 20
+| block force per level = 5
+| wielding        = Dual wielded
+| movement speed  = -5%
+}}
+
+'''Bleeding Berserkir Axes''' are the upgraded form of [[Berserkir Axes]] using the [[Bloodstone]]. Like all upgraded-weapons that use Bloodstone, their damage is increased by 0.2% for every 1 point of [[health]] the player is missing ''(not to be confused with health percentage)''.
+
+* Its primary attack is a 4-step combo: two single hits, one with each axe, followed by two double hits using both axes simultaneously, resulting in a total of 6 hits. The final double hit deals 2x damage with each individual hit.
+* The secondary attack costs 32 stamina and is a leap forward, followed by a slash with both axes for a single hit, dealing 2x the damage.
+
+An upgraded Berserkir Axes will '''NOT''' keep their upgrade level when they are crafted into Bleeding Berserkir Axes.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|140
+|145
+|150
+|155
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|1 [[Berserkir Axes]]<br>5 [[Flametal]]<br>1 [[Bloodstone]]
+|5 [[Flametal]]<br>1 [[Bloodstone]]
+|10 [[Flametal]]<br>2 [[Bloodstone]]
+|20 [[Flametal]]<br>4 [[Bloodstone]]
+{{Upgrade station row|Black forge|4|start=4}}
+|}
+
+* Bleeding Berserkir Axes can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+{{WeaponsNav}}
+
+[[ru:Кровоточащие топоры берсеркира]]
+[[de:Blutende Berserkir-Äxte]]
+[[cs:Krvavé berserkské sekery]]
+[[fr:Haches des berserkir d'hémorragie]]

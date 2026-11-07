@@ -1,0 +1,75 @@
+{{infobox weapon
+| title             = Bloodgeon
+| image             = Bloodgeon.png
+| description       = The blood all but soaks into this mace, and it always yearns for more.
+| id                = MaceEldnerBlood
+| type              = Club 1h
+| source            = [[Black Forge]]
+| durability        = 300
+| crafting level    = 4
+| repair level      = 4
+| blunt             = 135
+| blunt per level   = 6
+| knockback         = 100
+| materials 1 = 
+* [[Flametal Mace]] x1
+* [[Flametal]] x8
+* [[Bloodstone]] x1
+| materials 2 = 
+* [[Flametal]] x8
+* [[Bloodstone]] x1
+| materials 3 = 
+* [[Flametal]] x16
+* [[Bloodstone]] x2
+| materials 4 = 
+* [[Flametal]] x32
+* [[Bloodstone]] x4
+| idol             = * [[Flametal Battle Idol]]
+| stamina           = 16
+| stamina secondary = 28
+| block armor       = 57
+| movement speed    = -5%
+}}
+
+'''Bloodgeon''' is the upgraded form of [[Flametal Mace]] using the [[Bloodstone]]. Like all upgraded-weapons that use Bloodstone, its damage is increased by 0.2% for every 1 point of [[health]] the player is missing ''(not to be confused with health percentage)''.
+
+* Its primary attack is a 3-hit attack combo with double damage on the last hit.
+* The slower secondary attack deals 2.5x damage and 2x staggering.
+
+An upgraded Flametal Mace will '''NOT''' keep its upgrade level when it is crafted into Bloodgeon.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Blunt
+|135
+|141
+|147
+|153
+|-
+!Durability
+|300
+|350
+|400
+|450
+|-
+!Crafting
+|1 [[Flametal Mace]]<br>8 [[Flametal]]<br>1 [[Bloodstone]]
+|8 [[Flametal]]<br>1 [[Bloodstone]]
+|16 [[Flametal]]<br>2 [[Bloodstone]]
+|32 [[Flametal]]<br>4 [[Bloodstone]]
+{{Upgrade station row|Black forge|4|start=4}}
+|}
+
+* Bloodgeon can also be upgraded at the [[Forge of Potential]] with a [[Flametal Battle Idol]].
+
+{{WeaponsNav}}
+
+[[ru:Кровавая булава]]
+[[de:Blutprügel]]
+[[fr:Masse-sang]]

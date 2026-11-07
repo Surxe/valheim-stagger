@@ -1,0 +1,61 @@
+{{Infobox creature
+|image 0star   = Charred Marksman.png
+|image 1star   = Charred Marksman 1star.png
+|image 2star   = Charred Marksman 2star.png
+|trophy        = Marksman trophy
+|trophy description = These legs could hold infinite power.
+|trophy id     = TrophyCharredArcher
+|id            = Charred_Archer
+|faction       = Demon
+|location      = [[Ashlands]]
+|health 0star  = 200
+|damage 0star  =
+* Bow: 90 Pierce
+* Bow volley: 60 Pierce
+|health 1star  = 400
+|damage 1star  =
+* Bow: 135 Pierce
+* Bow volley: 90 Pierce
+|health 2star  = 600
+|damage 2star  =
+* Bow: 180 Pierce
+* Bow volley: 120 Pierce
+|abilities     =
+* Bow (2 seconds)
+* Bow volley (4 seconds)
+|weak          = Spirit
+|resistant     = Pierce
+|veryresistant = Fire
+|immune=Poison
+|stagger=50%}}
+'''Charred Marksman''' are hostile ranged enemies found in the [[Ashlands]].
+
+== Drops ==
+{{CreatureDrops}}
+
+== Spawning ==
+{{Spawn table|{{spawn row|type=[[Spawn zones|Middle]] of the [[Ashlands]] during the daytime|limit=3|frequency=4|stars=Yes}}
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Ashlands]] during the nighttime, despawn at dawn|limit=none|frequency=4|stars=Yes}}
+{{spawn row|type=Randomly from [[Monument of Torment (Elite)]] when a player is nearby|limit=none|frequency=3|stars=Yes (2 stars only)}}
+{{spawn row|type=Randomly from [[Effigy of Malice]] inside [[Charred Fortress]] when a player is nearby|limit=none|frequency=3|stars=Yes}}
+{{spawn row|type=[[Spawn zones|Anywhere]] in the [[Meadows]], [[Black Forest]]s, [[Swamp]], [[Mountains]] or [[Plains]] during the nighttime after defeating [[Fader]], despawn at dawn|limit=3|frequency=1|stars=No}}
+{{spawn row|type=During "The undead army marches." before defeating [[Fader]]|limit=3|frequency=6|stars=No}}}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating Charred Marksman|Aggressive creature strategies#Charred Marksman}}
+
+=== Bow ===
+Nocks an arrow and shoots the player (90 [[Damage types#Pierce|Pierce]] damage). This attack has a 2-second cooldown and can be used within 20 meters of a player. The arrow has an initial velocity of 40 meters per second and can travel for up to 4 seconds before disappearing. It has a spread of 2–20 degrees. This attack has a random spread of up to 2 degrees.
+
+=== Bow volley ===
+Aims 25 degrees upward before drawing back and shooting a volley of ten arrows in the direction of the player (60 [[Damage types#Pierce|Pierce]] damage each). This attack has a 4-second cooldown and can be used when between 20–100 meters of a player. Each arrow has a random initial velocity between 20–40 meters per second and can travel for up to 4 seconds before disappearing. This attack has a random spread of up to 12 degrees for each projectile.
+
+== Lore ==
+{{Quote|But for those who are burned by a drake's fire, the blessing is a curse. They are killed and quickened at the same time, caught forever between death and life. Such are the unfortunate souls who wander this ruined land, with flames for flesh and agony in every moment. They cannot be destroyed, only pitied.|Runestone}}
+[[ru:Обугленный лучник]]
+[[uk:Обвуглений лучник]]
+[[cs:Sežehnutý střelec]]
+[[de:Verkohlter Scharfschütze]]
+[[fr:Archer calciné]]
+
+{{CreaturesNav}}

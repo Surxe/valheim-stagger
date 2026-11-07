@@ -1,0 +1,85 @@
+{{infobox creature
+| title        = Wolf
+| image 0star  = Wolf 0star.png
+| image 1star  = Wolf 1star.png
+| image 2star  = Wolf 2star.png
+| trophy       = Wolf trophy
+| trophy description = Frozen in death, the hair matted with blood and a silent howl lodged in its throat.
+| trophy id    = TrophyWolf
+| id           = Wolf
+| location     = [[Mountain]]
+| tameable     = Yes
+| health 0star = 80
+| damage 0star = Attack: 70 Slash
+| health 1star = 160
+| damage 1star = Attack: 105 Slash
+| health 2star = 240
+| damage 2star = Attack: 140 Slash
+| abilities    =Attack (5s each for 3 variants) 
+| veryweak      = 
+| weak          = 
+| resistant     = 
+| veryresistant = 
+| immune        = Spirit
+| neutral      = 
+|stagger=50%|faction=Mountain}}
+
+'''Wolves''' are aggressive [[creatures]] found in the [[Mountain|Mountains]]. They are large canines with long, bushy tails that can be bred and [[Taming|tamed]].
+
+== Drops ==
+{{CreatureDrops}}
+
+==Spawning==
+{{spawn table|
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mountains]] during the daytime|limit=3|stars=No}}
+{{spawn row|type=[[Spawn zones|Middle]] of the [[Mountains]] during the nighttime, despawn at dawn|limit=6|stars=Yes|frequency=5}}
+{{spawn row|type=From breeding|limit=4, within 10 meters|frequency=-|stars=Inherited from the parent}}
+{{spawn row|type=During "You are being hunted" [[Events|event]] after defeating [[Bonemass]]|limit=6|frequency=6|stars=No}}
+{{spawn row|type=[[Spawn zones]] in [[Mountain#Alternative biomes|Wolf Mountain]]|limit=8|frequency=4|stars=Yes}}
+}}
+
+== Attacks and abilities ==
+{{For|strategies for defeating wolves|Aggressive creature strategies#Wolf}}
+
+=== Attack ===
+This attack has three variations, each with its own 5-second cooldown: a left-swinging bite, a right-swinging bite, and a lunging bite (70 [[Damage types#Slash|Slash]] damage). In practice, this means that Wolves will typically attack three times in a quick succession before retreating for a moment. These attacks extend 2 meters out in a 60.1-degree horizontal arc and can be used within 2 meters of a player.
+
+==Taming==
+''For general taming information and strategies, see [[Taming|Taming.]]''  
+
+Wolves can make for powerful allies, both when following a player and when roaming around the built structures. Nighttime Wolves try to despawn during the day, so the taming of starred Wolves must be started during the night.  
+
+Tamed Wolves will not retaliate against players when they or other Wolves are attacked/killed. A Wolf attacked by a player will be frightened, running around the nearby area for a few seconds before returning to their normal state.  Once the taming has started, they will no longer try to flee and will also eat during the day. Taming a Wolf takes 30 minutes, if given enough food.  
+
+== Breeding ==
+Wolves can breed provided the Wolf is happy and well-fed with [[Boar Meat]], [[Deer Meat]], [[Neck Tail]], [[Raw Fish]], [[Sausages]], [[Lox Meat]] or [[Chicken Meat]], and there is another Wolf within 3 meters, and no more than 4 Wolves within 10 meters. Once these requirements are met, the Wolf will accumulate love points with each other until the pregnancy starts. Pregnancy will last a minimum of 1 minute, after which the birth of the baby Wolf is random chance.
+
+Once born, the baby Wolf will take 50 minutes to mature into an adult.
+
+== Gallery ==
+<gallery captionalign="center" widths="310">
+Wolf1.jpg
+Wolf2.jpg
+1a.png|Comparison of 0, 1 and 2-star Wolves.
+</gallery>
+
+==Notes==
+*A wolf's size is affected by its star ranking. A 2-star Wolf is significantly larger than a 0-star Wolf.
+*Wolves can be transferred by boat by building a dock with a plank directly over the boat's deck. Wolves don't like to use staircases, so make it as flat as possible. Once the Wolf is over the boat, break the planks it is standing on to load the Wolf  onto it. 
+*Wolves will try to fight [[Serpent|Serpents]].
+*Wolves will take collision damage if placed on top of the boat. Collision can occur from fish, rocks, and other unknown entities. The collision can occur at any time regardless of the boat's speed; and when it does, it will instantly kill the Wolf. This also occurs with Boars.
+*When roaming around an area where enemies drop meat, Wolves can not only sustain their numbers but multiply at an alarming rate. This has the advantage of keeping an area highly safe, though overpopulation can become a problem (running into players/carts, attacking structures, stutter on lower end systems, noise).
+*Tamed Wolves that are set to follow a player will remain where they are when the player logs out or portals beyond their detection range, regardless of the duration of the player's absence. Furthermore, tamed Wolves will resume following the player when they portal/log back in, without needing to manually set them to follow again.
+*Like (most/all?) creatures, Wolves have infinite stamina and will happily swim across an ocean if you sail slow enough for them to follow you.
+*Wolves can stand firm on steeper slopes than you can. You can use tame Wolves to your advantage when scaling steep cliffs, as you can lean on them while recovering stamina. However, in other circumstances, their eagerness to approach may nudge you into a tight corner or even off of a precipice.
+*When being raided by Wolves, it is not necessary to be near a structure for a raid to occur, unlike most raids.
+*2 Star Wolves can destroy stone structures
+
+== Lore ==
+{{Quote|There are friends in Valheim but you must seek them amongst your enemies. Old friends, fire-kin, moon-singers. For centuries they have hunted alongside you, now you must remind them of the old covenant between your people and theirs. Flesh is their delight and must be your offering.|[[Runestone]]}}
+
+{{Creatures}}
+[[fr:Loup]]
+[[cs:Vlk]]
+[[ru:Волк]]
+[[de:Wolf]]

@@ -1,0 +1,105 @@
+{{infobox weapon
+| title          = Frostner
+| image          = Frostner.png
+| description    = The dead fear silver. Remind them why.
+| id             = MaceSilver
+| type           = Club 1h
+| source         = [[Forge]]
+| durability     = 200
+| crafting level = 3
+| repair level   = 3
+| blunt          = 35
+| frost          = 40
+| spirit         = 20
+| knockback      = 100
+| materials 1    =
+* [[Ancient Bark]] x10
+* [[Silver]] x30
+* [[Ymir Flesh]] x5
+* [[Freeze Gland]] x5
+| materials 2    = 
+* [[Silver]] x15
+| materials 3    = 
+* [[Silver]] x30
+| materials 4    = 
+* [[Silver]] x60
+| idol           = * [[Silver Battle Idol]]
+| frost per level = 6
+| blunt per level = 0
+| stamina        = 12
+| block armor    = 30
+}}
+
+'''Frostner''' is the fourth one-handed [[Clubs|club]].
+
+* Its primary attack is a 3-hit attack combo with double damage on the last hit.
+* The slower secondary attack deals 2.5x damage and 2x staggering.
+
+Its very high knockback and [[Frost Effect|slow]] makes it a good choice for fighting multiple foes at once. These attributes in combination with different damage types make the Frostner a very effective all round weapon even in later biomes.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+!Total
+|-
+!Blunt
+|35
+|35
+|35
+|35
+|
+|-
+!Frost
+|40
+|46
+|52
+|58
+|
+|-
+!Spirit
+|20
+|20
+|20
+|20
+|
+|-
+!Durability
+|200
+|250
+|300
+|350
+|
+|-
+!Crafting
+|10 [[Ancient Bark]]<br>30 [[Silver]]<br>5 [[Ymir Flesh]]<br>5 [[Freeze Gland]]
+|15 [[Silver]]
+|30 [[Silver]]
+|60 [[Silver]]
+|10 [[Ancient Bark]]<br>135 [[Silver]]<br>5 [[Ymir Flesh]]<br>5 [[Freeze Gland]]
+{{Upgrade station row|Forge|4|start=3|addcol=1}}
+|}
+
+* Frostner can also be upgraded at the [[Forge of Potential]] with a [[Silver Battle Idol]].
+
+== Notes ==
+* The [[Damage types#Frost|Frost]] damage is applied instantly, even though the slow persists over time.
+* The [[Damage types#Spirit|Spirit]] damage is applied over time (and only affects some enemies).
+* The hammer itself also gives off a Frost Aura, which is a purely visual effect.
+* The [[Wet Effect|Wet]] status causes Frost weakness, making the Frostner effective against enemies submerged in water (rain only affects players).
+* Players are less likely to see a foe stagger from damage from Frostner compared to other maces; this is because frost does not contribute to [[Stagger|staggering]], only physical damage does.
+* The knockback can be detrimental when focusing a target down, especially when playing in a group. Using the secondary attack to finish off the target may be preferred over primary attacks. 
+* The combination of knockback and slowing effect provided by frost makes the Frostner optimal for crowd control. 
+
+== Trivia ==
+* Frostner's appearance is loosely based on archeological finds and artistic representations of [https://en.wikipedia.org/wiki/Mj%C3%B6lnir Mjölnir], the one-handed hammer of Thor.
+
+{{Weapons}}
+
+[[Fr:Argivre]]
+[[cs:Frostner]]
+[[ru:Ледомор]]
+[[de:Frostner]]

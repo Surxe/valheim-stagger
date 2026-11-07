@@ -1,0 +1,64 @@
+{{infobox weapon
+| image          = Bronze spear.png
+| description    = A sturdy spear with a head of burnished bronze.
+| id             = SpearBronze
+| type           = Spear
+| source         = [[Forge]]
+| crafting level = 1
+| repair level   = 1
+| pierce         = 35
+|materials 1=* [[Wood]] x5
+* [[Bronze]] x6
+* [[Deer Hide]] x2|materials 2=* [[Wood]] x3
+* [[Bronze]] x4
+* [[Deer Hide]] x1|materials 3=* [[Wood]] x6
+* [[Bronze]] x8
+* [[Deer Hide]] x2|materials 4=* [[Wood]] x12
+* [[Bronze]] x16
+* [[Deer Hide]] x4
+| idol           = * [[Bronze Battle Idol]]
+|stamina=8|block armor=12|stamina secondary=10}}
+
+'''Bronze Spear''' is the second [[Spears|spear]].
+
+* Its primary attack is a thrust. 
+* The secondary attack throws the spear for 1.5x damage.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Pierce
+|35
+|41
+|47
+|53
+|-
+!Durability
+|100
+|150
+|200
+|250
+|-
+!Crafting
+|5 [[Wood]]<br>6 [[Bronze]]<br>2 [[Deer Hide]]
+|3 [[Wood]]<br>4 [[Bronze]]<br>1 [[Deer Hide]]
+|6 [[Wood]]<br>8 [[Bronze]]<br>2 [[Deer Hide]]
+|12 [[Wood]]<br>16 [[Bronze]]<br>4 [[Deer Hide]]
+{{Upgrade station row|Forge|4|start=1}}
+|}
+
+* Bronze Spear can also be upgraded at the [[Forge of Potential]] with a [[Bronze Battle Idol]].
+
+== Notes ==
+* Like all spears, the Bronze Spear floats if dropped or thrown into water.
+
+{{Weapons}}
+
+[[Fr:Lance_en_bronze]]
+[[cs:Bronzové kopí]]
+[[ru:Бронзовое копье]]

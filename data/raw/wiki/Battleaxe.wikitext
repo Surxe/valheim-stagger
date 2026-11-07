@@ -1,0 +1,77 @@
+{{infobox weapon
+| title          = Battleaxe
+| image          = Battleaxe.png
+| description    = Skull-splitter, a warrior's joy.
+| id             = Battleaxe
+| type           = Axe 2h
+| source         = [[Forge]]
+| durability     = 200
+| crafting level = 2
+| repair level   = 2
+| slash          = 70
+| knockback      = 70
+
+|materials 1=* [[Ancient Bark]] x30
+* [[Iron]] x35
+* [[Leather Scraps]] x4
+|materials 2=* [[Ancient Bark]] x5
+* [[Iron]] x15
+|materials 3=* [[Ancient Bark]] x10
+* [[Iron]] x30
+|materials 4=* [[Ancient Bark]] x20
+* [[Iron]] x60
+|idol=* [[Iron Battle Idol]]
+|chop=40|block armor=28|stamina=16
+}} 
+
+'''Battleaxe''' is the first two-handed [[Axes|axe]].
+* Its primary attack is a 3-hit combo (wide swing, wide swing, vertical overhead) with double damage on the last hit, 1.5x [[staggering]] and no multitarget penalty.
+* The faster secondary attack deals 0.5x damage and 4x staggering.
+
+== Upgrade information ==
+{| class="wikitable"
+!Quality
+!1
+!2
+!3
+!4
+|-
+!Slash
+|70
+|76
+|82
+|88
+|-
+!Chop (trees)
+|40
+|42.5
+|45
+|47.5
+|-
+!Durability
+|200
+|250
+|300
+|350
+|-
+!Crafting
+|30 [[Ancient Bark]]<br>35 [[Iron]]<br>4 [[Leather Scraps]]
+|5 [[Ancient Bark]]<br>15 [[Iron]]
+|10 [[Ancient Bark]]<br>30 [[Iron]]
+|20 [[Ancient Bark]]<br>60 [[Iron]]
+{{Upgrade station row|Forge|4|start=2}}
+|}
+
+* Battleaxe can also be upgraded at the [[Forge of Potential]] with an [[Iron Battle Idol]].
+
+== Notes ==
+* The first hit is very slow. The last two hits take about the same time, while in total dealing triple damage.
+* General combo starter is the secondary into the primary.
+
+{{ToolsNav}}
+{{WeaponsNav}}
+
+[[cs:Bojová sekera]]
+[[ru:Боевой топор]]
+[[fr:Hache de combat]]
+[[de:Streitaxt]]

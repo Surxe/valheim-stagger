@@ -1,0 +1,50 @@
+{{infobox creature
+| title        = Hen
+| image 0star  = Hen OS.png
+| id           = Hen
+| location     = 
+| type         = Passive
+| tameable     = Yes
+| health 0star = 10
+| damage 0star = 10 Blunt
+| abilities    = Beak attack (5s)
+| immune       = spirit
+| stagger      = 50%
+| faction      = Animal
+}}
+'''Hen''' are passive creatures that can only appear when an [[Egg]] hatches. They are the grown stage of [[Chicken]]s.
+
+== Description ==
+Hen are tameable birds that can reproduce and will lay eggs under certain conditions, including being fed with any of: {{Item link|Dandelion}}, {{Item link|Beech Seeds}}, {{Item link|Birch Seeds}}, {{Item link|Carrot Seeds}}, {{Item link|Turnip Seeds}}, {{Item link|Onion Seeds}}, or {{Item link|Barley}} (''not'' {{Item link|Barley Flour}}).
+
+== Obtain ==
+Hens are grown up chickens. A chicken will grow up after a certain amount of time (approximately two days) after an egg has hatched. [[Egg]]s can be bought for 1500 [[Coins]] from [[Haldor]] (after [[Yagluth]] has been defeated), or found as loot in [[Sealed Tower|Sealed Towers]].
+
+== Drops ==
+{{CreatureDrops|stars=0}}
+
+== Notes ==
+* As Hens ''are'' tameable animals, they can be damaged by players ''only'' with a [[Butcher Knife]] or after enabling Friendly Fire.
+** Despite this, players can indirectly damage both Hens and Chickens by using an [[Obliterator]]'s lightning strike AoE<ref>Chicken Breeder + Bulk Euthaniser
+
+https://www.youtube.com/watch?v=Tw7MIj3wWL4</ref> or by placing [[pufferfish]] in contact with them.
+* Hens have 3 different colors: white, brown, white and brown. The probability of each color to appear seems to be 33% each.
+* Hens are among the few tameable animals that do not directly reproduce a young version; they lay an [[Egg]] instead, which must be warmed near a heat source in order to hatch into a [[Chicken]].
+== See also ==
+* [[Food]]
+* [[Breeding]]
+
+== Gallery ==
+<gallery captionalign="center">
+Hen1.png|White Hen
+Hen2.png|Brown Hen
+Hen3.png|White and Brown Hen
+Hen OS.png|Speckled Hen
+</gallery>
+<references/>
+
+{{Creatures}}
+
+[[ru:Курица]]
+[[cs:Slepice]]
+[[de:Henne]]
